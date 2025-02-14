@@ -1,0 +1,18 @@
+{
+    "main_content": "Contents\nPolvorín de Miraflores\nThe Polvorín de Miraflores is an 18th-century structure in San Juan, Puerto Rico , specifically in the Isla Grande (Big Island) sector of Santurce , that served as an ammunition storage place for the Spanish military. The site was included in the National Register of Historic Places in 1984 and on the Puerto Rico Register of Historic Sites and Zones in 2000 for its historic importance.  \\n\nHistory\nThe Polvorín was built on orders of Field Marshal Alejandro O\\'Reilly , who visited the island in 1765 to gauge the status of the island defenses on a request of King Charles III . Among O\\'Reilly\\'s recommendations was the construction of five ammunition storage (or polvorín ) to support the other artillery structures on the island. Some accounts state the specific construction date as 1770  and others as 1776.  \\n\nWhen the Spanish-American War ended in 1898, United States took control of the island. From that time until the 1930s, the Polvorín de Miraflores was used as a quarantine station under the administration of the United States Public Health Service . Ship passengers and immigrants were inspected here and, if necessary, were isolated from the population.\\n\nSince the 1940s, the building was repurposed as a chapel for the Isla Grande Naval Base. As a result, some changes were made to the structure, like the replacement of the chimney with a bell tower. The structure was then renamed Santa Bárbara Chapel.\\n\nWhen the Naval Base closed in 1971, the structure was handed to the Institute of Puerto Rican Culture . During this time, it was used as the setting for the San Juan Ballets and the San Juan Children\\'s Choir. Since 1984, it became part of the National Register of Historic Places .\\n\nEventually, the building was taken by the Puerto Rico Department of Transportation and Public Works and the property was used for the storage of vehicles.   With time, the property became abandoned and deteriorated. Recently, the structure was handed to the Convention Center District which prompted the removal of the abandoned vehicles from the property.\\n\nSee also\nReferences\nExternal links",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Polvor\\xc3\\xadn_de_Miraflores&oldid=1240267487",
+        "https://en.wikipedia.org/wiki/polvorín_de_miraflores"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.449514,
+            -66.093904
+        ],
+        "title": "Polvorín De Miraflores",
+        "type": "Point"
+    },
+    "categories": [
+        "Culture"
+    ]
+}

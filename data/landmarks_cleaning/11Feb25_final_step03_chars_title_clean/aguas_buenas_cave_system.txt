@@ -1,0 +1,15 @@
+{
+    "main_content": "Contents\nAguas Buenas Cave System\nThe Aguas Buenas Cave System  is a cave system located in the municipality of Aguas Buenas . The caves and their surrounding forest area are protected by the almost 1,800-acre Aguas Buenas Cave and Caverns System Nature Reserve  since 2002, which also extends to the municipalities of Caguas and Cidra .   The reserve is important for the number of bat species found in the system, some of which are endangered ( Mormoops blanvillei , Monophyllus redmani and Pteronotus portoricensis ).   In addition to being an important bat preserve, the nature reserve protects an important hydrological basin which is the source of a number of rivers and creeks that form part of the Loíza River basin.  \\n\nGeology\nThe cave system is found in one of the oldest karst zones in Puerto Rico.  \\n\nNamed caves\nCueva Oscura (Spanish for \"dark cave\") is home to the two largest cave rooms in the system. This cave is also considered an important bat habitat and is home to the most diverse and abundant bat colonies in the system.  \\n\nCueva Ermita (Spanish for \"hermitage cave\"), also known as Cueva Nivel del Rio (\"river-level cave\"), is the source of the Cagüitas River .  \\n\nCueva Múcara ( Puerto Rican Spanish for \"owl cave\") is a steep cave and its entrance is home to a number of bat colonies. Cueva Geco is interconnected with Cueva Múcara and being mostly vertical, is the steepest cave in the system.  \\n\nCueva Grillo (Spanish for \"cricket cave\") used to be the largest cave in the system but after a partial collapse the cave is now separated from the now called Cueva Murciélago (Spanish for \"bat cave\") which used to be home to a large number of bats until Hurricane Maria in 2017 when the bat population greatly decreased in the cave.  \\n\nRecreation\nThe caves currently have no infrastructure for visitors.  \\n\nSee also\nReferences\n\\n",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Aguas_Buenas_Cave_System&oldid=1141587856",
+        "https://en.wikipedia.org/wiki/aguas_buenas_cave_system"
+    ],
+    "geo_metadata": {
+        "coordinates": "Not Found",
+        "title": "Aguas Buenas Cave System",
+        "type": "Point"
+    },
+    "categories": [
+        "Outdoor"
+    ]
+}

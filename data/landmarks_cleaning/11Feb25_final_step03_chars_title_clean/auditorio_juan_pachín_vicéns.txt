@@ -1,0 +1,20 @@
+{
+    "main_content": "Contents\nAuditorio Juan Pachín Vicéns\n\\n\nThe Auditorio Juan Pachín Vicéns (English: Juan Pachín Vicens Auditorium ), formerly, Coliseo Juan Pachín Vicéns  (English: Juan Pachin Vicens Coliseum ), a.k.a., Coliseo de Ponce ,  is a sports venue in the city of Ponce, Puerto Rico . The auditorium opened on 12 May 1972, under the mayoral administration of Juan H. Cintrón García and is named after basketball player Juan \"Pachín\" Vicéns (1934-2007). Initially known as \"Coliseo de Ponce\" from its inauguration in 1972 until the 1990s,  it was baptized under the name Auditorio Juan Pachín Vicéns , to honor the MVP basketball player.  \\n\nHistory\nThe structure was completed in 1972 and cost $ 2,000,000 ($14.6 million in 2023 dollars  ) USD to build.  The auditorium has been remodeled several times. Its original seating capacity was 7,786 seats. It was remodeled in the mid-90s to add 3,000 additional seats,  and in 2001 the auditorium was again renovated to include an air conditioning system, new scoreboards, new sound system, an acoustics improvement project, and an increase to its seating capacity to near 11,000 spectators. [ citation needed ] It has three seating levels. The auditorium served as one of the sport venues for the 1993 Central American and Caribbean Games . It has the largest hyperbolic-paraboloid roof in the world.  \\n\nUses\nThe auditorium is the official venue of the local basketball team, the Leones de Ponce , and also hosts musical concerts, circuses, conventions, and organization meetings.\\n\nIn addition to serving as an important sports venue, several non-sports historical events have taken place there.  The tumultuous General Assembly of the then-ruling New Progressive Party held there in 1983 led to the creation of a splinter party, the Puerto Rico Renewal Party, by then San Juan mayor Hernán Padilla and the defeat of Governor Carlos Romero Barceló in the 1984 gubernatorial elections.\\n\nThe auditorium was the site of the wake ceremony for Juan \"Pachín\" Vicéns who died on 18 February 2007. The wake ceremony for Ponce mayor Rafael Cordero Santiago who died on 17 January 2004 was also held there as well.\\n\nControversy\nIn April 2011, the 2012 PPD Ponce mayoral candidate Ramón Torres Morales, criticized the  incumbent opposition PNP party mayor María Meléndez for placing a plaque on the bust of Juan Pachín Vicéns that former PPD mayor Churumba had erected at the entrance to the Juan Pachins Vicens auditorium to commemorate the basketball legend. The plaque bore the name of PNP mayor, María Meléndez, instead of the PPD mayor who had erected the commemorative bust, mayor Rafael Cordero Santiago , a.k.a. Churumba.  \\n\nEffects of the 2020 Puerto Rico earthquake\nThe building sustained damage due to the 2020 Puerto Rico earthquake .  It reopened in July 2021 after repairs of $240,000.  \\n\nGallery\nSee also\nReferences",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Auditorio_Juan_Pach\\xc3\\xadn_Vic\\xc3\\xa9ns&oldid=1246265304",
+        "https://es.wikipedia.org/wiki/Auditorio_Juan_Pach%C3%ADn_Vic%C3%A9ns",
+        "https://en.wikipedia.org/wiki/auditorio_juan_pachín_vicéns"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.00167,
+            -66.63333
+        ],
+        "title": "Auditorio Juan Pachín Vicéns",
+        "type": "Point"
+    },
+    "categories": [
+        "Nightlife",
+        "Culture"
+    ]
+}

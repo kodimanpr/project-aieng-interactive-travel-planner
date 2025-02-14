@@ -1,0 +1,16 @@
+{
+    "main_content": "Contents\nCarraízo Dam\nCarraízo Dam is a concrete gravity dam located in the municipality of Trujillo Alto, Puerto Rico within the flow of the Río Grande de Loíza . Its construction was completed in 1953. Carraízo Dam impounds Loíza Lake which serves as Puerto Rico\\'s main water reservoir .\\n\nBackground and construction\nAt the end of the 1940s, the Puerto Rico Aqueducts and Sewers Authority (PRASA) proposed the construction of a dam at the Río Grande de Loíza in the Barrio Carraízo of Trujillo Alto with the intention of providing both water and electricity to the San Juan Metropolitan Area .  \\n\nConstruction of the dam began in 1950 and finished in 1954. As part of the construction, the dam included three hydroelectric turbines with a total capacity of 3 Megawatts for the provision of electricity. However, during the 1960s and 1970s, the turbines were shut down because their operation and maintenance wasn\\'t considered cost-effective versus the cost of buying energy at the time.  \\n\nIn 1989 Hurricane Hugo caused overtopping of the dam, thereby flooding the hydroelectric facility and rendering it inoperable. It stayed closed until 2013, when PRASA elected to renovate the facility.  \\n\nIn 2017 Hurricane Maria caused overtopping and flooding to nearby areas.\\n\nOperation\nCarraízo dam is a concrete gravity dam . It features eight floodgates along its 210-meter body. The floodgates open at a height of 1 to 10 meters, but they are usually opened at 4 meters. The reservoir created by the Carraízo Dam is the Loíza Lake . Carraízo\\'s water storage capacity is of 4,650,000 gallons, and 41.15 meters is its peak level.  \\n\nSee also\nReferences\nExternal links",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Carra\\xc3\\xadzo_Dam&oldid=1100173147",
+        "https://stats.wikimedia.org/#/en.wikipedia.org"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.32778,
+            -66.01583
+        ],
+        "title": "Carraízo Dam",
+        "type": "Point"
+    },
+    "categories": []
+}

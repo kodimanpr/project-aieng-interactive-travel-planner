@@ -1,0 +1,19 @@
+{
+    "main_content": "Contents\nCentral High School (San Juan, Puerto Rico)\nCentral High School , also known as La Central or La Central High , is a school located in Santurce barrio of San Juan, Puerto Rico .\\n\nThe 1925-built building was listed on the U.S. National Register of Historic Places in 1987 and on the Puerto Rico Register of Historic Sites and Zones in 2000.   \\n\nIt is a three-story, U-shaped building with Spanish Renaissance architecture .  \\n\nIts National Register nomination asserts that \"Central High School is, for many reasons, the most important school structure built in Puerto Rico in the first decades of the XXth century.\"  \\n\nIt was built as part of a building program that also yielded the Ponce High School , built in 1915, and the Gautier Benítez High School in Caguas, built in 1924.\\n\nReferences\nExternal links\n\\n\nThis article about a property in Puerto Rico on the National Register of Historic Places is a stub . You can help Wikipedia by expanding it .\nThis Puerto Rican school-related article is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Central_High_School_(San_Juan,_Puerto_Rico)&oldid=1240268072",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://en.wikipedia.org/w/index.php?title=Central_High_School_(San_Juan,_Puerto_Rico)&action=edit"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.44815,
+            -66.06977
+        ],
+        "title": "Central High School (san Juan, Puerto Rico)",
+        "type": "Point"
+    },
+    "categories": [
+        "Culture"
+    ]
+}

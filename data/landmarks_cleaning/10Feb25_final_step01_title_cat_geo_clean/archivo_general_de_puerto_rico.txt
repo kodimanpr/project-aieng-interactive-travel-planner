@@ -1,0 +1,16 @@
+{
+    "main_content": "Contents\nArchivo General de Puerto Rico\nThe Archivo General de Puerto Rico (General Archives of Puerto Rico), established in 1955, is an archive documenting the history and culture of Puerto Rico . The governmental Institute of Puerto Rican Culture began overseeing its operation in 1956. It is located in a building shared with the national library on Avenida Juan Ponce de León in San Juan . Among its collections is the \"Fondo de Obras Publicas\" (records of public works), formerly housed in the University of Puerto Rico \\'s archives.   \\n\nThe objectives of this institution, which is managed by volunteers, and spearheaded by Joseph Harrison Flores,  is to make information accessible quickly and in a democratic way.  \\n\nCollections\nThe Archivo de Música y Sonido (audio department) includes:\\n\nThe Archivo de Imágenes en Movimiento (film department) includes:\\n\nThe Archivo Fotográfico (photo department) includes:\\n\nSee also\nReferences\nBibliography\nExternal links\nThis Puerto Rican culture-related article is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Archivo_General_de_Puerto_Rico&action=edit",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://en.wikipedia.org/w/index.php?title=Archivo_General_de_Puerto_Rico&oldid=1234514082"
+    ],
+    "geo_metadata": {
+        "coordinates": "Not Found",
+        "title": "Archivo General De Puerto Rico",
+        "type": "Point"
+    },
+    "categories": [
+        "Culture"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "main_content": "Contents\nCaguas Museum of Art\nThe Caguas Museum of Art  is an art museum in Caguas Pueblo , the downtown and administrative district of the municipality of Caguas, Puerto Rico . The first level of the museum is dedicated to Caguas native painter Carlos Osorio and the second level offers temporary exhibitions. The entrance is free and guided tours are available.  The museum also host cultural events.\\n\nCasa Amarilla\nThe museum is located in a historic two-story, neoclassical building called Casa Amarilla (Spanish for \\'yellow house) which dates to the early 20th century. It is located on the corner of Padial and Ruiz Belvis streets. This building used to be the residence of the administrator of the American Tobacco Company in 1911.  \\n\nSee also\nReferences\nExternal links\n18°14\\xe2\\x80\\xb208\\xe2\\x80\\xb3N 66°02\\xe2\\x80\\xb211\\xe2\\x80\\xb3W ﻿ / ﻿ 18.23564°N 66.03627°W ﻿ / 18.23564; -66.03627 \\n",
+    "relevant_links": [
+        "https://www.discoverpuertorico.com/profile/museo-de-arte-de-caguas/7787",
+        "https://en.wikipedia.org/w/index.php?title=Caguas_Museum_of_Art&oldid=1233101320",
+        "https://en.wikipedia.org/wiki/caguas_museum_of_art"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.23564,
+            -66.03627
+        ],
+        "title": "Caguas Museum Of Art",
+        "type": "Point"
+    },
+    "categories": [
+        "Culture"
+    ]
+}

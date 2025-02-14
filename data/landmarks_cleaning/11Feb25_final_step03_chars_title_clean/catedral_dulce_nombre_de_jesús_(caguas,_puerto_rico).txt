@@ -1,0 +1,20 @@
+{
+    "main_content": "Contents\nCatedral Dulce Nombre de Jesús (Caguas, Puerto Rico)\nCathedral Dulce Nombre de Jesús , or in English, Sweet Name of Jesus Cathedral , is a cathedral of the Catholic Church in Caguas , Puerto Rico . It is located on the Plaza Palmer in the center of town, and next to the Colegio Católico Notre Dame Elementary. There are only five cathedrals in Puerto Rico and Cathedral Dulce Nombre de Jesús is the seat of the Diocese of Caguas . The patron saint of the church, as well as that of the city, is the Dulce Nombre de Jesús ( Sweet Name of Jesus ).\\n\nHistory\nThe cathedral was constructed where the old ermita ( hermitage or rural chapel ) of San Sebastián del Barrero used to be located.  San Sebastián del Barrero was the first Spanish settlement in the area that now comprises the City of Caguas. It is known that the chapel was built prior to 1645.  Into the 18th century, the chapel was used for holding religious services. When the Municipality of Caguas was established by the Spanish Crown in 1775, the chapel was designated as its parish church and renamed.  \\n\nThe church was expanded at the end of the 19th century and remodeled in the 1920s. In 1930, part of the reconstruction of its current facade was started. This project was finished in the middle of the century.  In 1936, the church was improved and remodeled again to its present form.\\n\nThe church was raised to the status of cathedral when the Roman Catholic Diocese of Caguas was created by Pope Paul VI in 1964.  \\n\nTombs\nThe remains of Don Ximénez (died 1806), parish priest of the town, and of Rafael Grovas Félix (died 1991), the first Bishop of Caguas , are buried there. The remains of Carlos Manuel Rodríguez Santiago are also located in the cathedral. Rodríguez, better known locally as \"el beato Charlie\", spent his life in the surrounding neighborhood and is a candidate for canonization , the only layman from Puerto Rico to be so honored by the Catholic Church, and the first such American to beatified . His tomb reads: \"We live for that night\", referring to Easter , which was one of his favorite sayings.\\n\nGallery\nSee also\nReferences\nExternal links",
+    "relevant_links": [
+        "https://es.wikipedia.org/wiki/Catedral_del_Dulce_Nombre_de_Jes%C3%BAs_(Caguas)",
+        "https://en.wikipedia.org/w/index.php?title=Catedral_Dulce_Nombre_de_Jes\\xc3\\xbas_(Caguas,_Puerto_Rico)&oldid=1216434818",
+        "https://en.wikipedia.org/wiki/catedral_dulce_nombre_de_jesús_(caguas,_puerto_rico)"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.234278,
+            -66.034278
+        ],
+        "title": "Catedral Dulce Nombre De Jesús (caguas, Puerto Rico)",
+        "type": "Point"
+    },
+    "categories": [
+        "Religion",
+        "Culture"
+    ]
+}

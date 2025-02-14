@@ -1,0 +1,25 @@
+{
+    "main_content": "Contents\nDistrito T-Mobile\nDistrito T-Mobile (initially developed as District Live! ) is an entertainment and retail district complex located adjacent to the Puerto Rico Convention Center , part of a redevelopment of the Convention Center area that initially had opened in 2005. Distrito T-Mobile is 476,000 square feet complex of entertainment, dining, and shopping. It has 10 eateries, an 8-screen movie theater featuring IMAX, a 177 room Hotel, 2 Live Music venues, an outdoor performance plaza and an urban park featuring a zip line and a maze.\\n\nHistory\nInitially known as District Live!, Distrito T-Mobile is part of the planned Puerto Rico Convention Center District (master planned by Sasaki Associates ). The main project was the Aloft hotel with 177 rooms, and a music hall which can seat 6,000 visitors, as well as a Caribbean Cinemas movie theater.  The Puerto Rican government selected Starwood , under its Sheraton flag, to operate the reported $209 million facility, known as the Sheraton Puerto Rico Hotel & Casino .  With these two hotels and others in the area, the district now has 1,762 hotel rooms available for visitors.  \\n\nThe District came as part of a plan by the Puerto Rican Government to develop the areas surrounding the Puerto Rico Convention Center and add more tourist attractions that can bring visitors regularly to the area. The original plan was announced in 2016 by then governor Alejandro Garcia Padilla who hailed it as a public-private partnership where the government would give access to the land but the developing of the facilities would fall completely on private hands, while the Puerto Rican Government kept a 30% share on the project. Construction began that very same year with an expected opening date of 2019.    \\n\nIn March 2020, wireless carrier T-Mobile US reached a 10-year naming rights deal, naming the complex Distrito T-Mobile. The agreement includes the provision of phone charging stations, and special benefits for T-Mobile subscribers (such as reserved parking spaces and other offers). It is the company\\'s first naming rights agreement outside of the continental United States .    The district held its grand opening in August 2021.  \\n\nDistrito T-Mobile hosted a New Year\\'s Eve event on December 31, 2021, which was expected to attract at least 10,000 spectators, and feature a concert by Daddy Yankee . The event was covered by ABC \\'s New Year\\'s special Dick Clark\\'s New Year\\'s Rockin\\' Eve , marking the special\\'s first-ever broadcast from the territory.     \\n\nFacilities\nPopular Plaza (whose naming rights are owned by Banco Popular ) serves as one of the main plazas of the district, which features an outdoor stage and multiple restaurants, including the sports bar Arena Medalla , Barullo Taberna Española , La Burgesía , La Central by Mario Pagán , Denko Asian Eatery , Dulcinea Ice Cream & Churros , Lupe Reyes , Pudge\\'s Pizza , and Sazón Comida Criolla .  The Coca-Cola Music Hall is an indoor events venue, designed primarily as a concert hall with a capacity of 5,000. The hall is also capable of hosting other types of indoor events.  \\n\nThe district features a Caribbean Cinemas VIP theater with a restaurant and bar, food service, seven IMAX screens with ScreenX , and one Caribbean Cinemas Extreme (CXC) screen with a 4K projector and Dolby Atmos sound system.  ToroVerde Urban Park is a family entertainment center which features a food court , arcade, virtual reality experiences, a climbing wall (promoted as being the tallest in the Caribbean ), and ziplines across the district.   \\n\nIt also features a 177-room Aloft Hotels location, the chain\\'s first in the Caribbean.  \\n\nReferences\nExternal links",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Distrito_T-Mobile&oldid=1217305818",
+        "https://en.wikipedia.org/wiki/t-mobile_district"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.455,
+            -66.092
+        ],
+        "title": "Distrito T-Mobile",
+        "type": "Point"
+    },
+    "categories": [
+        "Culture",
+        "Luxury & Resorts",
+        "Outdoor",
+        "Family-Friendly",
+        "Shopping",
+        "Festivals & Events",
+        "Nightlife",
+        "Food"
+    ]
+}

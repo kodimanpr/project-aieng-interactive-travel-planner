@@ -1,0 +1,16 @@
+{
+    "main_content": "Contents\nFaro del Castillo San Felipe del Morro\nFaro del Castillo San Felipe del Morro ( English : Lighthouse of Promontory Castle of Saint Phillip ), also known as Puerto San Juan Light (Light of Port San Juan) , and most commonly referred to as Faro del Morro (El Morro Lighthouse) , is a lighthouse atop the walls of Castillo San Felipe del Morro in Old San Juan . It\\'s the first lighthouse built in Puerto Rico .  \\n\nThe first Castillo San Felipe del Morro Lighthouse was built in 1846 and exhibited a light using five parabolic reflectors.  In 1876, a new octagonal iron tower was constructed atop the walls of the fort .  The tower was hit by U.S. artillery fire in the Puerto Rican Campaign of the Spanish-American War on May 12, 1898. The lighthouse was rebuilt in 1899 but developed structural problems and was demolished in 1906. The  lighthouse was rebuilt in 1908.  Public admission tours into the tower are held, and the Castillo San Felipe del Morro , along with Castillo San Cristóbal and much of the city walls are part of the San Juan National Historic Site also open to the public.\\n\nSee also\nReferences\nExternal links",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Faro_del_Castillo_San_Felipe_del_Morro&oldid=1222428836",
+        "https://en.wikipedia.org/wiki/castillo_san_felipe_del_morro_lighthouse"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.4710528,
+            -66.1236139
+        ],
+        "title": "Faro del Castillo San Felipe del Morro",
+        "type": "Point"
+    },
+    "categories": []
+}

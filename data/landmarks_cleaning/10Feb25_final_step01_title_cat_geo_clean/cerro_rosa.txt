@@ -1,0 +1,23 @@
+{
+    "main_content": "Contents\nCerro Rosa\nCerro Rosa is the third highest peak of Puerto Rico measuring 1,263 meters (4,144 ft) above sea level. The mountain is located in the Cordillera Central , on the border between the municipalities of Ciales and Jayuya .  \\n\nReferences\n\\n\nThis Jayuya, Puerto Rico location article is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://arz.wikipedia.org/wiki/%D8%AC%D8%A8%D9%84_%D8%B3%D9%8A%D8%B1%D9%88_%D8%B1%D9%88%D8%B3%D8%A7",
+        "https://lld.wikipedia.org/wiki/Cerro_Rosa",
+        "https://ceb.wikipedia.org/wiki/Cerro_Rosa",
+        "https://en.wikipedia.org/w/index.php?title=Cerro_Rosa&oldid=1244425298",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://it.wikipedia.org/wiki/Cerro_Rosa",
+        "https://es.wikipedia.org/wiki/Cerro_Rosa",
+        "https://fr.wikipedia.org/wiki/Cerro_Rosa",
+        "https://en.wikipedia.org/w/index.php?title=Cerro_Rosa&action=edit"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.17778,
+            -66.53222
+        ],
+        "title": "Cerro Rosa",
+        "type": "Point"
+    },
+    "categories": []
+}

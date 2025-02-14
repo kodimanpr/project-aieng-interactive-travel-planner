@@ -1,0 +1,17 @@
+{
+    "main_content": "Contents\nGuánica Light\nGuánica Light  was a historic lighthouse located in the municipality of Guánica, Puerto Rico in the Guánica State Forest . It was first lit in 1893 and deactivated in 1950.  The light marked the entrance to Guánica Bay and bridged the gap between Los Morrillos Light and Caja de Muertos Light . \\n\nOn July 25, 1898, lighthouse keeper Robustiano Rivera spotted the convoy of the American forces that initiated the landing offensive of the Puerto Rican Campaign during the Spanish-American War . He immediately gave the alert to the residents of Guánica and marched to Yauco where he broke the news of the invading forces to the city\\'s mayor.   \\n\nBy 2009, the lighthouse was practically in ruins, though some parts of its unique architectural elements were still visible.  It was listed in the U.S. National Register of Historic Places in 1981,  and on the Puerto Rico Register of Historic Sites and Zones in 2000.  \\n\nA series of earthquakes that occurred in January 2020 in Puerto Rico further damaged the Guánica lighthouse.  \\n\nSee also\nNotes\nReferences\nExternal links\n\\n\nThis article about a Puerto Rican building or structure related topic is a stub . You can help Wikipedia by expanding it .\nThis article relating to a United States lighthouse is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Gu\\xc3\\xa1nica_Light&oldid=1247501629",
+        "https://en.wikipedia.org/w/index.php?title=Gu%C3%A1nica_Light&action=edit",
+        "https://en.wikipedia.org/wiki/guánica_light"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            17.95083,
+            -66.90306
+        ],
+        "title": "Guánica Light",
+        "type": "Point"
+    },
+    "categories": []
+}

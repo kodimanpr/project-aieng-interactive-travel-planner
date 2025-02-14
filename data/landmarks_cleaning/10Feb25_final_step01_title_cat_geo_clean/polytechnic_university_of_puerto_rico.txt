@@ -1,0 +1,21 @@
+{
+    "main_content": "Contents\nPolytechnic University of Puerto Rico\nThe Polytechnic University of Puerto Rico ( PUPR ) (commonly referred as Poly or La Poly in Spanish ) is a private university in San Juan, Puerto Rico . PUPR offers technical degrees with a special focus on engineering professions.\\n\nHistory\nPolytechnic University of Puerto Rico (PUPR) is a private non-profit institution specializing in Engineering, Architecture, Land Surveying and Geomatics, and Business Administration.  The main campus is located in the island\\'s financial district which is the very core of metropolitan San Juan .  The university also has a virtual campus that offers online degrees as well as two satellite locations in Florida, a campus in Miami and another in Orlando.\\n\nAcademics\nPolytechnic University of Puerto Rico (PUPR) is a private non-profit institution granting degrees in engineering, architecture, landscape architecture, land surveying and geomatics, and business administration.  It is located in San Juan , Puerto Rico\\'s largest city.  \\nAmong institutions of higher learning in the United States and its territories, the Polytechnic University of Puerto Rico graduates the second largest number of Hispanic engineers.  Today, more than 40% of the graduating engineers in Puerto Rico are alumni of the Polytechnic University. [ citation needed ] Currently, there are nearly 6,000 students at the San Juan campus.  [ failed verification ] \\n\nPUPR is accredited by the Council of Higher Education of Puerto Rico , Middle States Association of Colleges and Schools , National Architectural Accrediting Board (NAAB), the Landscape Architectural Accreditation Board (LAAB) and the International Assembly for Collegiate Business Education (IACBE).  In addition, several of PUPR\\'s engineering programs are accredited by the Accreditation Board for Engineering and Technology (ABET).\\n\nEngineering college description and special characteristics\nPUPR is the largest private Hispanic engineering school in all of the United States and Puerto Rico and the only engineering school in the metropolitan area of San Juan. Since its inception, PUPR has graduated approximately 4,500 Hispanic engineers and surveyors.\\n\nCurrently, the College of Engineering is 80% of the total PUPR undergraduate enrollment with 4,566 students. This enrollment will rank PUPR on the American Society for Engineering Education (ASEE)  enrollment in engineering survey as the 20th largest engineering college in the U.S. and its territories.\\n  \\n\nReferences\nExternal links\n18\\xc2\\xb025\\xe2\\x80\\xb221\\xe2\\x80\\xb3N 66\\xc2\\xb003\\xe2\\x80\\xb220\\xe2\\x80\\xb3W ﻿ / ﻿ 18.42250\\xc2\\xb0N 66.05556\\xc2\\xb0W ﻿ / 18.42250; -66.05556 \\n",
+    "relevant_links": [
+        "https://fr.wikipedia.org/wiki/Universit%C3%A9_polytechnique_de_Porto_Rico",
+        "https://es.wikipedia.org/wiki/Universidad_Polit%C3%A9cnica_de_Puerto_Rico",
+        "https://en.wikipedia.org/w/index.php?title=Polytechnic_University_of_Puerto_Rico&oldid=1247814469",
+        "https://no.wikipedia.org/wiki/Universidad_Polit%C3%A9cnica_de_Puerto_Rico",
+        "https://stats.wikimedia.org/#/en.wikipedia.org"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.4225,
+            -66.05556
+        ],
+        "title": "Polytechnic University Of Puerto Rico",
+        "type": "Point"
+    },
+    "categories": [
+        "Culture"
+    ]
+}

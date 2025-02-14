@@ -1,0 +1,20 @@
+{
+    "main_content": "Contents\nMaunabo barrio-pueblo\nMaunabo barrio-pueblo is a barrio and the administrative center ( seat ) of Maunabo , a municipality of Puerto Rico.  Its population in 2010 was 317.     \\n\nAs was customary in Spain, in Puerto Rico, the municipality has a barrio called pueblo which contains a central plaza, the municipal buildings (city hall), and a Catholic church. Fiestas patronales (patron saint festivals) are held in the central plaza every year.   \\n\nDescription\nHistorically, the barrio was divided into east and west with its eastern limit beginning at Puerto Rico Highway 3 in Quebrada Arenas , (at Kilometer 108.92) and its western limit beginning where Quebrada Arenas and Emajagua meet on PR-3, at (Kilometer 110.03).  \\n\nThe central plaza and its church\nThe central plaza, or square, is a place in the barrio-pueblo for official and unofficial recreational events and a place where people can gather and socialize from dusk to dawn. The Laws of the Indies , Spanish law, which regulated life in Puerto Rico in the early 19th century, stated the plaza\\'s purpose was for \"the parties\" (celebrations, festivities) , and that the square should be proportionally large enough for the number of neighbors . These Spanish regulations also stated that the streets nearby should be comfortable portals for passersby, protecting them from the elements: sun and rain.  \\n\nLocated across the central plaza in Maunabo barrio-pueblo is the Parroquia San Isidro Labrador , a Roman Catholic church.  \\n\nHistory\nMaunabo barrio-pueblo was in Spain\\'s gazetteers  until Puerto Rico was ceded by Spain in the aftermath of the Spanish-American War under the terms of the Treaty of Paris of 1898 and became an unincorporated territory of the United States . In 1899, the United States Department of War conducted a census of Puerto Rico finding that the population of Maunabo Pueblo was 1,277.  \\n\nThe barrio-pueblo was called Pueblo until it was referred to as \"barrio-pueblo\", starting with the 1990 US Census.  \\n \\n\nGallery\nSee also\nReferences",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Maunabo_barrio-pueblo&oldid=1203949261",
+        "https://es.wikipedia.org/wiki/Maunabo_(Maunabo)",
+        "https://en.wikipedia.org/wiki/maunabo_barrio-pueblo"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.007816,
+            -65.90071
+        ],
+        "title": "Maunabo Barrio-pueblo",
+        "type": "Point"
+    },
+    "categories": [
+        "Religion",
+        "Culture"
+    ]
+}

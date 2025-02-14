@@ -1,0 +1,18 @@
+{
+    "main_content": "Contents\nPlaza Colón\nPlaza Colón is the main plaza in the city of Mayagüez , Puerto Rico . This plaza and its fountain commemorate the explorer Christopher Columbus , whose name in Spanish was Cristóbal Colón.  The plaza presents the traditional urban relationship in Puerto Rico with the church, now Nuestra Señora de la Candelaria Cathedral on one end of the plaza and the \"Alcaldia\" or Mayagüez town hall in the other.  Its location was designated in 1760 close to the city founding.  \\n\nThe plaza is paved in marble is graced by a group of lampposts in bronze that date over more than one hundred years.  Each lamp is held by an oriental odalisque , including characteristic clothes, turbans, and veils.  The plaza was designed after the Great Fire of 1841 , approximately in 1842; years later, after being paved the plaza had a fountain in the center.  The plaza has been remodeled several times including when Benjamin Cole was mayor and under the current mayor José Guillermo Rodríguez .\\n\nStatues\nFollowing the theory that Columbus disembarked in Mayagüez; in 1896 a statue of the Admiral was placed in the main plaza in the city, thus it came to be known as Plaza Colón.  The statue was made by A. Coll y Pí in Barcelona in 1843.   \\n\nIn 1944 a monument to the city founders was constructed in the plaza.  In 1944 Regino Cabassa made great efforts to get the creation of a Monuments to the founders of the city in the Plaza Colon.  At first there were some obstacles especially since the monument was to be built of bronze and because of World War II that metal was hard to come by. But finally on November 19, 1944, the monument was unveiled before Mayor Don Manuel A. Barreto.  \\n\nGallery\nNotes\nReferences",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Plaza_Col\\xc3\\xb3n&oldid=1240153291",
+        "https://en.wikipedia.org/wiki/plaza_colón"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.201108,
+            -67.139103
+        ],
+        "title": "Plaza Colón",
+        "type": "Point"
+    },
+    "categories": [
+        "Religion"
+    ]
+}

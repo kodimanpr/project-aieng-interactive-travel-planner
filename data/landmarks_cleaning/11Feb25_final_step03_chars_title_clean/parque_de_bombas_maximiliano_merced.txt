@@ -1,0 +1,17 @@
+{
+    "main_content": "Contents\nParque de Bombas Maximiliano Merced\nThe Parque de Bombas Maximiliano Merced , at 42 Muñoz Rivera Street in Aguas Buenas , Puerto Rico was built in 1955.  It was listed on the National Register of Historic Places in 2012.   \\n\nIt has also been known as Parque Maximiliano Merced and as Antiguo Parque de Bombas de Aguas Buenas .  \\n\nReferences\n\\n\nThis article about a property in Puerto Rico on the National Register of Historic Places is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Parque_de_Bombas_Maximiliano_Merced&oldid=1138729924",
+        "https://en.wikipedia.org/w/index.php?title=Parque_de_Bombas_Maximiliano_Merced&action=edit",
+        "https://en.wikipedia.org/wiki/parque_de_bombas_maximiliano_merced"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.25667,
+            -66.105
+        ],
+        "title": "Parque De Bombas Maximiliano Merced",
+        "type": "Point"
+    },
+    "categories": []
+}

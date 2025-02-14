@@ -1,0 +1,20 @@
+{
+    "main_content": "Contents\nCamuy River\nThe Camuy River  is a river in Puerto Rico . It is the third largest underground river in the world and  helped shape the cave system known as the Rio Camuy Caves .    \\n\nThe river and water flow systems of Río Camuy have been studied by the US Geological Service in 1995.  \\n\nGallery\nSee also\nReferences\nExternal links\n\\n\nThis article related to a river in Puerto Rico is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Camuy_River&oldid=1240396478",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://en.wikipedia.org/w/index.php?title=Camuy_River&action=edit",
+        "https://ceb.wikipedia.org/wiki/R%C3%ADo_Camuy"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.4877218,
+            -66.8368437
+        ],
+        "title": "Camuy River",
+        "type": "Point"
+    },
+    "categories": [
+        "Outdoor"
+    ]
+}

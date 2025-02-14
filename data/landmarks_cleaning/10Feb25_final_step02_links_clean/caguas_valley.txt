@@ -1,0 +1,20 @@
+{
+    "main_content": "Contents\nCaguas Valley\nThe Caguas Valley , or the Caguas-Juncos Valley ,  and popularly referred to as the Turabo Valley ( Valle del Turabo ), is a large valley lying between two mountain subranges of the Cordillera Central , Sierra de Cayey and Sierra de Luquillo , in the eastern region of the main island of Puerto Rico .  From west to east, the valley is concentrated in the municipalities of Caguas , Gurabo , San Lorenzo , Juncos , Las Piedras , and Humacao . \\n\nGeography\nIn a clockwise direction, the valley is bound by the Altos de La Mesa and Altos de San Luis mountain ridges to the north, the Sierra de Luquillo in the northeast, the San Lorenzo Batholith in the east and southeast, the Sierra de Cayey in the south, and the foothills of the Cordillera Central in the west.  \\n\nThis valley is fed mainly by the Río Grande de Loíza , the largest hydrological basin in Puerto Rico, and numerous tributaries such as the Cagüitas , along which the contemporary settlement of Caguas was built. The name Valle del Turabo (\"Turabo Valley\") comes from the Turabo River , which is another tributary that flows from the south. The Gurabo River , another major tributary, feeds into the Grande de Loíza at a region where the valley narrows into a rift valley , often called the Gurabo Valley, that runs from west to east and ends in Las Piedras and Humacao in the southeastern coast of the island.  \\n\nGeology\nThe Caguas Valley, from Caguas to Juncos , is formed by Holocene alluvial deposits that lay on top of hardened rock of volcanic origin, lava , and intrusive and metamorphic rocks that date from the Late Cretaceous to the Tertiary period. There are also small deposits of limestone. Except for the alluvium zone, the rocks in the basin do not generate large aquifers due to their low permeability . The alluvium in the valley includes non-uniform mixtures of sand , gravel , silt and mud , varying in thickness from 0 feet in with consolidated rocks to 160 feet in Caguas and Gurabo. In the area towards Gurabo and Juncos the alluvium contains more sand and gravel than in the area of Caguas; these alluvial deposits form the main aquifer in the area. The flows of the Loíza River and its tributaries, mainly the Gurabo River, have eroded most alluvial deposits within the fluvial flood zones.   \\n\nClimate\nThe climate of the Caguas-Juncos Valley is rainy, with areas receiving up to 100 inches of precipitation annually. Rain varies throughout the year with the dry period lasting from January to April, the rainiest period being from May to June, the driest period from July to August, and the period of heavy rains lasting until the end of the year.  \\n\nLa India Dormida\nLa India Dormida (Spanish for \"the sleeping Indian [woman]\") is a famous geographical landmark for locals in the Valley of Caguas. Although often called a mountain, this is actually a group of mountains that through forced perspective (when seen from the north) form the shape of a sleeping woman. According to legend, the Taíno cacique Caguax had a niece called Taina (or Tayana ) who sacrificed herself and was turned into the mountain during the Spanish conquest of Borinquen (or Boriken , the native name for Puerto Rico). The best way to observe this optical illusion is from Altos de San Luis, Altos de La Mesa and on expressway PR-52 and highway PR-1 when driving from north to south through the valley.  \\n\nSettlements and barrios\nSee also\nReferences",
+    "relevant_links": [
+        "http://www.recursosaguapuertorico.com/Caguas-Juncos.html?no_redirect=true",
+        "https://en.wikipedia.org/w/index.php?title=Caguas_Valley&oldid=1246099450",
+        "https://en.wikipedia.org/wiki/caguas_valley"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.23139,
+            -66.03944
+        ],
+        "title": "Caguas Valley",
+        "type": "Point"
+    },
+    "categories": [
+        "Outdoor",
+        "Beach"
+    ]
+}

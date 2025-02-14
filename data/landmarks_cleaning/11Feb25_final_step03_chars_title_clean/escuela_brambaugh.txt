@@ -1,0 +1,17 @@
+{
+    "main_content": "Contents\nEscuela Brambaugh\nBrambaugh School , officially the Dr. Martin Grove Brumbaugh School but better known today as Puerta de Tierra Public School ( Escuela Pública de Puerta de Tierra ), is an early 20th-century historic school building located in the Puerta de Tierra historic district in the city of San Juan, Puerto Rico .  The school was built in 1913 by Frank B. Hatch based on designs by architect G.R. Gilmour and named after the first Education Commissioner of Puerto Rico Martin Grove Brumbaugh . It was the first modern school to be built in the Puerta de Tierra area of San Juan Antiguo and, until the construction of the neighboring José Celso Barbosa Graded School , it was the only school in the area. Brambaugh School continues to be an important public education center for the local community today.  \\n\nThe building today hosts an elementary school which was included in the list of education institutions for closure by former Secretary of the Puerto Rico Department Education Julia Keleher in 2017.   The school remains open but was sold by the Puerto Rican government to the private corporation Mr Bull, LLC in 2019.  \\n\nSee also\nReferences\n\\n\nThis article about a property in Puerto Rico on the National Register of Historic Places is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Escuela_Brambaugh&action=edit",
+        "https://en.wikipedia.org/w/index.php?title=Escuela_Brambaugh&oldid=1246938136",
+        "https://en.wikipedia.org/wiki/escuela_brambaugh"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.4654155,
+            -66.0960993
+        ],
+        "title": "Escuela Brambaugh",
+        "type": "Point"
+    },
+    "categories": []
+}

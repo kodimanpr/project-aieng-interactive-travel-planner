@@ -1,0 +1,18 @@
+{
+    "main_content": "Contents\nBraulio Castillo\nBraulio Castillo Cintrón (March 30, 1933 \\xe2\\x80\\x93 February 28, 2015) was a telenovela actor in Latin America . His two sons, Braulio Castillo, Jr. and Jorge Castillo, are also actors. He was born in Bayamón , Puerto Rico .\\n\nCastillo played in the Orquesta Mandolina in Puerto Rico , before working as an actor. He graduated from the University of Puerto Rico with a major in the performing arts. He had roles in Puerto Rican television soap operas , during the 1950s, including El derecho de nacer ; he worked at Telemundo \\n Puerto Rico productions.\\n\nCastillo later relocated to Peru , where he performed the leading role in the telenovela , \" Simplemente María \" (\"Simply Mary\"), with Peruvian actress Saby Kamalich .  There, Castillo was the first MC of the international children\\'s puppet show based on the Italian fictional character of Topo Gigio .\\n\nHe then moved to Mexico during the 1960s, and performed in Mexican films such as \"El Cielo y Tu\" (\"Heaven and You\"), among others, and working in several Televisa productions.\\n\nIn 1970 Castillo was hit in the head by a rock, while filming a scene for a movie. He survived, but retired from the entertainment business. He still occasionally made appearances on television.\\n\nHe died at the age of 81 of natural causes at Santa Teresa Jornet elderly home in Trujillo Alto, Puerto Rico . He was buried at Porta Coeli Cemetery in Bayamón, Puerto Rico.  \\n\nSee also\nExternal links\nReferences\n\\n\nThis Puerto Rican biographical article is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://de.wikipedia.org/wiki/Braulio_Castillo",
+        "https://es.wikipedia.org/wiki/Braulio_Castillo_(actor)",
+        "https://en.wikipedia.org/w/index.php?title=Braulio_Castillo&action=edit",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://sv.wikipedia.org/wiki/Braulio_Castillo",
+        "https://qu.wikipedia.org/wiki/Braulio_Castillo",
+        "https://en.wikipedia.org/w/index.php?title=Braulio_Castillo&oldid=1158767900"
+    ],
+    "geo_metadata": {
+        "coordinates": "Not Found",
+        "title": "Braulio Castillo",
+        "type": "Point"
+    },
+    "categories": []
+}

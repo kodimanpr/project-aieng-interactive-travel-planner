@@ -1,0 +1,24 @@
+{
+    "main_content": "Santa María Magdalena de Pazzis Cemetery\nThe Santa María Magdalena de Pazzis Cemetery is a colonial-era Catholic cemetery located in Old San Juan, Puerto Rico . It is the final resting place of many of Puerto Rico \\'s most prominent natives and residents. Construction began in 1863 under the auspices of Ignacio Mascaro. The cemetery is located outside the walls of Castillo San Felipe del Morro fortress, one of the island\\'s most famous landmarks. The average height of the wall is 40 feet and the width ranges from 15 to 20 feet.  It was named in honor of Saint Maria Magdalena de Pazzi .\\n\nAccording to Rafael Rodríguez, Chaplain and director of pastoral services at the Universidad del Sagrado Corazón located in the Santurce district of the capital, the location of the cemetery is central to the Puerto Rican belief in the separation of death and life. The colonial Spanish government at the time construction of the cemetery commenced, viewed death with fear because it was a mystery. Therefore, they decided to build the cemetery to overlook the Atlantic Ocean to symbolize the spirit\\'s journey to cross over to the afterlife.  \\n\nNotable interments\nGallery\nSee also\nReferences\nExternal links",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Santa_Mar\\xc3\\xada_Magdalena_de_Pazzis_Cemetery&oldid=1247117543",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://fr.wikipedia.org/wiki/Cimeti%C3%A8re_Santa_Mar%C3%ADa_Magdalena_de_Pazzis",
+        "https://ca.wikipedia.org/wiki/Cementiri_Santa_Mar%C3%ADa_Magdalena_de_Pazzis",
+        "https://ru.wikipedia.org/wiki/%D0%9A%D0%BB%D0%B0%D0%B4%D0%B1%D0%B8%D1%89%D0%B5_%D0%9C%D0%B0%D1%80%D0%B8%D0%B8_%D0%9C%D0%B0%D0%B3%D0%B4%D0%B0%D0%BB%D0%B8%D0%BD%D1%8B_%D0%B2_%D0%A1%D0%B0%D0%BD-%D0%A5%D1%83%D0%B0%D0%BD%D0%B5",
+        "https://es.wikipedia.org/wiki/Cementerio_Santa_Mar%C3%ADa_Magdalena_de_Pazzis",
+        "https://ar.wikipedia.org/wiki/%D9%85%D9%82%D8%A8%D8%B1%D8%A9_%D8%A7%D9%84%D9%82%D8%AF%D9%8A%D8%B3%D8%A9_%D9%85%D8%B1%D9%8A%D9%85_%D8%A7%D9%84%D9%85%D8%AC%D8%AF%D9%84%D9%8A%D8%A9"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.46972,
+            -66.12028
+        ],
+        "title": "Santa Mar\\xc3\\xada Magdalena de Pazzis Cemetery",
+        "type": "Point"
+    },
+    "categories": [
+        "Culture",
+        "Beach"
+    ]
+}

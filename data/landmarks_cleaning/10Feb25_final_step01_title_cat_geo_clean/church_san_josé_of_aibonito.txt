@@ -1,0 +1,19 @@
+{
+    "main_content": "Contents\nChurch San José of Aibonito\nChurch San José of Aibonito , on the town plaza of Aibonito, Puerto Rico , was built over the ten-year period from 1887\\xe2\\x80\\x931897.  It was listed on the U.S. National Register of Historic Places in 1984,  and on the Puerto Rico Register of Historic Sites and Zones in 2000.  \\n\nIt is one of five churches designed by State Architect Pedro Cobreros .  It was built from 1887 to 1897 and includes two aisles and a nave .  \\n\nIt is one of 31 churches reviewed for listing on the National Register in 1984.  \\n\nSee also\nReferences\n\\n\nThis article about a property in Puerto Rico on the National Register of Historic Places is a stub . You can help Wikipedia by expanding it .\nThis article about a church building or other Christian place of worship in Puerto Rico is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Church_San_Jos%C3%A9_of_Aibonito&action=edit",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://en.wikipedia.org/w/index.php?title=Church_San_Jos\\xc3\\xa9_of_Aibonito&oldid=1240119276"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.13886,
+            -66.266358
+        ],
+        "title": "Church San José Of Aibonito",
+        "type": "Point"
+    },
+    "categories": [
+        "Religion"
+    ]
+}

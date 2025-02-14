@@ -1,0 +1,21 @@
+{
+    "main_content": "Contents\nLas Cascadas Water Park\nLas Cascadas Water Park is a water park , in Aguadilla, Puerto Rico . The park is one of the largest water parks in the Caribbean region. The park is owned and administered by Aguadilla\\'s municipal government.  \\n\nLas Cascadas opened its doors in 1985 as the only facility of its kind in the Caribbean. The park was built under the municipal administration of Alfredo Gonzalez . The park is now part of the Authority of Municipal Enterprises (AME) of Aguaddilla. AME also administers the Aguadilla Ice Skating Arena . \\n\nThe water park was closed since after Hurricane Maria struck Puerto Rico on September 20, 2017. In 2020, Federal Emergency Management Agency assigned over $917,000 in funds to repair the park.  \\n\nIn early 2022, phase 1 of repairs had been completed and the park was set to reopen.  In May 2022, a portal for purchasing tickets was available to the public.  \\n\nList of rides\nReferences\nExternal links\n\\n\nThis article about a Puerto Rican building or structure related topic is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Las_Cascadas_Water_Park&action=edit",
+        "https://en.wikipedia.org/w/index.php?title=Las_Cascadas_Water_Park&oldid=1177498188",
+        "https://stats.wikimedia.org/#/en.wikipedia.org"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.43944,
+            -67.14528
+        ],
+        "title": "Las Cascadas Water Park",
+        "type": "Point"
+    },
+    "categories": [
+        "Outdoor",
+        "Family-Friendly",
+        "Extreme Adventure"
+    ]
+}

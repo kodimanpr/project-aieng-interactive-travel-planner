@@ -1,0 +1,19 @@
+{
+    "main_content": "Contents\nIglesia San Sebastián Mártir\nThe Iglesia San Sebastián Mártir (English: Church of Saint Sebastian the Martyr ) in the plaza in San Sebastián, Puerto Rico was completed in 1897. It was listed on the U.S. National Register of Historic Places in 1984,  and on the Puerto Rico Register of Historic Sites and Zones in 2001.  \\n\nIt is one of five churches designed by state architect Pedro Cobreros during 1890 to 1896 and completed in 1897  and is \"austere, yet noble\".  \\n\nIt is one of 31 churches reviewed for listing on the National Register in 1984.  \\n\nReferences\n\\n\nThis article on a Catholic church building is a stub . You can help Wikipedia by expanding it .\nThis article about a property in Puerto Rico on the National Register of Historic Places is a stub . You can help Wikipedia by expanding it .\nThis article about a church building or other Christian place of worship in Puerto Rico is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Iglesia_San_Sebasti\\xc3\\xa1n_M\\xc3\\xa1rtir&oldid=1240274821",
+        "https://en.wikipedia.org/w/index.php?title=Iglesia_San_Sebasti%C3%A1n_M%C3%A1rtir&action=edit",
+        "https://en.wikipedia.org/wiki/iglesia_san_sebastián_mártir"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.336777,
+            -66.990445
+        ],
+        "title": "Iglesia San Sebastián Mártir",
+        "type": "Point"
+    },
+    "categories": [
+        "Religion"
+    ]
+}

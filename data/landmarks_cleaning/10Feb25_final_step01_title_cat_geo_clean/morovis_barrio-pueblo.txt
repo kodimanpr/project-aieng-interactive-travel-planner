@@ -1,0 +1,22 @@
+{
+    "main_content": "Contents\nMorovis barrio-pueblo\nMorovis barrio-pueblo is a barrio and the administrative center ( seat ) of Morovis , a municipality of Puerto Rico. Morovis barrio-pueblo has about 12 sectors and its population in 2010 was 895.     \\n\nAs was customary in Spain, in Puerto Rico, the municipality has a barrio called pueblo which contains a central plaza, the municipal buildings (city hall), and a Catholic church. Fiestas patronales (patron saint festivals) are held in the central plaza every year.   \\n\nThe central plaza and its church\nThe central plaza, or square, is a place for official and unofficial recreational events and a place where people can gather and socialize from dusk to dawn. The Laws of the Indies , Spanish law, which regulated life in Puerto Rico in the early 19th century, stated the plaza\\'s purpose was for \"the parties\" (celebrations, festivities) , and that the square should be proportionally large enough for the number of neighbors . These Spanish regulations also stated that the streets nearby should be comfortable portals for passersby, protecting them from the elements: sun and rain.  \\n\nLocated across the central plaza in Morovis barrio-pueblo is the Parroquia Nuestra Señora del Carmen , a Roman Catholic church.  \\n\nJosé Fontán School , a building on the National Register of Historic Places is at the central plaza as well.\\n\nHistory\nMorovis barrio-pueblo was in Spain\\'s gazetteers  until Puerto Rico was ceded by Spain in the aftermath of the Spanish\\xe2\\x80\\x93American War under the terms of the Treaty of Paris of 1898 and became an unincorporated territory of the United States . In 1899, the United States Department of War conducted a census of Puerto Rico finding that the population of Morovis Pueblo was 1,064.  \\n \\n\nSectors\nBarrios (which are, in contemporary times, roughly comparable to minor civil divisions )  in turn are further subdivided into smaller local populated place areas/units called sectores ( sectors in English). The types of sectores may vary, from normally sector to urbanización to reparto to barriada to residencial , among others.    \\n\nThe following sectors are in Morovis barrio-pueblo:  \\n\nAvenida Buena Vista (Flamboyán), \\nAvenida Corozal, \\nBarriada Ensanche, \\nBarriada Santo Domingo, \\nCalle Baldorioty Final (Acueducto), \\nExtensión Baldorioty, \\nSector Buenos Aires, \\nSector La Marina, \\nSector Pellejas, \\nSector Vietnam, \\nTramo Carretera 159 (Carol & Joe) , and \\n Urbanización Jardines de Flamboyán .\\n\nGallery\nSee also\nReferences\nExternal links",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Morovis_barrio-pueblo&oldid=1196121318",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://nl.wikipedia.org/wiki/Morovis_(plaats)",
+        "https://ceb.wikipedia.org/wiki/Morovis_Barrio-Pueblo",
+        "https://es.wikipedia.org/wiki/Morovis_(Morovis)"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.326015,
+            -66.407915
+        ],
+        "title": "Morovis Barrio-pueblo",
+        "type": "Point"
+    },
+    "categories": [
+        "Religion",
+        "Culture"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "main_content": "Contents\nGurabo barrio-pueblo\nGurabo barrio-pueblo is a barrio and the administrative center ( seat ) of Gurabo , a municipality of Puerto Rico. Its population in 2010 was 1,509.     \\n\nAs was customary in Spain, in Puerto Rico, the municipality has a barrio called pueblo which contains a central plaza, the municipal buildings (city hall), and a Catholic church. Fiestas patronales (patron saint festivals) are held in the central plaza every year.   \\n\nThe central plaza and its church\nThe central plaza, or square, is a place for official and unofficial recreational events and a place where people can gather and socialize from dusk to dawn. The Laws of the Indies , Spanish law, which regulated life in Puerto Rico in the early 19th century, stated the plaza\\'s purpose was for \"the parties\" (celebrations, festivities) , and that the square should be proportionally large enough for the number of neighbors . These Spanish regulations also stated that the streets nearby should be comfortable portals for passersby, protecting them from the elements: sun and rain.  \\n\nLocated across from the central plaza is the Church of San José ( Parroquia San José ), a Roman Catholic church which was inaugurated in 1822. Over time, the church has been damaged by hurricanes and repaired and remodeled. The latest restoration on the church was completed in 1989.  \\n\nHistory\nGurabo barrio-pueblo was in Spain\\'s gazetteers  until Puerto Rico was ceded by Spain in the aftermath of the Spanish-American War under the terms of the Treaty of Paris of 1898 and became an unincorporated territory of the United States . In 1899, the United States Department of War conducted a census of Puerto Rico finding that the population of Gurabo Pueblo was 1,309.  \\n\nSectors\nBarrios (which are, in contemporary times, roughly comparable to minor civil divisions )  in turn are further subdivided into smaller local populated place areas/units called sectores ( sectors in English). The types of sectores may vary, from normally sector to urbanización to reparto to barriada to residencial , among others.      \\n\nThe following sectors are in Gurabo barrio-pueblo:  Barriada Nueva, Casco del Pueblo, El Cerro , Rabo del Buey, and Vietnam. El Cerro is famous for its steep roads and step streets , and it gives Gurabo the nickname Pueblo de las Escaleras (\"town of the stairs\").  \\n\nGallery\nSee also\nReferences\nExternal links",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Gurabo_barrio-pueblo&oldid=1231771693",
+        "https://es.wikipedia.org/wiki/Gurabo_(Gurabo)",
+        "https://en.wikipedia.org/wiki/gurabo_barrio-pueblo"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.255578,
+            -65.972889
+        ],
+        "title": "Gurabo Barrio-pueblo",
+        "type": "Point"
+    },
+    "categories": [
+        "Religion",
+        "Culture"
+    ]
+}

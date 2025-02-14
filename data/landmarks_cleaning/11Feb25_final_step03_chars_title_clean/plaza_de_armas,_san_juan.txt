@@ -1,0 +1,20 @@
+{
+    "main_content": "Contents\nPlaza de Armas, San Juan\nThe Plaza de Armas of San Juan , formerly known as the Plaza Mayor , is a plaza de armas and one of the main squares in San Juan , the capital of Puerto Rico . It is located on the Fortaleza and San José Streets in Old San Juan . Built in 1521, it was designed to serve as both the original main square and market square for the city. San Juan City Hall is located to the north of the square, while the Puerto Rico Department of State lies at the west.\\n\nThe square\\'s main feature is a round fountain with four marble statues representing \"The Four Seasons\", originally placed in the four corners of the square, which had been commissioned by then governor of Puerto Rico Juan de la Pezuela y Cevallos in 1856 to the \" motherland \", to be placed in Paseo La Princesa esplanade in Old San Juan.  \\n\nGallery\nReferences\nExternal links\n18°27\\xe2\\x80\\xb255\\xe2\\x80\\xb3N 66°7\\xe2\\x80\\xb20\\xe2\\x80\\xb3W ﻿ / ﻿ 18.46528°N 66.11667°W ﻿ / 18.46528; -66.11667 \\n\n\\n\nThis San Juan, Puerto Rico location article is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Plaza_de_Armas,_San_Juan&oldid=1240364699",
+        "https://en.wikipedia.org/w/index.php?title=Plaza_de_Armas,_San_Juan&action=edit",
+        "https://es.wikipedia.org/wiki/Plaza_de_Armas_de_San_Juan",
+        "https://en.wikipedia.org/wiki/plaza_de_armas,_san_juan"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.46528,
+            -66.11667
+        ],
+        "title": "Plaza De Armas, San Juan",
+        "type": "Point"
+    },
+    "categories": [
+        "Shopping"
+    ]
+}

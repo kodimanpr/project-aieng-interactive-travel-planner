@@ -1,0 +1,17 @@
+{
+    "main_content": "Gómez Residence\nThe Gómez Residence  is a historic house in Mayagüez, Puerto Rico . It was designed by architect Francisco Porrata-Doría in a Mission/Spanish Revival, neo- Andalusí style, and was built in 1933.  \\n\nThe house was added to the U.S. National Register of Historic Places in 1988.  \\n\nSee also\nNotes\nReferences\nExternal links\n\\n\nThis article about a property in Puerto Rico on the National Register of Historic Places is a stub . You can help Wikipedia by expanding it .\nThis article about a Puerto Rican building or structure related topic is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=G\\xc3\\xb3mez_Residence&oldid=1140724850",
+        "https://en.wikipedia.org/w/index.php?title=G%C3%B3mez_Residence&action=edit",
+        "https://en.wikipedia.org/wiki/gómez_residence"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.202512,
+            -67.143482
+        ],
+        "title": "Gómez Residence",
+        "type": "Point"
+    },
+    "categories": []
+}

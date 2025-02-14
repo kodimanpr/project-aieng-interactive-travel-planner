@@ -1,0 +1,17 @@
+{
+    "main_content": "Contents\nBayamón River\nThe Bayamón River  is a river of Puerto Rico beginning at an elevation of approximately 1,476 ft in barrio Beatriz in Cidra, Puerto Rico. It is slightly over 30 miles long and travels through several municipalities: Cidra, Aguas Buenas, Guaynabo, Toa Baja, Bayamón, and Cataño, then empties into San Juan Bay.    \\n\nSee also\nReferences\nExternal links\n\\n\n\\n\nThis article related to a river in Puerto Rico is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://en.wikipedia.org/w/index.php?title=Bayam%C3%B3n_River&action=edit",
+        "https://en.wikipedia.org/w/index.php?title=Bayam\\xc3\\xb3n_River&oldid=1143230209",
+        "https://ceb.wikipedia.org/wiki/R%C3%ADo_Bayam%C3%B3n"
+    ],
+    "geo_metadata": {
+        "coordinates": "Not Found",
+        "title": "Bayamón River",
+        "type": "Point"
+    },
+    "categories": [
+        "Outdoor"
+    ]
+}

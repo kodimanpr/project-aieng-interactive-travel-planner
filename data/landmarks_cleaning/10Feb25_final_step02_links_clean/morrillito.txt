@@ -1,0 +1,20 @@
+{
+    "main_content": "Contents\nMorrillito\n\\n\nMorrillito is a small uninhabited island off the southern coast of Puerto Rico . The island is protected by the Reserva Natural Caja de Muertos natural reserve because of its native turtle traffic.  Together with Caja de Muertos , Gatas , Ratones , Cardona , Isla del Frio , and Isla de Jueyes , Morrillito is one of seven islands ascribed to the municipality of Ponce .   \\n\nLocation\nThe island, sometimes erroneously termed a key (or, cay ), is located 5.2 mi (8.4 km) south of the Puerto Rican mainland and is part of Barrio Playa   ward of the Ponce , Puerto Rico, municipality . \\nIt is located 590 feet (180 meters) off the southwest point of Caja de Muertos island and has an area of just 0.015 square miles (0.039 km 2 ). The island is connected to Caja de Muertos by a bank of shallow waters about 18.0 feet (5.5 meters) deep.  It is located at latitude 17.88417 and longitude -66.53361.  Its length is 0.31 miles (0.50 kilometers) northeast and southwest.  \\n\nGeography and climate\nThe island is a small 31-foot flat-topped island located 200 yards off the southwestern tip of Caja de Muertos and, when viewed from a distance, Morrillito can easily be mistaken for the 170-ft steep hill (called Cerro Morrillo, Morrillo Hill ) at the extreme southwestern portion of Caja de Muertos proper.   The climate is dry and the island supports a dry forest .\\n\nNatural reserve\nTogether with Caja de Muertos (0.59 square miles (1.5 km 2 ) and Berberia Key (0.12 square miles (0.31 km 2 ), Morrillito makes up the Caja de Muertos Natural Reserve . The island was designated as a nature reserve in 1980 after a meeting was held in Puerto Rico by the Puerto Rico Planning Board wherein they considered the recommendation set forth by the Coastal Management Zone Program to turn the island into a protected wilderness area. The island has remained a protected area ever since.  The protection is mainly due to its heavy Hawksbill sea turtle traffic which is an endangered species .  \\n\nSee also\nReferences\nExternal links",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Morrillito&oldid=1135257326",
+        "https://es.wikipedia.org/wiki/Morrillito",
+        "https://en.wikipedia.org/wiki/morrillito"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            17.88222,
+            -66.53306
+        ],
+        "title": "Morrillito",
+        "type": "Point"
+    },
+    "categories": [
+        "Outdoor",
+        "Beach"
+    ]
+}

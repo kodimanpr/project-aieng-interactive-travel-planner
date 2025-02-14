@@ -1,0 +1,19 @@
+{
+    "main_content": "Contents\nAlbergue Olímpico\nThe Albergue Olímpico Germán Rieckehoff ( English : Olympic Hostel ), often referred as El Albergue , is an athletic training and recreational center located in Salinas, Puerto Rico founded in 1985 by Germán Rieckehoff , former president of the Puerto Rico Olympic Committee . It is the most complete sports center in Puerto Rico used by professional athletes and by the general public for health, educational, and recreational activities.   The Albergue Olímpico was also the host of the Shooting competitions for the 2010 Central American and Caribbean Games .  \\n\nFacilities\nIt has a territorial expansion of 1,500 acres (6.1 km 2 ) and has 17 sports installations, including multiple use courts, baseball , aquatic, and tennis complexes, gymnasiums, different sports halls, two Conference Halls and a Sports Library named after Rafael Pont Flores .    used for training by the different sports federations of the Puerto Rico Olympic Committee as well as individual professionals, national and international sports associations and others. The Albergue Olímpico also houses the only residential, sports-focused public school in Puerto Rico, the Escuela de la Comunidad Especializada en Deportes en el Albergue Olímpico (English: Sports-Specialized Community School in the Olympic Hostel). The Albergue also has water parks , an aviary , a botanical garden , playgrounds and the Olympic Museum of Puerto Rico.  The museum houses the final resting place of the Albergue\\'s founder, Germán Rieckehoff, his wife Irma, and their son, Juan , who was an equestrian athlete.\\n\nReferences\n18°01\\xe2\\x80\\xb253.22\\xe2\\x80\\xb3N 66°14\\xe2\\x80\\xb213.31\\xe2\\x80\\xb3W ﻿ / ﻿ 18.0314500°N 66.2370306°W ﻿ / 18.0314500; -66.2370306 \\n\n\\n\nThis article about a sports venue in Puerto Rico is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Albergue_Ol\\xc3\\xadmpico&oldid=1175228011",
+        "https://en.wikipedia.org/w/index.php?title=Albergue_Ol%C3%ADmpico&action=edit",
+        "https://en.wikipedia.org/wiki/albergue_olímpico"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.03145,
+            -66.2370306
+        ],
+        "title": "Albergue Olímpico",
+        "type": "Point"
+    },
+    "categories": [
+        "Culture"
+    ]
+}

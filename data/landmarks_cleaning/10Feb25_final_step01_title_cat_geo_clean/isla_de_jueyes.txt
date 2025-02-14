@@ -1,0 +1,23 @@
+{
+    "main_content": "Contents\nIsla de Jueyes\n\\n\nIsla de Jueyes are a group of three small uninhabited islands off the southern coast of Puerto Rico .   Together with Caja de Muertos , Gatas , Morrillito , Ratones , Cardona , and Isla del Frío , Isla de Jueyes is one of seven islands ascribed to the municipality of Ponce .     At an area of just 2.89 cuerdas , they are also the smallest of these seven islands. Like Isla del Frío , the islands are considered part of barrio Vayas .  \\n\nLocation\nThe islands, sometimes considered keys (or, cays ), or islets,  because of their size, are located 0.12 mi (0.19 km) south of the Puerto Rican mainland and is closest to Barrio Vayas   ward of the Ponce , Puerto Rico, municipality .\\n\nThey are oriented in a southwest-to-northeast axis and are separated from each other by approximately 120 feet (37 meters).  The northernmost, and the one closest to the Puerto Rico mainland shore, sits at a distance of approximately 600 feet (180 meters), of 0.12 mi (0.19 km), southwest from the mainland Puerto Rican shore in the area of Caleta de Cabullones (Cabullon Point), with the furthestmost extending 0.43 mi (0.69 km) from the mainland.    The closest populated point on the mainland is Hacienda Villa Esperanza, also known as Quinta Esperanza , located in barrio Vayas . The islands have an area of just 0.0019 sq mi (0.0049 km 2 ) (2.89 cuerdas )  (one cuerda equals 0.97 acres  ).\\n\nTheir coordinates are: latitude 17.9592\\xc2\\xb0 and longitude -66.5897\\xc2\\xb0 (latitude 17\\xc2\\xb057\\'33\"N and longitude 66\\xc2\\xb035\\'23\"W).   \\n\nGeography and climate\nThe islands vary in size from 130 ft \\xc3\\x97 130 ft (40 m \\xc3\\x97 40 m), the smallest, to 200 ft \\xc3\\x97 260 ft (61 m \\xc3\\x97 79 m), the largest, and are located 660 feet (200 meters) off the coast of mainland Puerto Rico.  The climate is dry and the island supports dry forest . They consists mostly of brush.  Though not officially a nature reserve, the island is administered by the Puerto Rico Department of Natural and Environmental Resources. Its length is 0.31 miles (0.5 kilometers) northeast and southwest.  \\n\nSee also\nReferences\nExternal links",
+    "relevant_links": [
+        "https://es.wikipedia.org/wiki/Isla_de_Jueyes",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://ur.wikipedia.org/wiki/%D8%AC%D8%B2%DB%8C%D8%B1%DB%81_%D8%AE%D9%88%D8%A6%DB%8C%D8%B3",
+        "https://fr.wikipedia.org/wiki/Isla_de_Jueyes",
+        "https://en.wikipedia.org/w/index.php?title=Isla_de_Jueyes&oldid=1115199136",
+        "https://ceb.wikipedia.org/wiki/Isla_de_Jueyes"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            17.95917,
+            -66.58972
+        ],
+        "title": "Isla De Jueyes",
+        "type": "Point"
+    },
+    "categories": [
+        "Outdoor",
+        "Beach"
+    ]
+}

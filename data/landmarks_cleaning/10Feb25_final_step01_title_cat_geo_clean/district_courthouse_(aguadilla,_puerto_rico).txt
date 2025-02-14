@@ -1,0 +1,19 @@
+{
+    "main_content": "Contents\nDistrict Courthouse (Aguadilla, Puerto Rico)\nDistrict Courthouse , also known as Museo de Arte de Aguadilla , in Aguadilla, Puerto Rico , was built in 1925. It was listed on the National Register of Historic Places in 1985,  and to the Puerto Rico Register of Historic Sites and Zones in 2000.  \\n\nIt was designed by architect Rafael Carmoega . The second story now serves as a museum of art.  \\n\nReferences\n\\n\nThis article about a property in Puerto Rico on the National Register of Historic Places is a stub . You can help Wikipedia by expanding it .\nThis article about a Puerto Rican building or structure related topic is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=District_Courthouse_(Aguadilla,_Puerto_Rico)&oldid=1240117051",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://en.wikipedia.org/w/index.php?title=District_Courthouse_(Aguadilla,_Puerto_Rico)&action=edit"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.425514,
+            -67.154501
+        ],
+        "title": "District Courthouse (aguadilla, Puerto Rico)",
+        "type": "Point"
+    },
+    "categories": [
+        "Culture"
+    ]
+}

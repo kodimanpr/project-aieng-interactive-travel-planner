@@ -1,0 +1,20 @@
+{
+    "main_content": "Contents\nEsperanza Beach\nEsperanza Beach  is a popular beach on the southern coast of Vieques in La Esperanza , Puerto Real . In comparison to other beaches in the island which are located far away from populated areas, this beach is located close to La Esperanza and it hosts a number of hotels, restaurants, food kiosks and stores.   Esperanza Pier, located on the western part of the beach, is considered a landmark of Vieques.  It is a very popular weekend destination for locals and visitors alike. The beach is located between Sun Bay Beach and Black Sand Beach and both can be reached by foot from La Esperanza.    \\n\nGallery\nReferences\n18°5\\xe2\\x80\\xb240\\xe2\\x80\\xb3N 65°28\\xe2\\x80\\xb219\\xe2\\x80\\xb3W ﻿ / ﻿ 18.09444°N 65.47194°W ﻿ / 18.09444; -65.47194 \\n",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Esperanza_Beach&oldid=1100530713",
+        "https://www.discoverpuertorico.com/profile/playa-la-esperanza-vieques/9466",
+        "https://en.wikipedia.org/wiki/esperanza_beach"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.09444,
+            -65.47194
+        ],
+        "title": "Esperanza Beach",
+        "type": "Point"
+    },
+    "categories": [
+        "Food",
+        "Beach"
+    ]
+}

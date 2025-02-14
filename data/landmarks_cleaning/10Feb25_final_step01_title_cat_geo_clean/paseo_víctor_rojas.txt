@@ -1,0 +1,17 @@
+{
+    "main_content": "Contents\nPaseo Víctor Rojas\nPaseo Víctor Rojas , also known as El Fuerte or Paseo de Damas (Ladies\\' Promenade), in Arecibo, Puerto Rico , was built in 1881.  It was listed on the National Register of Historic Places in 1986,  and on the Puerto Rico Register of Historic Sites and Zones in 2000.  \\n\nIt is a rectangular promenade that was built over the ruins of San Miguel Fort, in part using stone from the ruins.  \\n\nThe original paseo was damaged in the Hurricane of San Ciriaco in 1899.  \\n\nIt is unique as a place constructed for the \"Isabellan\", i.e. equivalent to \"Victorian\" pastime of promenading.  It acquired the name \"Victor Rojas\" for the location of a memorial to this person, a fisherman, who undertook rescues starting from near this location, to save persons from boats foundering.  \\n\nSee also\nReferences\nExternal links\n\\n\nThis article about a property in Puerto Rico on the National Register of Historic Places is a stub . You can help Wikipedia by expanding it .\nThis article about a Puerto Rican building or structure related topic is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Paseo_V\\xc3\\xadctor_Rojas&oldid=1240123410",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://en.wikipedia.org/w/index.php?title=Paseo_V%C3%ADctor_Rojas&action=edit"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.472718,
+            -66.711762
+        ],
+        "title": "Paseo Víctor Rojas",
+        "type": "Point"
+    },
+    "categories": []
+}

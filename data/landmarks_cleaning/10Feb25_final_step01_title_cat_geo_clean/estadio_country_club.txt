@@ -1,0 +1,17 @@
+{
+    "main_content": "Contents\nEstadio Country Club\nEstadio Country Club is a soccer-specific stadium located in the sector of Country Club in San Juan, Puerto Rico . It is located approximately 13 miles southeast of Old San Juan .\\n\nThe 2,000 seat stadium was designed specifically for soccer , but it has also been used for four professional boxing match programs, the latest of which took place in 1975.  It is home to the Puerto Rico U-20 national football team and other various youth national teams.\\n\nThe stadium was built to host the soccer matches at the 1979 Pan American Games .\\n\nReferences\n\\n\nThis article about a sports venue in Puerto Rico is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://en.wikipedia.org/w/index.php?title=Estadio_Country_Club&action=edit",
+        "https://en.wikipedia.org/w/index.php?title=Estadio_Country_Club&oldid=1197250438"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.4011,
+            -66.0015
+        ],
+        "title": "Estadio Country Club",
+        "type": "Point"
+    },
+    "categories": []
+}

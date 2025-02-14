@@ -1,0 +1,25 @@
+{
+    "main_content": "Contents\nLínea Avanzada\nThe Advanced Defense Line  is a historic district consisting of four structures that formed part of the eastern defensive system of the Islet of San Juan in San Juan, Puerto Rico .\\n\nComponents\nThe historic district designated by the United States National Register of Historic Places consists of two buildings (the Fortín de San Gerónimo and the San Gerónimo Powderhouse ), one structure ( El Escambrón Battery ) and the remnants of the San Antonio Bridgehead in El Boquerón .  \\n\nHistory\nThe area where the Advanced Defense Line is located today lies outside of the fortified wall system of San Juan , particularly in the eastern portion of the Puerta de Tierra sub-district of San Juan Antiguo in the Islet of San Juan. The San Gerónimo Powderhouse, built by military engineer Thomas O\\'Daly, dates to at least 1769. This powder warehouse is located in modern-day Luis Muñoz Rivera Park , and it has served many purposes throughout its history from a general warehouse to a history museum to a zoo.  \\n\nAlthough the city walls of San Juan date to 1634, the eastern portion of the Islet of San Juan was militarily unprotected between 1595 - 1598 when Sir Francis Drake and George Clifford, the 3rd Earl of Cumberland respectively attacked the islet until at least 1797 when the British attacked during the Battle of San Juan under the command of Sir Ralph Abercromby and Sir Henry Harvey , at the time of the Coalition Anglo-Spanish War .  Although the Spanish and Puerto Rican troops were victorious, this event led to the re-fortification of El Boquerón in the eastern end of Puerta de Tierra.  \\n\nThe San Gerónimo Fortress was built after the British attack in the spot of a battery site known as the El Boquerón Battery, which provided southern fire assistance to the northern El Escambrón Battery . Another battery was built nearby at the site of the modern-day San Antonio Bridge which in the 19th century provided rail connection between Old San Juan and Santurce . Today the San Gerónimo Fortress is located adjacent to the grounds of the Caribe Hilton Hotel .  \\n\nGallery\nReferences",
+    "relevant_links": [
+        "https://www.discoverpuertorico.com/profile/el-boqueron/6212",
+        "https://en.wikipedia.org/w/index.php?title=L\\xc3\\xadnea_Avanzada&oldid=1240271373",
+        "https://www.discoverpuertorico.com/profile/fortin-de-san-jeronimo-del-boqueron/8565",
+        "https://en.wikipedia.org/wiki/línea_avanzada"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.462841,
+            -66.084199
+        ],
+        "title": "Línea Avanzada",
+        "type": "Point"
+    },
+    "categories": [
+        "Culture",
+        "Wildlife",
+        "Luxury & Resorts",
+        "Outdoor",
+        "Family-Friendly",
+        "Festivals & Events"
+    ]
+}

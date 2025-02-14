@@ -1,0 +1,22 @@
+{
+    "main_content": "Contents\nEl Parterre\nEl Parterre is a landscaped park in Aguadilla, Puerto Rico , that was built in 1851. The park encloses the Ojo de Agua ( lit. \\' water eye \\' , Spanish for \\' spring \\' or \\'water source\\'), also referred to as Manantial Ojo de Agua ,  a natural spring which was a source of water for Spanish soldiers, and the source of a small rivulet locally called Chico River (\\'little river\\') which empties into the Aguadilla Bay.  \\n\nThe park is located in downtown Aguadilla and, in addition to the Ojo de Agua, it commemorates historic figures from the history of Aguadilla such as poet José de Diego.  \\n\nHistory\nBefore the establishment of El Parterre, the Ojo de Agua served as a water source for the first European settlers of modern-day Aguadilla. Before the founding of Aguadilla, the site around the water source was used by Sir Francis Drake as a resupplying base in 1595. The spring kept being used as a primary water source for Spanish soldiers and later on by the first European settlers of the region between the 16th and 18th centuries, who named the new town San Carlos de La Aguadilla partially after the Ojo de Agua (Aguadilla is also the diminutive of Aguada , the name of the older town located directly to the south). The site was also visited and mentioned by the Benedictine monk and historian Fray Inigo Abad y La Sierra , who described it as a site of great beauty.  \\n\nThe first foundations of El Parterre were established by German engineer Enrique Hau (Heinrich Hau) who built a mortar and stone enclosure around the spring and a shallow brick pool and stone channel along the stream in 1852. The Puente de la Reina (\\'the Queen\\'s Bridge\\') was added to the plaza by orders of Spanish magistrate Adolfo Ruiz in 1865, and the rest of the park was completed in 1882, by then mayor Don Ramón Méndez de Arcay.  \\n\nThe park and spring were listed on the U.S. National Register of Historic Places in 1986,   and on the Puerto Rico Register of Historic Sites and Zones in 2000.  \\n\nGallery\nSee also\nReferences\nExternal links\n\\n\nThis article about a property in Puerto Rico on the National Register of Historic Places is a stub . You can help Wikipedia by expanding it .\nThis article about a Puerto Rican building or structure related topic is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=El_Parterre&oldid=1240118134",
+        "https://ceb.wikipedia.org/wiki/El_Paterre",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://en.wikipedia.org/w/index.php?title=El_Parterre&action=edit"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.432083,
+            -67.154279
+        ],
+        "title": "El Parterre",
+        "type": "Point"
+    },
+    "categories": [
+        "Outdoor",
+        "Family-Friendly",
+        "Culture"
+    ]
+}

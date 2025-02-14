@@ -1,0 +1,20 @@
+{
+    "main_content": "Contents\nParque del Litoral\nParque Litoral Israel \"Shorty\" Castro is a park located in the city of Mayagüez, Puerto Rico . It is commonly named \"Parque del Litoral\".\\n\nFeatures\nThe park was created after the city was selected to host the 2010 Central American and Caribbean Games .  Of all the construction projects built to prepare the city for the games the park was created with the intention of becoming the main legacy for the city.\\n\nThe park runs for 2.54 km with the Mayagüez Bay on one side and the José González Clemente Avenue on the other.  The entire park covers an area of about forty two acres.  The park consist of different sections.  In its northern end beginning in the Yagüez River is the \"Central American Plaza\" and an open-air amphitheater.   In its southern end the parks meets up with the Parque Infantil del Milenio, and the new José Antonio Figueroa Athletics Stadium and the Isidoro García Stadium .\\n\nPlanning and construction\nThe park was designed by Bonnin Orozco Architectural Firm and Local Office Landscape Architecture over a year and a half period from January 2006 to July 2007.   Later after winning the public bids for the project, construction began in December 2007 and ended in 2010.  The project cost approximately $19,429,550 and was financed by the Government of Puerto Rico.  \\n\nThe project was constructed by Ferrovial Agroman, S.A. While the structural design was in charge of the engineers Nelson Rodríguez and Jaime R. Roberts.  \\n\nDedication\nPuerto Rican Public Law 186 (2010) honored beloved local comedian and musician Shorty Castro by naming the newly constructed shoreline park after him.  \\n\nAwards\nThe park won three awards in 2010 of the XIX Edition of the \"Obras Cemex\" Award in the categories of Infrastructure, sustainability and coherency with accessibility.  It is the first time of this competition that the same project wins both sustainability and coherency with accessibility awards.  The judges considered many factors including: the water canals that used to be contaminated are now positive element to the area.  Also light contamination was eliminated in consideration to sea turtles and local trees were planned.  \\n\nSee also\nReferences\n18°12\\xe2\\x80\\xb201.50\\xe2\\x80\\xb3N 67°09\\xe2\\x80\\xb210.99\\xe2\\x80\\xb3W ﻿ / ﻿ 18.2004167°N 67.1530528°W ﻿ / 18.2004167; -67.1530528 \\n",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Parque_del_Litoral&oldid=1105684753",
+        "https://en.wikipedia.org/wiki/parque_del_litoral"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.2004167,
+            -67.1530528
+        ],
+        "title": "Parque del Litoral",
+        "type": "Point"
+    },
+    "categories": [
+        "Outdoor",
+        "Family-Friendly",
+        "Culture"
+    ]
+}

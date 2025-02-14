@@ -1,0 +1,18 @@
+{
+    "main_content": "Contents\nPuente Blanco\nThe Puente Blanco (English: White Bridge ) is a historic railway bridge that spans hundred and fifty feet deep and thirty six metres wide gorge across the  Quebrada Mala Canyon, near Quebradillas, Puerto Rico . The bridge is the only reinforced concrete bridge in the area and the highest of its kind in Puerto Rico.  It was built in 1922 by the American Railroad Company to replace a 1907 steel bridge  as part of the construction of the national railway system that connected the island during the first half of the twentieth century. It was built on a concrete platform that held the existing steel bridge without interrupting the passage of the railway.  The new bridge could hold two locomotives of 84 tons each. It was designed by Etienne Totti from Yauco who was the head engineer for the company.    The bridge was  restored by the municipality of Quebradillas, unfortunately as part of the repair the base was widened altering the character of the structure and hindering the view of the bridge.  It was listed on the National Register of Historic Places in 1984 and on the Puerto Rico Register of Historic Sites and Zones in 2000.   \\n\nSee also\nReferences\n\\n\nThis article about a property in Puerto Rico on the National Register of Historic Places is a stub . You can help Wikipedia by expanding it .\nThis article about a Puerto Rican building or structure related topic is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Puente_Blanco&action=edit",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://en.wikipedia.org/w/index.php?title=Puente_Blanco&oldid=1246577984",
+        "https://es.wikipedia.org/wiki/Puente_Blanco"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.486115,
+            -66.926088
+        ],
+        "title": "Puente Blanco",
+        "type": "Point"
+    },
+    "categories": []
+}

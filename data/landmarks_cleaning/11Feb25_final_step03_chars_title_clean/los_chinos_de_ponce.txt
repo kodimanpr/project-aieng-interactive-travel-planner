@@ -1,0 +1,19 @@
+{
+    "main_content": "Contents\nLos Chinos de Ponce\n\\n\nLos Chinos de Ponce (English: \"The Chinesemen of Ponce\" ), formally King\\'s Cream , is an Ice cream parlor located at Calle Marina 9322 in the city of Ponce , Puerto Rico , in front of the town square , Plaza Degetau , opposite the historic Parque de Bombas . Critics have called the site \"a Puerto Rican institution\" and its ice cream \"the Caribbean\\'s best.\"    It has also been called \"Puerto Rico\\'s most famous ice cream stand.\"  Another critic called it \"[the reason] for which I\\'ll always remember Ponce.\"  \\n\nHistory\nTheir owners/founders were Alfredo Louk, originally from Guangzhou, China (Canton in Spanish), and his wife Violeta Chang de Louk, a Cuban woman of Chinese immigrant parents. The couple had fled the Fidel Castro government and established themselves in Ponce in 1963.  \\n\nThey opened the first King\\'s Cream store in 1964.   It was located at 61 Calle Vives , between Calle Union and Calle Atocha .  A second outlet of the same company opened three blocks away across Plaza Las Delicias on Calle Marina a few years later.  \\n\nOffering\nThe store has an array of local flavors,  including pineapple , parcha (passion fruit), coconut , guanabana (soursop), tamarind , acerola , peanut , maize , and almond    in addition to the traditional vanilla and chocolate flavors.\\n\nSee also\nReferences\nFurther reading\nExternal links\n18°0\\xe2\\x80\\xb241.76\\xe2\\x80\\xb3N 66°36\\xe2\\x80\\xb248.49\\xe2\\x80\\xb3W ﻿ / ﻿ 18.0116000°N 66.6134694°W ﻿ / 18.0116000; -66.6134694 \\n",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Los_Chinos_de_Ponce&oldid=1240413229",
+        "https://en.wikipedia.org/wiki/los_chinos_de_ponce"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.0116,
+            -66.6134694
+        ],
+        "title": "Los Chinos De Ponce",
+        "type": "Point"
+    },
+    "categories": [
+        "Shopping",
+        "Culture"
+    ]
+}

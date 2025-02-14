@@ -1,0 +1,19 @@
+{
+    "main_content": "Contents\nParque Lineal Veredas del Labrador\n\\n\nPhase I : from N 18.00841, W 66.60625 to N 17.99086 W 66.59702 \\nand from N 18.00339 W 66.59357 to N 17.99086 W 66.59702 \\n Phase II : from N 18.00811 W 66.60674 to N 17.96898 W 66.60079 \\n\nThe Parque Lineal Veredas del Labrador , also known as Parque Lineal de Ponce ,  Veredas del Labrador ,  or just Parque Lineal , is a passive park in Ponce, Puerto Rico .  The park links to,  but it is different from, a neighboring park also currently under construction called Parque Ecológico Urbano .    The park runs along the Río Portugués and Río Bucaná rivers in the city of Ponce.\\n\nConstruction\nFunds for the park had already been allocated by the administration of Rafael Cordero Santiago in the summer of 1991.  The park is being built as part of the Ponce en Marcha plan. Construction started under the administration of mayor Francisco Zayas Seijo (2005-2009) when an injection of $18 million was received from the Government of Puerto Rico as a result of a 1998 Supreme Court decision, during the administration of mayor Churumba , which mandated the Government pay for infrastructure improvements in Ponce.       \\n\nPhases\nThe park consists of three main trenches built in three corresponding phases. Phase I runs for 3.8 km along the eastern bank of Río Portugués and along the western bank of Río Bucaná bordering the Julio Enrique Monagas Family Park . Phase II runs for 4.9 km along the western bank of Rio Portugues to the point where it feeds Rio Bucana, whence it runs along its left bank to the Caribbean Sea . Phase III runs parallel for 4 km along the eastern bank of Río Bucana. Phase I was completed in October 2011, and Phase II in May 2012  at a cost of $38.1 million.\\n\nDescription\nThe park runs in a general north-south axis about 500 meters east of the center of the city. It makes its way through areas next to some of the city\\'s landmarks, including Campo Atlético Charles H. Terry , Centro de Convenciones de Ponce (Complejo Ferial de Puerto Rico), and Parque Familiar Julio Enrique Monagas . It also brushes by the musical centers of the city - the residential communities of Bélgica and San Antón .  \\n\nCost\nThe entire project was estimated to cost $22 million  to build, with Phase I costing $4.5 million.  As of October 2011, phases II and III were being built at a cost of $18 million.  \\n\nReferences\nExternal links\n\\n",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Parque_Lineal_Veredas_del_Labrador&oldid=1246287229",
+        "https://en.wikipedia.org/wiki/parque_lineal_veredas_del_labrador"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.007819,
+            -66.606319
+        ],
+        "title": "Parque Lineal Veredas del Labrador",
+        "type": "Point"
+    },
+    "categories": [
+        "Outdoor",
+        "Family-Friendly"
+    ]
+}

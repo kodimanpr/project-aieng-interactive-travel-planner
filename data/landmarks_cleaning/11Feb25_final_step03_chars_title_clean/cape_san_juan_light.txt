@@ -1,0 +1,19 @@
+{
+    "main_content": "Contents\nCape San Juan Light\nCape San Juan Light ( Faro de Las Cabezas de San Juan ) is a historic lighthouse located on the northeastern part of the highest point of Cape San Juan in Fajardo, Puerto Rico . The lighthouse was constructed in 1880 and was officially lit on May 2, 1882. The original illuminating apparatus, not changed until after 1898, had an 18-mile (29 km) range and displayed a fixed white light which every three minutes flashed red.\\n\nThe lighthouse owned by the Puerto Rico Conservation Trust is part of the Las Cabezas de San Juan Nature Reserve .  The  316-acre (128 ha) reserve includes a bioluminescence bay, rare flora and fauna, various trails and boardwalks, and a scientific research center. Despite its small size, the reserve shelters seven different ecological systems, including beaches, lagoons, dry forest, coral reefs and mangroves.\\n\nIn 1898, the lighthouse played a major role in the Battle of Fajardo during the Puerto Rican Campaign of the Spanish-American War . The lighthouse was listed on the National Register of Historic Places by the United States government on October 22, 1981, and on the Puerto Rico Register of Historic Sites and Zones in 2000.  \\n\nIn 2001, under the National Historic Lighthouse Preservation Act , it became the first lighthouse to be transferred to a non-governmental organization in Puerto Rico.  \\n\nGallery\nSee also\nReferences\nExternal links",
+    "relevant_links": [
+        "https://es.wikipedia.org/wiki/Faro_de_Las_Cabezas_de_San_Juan",
+        "https://en.wikipedia.org/w/index.php?title=Cape_San_Juan_Light&oldid=1243635445",
+        "https://en.wikipedia.org/wiki/cape_san_juan_light"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.38111,
+            -65.61825
+        ],
+        "title": "Cape San Juan Light",
+        "type": "Point"
+    },
+    "categories": [
+        "Outdoor"
+    ]
+}

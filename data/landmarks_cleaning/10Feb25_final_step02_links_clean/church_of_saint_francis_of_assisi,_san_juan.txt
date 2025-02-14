@@ -1,0 +1,20 @@
+{
+    "main_content": "Contents\nChurch of Saint Francis of Assisi, San Juan\nThe Church of Saint Francis of Assisi  is a historic Catholic parish church located in the San Francisco sub-barrio of Old San Juan in San Juan, Puerto Rico . The church has gone numerous transformations throughout its history and its original brick and masonry structure can still be admired. The church is also renowned for its crypt which is opened to visitors and at some point it contained the remains of Puerto Rican Impressionist painter Francisco Oller .  \\n\nHistory\nThe original Church of Saint Francis of Assisi was originally built by the Third Order of Franciscans in 1756 in what is today San Francisco Square  in front of the contemporary church. The modern church was originally an expansion of the original church, which went through numerous transformations after its construction, and it dates to 1876. The mural at the church\\'s altar dates to the 1940s. The church and its mural were meticulously restored in 2007.  The church is open to visitors and still offers religious services.\\n\nGallery\nReferences\n18°27\\xe2\\x80\\xb258.5\\xe2\\x80\\xb3N 66°6\\xe2\\x80\\xb248.5\\xe2\\x80\\xb3W ﻿ / ﻿ 18.466250°N 66.113472°W ﻿ / 18.466250; -66.113472 \\n",
+    "relevant_links": [
+        "https://www.lonelyplanet.com/puerto-rico/san-juan/attractions/iglesia-san-francisco-de-asis/a/poi-sig/1482587/358130",
+        "https://en.wikipedia.org/w/index.php?title=Church_of_Saint_Francis_of_Assisi,_San_Juan&oldid=1239460587",
+        "https://en.wikipedia.org/wiki/church_of_saint_francis_of_assisi,_san_juan"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.46625,
+            -66.113472
+        ],
+        "title": "Church Of Saint Francis Of Assisi, San Juan",
+        "type": "Point"
+    },
+    "categories": [
+        "Religion",
+        "Culture"
+    ]
+}

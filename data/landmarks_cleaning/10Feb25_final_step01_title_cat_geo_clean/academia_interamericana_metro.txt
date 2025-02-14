@@ -1,0 +1,20 @@
+{
+    "main_content": "Contents\nAcademia Interamericana Metro\nThe Academia Interamericana Metro (before Academia del Sagrado Corazón ) was founded in 1928 as a private and religious school in Santurce , Puerto Rico by Inter American University of Puerto Rico - Metro Cumpus.  The school provides elementary and high school education and is located in Avenida Ponce de León , at the Parada 19 in Santurce.\\n\nBefore foundation\nBefore the school was founded, a small school affiliated with the church had existed on the current parking lot grounds of the church.  This early school was housed in a wooden structure that was destroyed when Hurricane Philip struck Puerto Rico in 1928.  This early school had only been an elementary school that had added a new grade every year.  \\n\nReferences\nExternal links\n\\n\nThis Puerto Rican school-related article is a stub . You can help Wikipedia by expanding it .\nThis article about a Catholic school is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://arz.wikipedia.org/wiki/%D8%A7%D9%83%D8%A7%D8%AF%D9%8A%D9%85%D9%8A%D8%A7_%D8%AF%D9%8A%D9%84_%D8%B3%D8%A7%D8%AC%D8%B1%D8%A7%D8%AF%D9%88_%D9%83%D9%88%D8%B1%D8%A7%D8%B2%D9%88%D9%86",
+        "https://en.wikipedia.org/w/index.php?title=Academia_Interamericana_Metro&oldid=1166002895",
+        "https://en.wikipedia.org/w/index.php?title=Academia_Interamericana_Metro&action=edit"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.4485306,
+            -66.0721222
+        ],
+        "title": "Academia Interamericana Metro",
+        "type": "Point"
+    },
+    "categories": [
+        "Religion"
+    ]
+}

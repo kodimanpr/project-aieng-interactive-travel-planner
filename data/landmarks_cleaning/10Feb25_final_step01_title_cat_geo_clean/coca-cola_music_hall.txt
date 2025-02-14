@@ -1,0 +1,21 @@
+{
+    "main_content": "Contents\nCoca-Cola Music Hall\nThe Coca-Cola Music Hall is a live-music venue located at 250 Convention Boulevard in the neighborhood of Isla Grande in San Juan, Puerto Rico , managed by ASM Global . The Coca-Cola Music Hall is part of the T-Mobile District development at the Puerto Rico Convention District .  \\n\nHistory\nThe Coca-Cola Music Hall was developed as part of a major development plan around the Puerto Rico Convention Center . Initially developed as District Live!, it was developed as a major entertainment hub, which included two live music venues, an outdoor plaza with a performing stage, retail and eating spaces and a Caribbean Cinemas movie theater.   The area was officially opened as the T-Mobile District .\\n\nConstruction for the T-Mobile District, along with the Coca-Cola Music Hall, began in 2016 as part of a major redevelopment that would complement the Puerto Rico Convention Center that had opened in 2005. The Coca-Cola Music Hall was described as a top class live event venue that would feature a prestigious sound system, a 75x30 LED screen and its own in-house lighting equipment that would facilitate staging for future events. At a $40 Million investment, the Coca-Cola Music Hall\\'s construction was completed in 2020 but the opening of the venue, originally scheduled for March 2020, was held back until 2021 due to the COVID-19 pandemic . Naming rights were sold to The Coca-Cola Company in 2019 for an undisclosed amount, thus making it the first venue in Puerto Rico to sell its naming right.   \\n\nPuerto Rican singer, Ednita Nazario held the inaugural event at the venue to a sold-out performance.\\n\nOn March 16, 2022, the Coca-Cola Music Hall hosted the Miss World 2021 pageant, [ a ] which was originally scheduled on December 16, 2021 at the José Miguel Agrelot Coliseum . [ b ] \\n\nSee also\nNotes\nReferences\nExternal links",
+    "relevant_links": [
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://es.wikipedia.org/wiki/Coca-Cola_Music_Hall",
+        "https://en.wikipedia.org/w/index.php?title=Coca-Cola_Music_Hall&oldid=1227911191"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.45558938257177,
+            -66.09206388716557
+        ],
+        "title": "Coca-Cola Music Hall",
+        "type": "Point"
+    },
+    "categories": [
+        "Outdoor",
+        "Festivals & Events",
+        "Culture"
+    ]
+}

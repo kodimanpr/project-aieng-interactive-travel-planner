@@ -1,0 +1,18 @@
+{
+    "main_content": "Contents\nChurch of San Mateo de Cangrejos of Santurce\nChurch of San Mateo de Cangrejos of Santurce ( La Iglesia San Mateo de Cangrejos en Santurce ) was built in 1832 as a chapel. In 1896, state architect Pedro Cobreros , who designed other churches in Puerto Rico , reconstructed its facade and enlarged the interior.  \\n\nThe church differs from others in Puerto Rico because it is not related to a municipality\\'s urban center . When first built it was the parish church of Villa de Cangrejos but, as the metropolitan area expanded, Santurce was absorbed into San Juan, the capital of Puerto Rico . The building is located at the highest elevation of Santurce, which allows for a view of Santurce,  now a barrio of San Juan.\\n\nIts large facade has two towers with three stories in between. This feature is known as westwork ; (a west-facing entrance with towers, a vestibule, and a chapel). However, in the case of this church, its main entrance faces south. Curved steps lead up to the main entrance. The church, oriented from north to south, deviates from the traditional east to west orientation. On the west side of the church is a small parish house built in the same style as the church. The buildings are separated by a fence and a garden.\\n\nThe interior main floor follows the basilica form with two lateral naves which are divided by means of an arcade of six bays resting on pillars. Each bay has a small rectangular window.\\n\nOriginally, the nave had a flat wooden roof which has been replaced by one of exposed beams of concrete. The square apse is roofed with a dome that rests on pendentives .\\n\nThe floors are made of marble and have been placed diagonally from the main axis. The church had a choir floor which no longer exists and had four portholes , now closed, to illuminate the altar.\\n\nThe building has retained its original character. The two main changes since its original construction have been the expansion of the sacristy and the installation of an air conditioning system.  \\n\nSee also\nReferences",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Church_of_San_Mateo_de_Cangrejos_of_Santurce&oldid=1247445498",
+        "https://en.wikipedia.org/wiki/church_of_san_mateo_de_cangrejos_of_santurce"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.444791,
+            -66.0633748
+        ],
+        "title": "Church Of San Mateo De Cangrejos Of Santurce",
+        "type": "Point"
+    },
+    "categories": [
+        "Religion"
+    ]
+}

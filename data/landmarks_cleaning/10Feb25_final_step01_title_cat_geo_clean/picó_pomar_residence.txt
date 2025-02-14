@@ -1,0 +1,19 @@
+{
+    "main_content": "Contents\nPicó Pomar Residence\nThe Picó Pomar Residence , also known as Coamo Historic Museum , is a Spanish Colonial Neoclassical architecture building built in 1840, and is located on the main plaza of Coamo , Puerto Rico .  It was listed on the U.S. National Register of Historic Places in 1988.  \\n\nIt was purchased in 1863 by Don Clotilde Santiago, another merchant from Mallorca, who expanded it.  During the late 1800s it was one of Puerto Rico\\'s \"most active and important import-export merchandise distribution centers and the most important in the south-central region of Puerto Rico.\"  The business exported coffee, tobacco, and sugar, and imported manufactured goods from the U.S. and Europe.\\n\nIt was later purchased by Coamo\\'s Municipal Government and transformed into a museum.  \\n\nReferences\nExternal links\n\\n\nThis article about a property in Puerto Rico on the National Register of Historic Places is a stub . You can help Wikipedia by expanding it .\nThis article about a Puerto Rican building or structure related topic is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Pic%C3%B3_Pomar_Residence&action=edit",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://en.wikipedia.org/w/index.php?title=Pic\\xc3\\xb3_Pomar_Residence&oldid=1140577038"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.080239,
+            -66.356947
+        ],
+        "title": "Picó Pomar Residence",
+        "type": "Point"
+    },
+    "categories": [
+        "Culture"
+    ]
+}

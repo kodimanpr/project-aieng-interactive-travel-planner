@@ -1,0 +1,21 @@
+{
+    "main_content": "Contents\nColiseo Rubén Rodríguez\nColiseo Rubén Rodríguez (English: Ruben Rodríguez Coliseum) is an indoor sporting arena in Puerto Rico. The coliseum was dedicated to Rubén Rodríguez (former player of the Vaqueros de Bayamón ). It is located in Bayamón, Puerto Rico . It can accommodate up to 12,000 spectators and can be reached by the Tren Urbano system from the Deportivo station.\\n\nEvent uses and history\nThis coliseum had been used for events like:\\n\nIn 2021, the Rubén Rodríguez Coliseum received a $1.1 million allocation of funds for renovations.  \\n\nReferences\n\\n\nThis article about a sports venue in Puerto Rico is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Coliseo_Rub%C3%A9n_Rodr%C3%ADguez&action=edit",
+        "https://es.wikipedia.org/wiki/Coliseo_Rub%C3%A9n_Rodr%C3%ADguez",
+        "https://en.wikipedia.org/w/index.php?title=Coliseo_Rub\\xc3\\xa9n_Rodr\\xc3\\xadguez&oldid=1179507159",
+        "https://en.wikipedia.org/wiki/coliseo_rubén_rodríguez"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.3949583,
+            -66.15083
+        ],
+        "title": "Coliseo Rubén Rodríguez",
+        "type": "Point"
+    },
+    "categories": [
+        "Festivals & Events",
+        "Culture"
+    ]
+}

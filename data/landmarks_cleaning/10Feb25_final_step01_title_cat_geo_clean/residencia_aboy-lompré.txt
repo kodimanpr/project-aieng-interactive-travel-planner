@@ -1,0 +1,19 @@
+{
+    "main_content": "Contents\nResidencia Aboy-Lompré\nThe Aboy-Lompré Residence , also known as the Aboy House ( Casa Aboy ), is a historic house built in San Juan, Puerto Rico between 1910 and 1912 for the Aboy-Ferrer Family. The house now hosts several cultural and religious institutions including the Shaare Zedeck Synagogue and the Jewish Community Center of Puerto Rico ,  and a photojournalism museum.\\n\nDesign and architecture\nThe design for Casa Aboy was the product of various architects, among them Antonin Nechodoma , a disciple of Frank Lloyd Wright . Nechodoma, who moved to Puerto Rico around 1905, used a tropical style of architecture which became popular in the island. Puerto Rican architect Miguel Ferrer and engineer Francisco Pons also worked on the property\\'s design with the purpose of taking advantage of the north breezes and natural light of the location. Pons and Ferrer hired Frank B. Hatch, who had worked with Nechodoma, also put some of his ideas in the design of the house. Finally, Ramón Aboy Lompré made his own suggestions for the house, which he would inhabit.\\n\nThe house entrance features an ample house-wide porch with two posts, typical of Nechodoma\\'s style. The attic windows were altered to adorn the front of the house, and the tinted glass were bought on the Dominican Republic . Aside of the porch, it also features ornamental tiles, a double interior staircase, and the style of the roof are all Nechodoma\\'s trademarks. However, unlike his style, the house features big rooms, and a wide hallway.  \\n\nHistory\nAfter its construction, the Aboy Residence was a common setting for social gatherings. The building on the original lot, which extended from the avenue in front to what is now Martí Street, no longer exists. Upon the death of the original owner, the lot was divided between his two sons who built twin residences there. However, in 1986, after a legal battle over the inheritance, the house was closed. Shortly after, Ramón Aboy died.\\n\nToday only the house built by Don Ramón Aboy remains. It has been declared part of Puerto Rico\\'s \"cultural heritage,\" and it houses the Federación de Foto Periodistas de Puerto Rico (Federation of Photojournalists of Puerto Rico). The Federation helped fund Ramón Aboy Miranda , a direct descendant of the original owner.\\n\nIn 1989, the Aboy Residence was listed at the National Register of Historic Sites . The local government began the process of restoring it with the help of the Puerto Rican Institute of Culture , and Puerto Rico Legislative Assembly , among others. The house was reopened on May 5, 1994, for the purpose of free cultural activities. It also housed the Cultural Center Ramón Aboy Miranda, which is part of the Puerto Rican Institute of Culture.\\n\nThe street that runs past the residence also carries the name of the Aboy family because it was constructed on the lands that belonged to them. Distinguished members of this family have included the aforementioned Ramón Aboy Miranda (accomplished Puerto Rican photojournalist); José Ferrer (actor and first Puerto Rican to win an Academy Award ), and Carmen Aboy de Valldejuli (Puerto Rican cooking pioneer and author, with her husband Luis Valldejuli Duprey, of various Puerto Rican cookbooks).\\n\nReferences\nExternal links",
+    "relevant_links": [
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://en.wikipedia.org/w/index.php?title=Residencia_Aboy-Lompr\\xc3\\xa9&oldid=1202847472"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.454349,
+            -66.080696
+        ],
+        "title": "Residencia Aboy-lompré",
+        "type": "Point"
+    },
+    "categories": [
+        "Family-Friendly",
+        "Culture"
+    ]
+}

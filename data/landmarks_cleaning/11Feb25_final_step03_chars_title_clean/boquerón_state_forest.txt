@@ -1,0 +1,21 @@
+{
+    "main_content": "Contents\nBoquerón State Forest\nBoquerón State Forest  is one of the 20 forestry units that make up the public forest system of Puerto Rico . Despite its name, the Boquerón State Forest is not only located in Boquerón, Cabo Rojo but also spans almost 5,000 acres across the municipalities of Cabo Rojo , Lajas and Mayagüez .   The forest area is also known for its limestone cliffs, the lighthouse , and the salt flats which have been a source of salt since the pre-Hispanic era and, dating to 700 C.E., they are considered to be one of the oldest industries in the Americas .   \\n\nHistory\nBoquerón State Forest is one of the oldest forests in the Puerto Rico state forest system. It was proclaimed and designated a forest preserve in 1918 by Puerto Rico governor Arthur Yager with the purpose of preserving the mangrove biomes in Cabo Rojo and Lajas. Two additional segments, the Guayacán and Cuevas Keys, were added in 1943. The areas of the Molino mangroves, Los Morrillos (famous for its lighthouse ) and the Guaniquilla Lagoon and surrounding mangroves were annexed to the Boquerón State Forest in 1980.  \\n\nThe state forest today is managed by the Puerto Rico Department of Natural and Environmental Resources and extends across 9 management segments across three municipalities:   \\n\nThe 607-acre area designated since 1980 as the Cabo Rojo National Natural Landmark is also located within the state forest area.  \\n\nGeology\nThe forest is located in the Puerto Rico southern karst region and as such all of its geological formations contain limestone , particularly the Ponce limestone . It is often said that the reddish-colored limestone is what gives its name to the municipality and city of Cabo Rojo (Spanish for \"red cape\").  \\n\nEcology\nThe Boquerón Forest is ecologically important and it hosts several marine biomes in addition to the mangrove forests such as coral reefs and seagrass meadows which are important to threatened species such as the West Indian manatee .   \\n\nAll four species of mangrove are found within the forest, in addition to important indicator plant species such as the bullet tree ( Terminalia buceras ), the greenheart ( Colubrina arborenscens ) and the sea grape ( Coccoloba uvifera ). The endangered black cóbana ( Libidibia monosperma ) and the critically endangered bariaco ( Trichilia triacantha ) are also found and preserved in the forest.  \\n\nThe beaches around the forest are important sea turtle nesting sites, particularly for the leatherback sea turtle ( Dermochelys coriacea ), the hawksbill sea turtle ( Eretmochelys imbricada ) and the green sea turtle ( Chelonia mydas ). Additionally, the forest serves as one of the few habitats in the world where the endangered yellow-shouldered blackbird ( Yellow-shouldered blackbird ) can be found.   \\n\nRecreation\nThe forest\\'s main offices are located in Poblado de Boquerón , Cabo Rojo . Tours are available for large groups but must be reserved in anticipation by contacting the forest office at (787)-851-7260.  The reserve offers opportunities for hiking, fishing, kayaking, biking, snorkeling and birdwatching.  The area also contains numerous landmarks and tourist attractions such as the Los Morrillos Lighthouse , the salt flats, and the limestone cliffs and rock formations such as the Stone Bridge , and numerous beaches.    \\n\nGallery\nSee also\nReferences",
+    "relevant_links": [
+        "https://www.discoverpuertorico.com/profile/bosque-estatal-de-boqueron/8877",
+        "https://www.discoverpuertorico.com/profile/faro-los-morrillos-de-cabo-rojo/8058",
+        "https://en.wikipedia.org/w/index.php?title=Boquer\\xc3\\xb3n_State_Forest&oldid=1243116354",
+        "https://en.wikipedia.org/wiki/boquerón_state_forest"
+    ],
+    "geo_metadata": {
+        "coordinates": "Not Found",
+        "title": "Boquerón State Forest",
+        "type": "Point"
+    },
+    "categories": [
+        "Soft Adventure",
+        "Culture",
+        "Wildlife",
+        "Beach",
+        "Outdoor"
+    ]
+}

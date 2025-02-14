@@ -1,0 +1,23 @@
+{
+    "main_content": "Contents\nGuavate, Cayey, Puerto Rico\nGuavate is a barrio in the municipality of Cayey, Puerto Rico . Its population in 2010 was 1,870.    \\n\nHistory\nGuavate was in Spain\\'s gazetteers  until Puerto Rico was ceded by Spain in the aftermath of the Spanish-American War under the terms of the Treaty of Paris of 1898 and became an unincorporated territory of the United States . In 1899, the United States Department of War conducted a census of Puerto Rico finding that the combined population of Beatriz and Guavate barrios was 853.  \\n\nTourism\nGuavate is known for its \"pork highway\" (a stretch of Puerto Rico Highway 184 ) and was featured in the Discover Puerto Rico tourism campaign of 2019 for being a must-see place in Puerto Rico because of its tender pork cuisine , mild weather and scenic views of Sierra de Cayey .   The Carite State Forest is located nearby.\\n\nNotable residents\nJuan Santos Torres El Picapiedras de Guavate is a well-known Puerto Rican sculptor who lives in and has a workshop in Guavate.    \\n\nGallery\nSee also\nReferences\n\\n\nThis Cayey, Puerto Rico location article is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://www.discoverpuertorico.com/list/top-places-to-see-puerto-rico",
+        "https://en.wikipedia.org/w/index.php?title=Guavate,_Cayey,_Puerto_Rico&oldid=1192677407",
+        "https://en.wikipedia.org/w/index.php?title=Guavate,_Cayey,_Puerto_Rico&action=edit",
+        "https://es.wikipedia.org/wiki/Guavate",
+        "https://en.wikipedia.org/wiki/guavate,_cayey,_puerto_rico"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.132132,
+            -66.078516
+        ],
+        "title": "Guavate, Cayey, Puerto Rico",
+        "type": "Point"
+    },
+    "categories": [
+        "Outdoor",
+        "Food",
+        "Culture"
+    ]
+}

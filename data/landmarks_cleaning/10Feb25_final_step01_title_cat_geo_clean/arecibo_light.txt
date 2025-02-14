@@ -1,0 +1,24 @@
+{
+    "main_content": "Contents\nArecibo Light\nArecibo Lighthouse & Historical Park  is a historic lighthouse located in the city of Arecibo, Puerto Rico . It is also known as Los Morrillos Lighthouse and is as a monument to Puerto Rico\\'s complex history under Spanish colonial rule. Perched atop the Punta Morrillos headland since 1898 , this iconic lighthouse was the last constructed under Spain\\'s 300-year presence on the island. Despite the collapse of the Spanish Empire following the Spanish-American war that same year, the Arecibo Lighthouse endured.\\n\nHistory\nThe lighthouse was designed in the neoclassical architectural style popular during the 19th century, featuring a stately rectangular building with an attached hexagonal tower. The rectangular keeper\\'s house measures 40 feet 4 inches (12.29 m) wide by 84 feet 2 inches (25.65 m) long. The hexagonal tower is topped by a dome made of bronze that encases the working lantern room.\\n\nThe original lighting apparatus was a Fresnel lens of the third order, able to project a beam of light with a radius of 18 miles to warn approaching ships. In 1931, the lighthouse was modernized and converted to electric power. Today, the lantern houses a 190mm lens that emits a bright white flash repeating every five seconds.\\n\nAfter the light was automated in 1964, the unmanned structure fell victim to decay and vandalism without resident keepers. The original Fresnel lens was damaged in 1975 and completely destroyed in 1977.\\n\nAfter years of neglect, the Arecibo Lighthouse underwent a restoration in 2001 by a private company. It is now operated as the Arecibo Lighthouse and Historical Park, featuring interactive exhibits. Visitors can explore a replica Taíno Indian village, models of Columbus\\' legendary ships, slavery quarters, a pirate ship replica and cave, mini zoo, saltwater aquariums, playground, and water park. The lighthouse itself houses a museum with maritime artifacts, exhibits on the lighthouse\\'s engineering and history, and the Spanish-American War.\\n\nGallery\nSee also\nReferences\nExternal links",
+    "relevant_links": [
+        "https://ca.wikipedia.org/wiki/Far_d%27Arecibo",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://fr.wikipedia.org/wiki/Phare_d%27Arecibo",
+        "https://es.wikipedia.org/wiki/Faro_de_Arecibo",
+        "https://en.wikipedia.org/w/index.php?title=Arecibo_Light&oldid=1247502694"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.48196556,
+            -66.69870417
+        ],
+        "title": "Arecibo Light",
+        "type": "Point"
+    },
+    "categories": [
+        "Outdoor",
+        "Wildlife",
+        "Family-Friendly",
+        "Culture"
+    ]
+}

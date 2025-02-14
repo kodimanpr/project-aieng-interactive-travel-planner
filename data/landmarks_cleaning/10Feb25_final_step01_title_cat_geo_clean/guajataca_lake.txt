@@ -1,0 +1,27 @@
+{
+    "main_content": "Contents\nGuajataca Lake\nGuajataca Lake , or Lago Guajataca , is a reservoir of the Guajataca River created by the Puerto Rico Electric Power Authority in 1929. It is located between the municipalities of San Sebastián , Quebradillas , and Isabela in Puerto Rico ,   and receives most of its water from the Rio Guajataca and Rio Chiquito de Cibao rivers. The lake primarily functions as a water reservoir as well as for recreational activities such as boating and fishing.   Various species of fish such as peacock bass , largemouth bass , sunfish , perch , catfish , tilapia and threadfin shad can be found in the lake.  The Guajataka Scout Reservation partially borders the southern portion of the lake. The dam at Guajataca Lake experienced a structural failure on September 22, 2017, due to the hit from Hurricane Maria .    \\n\nThe reservoir is considered a touristic area.  \\n\nGuajataca Dam\nThe Guajataca Dam is an earthen dam  is currently used for irrigation and potable water purposes. A hydroelectric power station was built, but not longer in use.  The reservoir has a normal surface area of 1.321 square miles (3.42 square kilometres),   its length is 2.5 miles (4.0 kilometres), its maximum width is 1 mile (1.6 kilometres),  the mean depth is 12 m and the maximum depth is 27 m, located near the dam.  its maximum discharge is 28,954 cubic feet (819.9 cubic metres) per second. Its normal storage capacity is 34,050 acre-feet (42,000,000 cubic metres ), and its drainage basin is 24.58 square miles (63.7 km 2 ).   \\n\nThe construction of the dam was authorized by act 63 of the Legislature of Puerto Rico , known as the \"Isabela public irrigation law,\" approved April 19, 1919.  \\n\nThe dam was constructed starting in 1928. The reservoir had an initial storage capacity of 39,286 acre-feet (48 million cubic metres), but by 1999 (71 years later), the capacity had been reduced to 34,276 acre-feet (42 million cubic metres), as about 13% less, attributed to sediment erosion.  \\nThe surface area of the reservoir was 3.42 km 2 (1.32 sq mi) in 1999.  \\n\nAccording to the National Inventory of Dams , Guajataca Dam was designed by and is owned by the Puerto Rico Electric Power Authority.  \\n\nOn September 22, 2017, at 18:10 GMT, following Hurricane Maria , operators at Guajataca Dam announced that the dam\\'s spillway was failing at the northern end of the lake and it could result in the whole dam collapsing.  The National Weather Service a few minutes later urged all 70,000 residents in the flood area to be evacuated. The National Weather Service stated the dam was a \"life-threatening situation\".    \"It's a structural failure. I don't have any more details,\" Governor Ricardo Rosselló stated. \"We're trying to evacuate as many people as possible.\"  Rosselló ordered the Puerto Rico National Guard and the Police to help assist in the evacuation effort downstream.  The dam lies across the Guajataca River to form a reservoir that can hold roughly 11 billion gallons of water.  \\n\nAs of September 2017 [update] , the dam was last inspected on October 23, 2013.  \\n\nThe first phase of repairs to avoid the threat of flooding were completed on November 17, 2017. Since then about 10,000 residents, including farmers, who depend on the waters of the reservoir, have been struggling with the rationing of water. There is confusion and little transparency as to how the issue is being handled. Final repairs will be ongoing, until 2028.   \\n\nGallery\nSee also\nReferences",
+    "relevant_links": [
+        "https://www.discoverpuertorico.com/profile/refugio-vida-silvestre-embalse-guajataca/7845",
+        "https://hu.wikipedia.org/wiki/Guajataca-t%C3%B3",
+        "https://de.wikipedia.org/wiki/Guajataca-Stausee",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://it.wikipedia.org/wiki/Lago_Guajataca",
+        "https://puertorico.com.pr/guajataca-lake/",
+        "https://en.wikipedia.org/w/index.php?title=Guajataca_Lake&action=edit",
+        "http://www.recursosaguapuertorico.com/hidroelectricas-fotos.html",
+        "https://en.wikipedia.org/w/index.php?title=Guajataca_Lake&oldid=1224064668",
+        "https://ceb.wikipedia.org/wiki/Lago_de_Guajataco",
+        "https://es.wikipedia.org/wiki/Lago_Guajataca"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.3975,
+            -66.92389
+        ],
+        "title": "Guajataca Lake",
+        "type": "Point"
+    },
+    "categories": [
+        "Outdoor"
+    ]
+}

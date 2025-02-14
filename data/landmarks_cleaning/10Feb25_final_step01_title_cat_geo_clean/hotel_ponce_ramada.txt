@@ -1,0 +1,23 @@
+{
+    "main_content": "Contents\nPonce Plaza Hotel & Casino\n\\n\nAntonio Muñoz Bermúdez, CEO  \\n\nThe Ponce Plaza Hotel & Casino , formerly Ponce Ramada Hotel and Ponce Plaza Ramada Hotel , is a five-story hotel in Ponce, Puerto Rico . The hotel opened in the summer of 2009 and is known for the historic value of its structure: its main entrance is a historic colonial structure known as \"Casa Saurí\" (Saurí House). In February 2013, the hotel expanded its facilities to include a casino , a cocktail lounge , and a 4-story, 200-car parking garage .  On 1 July 2014, the owners left the Ramada namesake franchise and renamed the hotel Ponce Plaza Hotel & Casino .  \\n\nLocation and features\nThe hotel is located in the Ponce Historic Zone . It has two major buildings. The first building facing Plaza Muñoz Rivera is the historic Casa Saurí structure and it houses six colonial-style rooms plus the hotel\\'s Lola Eclectic Cuisine restaurant. The rear building located on the southeast corner of Calle Reina and Calle Mendez Vigo is a modern four-story structure housing 64 additional guest rooms as well as an indoor parking garage on the first floor and a fitness center on the fourth floor.   There is also an outdoor swimming pool.  \\n\nDesign\nThe hotel was designed in 2006-2009 by architects Fernando Bonnín and Javier Bonnín of Ponce, Puerto Rico.  \\n\nHistory\nThe historic 1882 Casa Saurí-Rubert  was meticulously rebuilt to accommodate the hotel.\"  On the first floor of this Casa Saurí building the hotel now houses its front desk , lobby, conference room/breakfast room, and restaurant. The second floor accommodates six colonial-style guest rooms. These six rooms are all designed to follow 19th century historic themes.  The hotel was built with incentives under Law 212 of the Commonwealth.  Félix Sauri y Vivas was a Ponce businessman and hacienda holder  and mayor of Ponce in 1895.  Casa Sauri is said to be the third oldest residence still standing in Ponce.  \\n\nRe-construction\nMunoz Holdings invested $15 million in the restoration and development of the original Casa Sauri property and development of the hotel\\'s modern 5-story tower.  \\n\nExpansion\nIn August 2011, hotel owners announced plans to enlarge the hotel with the addition of a casino , a large conference room , a second restaurant, and 150 additional parking spaces. The plans called for the development of the property immediately to the south of the current historic Casa Saurí, a property which also faces Plaza Muñoz Rivera. The new casino would boast 9,500 square feet of space, and the new conference rooms would be able to accommodate 200 people in a space of 6,000 square feet.  The planned parking garage opened two years later, in 2013.  The casino opened in February 2013, together with the 4-story, 200-car parking garage .  \\n\nSee also\nReferences\nExternal links",
+    "relevant_links": [
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://es.wikipedia.org/wiki/Hotel_Ramada_de_Ponce",
+        "https://en.wikipedia.org/w/index.php?title=Ponce_Plaza_Hotel_%26_Casino&oldid=1185854730"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.012111,
+            -66.614667
+        ],
+        "title": "Hotel Ponce Ramada",
+        "type": "Point"
+    },
+    "categories": [
+        "Culture",
+        "Luxury & Resorts",
+        "Outdoor",
+        "Nightlife",
+        "Food"
+    ]
+}

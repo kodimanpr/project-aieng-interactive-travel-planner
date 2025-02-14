@@ -1,0 +1,19 @@
+{
+    "main_content": "Contents\nCardona Residence\nThe Cardona Residence ( Residencia Cardona ) is a historic house in Aguadilla , Puerto Rico . It was built in 1913. It is \"one of the most interesting and best preserved\" houses in Aguadilla from its era.  \\n\nThe house was listed on the U.S. National Register of Historic Places in 1985,  and on the Puerto Rico Register of Historic Sites and Zones in 2000.  In 2005 it was acquired as the new home of the Museum of Art of Aguadilla and the Caribbean . It remains in use by the museum as of 2016.  \\n\nGallery\nSee also\nReferences\nExternal links\n\\n\nThis article about a property in Puerto Rico on the National Register of Historic Places is a stub . You can help Wikipedia by expanding it .\nThis article about a Puerto Rican building or structure related topic is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Cardona_Residence&action=edit",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://en.wikipedia.org/w/index.php?title=Cardona_Residence&oldid=1240118316"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.42912,
+            -67.154772
+        ],
+        "title": "Cardona Residence",
+        "type": "Point"
+    },
+    "categories": [
+        "Culture"
+    ]
+}

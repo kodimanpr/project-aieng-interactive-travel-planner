@@ -1,0 +1,21 @@
+{
+    "main_content": "Contents\nQuebradillas barrio-pueblo\nQuebradillas barrio-pueblo is a barrio and the administrative center ( seat ) of Quebradillas , a municipality of Puerto Rico. Its population in 2010 was 3,103.     \\n\nAs was customary in Spain, in Puerto Rico, the municipality has a barrio called pueblo which contains a central plaza, the municipal buildings (city hall), and a Catholic church. Fiestas patronales (patron saint festivals) are held in the central plaza every year.   \\n\nThe central plaza and its church\nThe central plaza, or square, is a place for official and unofficial recreational events and a place where people can gather and socialize from dusk to dawn. The Laws of the Indies , Spanish law, which regulated life in Puerto Rico in the early 19th century, stated the plaza\\'s purpose was for \"the parties\" (celebrations, festivities) , and that the square should be proportionally large enough for the number of neighbors . These Spanish regulations also stated that the streets nearby should be comfortable portals for passersby, protecting them from the elements: sun and rain.  \\n\nLocated across the central plaza in Quebradillas barrio-pueblo is the Parroquia San Rafael Arcángel , a Roman Catholic church which was inaugurated in 1950. The first church at the site was a wooden construction completed in 1823. The second church made of mampostería (rubblework) was built in 1828, however, it was badly damaged by the 1918 San Fermín earthquake and was demolished soon thereafter.  \\n\nHistory\nQuebradillas barrio-pueblo was in Spain\\'s gazetteers  until Puerto Rico was ceded by Spain in the aftermath of the Spanish\\xe2\\x80\\x93American War under the terms of the Treaty of Paris of 1898 and became an unincorporated territory of the United States . In 1899, the United States Department of War conducted a census of Puerto Rico finding that the population of Quebradillas barrio was 1,166.  \\n \\n\nSectors\nBarrios (which are, in contemporary times, roughly comparable to minor civil divisions )  in turn are further subdivided into smaller local populated place areas/units called sectores ( sectors in English). The types of sectores may vary, from normally sector to urbanización to reparto to barriada to residencial , among others.      \\n\nThe following sectors are in Quebradillas barrio-pueblo:  \\n\nResidencial Jardines del Carmen , and Urbanización La Ceiba .\\n\nSee also\nReferences",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Quebradillas_barrio-pueblo&oldid=1192949091",
+        "https://es.wikipedia.org/wiki/Quebradillas_(Quebradillas)",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://ceb.wikipedia.org/wiki/Quebradillas_Barrio-Pueblo"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.472467,
+            -66.938323
+        ],
+        "title": "Quebradillas Barrio-pueblo",
+        "type": "Point"
+    },
+    "categories": [
+        "Religion",
+        "Culture"
+    ]
+}

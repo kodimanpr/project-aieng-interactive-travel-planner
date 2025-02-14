@@ -1,0 +1,19 @@
+{
+    "main_content": "Contents\nCasa Nemesio Canales\nThe Rosario Canales house  is a museum dedicated to founder and first mayor of Jayuya Rosario Canales in Coabey , in the municipality of Jayuya, Puerto Rico . The museum grounds also contain the El Cemí Museum  and views of Los Tres Picachos mountain on the Cordillera Central .\\n\nNemesio Canales Museum\nThe museum  is dedicated to the life and work of Puerto Rican writer and politician Nemesio Canales , who also participated in the Grito de Lares revolt in 1868. The museum replicates the original structure and its interiors, and in addition of being dedicated to Nemesio Canales it also has several displays to different members of the Canales family, including Rosario Canales, founder and first mayor of Jayuya . The original house, built in the late 1800s, was deteriorated and destroyed by hurricanes.  \\n\nEl Cemí Museum\nEl Cemí museum  is dedicated to the native Taino culture, particularly the zemi and other artifacts found in the area. This museum is housed in a zemi-shaped building located in the grounds of the Canales house.  Other displayed items include a carved wooden tongue depressor that was used in ritual vomiting ceremonies. There is also a mural depicting a series of petroglyphs that the Taíno are believed to have created.  \\n\nReferences\n18°12\\xe2\\x80\\xb234\\xe2\\x80\\xb3N 66°33\\xe2\\x80\\xb239\\xe2\\x80\\xb3W ﻿ / ﻿ 18.20954°N 66.56073°W ﻿ / 18.20954; -66.56073 \\n",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Casa_Nemesio_Canales&oldid=1145544700",
+        "https://en.wikipedia.org/wiki/casa_nemesio_canales"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.20954,
+            -66.56073
+        ],
+        "title": "Casa Nemesio Canales",
+        "type": "Point"
+    },
+    "categories": [
+        "Family-Friendly",
+        "Culture"
+    ]
+}

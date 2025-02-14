@@ -1,0 +1,21 @@
+{
+    "main_content": "Contents\nSupreme Court Building (Puerto Rico)\n\\n\\n\nThe Supreme Court Building in San Juan, Puerto Rico is an architecturally significant Modern -style building and the seat of the Supreme Court of Puerto Rico . It was built in 1955 and listed on the U.S. National Register of Historic Places in 2006.  Its modern architecture reflects changes to the Court after the establishment of Puerto Rico\\'s new Commonwealth Status in 1952. The main fa\\xc3\\xa7ade is oriented toward the sites of the other two government\\'s branches: the Capitol and La Fortaleza (the Governor\\'s Mansion).  \\n\nIt is a concrete building designed by Puerto Rican firm Toro-Ferrer with design consultation by Charles H. Warner Jr. and Harold Eliot Leeds.  The building projects over a reflecting pool, helping it to blend with the park surroundings in Luis Muñoz Rivera Park .  \\n\nThe court building was opened in 1956 with U.S. Supreme Court chief justice Earl Warren as the main speaker.  The building has been described as \"extroverted...light and airy\".  Its circular courtroom was a unique element meant to symbolize the equality of people.   \\n\nThe Supreme Court in Puerto Rico is the highest court in the commonwealth, and is the successor to court first established by the Spanish in 1832.  \\n\nSee also\nReferences\n\\n\nThis article about a property in Puerto Rico on the National Register of Historic Places is a stub . You can help Wikipedia by expanding it .\nThis article about a Puerto Rican building or structure related topic is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Supreme_Court_Building_(Puerto_Rico)&action=edit",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://en.wikipedia.org/w/index.php?title=Supreme_Court_Building_(Puerto_Rico)&oldid=1141579738"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.463189,
+            -66.088217
+        ],
+        "title": "Supreme Court Building (puerto Rico)",
+        "type": "Point"
+    },
+    "categories": [
+        "Outdoor",
+        "Family-Friendly",
+        "Culture"
+    ]
+}

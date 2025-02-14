@@ -1,0 +1,21 @@
+{
+    "main_content": "Contents\nLuis A. \"Wito\" Morales Park\nThe Luis A. \"Wito\" Morales Park  is a park in the municipality of Ponce, Puerto Rico . It is part of the Lake Cerrillos Dam recreational area.\\n\nLocation\nThe park is located at the southern end of Lake Cerrillos , immediately south of the Cerrillos Dam, in Barrio Maragüez .  It can be reached via Puerto Rico Highway 139 .\\n\nIt is surrounded by mountains, abundant in vegetation, and it is at the center of the Cerrillos State Forest , which is located 4 miles northeast of the city of Ponce.  \\n\nName\nThe park was so named after an Act of the Legislature of Puerto Rico on 12 December 2006, (No. 262, \\xc2 7\\xc2 7 1, 2.)  It was named in honor of \"Wito\" Morales , mayor of Ponce from 1972 to 1976 and former Puerto Rico senator. Wito Morales was also president of the Ponce Municipal Assembly from 1989 to 2005.  Prior to his years in politics, Wito Morales was as sportscaster for the Ponce Lions professional baseball team.  He had himself also played with the Lions from 1947 to 1953, and is recognized at the Tricentennial Park as well as at Ponce\\'s Sports Hall of Fame, the Francisco Pancho Coimbre Museum .  \\n\nHistory\nThe park was inaugurated in 2006.  It was built as part of the plans for the creation of the Cerrillos Dam .  The Wito Morales Park, together with the forest area in the vicinity of the Cerrillos Dam occupies an area of some 200 cuerdas of land set aside for recreational purposes under an Executive Order.  \\n\nAmenities\nThis park includes basketball, \"beach\" volleyball and baseball facilities, a fresh water pond , an aquatic play yard, a children\\'s playground , and 20 large gazebos , most of them equipped with BBQ pits.  \\n\nGallery\nReferences\nExternal links",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Luis_A._%22Wito%22_Morales_Park&oldid=1195627450",
+        "https://en.wikipedia.org/wiki/parque_luis_a._wito_morales"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.0725667,
+            -66.5762139
+        ],
+        "title": "Luis A. \\\\",
+        "type": "Point"
+    },
+    "categories": [
+        "Outdoor",
+        "Family-Friendly",
+        "Culture",
+        "Beach"
+    ]
+}

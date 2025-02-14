@@ -1,0 +1,21 @@
+{
+    "main_content": "Contents\nWilliam Miranda Marín Botanical and Cultural Garden\n\\n\nThe William Miranda Marín Botanical and Cultural Garden also known as Botanical and Cultural Garden of Caguas is a botanical garden , archaeological site and natural reserve of about 235,800 m\\xc2\\xb2 of extension, which is located in the Cañabón neighborhood, of the autonomous municipality of Caguas , in Puerto Rico .   \\n\nLocation\nThis botanical garden is located near the main cities of the Island of Puerto Rico , just 30 minutes from San Juan .\\n\nBotanical and Cultural Garden of Caguas , Office of Sustainable Development, Autonomous Municipality of Caguas, Puerto Rico .\\nThe visiting hours are from Thursday to Sunday from 10:00 am to 4:00 pm.\\n\nHistory\nThe garden has several additional elements that define it as a multi-themed one since it is not only a botanical garden but also a zoo, historical, ecological and museum site.\\n\nThe Caguas Botanical and Cultural Garden works both as a nature reserve and as an archaeological area, as it houses historical ruins.\\n\nAmong the archaeological ruins stand out the old sugar mill known as the \" Hacienda San José\", also the reconstruction of a barrack of slaves, and important archaeological sites of the Indians taíno s that inhabited in Borikén , aboriginal name of Puerto Rico, with pieces dating from Pre-Columbian era to the times of Spanish colonization.\\n\nThis space contains part of all the Cagüeños and Puerto Ricans, as the essences of the Taínos, blacks and Spanish are added in its texture, the garden celebrates criollismo , the sum of the three races, in several of its educational areas.\\n\nCollections\nIn the botanical garden it exhibits tropical flora in all its exuberance and variety. At the same time it houses the fauna of this vegetation. Vegetable exhibits are arranged in the following areas:\\n\nEducational tours, trail hikes, publications and special activities are provided in all of these sections. It is a unique place to attend and have healthy fun and comprehensive learning.  \\n\nGallery\nSee also\nReferences",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=William_Miranda_Mar\\xc3\\xadn_Botanical_and_Cultural_Garden&oldid=1195930502",
+        "https://es.wikipedia.org/wiki/Jard%C3%ADn_Bot%C3%A1nico_y_Cultural_de_Caguas",
+        "https://en.wikipedia.org/wiki/william_miranda_marín_botanical_and_cultural_garden"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.24139,
+            -66.06167
+        ],
+        "title": "William Miranda Marín Botanical And Cultural Garden",
+        "type": "Point"
+    },
+    "categories": [
+        "Outdoor",
+        "Wildlife",
+        "Culture"
+    ]
+}

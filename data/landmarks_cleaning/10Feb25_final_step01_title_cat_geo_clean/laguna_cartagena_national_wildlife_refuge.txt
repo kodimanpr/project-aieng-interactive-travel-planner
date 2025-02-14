@@ -1,0 +1,21 @@
+{
+    "main_content": "Contents\nLaguna Cartagena National Wildlife Refuge\nThe Laguna Cartagena National Wildlife Refuge  is a 1043-acre National Wildlife Refuge in Lajas , Puerto Rico . It is part of the Caribbean Islands National Wildlife Refuge Complex .   \\n\nThe present lagoon is a remnant of what was once a large open expanse of water and one of the most important freshwater habitats for migrating waterfowl and aquatic birds in Puerto Rico . Due to agricultural practices, about 90 percent of the lagoon is covered with cattail . Intensive cattle grazing and sugar cane production have greatly altered the original landscape.\\n\nIn addition to the lagoon, there are uplands that include pastureland, abandoned sugar cane fields, and 263 acres (1.06 km 2 ) in the foothills of the Sierra Bermeja . These hills, geologically the oldest in the Caribbean , protect native forest with many endemic plant species. The area is a stopover for neotropical migrants and several species of waterbirds . The endangered yellow-shouldered blackbird and peregrine falcon have been reported on the refuge. \\n\nReferences\nThis article incorporates public domain material from websites or documents of the United States Fish and Wildlife Service .\\n\nExternal links",
+    "relevant_links": [
+        "https://ceb.wikipedia.org/wiki/Laguna_Cartagena_National_Wildlife_Refuge",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://es.wikipedia.org/wiki/Refugio_nacional_de_vida_silvestre_de_Laguna_Cartagena",
+        "https://en.wikipedia.org/w/index.php?title=Laguna_Cartagena_National_Wildlife_Refuge&oldid=1145558198"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.01389,
+            -67.10111
+        ],
+        "title": "Laguna Cartagena National Wildlife Refuge",
+        "type": "Point"
+    },
+    "categories": [
+        "Outdoor",
+        "Wildlife"
+    ]
+}

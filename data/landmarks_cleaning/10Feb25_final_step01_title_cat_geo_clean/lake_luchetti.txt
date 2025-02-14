@@ -1,0 +1,25 @@
+{
+    "main_content": "Contents\nLake Luchetti\nLake Luchetti   is a reservoir located in the municipality of Yauco, Puerto Rico , in the barrios of Naranjo and Vegas .  The lake was formerly known as the Vegas Lake ( Lago Vegas ) after the barrio it is located in. The lake was created at the junction of the Naranjo River and some minor streams with the Yauco River under Puerto Rico Electric Power Authority \\'s (PREPA) Yauco Project in 1959 and revitalized for further hydroelectric use in 1991.  The lake is named after Antonio S. Luchetti , a Puerto Rican engineer who was vital in the development of the hydroelectrical energy system in Puerto Rico.  \\n\nLuchetti Wildlife Refuge\nThe Luchetti Reservoir Wildlife Refuge ( Refugio de Vida Silvestre del Embalse Luchetti ) is a wildlife refuge and outdoors recreational area managed by the Puerto Rico Department of Natural and Environmental Resources (DRNA).  \\n\nLuchetti Reservoir Wildlife Refuge offers visitors opportunities for camping (at the Luchetti Camping Grounds) with facilities such as parking, restrooms, showers, gazebos with picnic areas, and ramps for boating.  Fishing is permitted in designated areas.  In addition to the camping site and lake, the area offers opportunities for outdoors activities such as hiking and swimming at Charco Piazza , a natural pool formed by waterfalls along the Duey River in barrio Duey .  This pool is great for swimming, and it is often visited when hiking nearby Pico Rodadero due to its proximity and location along PR-372 and PR-375 roads.  \\n\nSee also\nReferences",
+    "relevant_links": [
+        "https://www.discoverpuertorico.com/profile/lago-lucchetti-area-de-acampar/1723",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://www.descubrapuertorico.com/turismo/lago-luchetti-yauco-puerto-rico/",
+        "https://www.lonelyplanet.com/puerto-rico/yauco-around/attractions/lago-luchetti/a/poi-sig/1560635/1316101",
+        "https://www.discoverpuertorico.com/regions/west/yauco",
+        "https://en.wikipedia.org/w/index.php?title=Lake_Luchetti&oldid=1177506299"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.095,
+            -66.868
+        ],
+        "title": "Lake Luchetti",
+        "type": "Point"
+    },
+    "categories": [
+        "Outdoor",
+        "Wildlife",
+        "Soft Adventure",
+        "Family-Friendly"
+    ]
+}

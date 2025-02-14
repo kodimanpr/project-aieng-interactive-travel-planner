@@ -1,0 +1,21 @@
+{
+    "main_content": "Contents\nPuerto Rico National Library\nThe Puerto Rico National Library  is the national library of Puerto Rico . It was created in 1967 as the Biblioteca General de Puerto Rico (Puerto Rico General Library) by Joint Resolution No. 44 of the Puerto Rico Legislature.  It opened on April 11, 1973.  In 2003 it was renamed Biblioteca Nacional de Puerto Rico by Act 188 of August 17 of that year.  The library is ascribed to the Institute of Puerto Rican Culture .\\n\nThe Library shares its nineteenth-century classical building, (at one time the Bacardi Rum flagship factory [ citation needed ] ), with the General Archives of Puerto Rico . The Library\\'s specialized collections include the Dominican Collection of leather-bound religious books dating from the 16th-19th centuries, the Eugenio Maria de Hostos Collection, which includes 1,300 digitized manuscripts, and the private collection of Concha Meléndez , literary critic and former professor at the University of Puerto Rico .  \\n\nThe building is located in the Puerta de Tierra historic district on the Islet of San Juan . It faces the Luis Muñoz Rivera Park . It is fully air\\xe2\\x80\\x90conditioned and has free Internet access. The Library and Archives share a 119-seat amphitheater at street level where each one has its individual side desk, with an unobstructed view.  The building was listed on the National Register of Historic Places in 1976 under its former name, Carcel de Puerta de Tierra ,  and on the Puerto Rico Register of Historic Sites and Zones in 2000 under the name Archivo y Biblioteca General .  \\n\nReferences\nBibliography\nExternal links\n\\n\nThis article about a Puerto Rican building or structure related topic is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Puerto_Rico_National_Library&action=edit",
+        "https://en.wikipedia.org/w/index.php?title=Puerto_Rico_National_Library&oldid=1246937904",
+        "https://es.wikipedia.org/wiki/Biblioteca_Nacional_de_Puerto_Rico",
+        "https://en.wikipedia.org/wiki/puerto_rico_national_library"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.4638,
+            -66.0923
+        ],
+        "title": "Puerto Rico National Library",
+        "type": "Point"
+    },
+    "categories": [
+        "Outdoor",
+        "Family-Friendly"
+    ]
+}

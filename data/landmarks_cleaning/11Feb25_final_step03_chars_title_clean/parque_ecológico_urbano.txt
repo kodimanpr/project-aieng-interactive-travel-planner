@@ -1,0 +1,20 @@
+{
+    "main_content": "Contents\nUrban Ecological Park\n\\n\nThe Urban Ecological Park , also known as the Ponce Ecological Park , is a passive park in Ponce, Puerto Rico . The park was designed by Bonin Orozco Arquitectos  and was inaugurated on 19 September 2012.  The park is unique in that it was designed to create a \"green lung\" in the city by using ecological mindset in its entirety, from the construction materials used to the design and other areas as well. Except for one tree that got relocated within the project, the new park made use of all the existing trees and shrubs as they existed on the site prior to the development of the park.  \\n\nHistory\nDesign of the park was by Bonnin Orozco Arquitectos.  The municipality started construction on 10 March 2010.  By February 2012, 46% of the construction had been completed.  It was scheduled to open in August 2012,   and the inauguration date was set for 24 August 2012,  but due to Hurricane Isaac that week, it was postponed several weeks. The park was finally inaugurated on 19 September 2012.  It was inaugurated with the animation of various artists including Dagmar , Glenn Monroig , Jackeline Capó and \\xc3\\x81ngel \\xe2\\x80\\x98Cuco' Peña .  \\n\nCost\nThe initial cost of the park is $4.5 million.  The park will link to,  but it is different from, another park also currently under construction called Parque Lineal Veredas del Labrador .    In addition, there are plans to extend Parque Ecologico southward to connect to Parque de la Ceiba .  \\n\nFeatures\nThe park will have an amphitheater with room for 672 people, a waving path, two pavilions for exhibitions, and a 466-feet artificial river.  The park will link to Parque Lineal Veredas del Labrador and to Parque Julio Enrique Monagas .   \\n\nSignature project\nParque Ecológico Urbano is a project of Ponce Mayor María Meléndez Altieri . She has called the construction of the park one of the five \"signature\" projects of her administration.  \\n\nReferences\n\\n",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Urban_Ecological_Park&oldid=1246748614",
+        "https://en.wikipedia.org/wiki/parque_ecológico_urbano"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.012119833,
+            -66.60697
+        ],
+        "title": "Urban Ecological Park",
+        "type": "Point"
+    },
+    "categories": [
+        "Outdoor",
+        "Family-Friendly",
+        "Culture"
+    ]
+}

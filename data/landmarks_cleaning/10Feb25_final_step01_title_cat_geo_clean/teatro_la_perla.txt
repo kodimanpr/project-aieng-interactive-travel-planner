@@ -1,0 +1,23 @@
+{
+    "main_content": "Contents\nTeatro La Perla\n\\n\nTeatro La Perla is a historic theater in the city of Ponce, Puerto Rico . Inaugurated in 1864,  it is the second oldest theater of its kind in Puerto Rico,  but \"the largest and most historic in the Spanish-speaking Caribbean.\"   The theater was named La Perla in honor of the Virgin of Montserrat , known as \"The Pearl of the Mediterranean.\"    [ a ] It is located in barrio Tercero , in the Ponce Historic Zone .\\n\nDesign\nThe theater was designed in the 1860s by Juan Bertoli Calderoni (a Ponceño of Italian heritage resident of the city) and it bears a neoclassical structure with an impressive six-column entrance. The building was badly damaged by the 1918 earthquake . However, it was rebuilt in 1940 using the original plans and reopened in 1941 with better acoustics technology. It closed in 2006 for renovations and reopened on 14 March 2008.  \\n\nHistory\nTeatro La Perla was built under the initiative of Francisco Parra Duperón and Pedro Garriga in May 1864.  It was inaugurated on 28 May 1864 with the play La campana de la Almudaina of the Majorcan writer Juan Palou y Coll by the theatrical company of Segarra & Argente.  \\n\nTeatro La Perla served as a stage not only to give life to the theatrical artistic culture in the region, but it also served as a place of assembly for those who were dedicated to the social issues in Ponce and in Puerto Rico as a whole. It served this function both at the end of the Spanish regime and in Puerto Rico\\'s early years as a United States territory.  \\n\nIn this theater, in 1901, Frenchman Eduardo Hervet showed the first silent film ever to be run in Puerto Rico.  The theater\\'s first illumination technical director was Félix Juan Torres Ortiz.  \\n\nIt was significantly rebuilt by Lorenzo J. Vizcarrondo, an engineer, \"a few years before\" 1913, to make up for the deterioration it had suffered over years of less-than-complete upkeep.  It was again reconditioned between 1977 and 1979 at a cost of over $500,000.  After Hurricane Maria it closed for a year, reopening on 1 November 2019.  It was listed on the US National Register of Historic Places on 27 September 2021 (\"La Perla Auditorium and Public Library\") .   \\n\nCapacity and museum\nThe theater has a seating capacity of 1,047 and is now a regular venue for concerts , opera , plays , and various civic and educational activities such as school graduations.  The lobby of the theater has a small museum dedicated to the history of the building and past shows.\\n\nProminent events\nTeatro La Perla has been host to several significant events, among them:\\n\nSee also\nNotes\nReferences\nExternal links",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Teatro_La_Perla&oldid=1191356282",
+        "https://tr.wikipedia.org/wiki/La_Perla_Tiyatrosu",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://ca.wikipedia.org/wiki/Teatre_La_Perla",
+        "https://es.wikipedia.org/wiki/Teatro_La_Perla",
+        "https://hy.wikipedia.org/wiki/%D4%BC%D5%A1_%D5%8A%D5%A5%D5%BC%D5%AC%D5%A1_(%D5%A9%D5%A1%D5%BF%D6%80%D5%B8%D5%B6)",
+        "https://arz.wikipedia.org/wiki/%D9%85%D8%B3%D8%B1%D8%AD_%D9%84%D8%A7_%D8%A8%D9%8A%D8%B1%D9%84%D8%A7"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.012139,
+            -66.611757
+        ],
+        "title": "Teatro La Perla",
+        "type": "Point"
+    },
+    "categories": [
+        "Culture"
+    ]
+}

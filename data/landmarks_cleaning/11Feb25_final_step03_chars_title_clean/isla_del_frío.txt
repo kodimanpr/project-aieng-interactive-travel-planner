@@ -1,0 +1,20 @@
+{
+    "main_content": "Contents\nIsla del Frío\n\\n\nIsla del Frío is a small uninhabited island off the southern coast of Puerto Rico .  Together with Caja de Muertos , Gatas , Morrillito , Ratones , Cardona , and Isla de Jueyes , Isla del Frío is one of seven islands ascribed to the municipality of Ponce .    Like Isla de Jueyes , the island is considered part of barrio Vayas .  \\n\nLocation\nThe island, sometimes erroneously considered a key (or, cay ), and sometimes erroneously spelled Isla del Erio ,  is located approximately 980 feet (300 m) south of the mainland Puerto Rican shore at the mouth of Rio Inabon .  The closest populated point on the mainland is Hacienda Villa Esperanza, located in barrio Vayas ; however the closest geographic point on the mainland is barrio Capitanejo in Ponce. The island has an area of 2.89 cuerdas  (one cuerda equals 0.97 acres  ). It is located at latitude 17.96444° and longitude -66.55639°.  \\n\nGeography and climate\nThe island is a small 6-foot flat-topped island and consists mostly of brush.  The climate is dry and the island supports dry forest .\\n\nNature reserve\nThough not officially a nature reserve, the island is administered by the Puerto Rico Department of Natural and Environmental Resources.\\n\nReferences",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Isla_del_Fr\\xc3\\xado&oldid=1115301253",
+        "https://es.wikipedia.org/wiki/Isla_del_Fr%C3%ADo",
+        "https://en.wikipedia.org/wiki/isla_del_frío"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            17.96194,
+            -66.55611
+        ],
+        "title": "Isla Del Frío",
+        "type": "Point"
+    },
+    "categories": [
+        "Outdoor",
+        "Beach"
+    ]
+}

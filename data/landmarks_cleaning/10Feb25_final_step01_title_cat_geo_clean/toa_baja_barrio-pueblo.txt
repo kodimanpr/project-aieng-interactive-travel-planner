@@ -1,0 +1,22 @@
+{
+    "main_content": "Contents\nToa Baja barrio-pueblo\nToa Baja barrio-pueblo is a barrio and the administrative center ( seat ) of Toa Baja , a municipality of Puerto Rico. Its population in 2010 was 565.     \\n\nAs was customary in Spain, in Puerto Rico, the municipality has a barrio called pueblo which contains a central plaza, the municipal buildings (city hall), and a Catholic church. Fiestas patronales (patron saint festivals) are held in the central plaza every year.   \\n\nThe central plaza and its church\nThe central plaza, or square, located in Toa Baja barrio-pueblo is a place for official and unofficial recreational events and a place where people can gather and socialize from dusk to dawn. The Laws of the Indies , Spanish law, which regulated life in Puerto Rico in the early 19th century, stated the plaza\\'s purpose was for \"the parties\" (celebrations, festivities) , and that the square should be proportionally large enough for the number of neighbors . These Spanish regulations also stated that the streets nearby should be comfortable portals for passersby, protecting them from the elements: sun and rain.  \\n\nLocated across the central plaza in Toa Baja barrio-pueblo is the Parroquia San Pedro Apostol , a Roman Catholic church.  A historic and important church, it is listed on the US National Register of Historic Places .\\n\nHistory\nToa Baja barrio-pueblo was in Spain\\'s gazetteers  until Puerto Rico was ceded by Spain in the aftermath of the Spanish\\xe2\\x80\\x93American War under the terms of the Treaty of Paris of 1898 and became an unincorporated territory of the United States .  In 1899, the United States Department of War conducted a census of Puerto Rico finding that the population of Toa Baja Pueblo was 1,300.  \\n\nSectors\nBarrios (which are, in contemporary times, roughly comparable to minor civil divisions )  in turn are further subdivided into smaller local populated place areas/units called sectores ( sectors in English). The types of sectores may vary, from normally sector to urbanización to reparto to barriada to residencial , among others.    \\n\nThe following sectors are in Toa Baja barrio-pueblo:  \\n\nResidencial \\xc3\\x81ngel E. Melecio, \\nResidencial El Toa, \\nUrbanización Rochdale, \\nUrbanización San Pedro , and Urbanización Toa Ville .\\n\nSee also\nReferences",
+    "relevant_links": [
+        "https://azb.wikipedia.org/wiki/%D8%AA%D9%88%D8%A7_%D8%A8%D8%A7%D8%AC%D8%A7_%D8%A8%D8%A7%D8%B1%DB%8C%D9%88-%D9%BE%D9%88%D8%A8%D9%84%D9%88",
+        "https://en.wikipedia.org/w/index.php?title=Toa_Baja_barrio-pueblo&oldid=1192952546",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://es.wikipedia.org/wiki/Toa_Baja_(Toa_Baja)",
+        "https://ceb.wikipedia.org/wiki/Toa_Baja_Barrio-Pueblo"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.442348,
+            -66.253965
+        ],
+        "title": "Toa Baja Barrio-pueblo",
+        "type": "Point"
+    },
+    "categories": [
+        "Religion",
+        "Culture"
+    ]
+}

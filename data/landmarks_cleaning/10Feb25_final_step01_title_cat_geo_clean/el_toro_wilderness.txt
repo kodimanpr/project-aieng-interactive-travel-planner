@@ -1,0 +1,24 @@
+{
+    "main_content": "Contents\nEl Toro Wilderness\nEl Toro Wilderness  is a 10,254-acre (41.5 km 2 ) federally designated National Wilderness Preservation System unit located within El Yunque National Forest (formerly known as the Caribbean National Forest) on the Sierra de Luquillo in eastern Puerto Rico .  El Toro, named after the highest peak in the forest at 3,524 feet (1,074 m), is the only tropical wilderness in the United States National Forest System.  It was created in 2005 by the Caribbean National Forest Act of 2005.  \\n\nIn descending order of land area, the wilderness is located in parts of the municipalities of Río Grande , Naguabo , Las Piedras , and Canóvanas . El Toro Wilderness, along with the Luquillo Experimental Forest (LEF), is part of the Luquillo Biosphere Reserve , a designated UNESCO biosphere reserve , which emphasizes the site's importance in the global protection of biodiversity through conservation action.  \\n\nFeatures\nEl Toro Wilderness has dense vegetation with mixed evergreen plants ranging from 3 meters to 30 meters in height at the highest and lowest mountain elevations, respectively. The forest protects all four major forest types found throughout the national forest: the tabonuco forest, the palo colorado forest, the Sierra palm tree forest and the dwarf forest (also known as the elfin forest or cloud forest ).  \\n\nThe wilderness is home to a number of plant and animal species found nowhere else in the world, such as the endangered Puerto Rican parrot and the rare elfin woods warbler . The forest is home to 42 native and 35 migratory bird species, a number of bat species, and high numbers of amphibian and reptile species, such as the Puerto Rican boa . Some of the rare plant species found in the area include the endangered miniature orchid Lepanthes eltoroensis and the critically endangered palo de jazmín ( Styrax portoricensis ).  \\n\nThe area also contains important archaeological sites and Taino petroglyphs , such as the Icacos Petroglyph Group (also known as the Rio Blanco Petroglyphs), listed on the National Register of Historic Places since 2015.  \\n\nRecreation\nRecreational opportunities in the wilderness include hiking , birdwatching and primitive or dispersed camping . Two hiking trails cross the wilderness area: El Toro Trail , which starts from Cubuy in Canóvanas and leads to the summit of El Toro , and the Sabana Trail which begins at the Sabana Recreation Area in Naguabo and loops through the dense jungle. Additionally, the Tradewinds Trail traverses El Toro Wilderness and connects these two trails with the rest of the national forest.  \\n\nThe entrance to the El Toro Trail is at Road 186 km 10.8 which is near an entrance to the park in Road 186. This is a steep about 3-hour hike. First you will go by next to some private property, then see the trail signs, then a steep gravel trail for 1 hr, then a very muddy trail, then a series of boulders like a staircase for 1 hr and then a flat path to the top. From El Toro peak it connects to the Tradewinds Trail which starts in El Yunque PR 191 - the main access road to El Yunque. \\n\nFrom El Toro peak it connects to the Tradewinds Trail which starts in El Yunque PR 191 - the main access road to El Yunque. Advise to return from here since the other trail is over 4 hours long and you will end way off your parked car, unless you have someone pick up up in the end gate of PR 191.\\n\nEl Toro peak is the tallest and has a view of the east coast of Puerto Rico - the Naguabo and Humacao towns and the ocean. This peak has less rain and fog compared to El Yunque and is undeveloped. Very few do come around here unlike El Yunque trail.\\n\nLike most deep forest trails there is little if any cell phone reception and one must be very careful since you are very isolated. Try to come early to avoid being there at night, carry water, some food and good shoes. Avoid this forest when hurricanes are close or during storms. After major storms or hurricanes, the trails may be damaged, and the park closed.\\n\nSee also\nReferences\nExternal links",
+    "relevant_links": [
+        "https://es.wikipedia.org/wiki/Selva_El_Toro",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://en.wikipedia.org/w/index.php?title=El_Toro_Wilderness&oldid=1227173209"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.27028,
+            -65.82889
+        ],
+        "title": "El Toro Wilderness",
+        "type": "Point"
+    },
+    "categories": [
+        "Soft Adventure",
+        "Wildlife",
+        "Beach",
+        "Outdoor",
+        "Family-Friendly",
+        "Food"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "main_content": "Contents\nHipódromo Camarero\nHipódromo Camarero (formerly known as El Nuevo Comandante ) is a horse racing building located in Canóvanas, Puerto Rico , to the east of San Juan and Carolina . It is about a fifteen-minute drive from Carolina\\'s Luis Muñoz Marín International Airport , and 25 minutes east from the Isla Verde hotel area. The new administration of Camarero Race Track Corporation start operations on January 5, 2007.\\n\nEl Nuevo Comandante was built in 1976, and opened on October 31, 1976, to substitute the original \"El Comandante\" building, which had been located in Carolina, from January 1957 to mid October 1976. It has become arguably the most important horse racing complex in the island, holding horse races every Monday, Wednesday, Friday, Saturday and Sunday.\\n\nCamarero features a betting window, in which players can try their luck at different games, such as \"El Pool Pote\" and others. The top award a player can win at Hipodromo Camarero is the \"Pool Pote\" (Pool Pot) which has reached a staggering 12 Million dollars and has been the largest pot ever won in Puerto Rico\\'s Horse Racing Industry. In addition to the betting windows at El Nuevo Comandante, the Industry has a link of betting agencies throughout Puerto Rico. These are called \"agencias hipicas\", and people can go there to place bets as well and enjoy local refreshments and snacks.\\n\nRaces at \"El Nuevo Comandante\" have been shown on local television and on radio since the building was inaugurated. Some of the most famous television sportscasters in Puerto Rican history have commented from there, including Norman H. Davila and Manolo Rivera Morales .\\n\nSome famous jockeys have run there too, including Hall of Famer Angel Cordero , John Velazquez , Luis Hiraldo and J.C. Diaz .\\n\nFamous horses imported to run at El Nuevo Comandante have been: Kentucky Derby and Belmont Stakes winner Bold Forbes , Santa Anita Derby winner Mister Frisky , Bandit Bomber and Dawn Glory (Stakes winner in USA).\\n\nAmong the native horses: Hurly Road (Triple Crown winner), Ribot\\'s Verset (one of the best sires in Puerto Rican history), My favorite Place (Multiple allowance winner in California) Capa Prieto (undefeated for years), Camarero (Holds a record of 56 consecutive wins in a row), Vuelve Candy B (Triple Crown and Caribbean Derby winner and the only horse to earn a million dollars in Puerto Rico), El Platino (\"Copa Budweiser\" winner), Verset Dancer (Caribbean Derby winner and winner in USA) and Verset\\'s Jet (son of Verset Dancer) who\\'s the first horse to complete the Caribbean Derby and Confraternidad Stakes double. \\n\nEl Nuevo Comandante also has the infamous distinction (Guinness record) of having the horse with the most consecutive losses (Dona Chepa) with 134 consecutive loses (through 11/2/08 without a win) [ citation needed ] \\n\nEl Nuevo Comandante is also the site where the most famous race in the Caribbean has been held for 32 years: The Clasico del Caribe has been celebrated there many times, with horses participating from Colombia, Venezuela, Dominican Republic, Mexico, Panama, Trinidad and Tobago, Jamaica and Puerto Rico, among other countries.\\n\nExternal links\n18\\xc2\\xb021\\xe2\\x80\\xb257\\xe2\\x80\\xb3N 65\\xc2\\xb054\\xe2\\x80\\xb218\\xe2\\x80\\xb3W ﻿ / ﻿ 18.365767\\xc2\\xb0N 65.905137\\xc2\\xb0W ﻿ / 18.365767; -65.905137 \\n",
+    "relevant_links": [
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://es.wikipedia.org/wiki/Hip%C3%B3dromo_Camarero",
+        "https://en.wikipedia.org/w/index.php?title=Hip\\xc3\\xb3dromo_Camarero&oldid=1166414697"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.365767,
+            -65.905137
+        ],
+        "title": "Hipódromo Camarero",
+        "type": "Point"
+    },
+    "categories": [
+        "Luxury & Resorts",
+        "Culture"
+    ]
+}

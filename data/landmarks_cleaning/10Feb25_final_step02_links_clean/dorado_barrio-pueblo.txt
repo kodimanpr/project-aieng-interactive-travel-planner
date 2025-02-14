@@ -1,0 +1,20 @@
+{
+    "main_content": "Contents\nDorado barrio-pueblo\nDorado barrio-pueblo is a barrio and the administrative center ( seat ) of Dorado , a municipality in Puerto Rico. Its population in 2010 was 780.     It is one of the six barrios in the municipality of Dorado, Puerto Rico , along with Espinosa, Higuillar, Maguayo, Mameyal and Río Lajas.  \\n\nAs was customary in Spain, the municipality in Puerto Rico has a barrio called pueblo which contains a central plaza, the municipal buildings (city hall), and a Catholic church. Fiestas patronales (patron saint festivals) are held in the central plaza every year.   \\n\nThe central plaza and its church\nThe central plaza, or square, is a place for official and unofficial recreational events and a place where people can gather and socialize from dusk to dawn. The Laws of the Indies , Spanish law, which regulated life in Puerto Rico in the early 19th century, stated the plaza\\'s purpose was for \"the parties\" (celebrations, festivities) , and it was required to be proportionally large enough for the local population. . These Spanish regulations also stated that the streets nearby should be comfortable portals for passersby, protecting them from the elements: sun and rain.  \\n\nLocated across the central plaza in Dorado barrio-pueblo is the Parroquia San Antonio de Padua (English: Church San Antonio de Padua of Dorado ),  named after Portuguese Catholic priest Saint Anthony of Padua . The church was built from 1826 throughout July 1848.  \\n\nHistory\nDorado barrio-pueblo was in Spain\\'s gazetteers  until Puerto Rico was ceded by Spain in the aftermath of the Spanish-American War under the terms of the Treaty of Paris of 1898 and became an unincorporated territory of the United States . In 1899, the United States Department of War conducted a census of Puerto Rico finding that the population of Dorado Pueblo was 937.  \\n\nIn July 2020, Federal Emergency Management Agency appropriated funds for repairs to Dorado\\'s plaza.  \\n\nSectors\nBarrios (which are, in contemporary times, roughly comparable to minor civil divisions )  in turn are further subdivided into smaller local populated place areas/units called sectores ( sectors in English). The types of sectores may vary, from normally sector to urbanización to reparto to barriada to residencial , among others.    \\n\nThe following sectors are in Dorado barrio-pueblo:  \\n\nBarriada San Antonio, \\nResidencial Manuel Morales, \\nSector Finca Santa Bárbara, \\nSector Juan Francisco, \\nSector La Julia, \\nSector Mameyal Playa (stretch of PR-165 ), \\nUrbanización Brisas de Plata (before Villa Caíto), \\n Urbanización Jardines de Dorado, \\nUrbanización Martorell , and\\n Urbanización Sabanera Dorado .\\n\nIn Dorado barrio-pueblo is part of the Dorado urban zone.\\n\nGallery\nPlaces in Dorado barrio-pueblo:\\n\nSee also\nReferences",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Dorado_barrio-pueblo&oldid=1218310558",
+        "https://es.wikipedia.org/wiki/Dorado_(Dorado)",
+        "https://en.wikipedia.org/wiki/dorado_barrio-pueblo"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.459338,
+            -66.261445
+        ],
+        "title": "Dorado Barrio-pueblo",
+        "type": "Point"
+    },
+    "categories": [
+        "Religion",
+        "Culture"
+    ]
+}

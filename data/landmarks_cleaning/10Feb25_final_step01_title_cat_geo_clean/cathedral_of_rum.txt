@@ -1,0 +1,21 @@
+{
+    "main_content": "Contents\nCathedral of Rum\nThe Cathedral of Rum in Cataño, Puerto Rico is the world\\'s largest rum distillery .  The Bacardi Distillery is located on 55 hectares (137 acres) and consists of forty-four buildings and structures, twenty-four of which contribute to its historical character.  It can be accessed from and is located at the intersection of PR-165 and PR-888 .\\n\nHistory\nFounded in Cuba in 1862 and family-owned for eight generations, Bacardi Limited employs more than 7,000 people with sales in approximately 170 countries. Bacardi Limited refers to the Bacardi group of companies, including Bacardi International Limited.   \\n\nRegistered in Puerto Rico in 1909, it was not until January 1, 1937, when the first batch of Bacardi rum was produced in Cataño, Puerto Rico. In 1958, Bacardí purchased 138 acres of land in Cataño (a suburb of San Juan ) and then governor Luis Muñoz Marín called it the \"Cathedral of Rum\".  \\n\nThe Bacardi Corporation in Cataño supplies the largest quantity of rum consumed in the world  and is the private company that most contributes to the public treasury of Puerto Rico . \\n\nThe Bacardi Distillery was added to the National Register of Historic Places on August 6, 2010, based on two criteria: (criteria A) the distillery\\'s enormous contribution to the economic development of Puerto Rico since its establishment and (criteria C) its designers included W. Donald Christie, Henry Klumb , Héctor Varela, and Enrique Gutiérrez. The builders included José Benítez Gutiérrez, Ramón M. Benítez, Ignacio Martín, and SAG MAC.  \\n\nThere is a family museum at the complex and in 2012, the Bacardi family celebrated 150 years in business and gathered at the complex in Cataño. A bust of its founder, Facundo Bacardi Masso was unveiled.  Then Governor Luis Fortuño also declared a new holiday called Bacardi Day, to be celebrated on February 4, in honor of the company\\'s important ties to Puerto Rico and its economy.  \\n\nThe Bacardi complex is the second most visited tourist attraction in Puerto Rico.  At the complex, tourists can go on a historical tour, a rum tasting tour and learn how to mix Bacardi rum drinks.  \\n\nAfter Hurricane Maria devastated Puerto Rico on September 20, 2017, the distillery was soon able to provide clean drinking water to residents.  \\n\nBuildings\nGallery\nReferences\nExternal links",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Cathedral_of_Rum&oldid=1242143960",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://www.discoverpuertorico.com/profile/casa-bacardi-puerto-rico/10062"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.46054,
+            -66.14227
+        ],
+        "title": "Cathedral Of Rum",
+        "type": "Point"
+    },
+    "categories": [
+        "Religion",
+        "Family-Friendly",
+        "Culture"
+    ]
+}

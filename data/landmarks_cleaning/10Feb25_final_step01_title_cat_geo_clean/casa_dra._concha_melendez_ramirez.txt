@@ -1,0 +1,18 @@
+{
+    "main_content": "Contents\nCasa Dra. Concha Melendez Ramirez\nThe Casa Dra. Concha Meléndez Ramírez is a historic house at 1400 Vilá Mayo in San Juan, Puerto Rico .  It is a modest two-story Spanish Revival structure, finished in adobe-colored concrete and a clay tile roof.  The house is notable as the longtime home of Dra. Concha Meléndez Ramírez (1895\\xe2\\x80\\x931983), a leading literary figure of 20th century Puerto Rico.  Now a museum, library, and research center, it was designated a National Historic Landmark in 2011;  it is the first such designation for a Puerto Rican literary site.  \\n\nDescription\nThe Casa Dra. Concha Meléndez Ramírez stands in San Juan\\'s El Condado neighborhood, on a parcel bounded on the north by Vilá Mayo, the west by Calle Manuel Rodríguez Serra, and the south by Calle Wilson.  It is a roughly square two-story building, with adobe-colored concrete walls and a flat roof.  Windows and doorways are sheltered by concrete canopies topped by clay tiles.  The house is set in a rustic garden with a terrace and native plantings.  The interior of the house retains the feel of private residence, with Dra. Meléndez\\'s study left much as she would have used it.  \\n\nHistory\nThe house was home to Meléndez and her sister (neither of whom married), from 1940 until her death in 1983.  Meléndez did much of her writing and other work from her office here, and regularly hosted literary and cultural figures of the island.  It is now a museum and library, established by her bequest, containing her extensive collections.  \\n\nSee also\nReferences",
+    "relevant_links": [
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://en.wikipedia.org/w/index.php?title=Casa_Dra._Concha_Melendez_Ramirez&oldid=1219735337"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.45278,
+            -66.0675
+        ],
+        "title": "Casa Dra. Concha Melendez Ramirez",
+        "type": "Point"
+    },
+    "categories": [
+        "Culture"
+    ]
+}

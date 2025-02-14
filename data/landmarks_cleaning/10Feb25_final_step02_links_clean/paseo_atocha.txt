@@ -1,0 +1,23 @@
+{
+    "main_content": "Contents\nPaseo Atocha\n\\n\nPaseo Atocha is a pedestrian shopping mall in the Ponce Historic Zone , a historic district in Ponce , Puerto Rico . For over a century the narrow Calle Atocha was bustling retail center opened to vehicular traffic,  yet flooded with shoppers.  Congestion and pedestrian safety led the municipal government to close the two blocks of Calle Atocha from Calle Isabel to Calle Vives to motor vehicles in 1991. Several years later, the closure was expanded to include the block from Calle Vives to Calle Victoria. This last segment coincides with the western perimeter of the historic Plaza de Mercado Isabel II city market. Not the bustling commercial spot it once was, today it is still actively frequented by shoppers, though in much reduced numbers. It is visited annually by thousands of locals and tourists alike and is considered one of the city's main places of interest.  \\n\nHistory\nSince the beginning of the 20th century, Calle Atocha was the main commercial artery in Ponce. It was the first street in the city to be built with the necessary incline as to allow rainwater to run freely away from buildings and walkways.  Despite modifications undergone by many of the building owners along this stretch of Atocha Street throughout the years, a number of buildings continue to preserve the original design characteristics of Ponce's traditional architecture , while others take on the traditional character of bygone years. In 1991, as part of the Ponce en Marcha (Ponce On the Move) plan, the government of the Municipality of Ponce closed the street to vehicular traffic and converted into a pedestrian promenade.  \\n\nUses\nDuring the day, and especially on Saturdays, the street gets crowded with shoppers, both from Ponce as well as from surrounding towns. In the evenings and on Sundays the street becomes as peaceful and relaxing place. There are some benches along the mall, and it is a good place to stop, take a rest, and do some people watching .  Sunday nights, Atocha turns into a calm place, and sometimes serves as a gathering place for cultural activities.  \\n\nShopping experience\nThe promenade is a lively place, and shoppers can find almost anything they need here. There are many clothing, jewelry, electronics, souvenir, etc., stores and restaurants. Many merchants have booths or racks along the Paseo. Most of the stores have discounted merchandise.  Police are stationed at every block along the Paseo, making the promenade quite safe.  \\n\nPaseo Atocha also includes he privately-owned Casa Vives , the only historic structure listed in the United States\\' Park Service National Register of Historic Places Program located within Paseo Atocha.  \\n\nFuture plans\nIn an attempt to make the downtown area more friendly to tourists and businesses, the City planned to install a reinforced crystal ceiling and air-conditioning system over the Paseo. Construction was planned to begin in 2009.  The idea was something the city had been toying around with for the last two decades. It is expected to cost $5 million USD .  The glass ceiling is expected to make Ponce's Historic District more attractive to vacationers and locals alike. At the same time, officials hope that it will draw new people to the area, allowing businesses to extend their hours of operation, and thereby boosting the downtown economy and stimulating nightlife .  \\n\nSee also\nReferences\nExternal links\n18°0\\xe2\\x80\\xb246.91\\xe2\\x80\\xb3N 66°36\\xe2\\x80\\xb248.92\\xe2\\x80\\xb3W ﻿ / ﻿ 18.0130306°N 66.6135889°W ﻿ / 18.0130306; -66.6135889 \\n",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Paseo_Atocha&oldid=1188312589",
+        "https://en.wikipedia.org/wiki/paseo_atocha"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.0130306,
+            -66.6135889
+        ],
+        "title": "Paseo Atocha",
+        "type": "Point"
+    },
+    "categories": [
+        "Culture",
+        "Wellness & Relaxation",
+        "Outdoor",
+        "Family-Friendly",
+        "Shopping",
+        "Nightlife"
+    ]
+}

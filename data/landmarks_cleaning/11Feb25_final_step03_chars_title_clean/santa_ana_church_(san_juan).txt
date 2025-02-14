@@ -1,0 +1,19 @@
+{
+    "main_content": "Contents\nSanta Ana Church (San Juan)\nSanta Ana Church , popularly known as Capilla de Santa Ana , is a historic 17th century Catholic church located in Old San Juan , Puerto Rico .  \\n\nThis often-missed church is located on Tetuan Street close to the Art Deco -style Banco Popular building. The church, one of the oldest in San Juan, is famous for its pink color, simple yet elegant interior design and its arches. According to historian Maria de los Angeles Castro the church might have been decorated with frescoes created by renown 18th century artist José Campeche .  The church is open to visitors and still hosts religious services.\\n\nSee also\nReferences\n18°27\\xe2\\x80\\xb252\\xe2\\x80\\xb3N 66°6\\xe2\\x80\\xb256\\xe2\\x80\\xb3W ﻿ / ﻿ 18.46444°N 66.11556°W ﻿ / 18.46444; -66.11556 \\n",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Santa_Ana_Church_(San_Juan)&oldid=1247117795",
+        "https://en.wikipedia.org/wiki/santa_ana_church_(san_juan)"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.46444,
+            -66.11556
+        ],
+        "title": "Santa Ana Church (San Juan)",
+        "type": "Point"
+    },
+    "categories": [
+        "Religion",
+        "Culture"
+    ]
+}

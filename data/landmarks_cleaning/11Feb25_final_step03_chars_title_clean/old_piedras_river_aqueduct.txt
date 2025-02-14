@@ -1,0 +1,20 @@
+{
+    "main_content": "Contents\nOld Piedras River Aqueduct\nThe Old Piedras River Aqueduct , also known as the San Juan Waterworks ( Acueductos de San Juan ), is an aqueduct in the barrio (district) of El Cinco of San Juan, Puerto Rico . It is by the Piedras River , next to the University of Puerto Rico Botanical Garden . This aqueduct dates to the mid 19th century and it was important for the urban development of Río Piedras .   \\n\nHistory\nThe development of an aqueduct at the site by the Piedras River dates to 1825 and it was important to the urban development of Río Piedras , then known as El Roble. The waterworks were critical for their supply of clean water  which was fundamental to the city\\'s growth along a main corridor that still exists as Ponce de León Avenue . The original design of the existing aqueduct structure dates to 1847 and was designed by engineer Juan Manuel Lomber. The waterworks went through many upgrades since then done by American British engineers that were completed by the time of the Spanish-American War of 1898, with some main components installed some years later, between 1917 and 1918.   \\n\nThe Puerto Rico Conservation Trust ( Para la Naturaleza ) currently manages 9 out of the 23 acres of the historic site, and since 2007 has been working with the National Trust for Historic Preservation to preserve the site. The nonprofit organization proclaimed the historic district a National Treasure in 2014.   Current plans for the district include the restoration the site\\'s facilities for use as a visitor center dedicated to research, recreation, and education about the benefits of water resource conservation.  \\n\nThe aqueduct and its surrounding buildings were added as the Acueducto de San Juan historic district to the National Register of Historic Places on June 21, 2007.  The historic district is composed of a small weir that supplied water from the Piedras River; a valve room; six sedimentation and filtration tanks; an engine room with its carbon deposit; and an employee house.   \\n\nSee also\nReferences\nExternal links",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Old_Piedras_River_Aqueduct&oldid=1177493354",
+        "https://www.discoverpuertorico.com/profile/antiguo-acueductos-del-rio-piedras/8572",
+        "https://en.wikipedia.org/wiki/old_piedras_river_aqueduct"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.38917,
+            -66.05889
+        ],
+        "title": "Old Piedras River Aqueduct",
+        "type": "Point"
+    },
+    "categories": [
+        "Outdoor",
+        "Culture"
+    ]
+}

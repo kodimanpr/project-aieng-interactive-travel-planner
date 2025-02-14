@@ -1,0 +1,16 @@
+{
+    "main_content": "Contents\nEdificio Comunidad de Orgullo Gay de Puerto Rico\nThe Gay Pride Community Building , also known as Casa Orgullo (\"Pride House\"), is a historic site and former LGBT community center located in Río Piedras Pueblo (downtown Río Piedras ) in San Juan, Puerto Rico .  \\n\nThe building, a two-story reinforced concrete, Mediterranean Revival apartment house, first served as a meeting hall for the first gay/lesbian organization established in Puerto Rico, founded in 1974 as Comunidad de Orgullo Gay (Gay Pride Community). Inspired by the 1969 Stonewall Revolt , this was the first organized attempt to confront social, political and legal discrimination against the local LGBTQ community by pioneering resistance to discrimination through political action, educational programs, public awareness and social support to the community.  \\n\nAlthough Comunidad de Orgullo Gay disbanded in 1976, Casa Orgullo remains a symbol of gay rights in Puerto Rico , and it is considered a social historic site due to its importance in spearheading the gay liberation movement in the island. Forty years later, the building was listed in the National Register of Historic Places on May 2, 2016.  \\n\nThe building is not open to the public, but it hosts a mural titled Flor de Parcha which depicts passion fruit flowers and can be appreciated from the street.  \\n\nSee also\nReferences",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Edificio_Comunidad_de_Orgullo_Gay_de_Puerto_Rico&oldid=1247208750",
+        "https://en.wikipedia.org/wiki/edificio_comunidad_de_orgullo_gay_de_puerto_rico"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.40056,
+            -66.05194
+        ],
+        "title": "Edificio Comunidad De Orgullo Gay De Puerto Rico",
+        "type": "Point"
+    },
+    "categories": []
+}

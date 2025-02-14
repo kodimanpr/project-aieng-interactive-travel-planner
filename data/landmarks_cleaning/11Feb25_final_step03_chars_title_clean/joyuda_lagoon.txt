@@ -1,0 +1,20 @@
+{
+    "main_content": "Contents\nJoyuda Lagoon\nLaguna Joyuda, or Albufera de Joyuda ,  is a natural reservoir located in the municipality of Cabo Rojo in Puerto Rico .\\n\nThe lagoon is one of only two natural reservoirs in the island of Puerto Rico (the other being Tortuguero Lagoon ), and is home to an ample variety of species.\\n\nThe lagoon is connected to the ocean through a small channel on the south of it, and is frequently used for fishing . \\n\nGallery\nSee also\nReferences\n\\n\nThis Cabo Rojo, Puerto Rico location article is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Joyuda_Lagoon&oldid=1177045447",
+        "https://es.wikipedia.org/wiki/Laguna_Joyuda",
+        "https://en.wikipedia.org/w/index.php?title=Joyuda_Lagoon&action=edit",
+        "https://en.wikipedia.org/wiki/joyuda_lagoon"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.13056,
+            -67.17722
+        ],
+        "title": "Joyuda Lagoon",
+        "type": "Point"
+    },
+    "categories": [
+        "Beach"
+    ]
+}

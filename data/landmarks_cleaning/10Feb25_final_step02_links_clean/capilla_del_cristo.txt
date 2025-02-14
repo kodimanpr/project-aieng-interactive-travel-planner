@@ -1,0 +1,22 @@
+{
+    "main_content": "Contents\nCapilla del Cristo\nCapilla del Cristo (Chapel of Christ), also called Capilla del Santo Cristo de la Salud is a small chapel / museum located in the Old San Juan , Puerto Rico .  Built in the 18th century and saved from demolition in the 20th century and preserved, the structure has become a cultural icon of Puerto Rico. Most of the articles located at its altar are from 1753.   Travel guides list Capilla del Cristo as one of the must-see places of Old San Juan.     \\n\nCultural significance\nThe chapel with its belfry is located at the end of Calle del Cristo , a pedestrian walkway in the Old San Juan Historic District in the western section of San Juan Islet .   Images of the chapel\\'s facade are quite popular, and sometimes featured on the covers of Puerto Rican travel guides as well as on canvas prints, posters, and mug souvenirs .    \\n\nInside the chapel are paintings by Jose Campeche and a painting by Jorge Sen called El Milagro (English: The Miracle). Its altar is made of silver and gold.\\n\nThe St. Juan and St. Peter races, ( Las carreras de S. Juan y S. Pedro ) is an annual festival that\\'s taken place on Cristo Street near Capilla del Cristo since before the mid 19th century.   \\n\nLocation\nCapilla del Cristo is located at the end of Calle del Cristo in the Historic District of Old San Juan near La Fortaleza , the official residence of the governor of Puerto Rico.\\n\nArchitecture\nThe basic structure of the small temple is mampostería ordinaria or stones held together by mortar or cement. It\\'s a one-story-high, brick and stone structure with a curved belfry atop. Its gate was added in the 1940s for the protection of its interior. It has three oversized arches which open up to the Parque de Palomas , Tetuan Street, and Calle de Cristo de la Salud (street). Built in the Spanish Baroque style, Extremaduran Juan Francisco Mestre was the author of its design.  The building has been kept in good condition by the volunteer group Cristo de la Salud Brotherhood.\\n\nFolklore\nReligious folklore, particularly among Catholics, said that during a horse race on La Calle de Cristo , a young rider and his horse took a bad fall. The rider went over the precipice but was miraculously saved.  \\n\nThe chapel was built where the fateful race was said to have occurred in honor of the young rider named Baltazar Montañez.  It has become both a tourist attraction as well as a stop for religious pilgrims, who occasionally leave a religious votive at the chapel. It is only open on Tuesdays.  \\n\nDifferent versions of the legend mention that either the rider or Tomas Mateo Pratts, an observer yelled for divine intervention.   In a book about Puerto Rican legends, José Ramirez-Rivera writes that the horse was killed but Baltazar lived. Afterwards, permission was granted to build the Catholic chapel and festivals were held for years afterward to celebrate the miracle.  \\n\nIn his writings about Baltazar, Puerto Rican historian Cayetano Coll y Toste described him as a slave who worked in the sugar cane fields of Puerto Rico but made no mention of the legendary accident.    \\n\nGallery\nSee also\nReferences\nExternal links",
+    "relevant_links": [
+        "https://es.wikipedia.org/wiki/Mamposter%C3%ADa#Mamposter\\xc3\\xada_ordinaria",
+        "https://en.wikipedia.org/w/index.php?title=Capilla_del_Cristo&oldid=1247389021",
+        "https://en.wikipedia.org/wiki/capilla_del_cristo"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.464083,
+            -66.11775
+        ],
+        "title": "Capilla del Cristo",
+        "type": "Point"
+    },
+    "categories": [
+        "Religion",
+        "Shopping",
+        "Festivals & Events",
+        "Culture"
+    ]
+}

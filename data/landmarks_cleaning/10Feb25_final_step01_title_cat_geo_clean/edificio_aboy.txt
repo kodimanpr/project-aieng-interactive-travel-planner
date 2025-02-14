@@ -1,0 +1,20 @@
+{
+    "main_content": "Contents\nEdificio Aboy\nThe Edificio Aboy (also El Faro ) is a private three-level residence located in San Juan, on the island of Puerto Rico . It is located in Miramar , an area of Santurce , which is a barrio of San Juan.\\n\nMade of concrete with metal and wood details, the residence features large bay windows on all floors, and circular balconies that curve around a corner of the building. The Edificio Aboy is one of the best representations of Art Deco style on the island of Puerto Rico.  \\n\nReferences\n\\n\nThis article about a property in Puerto Rico on the National Register of Historic Places is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Edificio_Aboy&oldid=1240273695",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://en.wikipedia.org/w/index.php?title=Edificio_Aboy&action=edit",
+        "https://pt.wikipedia.org/wiki/Edificio_Aboy"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.45611,
+            -66.08139
+        ],
+        "title": "Edificio Aboy",
+        "type": "Point"
+    },
+    "categories": [
+        "Culture"
+    ]
+}

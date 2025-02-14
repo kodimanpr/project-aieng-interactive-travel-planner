@@ -1,0 +1,21 @@
+{
+    "main_content": "Contents\nMonumento a la abolición de la esclavitud\n\\n\nThe Monumento a la abolición de la esclavitud (Monument to the abolition of slavery) is a monument at Parque de la Abolición in Barrio Cuarto in Ponce, Puerto Rico , dedicated to the abolition of slavery in Puerto Rico in 1873. It is the only monument in the Caribbean dedicated as a remembrance of the abolition of slavery. The monument consists of an obelisk and a statue called El Hombre Redimido .\\n\nLocation\nThe monument is located on Avenida Hostos at the fork of Calle Salud and Calle Marina.  It is the centerpiece of Parque de la Abolición and it is located on its grounds, at the park\\'s southernmost tip.  The monument consists of two main pieces, an obelisk and a statue . The obelisk is known as Obelisco a la libertad (Obelisk to freedom).  The statue is that of a black male slave with broken chains depicting he is now a free man. Its coordinates are 18.00573, -66.61276.\\n\nProperties and features\nThe 100-foot high obelisk raises just behind the black iron sculpture of the freed slave that accentuates and gives instance to the occasion. Immediately north of the obelisk is the outdoors acoustic amphitheater known as La Concha Acústica (English: The Acoustic Shell) which completes the park as a triangular city block. La Concha Acústica is an open-air auditorium oftentimes used as a music venue, including presentations by the Ponce Municipal Band .  \\n\nBackground and significance\nSlaves were brought to Puerto Rico from Africa starting in 1513 and through the 18th century to replace the local native \"Indian\" slaves who had been decimated.  The new slaves worked the coffee , sugar cane , and gold mining industries in Puerto Rico. During the 18th century, as gold mining ceased to be one of the major industries in Puerto Rico, slaves worked mostly in coffee plantations and sugar cane fields.  By royal proclamation slavery was abolished on 22 March 1873.\\n\nConstruction history\nIn 1874, a year after the abolition of slavery in Puerto Rico, a group of citizens built a small park in memory of the historic event.  In 1880 Olimpio Otero , Juan Mayoral Barnés, and Román Baldorioty de Castro were instrumental in creating the concept for a park dedicated to commemorating the abolition of slavery, the only such memorial in the Caribbean .  Juan Mayoral Barnés brought the idea for the creation of the park to the Ponce Municipal Assembly on 14 March 1880. It was unanimously approved by the Assembly, ratified by the Central Government, and confirmed by Royal Decree on 1 March 1881.  The park had been built in the 1890s and renovated in 1956, under the administration of Ponce mayor Andrés Grillasca Salas . The renovation included the building of Concha Acustica de Ponce and the addition of the statue to stand at the base of the obelisk, in front of it.  The sculpture of the freed slave is the work of Victor Cott Negrón.   The obelisk is built in marble and has a metal tip.\\n\nReferences",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Monumento_a_la_abolici\\xc3\\xb3n_de_la_esclavitud&oldid=1237898906",
+        "https://en.wikipedia.org/wiki/monumento_a_la_abolición_de_la_exclavitud"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.005729833,
+            -66.612759833
+        ],
+        "title": "Monumento a la abolición de la esclavitud",
+        "type": "Point"
+    },
+    "categories": [
+        "Outdoor",
+        "Festivals & Events",
+        "Family-Friendly",
+        "Culture"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "main_content": "Contents\nGatas (Ponce)\n\\n\nGatas or, more commonly, Isla de Gatas , is a small island in barrio Playa in the municipality of Ponce in southern Puerto Rico .  A tied island since the 1950s connected to the Puerto Rico mainland via a tombolo , Isla de Gatas is home to Club Náutico de Ponce , a private sports complex. It is located south of La Guancha and the Port of Ponce .  Together with Caja de Muertos , Morrillito , Ratones , Cardona , Isla del Frio , and Isla de Jueyes , Gatas is one of seven islands in the municipality of Ponce .   \\n\nLocation and geography\nWhile geographically it is considered an island on its own right,  Gatas is actually physically attached to the Puerto Rico mainland, thanks to the construction of a dike in the 1950s . In this sense, it is now a cape more than an island in the strictest sense.  The dike grew the original one-acre island to the current 13 acres (5.261 hectares).  \\n\nGatas is located at latitude 17\\xc2\\xb057\\'49\"N and longitude -66\\xc2\\xb037\\'05\" (Latitude. 17.96944\\xc2\\xb0, Longitude. -66.6175\\xc2\\xb0)  The island, located 0.12 mi (0.2 km) south of the mainland Puerto Rican shore across from Punta Peñoncillo, extends 0.31 mi (0.5 km) west from Punta Caranero to the east.   \\n\nThe island has an elevation of 10 feet,  and it has a beach on the western side.\\n\nDevelopment\nThe island is a small low island and fully developed thanks to the construction of the Club Nautico de Ponce and its marina .\\n\nSee also\nReferences",
+    "relevant_links": [
+        "https://ur.wikipedia.org/wiki/%DA%AF%DB%8C%D9%B9%D8%B3_(%D9%BE%D9%88%D9%86%D8%B3%D8%A7%D8%A6%DB%8C)",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://en.wikipedia.org/w/index.php?title=Gatas_(Ponce)&oldid=1115093016",
+        "https://es.wikipedia.org/wiki/Isla_de_Gatas",
+        "https://ceb.wikipedia.org/wiki/Gata_Islets"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            17.96361,
+            -66.61806
+        ],
+        "title": "Gatas (ponce)",
+        "type": "Point"
+    },
+    "categories": [
+        "Beach"
+    ]
+}

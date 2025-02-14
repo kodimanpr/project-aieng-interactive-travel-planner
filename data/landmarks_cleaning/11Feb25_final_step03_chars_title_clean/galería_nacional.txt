@@ -1,0 +1,21 @@
+{
+    "main_content": "Contents\nGalería Nacional\nGalería Nacional (National Gallery) located in Old San Juan within the historic colonial section of the capital of Puerto Rico , houses the largest collection of Puerto Rican paintings from the eighteenth century to the 1960s. The museum is located in the restored Saint Aquinas monastery of the Dominican Order . The monastery along with the adjoining San José Church is one of the first significant works of architecture on the island.  The museum\\'s  holdings include many important works by José Campeche , Francisco Oller , Ramón Frade , and Rafael Tufiño .  The museum is administered by the Institute of Puerto Rican Culture .\\n\nSee also\nReferences\nExternal links\n18°28\\xe2\\x80\\xb24\\xe2\\x80\\xb3N 66°7\\xe2\\x80\\xb27\\xe2\\x80\\xb3W ﻿ / ﻿ 18.46778°N 66.11861°W ﻿ / 18.46778; -66.11861 \\n\n\\n\nThis article about a Puerto Rican building or structure related topic is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://es.wikipedia.org/wiki/Galer%C3%ADa_Nacional_de_Puerto_Rico",
+        "https://en.wikipedia.org/w/index.php?title=Galer\\xc3\\xada_Nacional&oldid=1144759413",
+        "https://en.wikipedia.org/w/index.php?title=Galer%C3%ADa_Nacional&action=edit",
+        "https://en.wikipedia.org/wiki/galería_nacional"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.46778,
+            -66.11861
+        ],
+        "title": "Galería Nacional",
+        "type": "Point"
+    },
+    "categories": [
+        "Religion",
+        "Culture"
+    ]
+}

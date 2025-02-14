@@ -1,0 +1,19 @@
+{
+    "main_content": "Contents\nUniversity High School (San Juan)\nThe University High School ,  commonly referred to by its initials \"UHS\", in San Juan, Puerto Rico is a college preparatory laboratory high school operated by the Faculty of Education of the University of Puerto Rico. Located on the University of Puerto Rico, Río Piedras Campus , it provides education to approximately 514 students from 7th to 12th grade.\\n\nCampus\nIts main building is a century-old art deco building located on Gándara Avenue and includes a three-story classroom annex designed in the 1970s by architect George McClintock, along with a roofed basketball court pavilion and school lunch cafeteria building (also designed by McClintock in the 1970s) shared with the UPR Elementary School.\\n\nCurriculum\nUHS\\'s faculty is composed of University of Puerto Rico professors. Students who have fulfilled their general education requirements are allowed to take college-level courses at UPR\\'s Río Piedras campus and all students are allowed to use the José M. Lázaro general library and other campus facilities. UHS students have breakfast and lunch at the Lunchroom belonging to the University Elementary School, located next to the UHS.\\n\nStudent organizations\nUHS has a student council alongside several organized clubs such as a Spanish Oratory club, a Model United Nations club, an English Forensics League Club, a National Honors Society chapter, among others.\\n\nSports\nUHS has several sports teams, including a soccer team, a volleyball team, swimming team and a basketball team.\\n\n2017 University of Puerto Rico strikes\nThe University High School joined the University of Puerto Rico strikes on March 28, 2017. The strike was ended after a vote was held during a student assembly on May 13.  \\n\nNotable alumni\nReferences\nExternal links\n18°24\\xe2\\x80\\xb23\\xe2\\x80\\xb3N 66°2\\xe2\\x80\\xb259\\xe2\\x80\\xb3W ﻿ / ﻿ 18.40083°N 66.04972°W ﻿ / 18.40083; -66.04972 \\n\n\\n\nThis Puerto Rican school-related article is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=University_High_School_(San_Juan)&oldid=1242905009",
+        "https://en.wikipedia.org/w/index.php?title=University_High_School_(San_Juan)&action=edit",
+        "https://en.wikipedia.org/wiki/university_high_school_(san_juan)"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.40083,
+            -66.04972
+        ],
+        "title": "University High School (San Juan)",
+        "type": "Point"
+    },
+    "categories": [
+        "Culture"
+    ]
+}

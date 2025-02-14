@@ -1,0 +1,20 @@
+{
+    "main_content": "Contents\nThe Mall of San Juan\nThe Mall of San Juan is a 650,000 sq ft (60,000 m 2 ) upscale shopping mall located across from the San José Lagoon , at the south end of the Teodoro Moscoso Bridge , near Luis Muñoz Marín International Airport , San Juan, Puerto Rico . When the mall opened its doors on, March 26, 2015, it was anchored by Nordstrom , being their first store to open in Puerto Rico, and the entire Caribbean . The mall was constructed at a cost of $475 million by Taubman Centers.  The mall currently opens at 10:00 AM everyday, and closes at 8:00 PM from Monday through Thursday. On Fridays, the mall is open until 9:00 PM, and it closes at 7:00 PM on Saturdays and Sundays.\\n\nHistory\nThe land where the mall stands today was once a large building complex, originally hosting the 1979 Pan American Games . The buildings were demolished in 1998, in what was then a world-record for the most buildings to be demolished, simultaneously, with explosives.  \\n\nOriginally, the mall project was called Nueva Puerta de San Juan  when it was first conceived in the 1990s. In the 2000s, it was renamed to Plaza Internacional.  Construction of the mall had been delayed for several years due to financing issues and a lawsuit by the owners of the adjacent Plaza Las Americas . Later, New Century Development would file a counter lawsuit, when Plaza Las Americas announced their plans for an expansion.  The project was later given its current name, and finally broke ground in 2012. Original plans had included the construction of an office tower, a hotel and a casino, with work originally set to begin later in 2015, after the mall opened, and completed by 2017; however, this never came to fruition.\\n\n  \\n\nHurricane Maria made landfall on Puerto Rico on September 20, 2017, severely damaging anchor stores Nordstrom and Saks Fifth Avenue ; on October 30, 2019, it was announced that Saks would not be reopening.  Nordstrom reopened on November 9, 2018.\\n\nIn March 2020, the mall closed indefinitely due to the COVID-19 pandemic in Puerto Rico . On May 7, 2020, Nordstrom announced that it would not be reopening post- lockdown . The mall itself reopened just three months later, in June 2020, with limited initial capacity (as recommended by the Centers for Disease Control and Prevention ) and requiring face masks for anyone entering the premises. The second floor of the former Nordstrom is now a children\\'s entertainment center called Brincoteo.\\n\nOn December 8, 2021, local TV station WLII-DT announced that they would be occupying one of the empty anchors for their new studio facilities, beginning in 2022. The facility was unveiled to the public during the station\\'s upfront presentation, where it was announced that the network\\'s new show, La Boveda de Mr. Cash , would begin broadcasting from the facility later in 2022. La Boveda de Mr. Cash premiered on March 1, 2022, live from the mall. The new TeleOnce facility occupies the space of the former Saks Fifth Avenue, and has since been divided into seven different potential studio spaces, on its lower level, along with a large lobby area with adequate space to queue audience members. La Bóveda de Mr. Cash occupies the last available space on the first floor, with work on the second floor expected to begin.    \\n\nSee also\nReferences",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=The_Mall_of_San_Juan&oldid=1244190100",
+        "https://en.wikipedia.org/wiki/the_mall_of_san_juan"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.4121,
+            -66.0254
+        ],
+        "title": "The Mall of San Juan",
+        "type": "Point"
+    },
+    "categories": [
+        "Luxury & Resorts",
+        "Shopping",
+        "Culture"
+    ]
+}

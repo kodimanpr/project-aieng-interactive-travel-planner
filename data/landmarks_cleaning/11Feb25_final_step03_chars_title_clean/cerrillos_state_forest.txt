@@ -1,0 +1,20 @@
+{
+    "main_content": "Contents\nCerrillos State Forest\n\\n\nCerrillos State Forest is one of the 21 state forests in Puerto Rico .   It is located in barrio Maragüez , in the municipality of Ponce , and covers 200 cuerdas (190 acres; 0.79 km 2 )  of valleys and mountains in the foothills of the Cordillera Central mountain range.  The forest has several trails, observation areas, several picnic areas, complete with gazeebos and a man-made reservoir, Lake Cerrillos and the Lake Cerrillos dam.\\n\nLocation\nThe forest is located at 18.08842 N, 66.58058 W ( 18°5\\xe2\\x80\\xb218.31\\xe2\\x80\\xb3N 66°24\\xe2\\x80\\xb250.08\\xe2\\x80\\xb3W ﻿ / ﻿ 18.0884194°N 66.4139111°W ﻿ / 18.0884194; -66.4139111 ), in barrio Maragüez , which is located northeast of the city of Ponce, Puerto Rico . It can be reached via PR-139 Km 3.4. Its elevation varies from 400 to 1,000 feet above sea level.  \\n\nRecreation\nRecreational activities permitted in this forest include fishing, hiking, kayaking, photography, picnicking, scientific research, and bird watching.  \\n\nGallery\nSee also\nReferences\nFurther reading",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Cerrillos_State_Forest&oldid=1145590428",
+        "https://en.wikipedia.org/wiki/cerrillos_state_forest"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.08842,
+            -66.58058
+        ],
+        "title": "Cerrillos State Forest",
+        "type": "Point"
+    },
+    "categories": [
+        "Outdoor",
+        "Soft Adventure",
+        "Family-Friendly"
+    ]
+}

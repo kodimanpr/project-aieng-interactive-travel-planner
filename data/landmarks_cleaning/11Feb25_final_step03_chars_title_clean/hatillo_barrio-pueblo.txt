@@ -1,0 +1,20 @@
+{
+    "main_content": "Contents\nHatillo barrio-pueblo\nHatillo barrio-pueblo is a barrio and the administrative center ( seat ) of Hatillo , a municipality of Puerto Rico. Its population in 2010 was 3,117.     \\n\nAs was customary in Spain, in Puerto Rico, the municipality has a barrio called pueblo which contains a central plaza, the municipal buildings (city hall), and a Catholic church. Fiestas patronales (patron saint festivals) are held in the central plaza every year.   \\n\nThe central plaza and its church\nThe central plaza, or square, is a place for official and unofficial recreational events and a place where people can gather and socialize from dawn to dusk. The Laws of the Indies , Spanish law, which regulated life in Puerto Rico in the early 19th century, stated the plaza\\'s purpose was for \"the parties\" (celebrations, festivities) , and that the square should be proportionally large enough for the number of neighbors . These Spanish regulations also stated that the streets nearby should be comfortable portals for passersby, protecting them from the elements: sun and rain.  \\n\nLocated across from the central plaza is the Parroquia Nuestra Señora del Carmen  (English: Our Lady of Mount Carmel Parish), a Roman Catholic church. The church was built between 1824 and 1830. It sustained damage during the 1918 San Fermín earthquake . A concrete roof, tower and dome were added in 1930.  \\n\nHistory\nHatillo barrio-pueblo was in Spain\\'s gazetteers  until Puerto Rico was ceded by Spain in the aftermath of the Spanish-American War under the terms of the Treaty of Paris of 1898 and became an unincorporated territory of the United States . In 1899, the United States Department of War conducted a census of Puerto Rico finding that the population of Hatillo barrio-pueblo was 669.  \\n \\n\nGallery\nSee also\nReferences\nExternal links",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Hatillo_barrio-pueblo&oldid=1192832934",
+        "https://es.wikipedia.org/wiki/Hatillo_(Hatillo)",
+        "https://en.wikipedia.org/wiki/hatillo_barrio-pueblo"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.483922,
+            -66.825117
+        ],
+        "title": "Hatillo Barrio-pueblo",
+        "type": "Point"
+    },
+    "categories": [
+        "Religion",
+        "Culture"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "main_content": "López Residence\nThe López Residence  is a historic house in Aguadilla , Puerto Rico . Built in 1914, this one-story, Neoclassical structure is architecturally significant as a typical urban residence for a well-to-do Puerto Rican family in the early 20th century, and as one of the most important remaining works by architect Manuel Gómez Tejera. Notable architectural elements of the house include its five slender, octagonal Corinthian columns, recessed ceiling panels on the balcony, ornate cast-iron balcony ornamentation, native ceramic tile floors, rooftop balcony, four louvered wooden doors with scrollwork frames facing the street, and filigreed interior arches supported by turned and octagonal columns. It faces the 1925 District Courthouse across Progreso Street, forming a historic Neoclassical set.  \\n\nThe house was listed on the U.S. National Register of Historic Places in 1985,  and on the Puerto Rico Register of Historic Sites and Zones in 2000 under the name Herreras López Family Residence ( residencia de los Herreras López ).  \\n\nSee also\nNotes\nReferences\nExternal links\n\\n\nThis article about a property in Puerto Rico on the National Register of Historic Places is a stub . You can help Wikipedia by expanding it .\nThis article about a Puerto Rican building or structure related topic is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=L%C3%B3pez_Residence&action=edit",
+        "https://en.wikipedia.org/w/index.php?title=L\\xc3\\xb3pez_Residence&oldid=1240118808",
+        "https://en.wikipedia.org/wiki/lópez_residence"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.425249,
+            -67.154159
+        ],
+        "title": "López Residence",
+        "type": "Point"
+    },
+    "categories": [
+        "Family-Friendly"
+    ]
+}

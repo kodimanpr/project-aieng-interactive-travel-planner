@@ -1,0 +1,21 @@
+{
+    "main_content": "Contents\nCasa Serrallés\n\\n\nCasa Serrallés (Spanish for Serrallés Residence ) is a historic building in the city of Ponce, Puerto Rico . It was built in 1911 by Alfredo Wiechers Pieretti for Don Juan Eugenio Serrallés Pérez, son of businessman Juan Serrallés Colón , founder of Destilería Serrallés , and himself the CEO of the company that founded Ron Don Q . The building is currently home to the Museo de la Música Puertorriqueña .  \\n\nHistory\nThe house was built in 1911 by Alfredo Weichers ,  [ note 1 ] for Juan Eugenio Serrallés Pérez and his wife Rosa María Sánchez.  \\n\nLocation\nThe house is located on the southeast corner of Calle Isabel and Calle Salud, in the Ponce Historic Zone . The location of the house, together with its historic significance, courtyard, and architectural details, make it unique among other Puerto Rico homes.  \\n\nThe structure is located less than one block from Casa Rosita Serrallés , another\\xe2\\x80\\x94though much smaller\\xe2\\x80\\x94Serrallés residence.\\n\nSignificance\nCasa Serrallés was built as the exclusive residence of Don Eugenio Serrallés, a leader in the sugar cane industry during the early part of the 20th century. The building is significant from the architectural, historical, and cultural perspectives.\\n\nArchitecturally, the building represents an example of one major architectural design popular among the elite class of the early 20th century: Neoclassical style  \\n\nHistorically, the building is a reminder of the cultural and economic changes that southern Puerto Rico experienced in the 1920s. \"Ponce\\'s dependence on the sugar cane industry at the close of the 19th century, created an atmosphere of development from which evolved a series of intrinsic cultural characteristics and afforded great wealth to many families involved in the industry. The wealthy families generally chose Europe as the model for the direction that cultural endeavors would take.\"  \\n\nCulturally, the building is important because it was the downtown residence of one of the wealthiest families in 19th-century Puerto Rico , and one that so much influenced its economy. The original hill-top residence of the family was Castillo Serralles , today a historic structure listed in the NRHP .\\n\nPhysical characteristics\nThe house is a single floor building. Access to the main entrance of the house is from the Isabel street. As a corner structure, the building occupies a large property and its east-to-west axis is articulated as a very long structure. It was built in 1911 by local architect Alfredo Wiechers Pieretti,  and completed in 1912.  The house has stained-glass windows, hand-painted floor tiles, carved mahogany louvres , and 12-foot ceilings.  The house was sold to the city in 1992, after a long period of abandonment.  \\n\nThe property includes a large courtyard.  The back of the property contains a spacious finished private yard, complete with a Don Q bar area, where\\xe2\\x80\\x94no doubt\\xe2\\x80\\x94guests were gracefully entertained in bygone years.\\n\nToday\nIn 1996, the Institute of Puerto Rican Culture restored the building to much of its yesteryear splendor and converted it into a museum showcasing the music of Puerto Rico.  Its various rooms display Puerto Rican musical instruments and various memorabilia, and its family room contains a huge mural by Miguel Pou called \"Los Músicos de Ponce\" and displaying the greatest musical talent from Ponce until that time.  \\n\nSee also\nReferences\nNotes\nExternal links",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Casa_Serrall\\xc3\\xa9s&oldid=1141527116",
+        "https://en.wikipedia.org/wiki/casa_serralles"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.01262,
+            -66.61082
+        ],
+        "title": "Casa Serrall\\xc3\\xa9s",
+        "type": "Point"
+    },
+    "categories": [
+        "Nightlife",
+        "Luxury & Resorts",
+        "Family-Friendly",
+        "Culture"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "main_content": "Contents\nHacienda Santa Rita\nHacienda Santa Rita is located in the municipality of Guánica, Puerto Rico . It is also known as Casa Madre y Noviciado de las Hermanas Dominicas de Fatima and was built in 1800 by Don Mariano Quiñonez .  \\n\nIt was listed on the U.S. National Register of Historic Places in 1984 and on the Puerto Rico Register of Historic Sites and Zones in 2000.   \\n\nIt consists of buildings of a former sugar plantation , Hacienda Desideria , including a main house and slave quarters.  \\n\nDuring the Spanish\\xe2\\x80\\x93American War in 1898 the building was used by the Spanish military and then by the Americans. Generals Guy Vernor Henry [ note 1 ] and A. Garreston stayed at the house.  \\n\nFrom 1953 on it was used by, and from 1962 owned by, the Dominican Order of Our Lady of Fatima. The main house has been used as a convent and novice house.  \\n\nNotes\nReferences\n\\n\nThis article about a property in Puerto Rico on the National Register of Historic Places is a stub . You can help Wikipedia by expanding it .\nThis article about a Puerto Rican building or structure related topic is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Hacienda_Santa_Rita&action=edit",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://en.wikipedia.org/w/index.php?title=Hacienda_Santa_Rita&oldid=1240144033"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.007462,
+            -66.884302
+        ],
+        "title": "Hacienda Santa Rita",
+        "type": "Point"
+    },
+    "categories": []
+}

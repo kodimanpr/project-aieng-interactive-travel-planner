@@ -1,0 +1,22 @@
+{
+    "main_content": "Contents\nParque Urbano Dora Colón Clavell\n\\n\nParque Urbano Dora Colón Clavell (English: Dora Colón Clavell Urban Park ) is a passive park in Ponce, Puerto Rico .  The park is named after the mother of ex-governor of Puerto Rico and Ponce native, Rafael Hernández Colón .  It opened on 9 December 1995.  The park was designed by Ponce architect Juan Dalmau Sambolín.  \\n\nLocation\nThe park is a passive urban family park. It is located in Ponce\\'s Historic District , near several museums and parks, including the Ponce Massacre Museum and the Abolition Park . It features a number of kiosks that open on an as-needed basis (i.e., depending on the function taking place at the park) and a central stage where the Banda Municipal de Ponce stages free open-air concerts.  The location where the park now sits used to be occupied by Hospital Damas before it moved to its current location on Ponce By Pass on 6 May 1973.   \\n\nHistory\nThe park was built in 1995 under the administration of mayor Churumba and, in the same year, it received the award for Outstanding Construction Work of the Year  from the College of Engineers and Surveyors of Puerto Rico .  It was built with an original appropriation of $5.5 million.  Final cost in December 1995 was $11 million.  \\n\nAmenities\nThe park features gardens, a Mudéjar -style kiosk for the Ponce Municipal Band traditional Sunday concerts, a trolley stop, a restaurant, and food stands.  This Mudéjar-style kiosk is a smaller replica of the one built on Plaza Las Delicias , in 1882, but since demolished, for the town\\'s 1882 Feria-Exposición.  It was designed by José Carlos Villaró, a Spanish architect from Málaga .  \\n\nThe park also has an underground parking garage with two levels. In the first (top-most) level of the garage there is a Ponce tourist police station.  The parking garage has space for 400 vehicles.  \\n\nSee also\nReferences\n\\n",
+    "relevant_links": [
+        "https://ceb.wikipedia.org/wiki/Dora_Colon_Clavell_Urban_Park",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://en.wikipedia.org/w/index.php?title=Parque_Urbano_Dora_Col\\xc3\\xb3n_Clavell&oldid=1165366213"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.0080972,
+            -66.6139
+        ],
+        "title": "Parque Urbano Dora Col\\xc3\\xb3n Clavell",
+        "type": "Point"
+    },
+    "categories": [
+        "Outdoor",
+        "Food",
+        "Family-Friendly",
+        "Culture"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "main_content": "Contents\nConservatory of Music of Puerto Rico\nThe Puerto Rico Conservatory of Music  is a public conservatory in San Juan, Puerto Rico .  It has hosted a number of international musicians as students as well as faculty, and has a longstanding relationship with the classical music movement in Puerto Rico, including the annual Casals Festival and the Puerto Rico Symphony Orchestra (PRSO).\\n\nHistory\nFollowing the success of the Casals Festival held in San Juan in 1957, state legislator Ernesto Ramos Antonini proposed several laws which would create the Puerto Rico Symphony Orchestra that same year, and the Conservatory of Music in June 1959. The conservatory was originally envisioned as a school for preparing musicians for the PRSO and for preparing music teachers for the state public education system. Throughout the years, however, the conservatory has become a musical landmark in the Caribbean, providing advanced academic studies in various music areas to local students as well as international visitors.\\n\nSince its inception, the conservatory has been under the administration of state government agencies, including the Puerto Rico Industrial Development Company ( Compañía de Fomento Económico ), the Administration for the Encouragement of Arts and Culture ( Administración para el Fomento de las Artes y Cultura ), and the Musical Arts Corporation ( Corporación de las Artes Musicales , or CAM). It remained a part of the CAM until 1995 when a state law granted it fiscal and administrative autonomy. Since then, the conservatory has been autonomously run by a board of trustees appointed by the Governor and confirmed by the Senate.\\n\nAcademics\nThe conservatory offers a variety of post-secondary degrees in music, the post-graduate program offers bachelor\\'s degrees in: musical composition , music education , voice , classical guitar , symphony instruments, jazz , Caribbean music , and piano . The graduate program consists of: master\\'s degrees in music education , voice , classical guitar , symphony instruments and piano , as well as artists diplomas in voice , classical guitar , symphony instruments, jazz , Caribbean music , and piano . It also offers continuing education programs, and teacher certifications. In addition to its regular academic programs, it organizes various international student exchange programs with music schools all around the world.\\n\nThe Conservatory\\'s Preparatory School offers programs for children, teenagers and adults with the purpose of encouraging music appreciation within the local community. These programs do not offer degrees or certifications, but provide basic to near expert level teaching to regular citizens who are not in its formal academic program.\\n\nThe conservatory is accredited by various federal and state educational associations, including:\\n\nCampus\nFrom 1960 to 2008 the Puerto Rico Conservatory of Music was located in Hato Rey , in the former facilities of an old factory . In 2009 they moved to the new facilities in the Miramar section of the island\\'s capital.\\n\nThe conservatory is composed of three main buildings:\\n\nThe facilities host a variety of concerts for the nearby communities featuring students, teachers, the Puerto Rico Symphony Orchestra , and famous international performers.\\n\nAffiliates\nThe conservatory is a participating member of various US , Puerto Rico, and international music and arts associations, including:\\n\nReferences\nExternal links\n18\\xc2\\xb027\\xe2\\x80\\xb215\\xe2\\x80\\xb3N 66\\xc2\\xb004\\xe2\\x80\\xb246\\xe2\\x80\\xb3W ﻿ / ﻿ 18.45417\\xc2\\xb0N 66.07944\\xc2\\xb0W ﻿ / 18.45417; -66.07944 \\n",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Conservatory_of_Music_of_Puerto_Rico&oldid=1243033108",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://ca.wikipedia.org/wiki/Conservatori_de_M%C3%BAsica_de_Puerto_Rico",
+        "https://es.wikipedia.org/wiki/Conservatorio_de_M%C3%BAsica_de_Puerto_Rico"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.45417,
+            -66.07944
+        ],
+        "title": "Conservatory Of Music Of Puerto Rico",
+        "type": "Point"
+    },
+    "categories": [
+        "Festivals & Events",
+        "Culture"
+    ]
+}

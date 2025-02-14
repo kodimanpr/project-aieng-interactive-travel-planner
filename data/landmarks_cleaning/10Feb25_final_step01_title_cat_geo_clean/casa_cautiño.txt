@@ -1,0 +1,23 @@
+{
+    "main_content": "Contents\nCasa Cautiño\nCasa Cautiño is a house museum in Guayama, Puerto Rico . The museum collection, administered by the Institute of Puerto Rican Culture , include works of art, wood carvings, sculptures and furniture built by Puerto Rican cabinetmakers for the Cautiño family.  It is listed on the National Register of Historic Places.\\n\nHistory\nThe house was owned by Genaro Cautiño Vázquez, a wealthy Guayama landowner as well as a colonel of the Volunteer Battalion of the Spanish Army . During the Spanish\\xe2\\x80\\x93American War , the house was the headquarters for the American forces. After the war, Genaro Cautiño returned to occupy the house. An additional Annex house, for extended family, also once existed next to the Iglesia San Antonio. Also, a tunnel still exists linking Casa Cautiño, the annex house and Iglesia San Antonio.\\n\nThe U-shaped structure is one-story with an interior patio, which local architect Manual Texidor built in 1887 after graduation from the Academy of Fine Arts in Paris.\\n\nIt features some of the elements of the Neoclassical architecture style, such as cornices, pilasters, candelabra , Roman arches, relief motifs, and classical ornamentation. These elements were blended with some of the details of the popular architecture of the southern area of Puerto Rico that prevailed when the structure was built.  \\n\nSee also\nReferences\nThis article incorporates public domain material from Casa Cautiño . National Park Service . \\n\nExternal links\n\\n\nThis article about a property in Puerto Rico on the National Register of Historic Places is a stub . You can help Wikipedia by expanding it .\nThis article about a Puerto Rican building or structure related topic is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://en.wikipedia.org/w/index.php?title=Casa_Cauti\\xc3\\xb1o&oldid=1237381746",
+        "https://en.wikipedia.org/w/index.php?title=Casa_Cauti%C3%B1o&action=edit",
+        "https://es.wikipedia.org/wiki/Casa_Cauti%C3%B1o",
+        "https://ca.wikipedia.org/wiki/Casa_Cauti%C3%B1o"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            17.985922,
+            -66.113237
+        ],
+        "title": "Casa Cautiño",
+        "type": "Point"
+    },
+    "categories": [
+        "Outdoor",
+        "Family-Friendly",
+        "Culture"
+    ]
+}

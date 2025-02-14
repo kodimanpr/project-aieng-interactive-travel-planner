@@ -1,0 +1,18 @@
+{
+    "main_content": "Contents\nEdificio José de Diego\nThe Edificio José de Diego (English: José de Diego Building ) in Mayagüez, Puerto Rico , also known as the Rectoría , is a historic building on the grounds of the University of Puerto Rico at Mayagüez . It was built in 1913. It was listed on the National Register of Historic Places in 1977  and on the Puerto Rico Register of Historic Sites and Zones in 2000.  \\n\nHistory\nIts construction began in 1913 and concluded in 1916 as the Science Building.  It was slightly affected by the 1918 San Fermín earthquake , it housed the administrative offices, the library and nine class rooms.  As a result of a 1921 remodeling its new tower was added where later the clock was placed. The carillon was donated by Association and Foundation Alumni Colegial, Inc.  Since then the rectory building is named the José de Diego building in honor of the campus\\'s founder.  \\n\nArchitecture\nAlthough its constructive aesthetics presents a great eclecticism, is important to indicate the entrance of the great facade.  Follow the steps of the central staircase regular service, stand two columns - \"dístilo\" smooth shaft and reduced éntasis, with its pedestal, \"basa\", toscano-romano capital marked \"astragalo\".  This is the most estimable attention to aesthetic impact section.  On the two abacus terminals holds a short frieze with the inscription in English the name of the school.  Below is the date with the year 1916.  \\n\nThe construction is of two floors and irregular masonry .  It consists of two large horizontal lateral \"masses\" and a central rectangular.  In the middle section rises the Tower surrounded by balustrades and four campaniformes floreados pinnacles below of the cantilever roof supported by plates; inside lies the \"Carillon\" service, with external exits to their respective clocks.  The turret is covered with a coverage to four aspects; its Center highlights a \"chapitelillo\" tip.  The structure has many openings in administrative functionalism and was made at a time in which there was no air conditioning .  The structure began to be constructed in 1913 as a Sciences building.\\n\nSee also\nNotes\nReferences\nExternal links",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Edificio_Jos\\xc3\\xa9_de_Diego&oldid=1240151367",
+        "https://stats.wikimedia.org/#/en.wikipedia.org"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.20915,
+            -67.141522
+        ],
+        "title": "Edificio José De Diego",
+        "type": "Point"
+    },
+    "categories": [
+        "Culture"
+    ]
+}

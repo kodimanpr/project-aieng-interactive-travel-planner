@@ -1,0 +1,19 @@
+{
+    "main_content": "Contents\nPuente de Coloso\nEl Puente de Coloso (The Coloso Bridge) also known as Bridge Number 1142 is located in Aguada on PR-418 at the 0.5-kilometer (0.31 mi) marking, between the Guanábano and Espinar barrios in Aguada.\\n\nIt is a metal bridge, 25.9 meters (85 ft) long which crosses over the Culebrinas River . The bridge rails are built in a warren truss style with steel posts. \\n\nBecause the bridge was used for the transport of sugarcane, it was built large enough for truck access. It was built by the Central Coloso , a sugarcane mill for its railway transport system of sugarcane harvest. The bridge allowed access to nearby Guanábano and Espinar barrios in Aguada, and Pueblo in Moca.\\n\nGallery\nSee also\nReferences\n\\n\nThis article about a property in Puerto Rico on the National Register of Historic Places is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Puente_de_Coloso&oldid=1141580601",
+        "https://en.wikipedia.org/w/index.php?title=Puente_de_Coloso&action=edit",
+        "https://en.wikipedia.org/wiki/puente_de_coloso"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.399159,
+            -67.156184
+        ],
+        "title": "Puente De Coloso",
+        "type": "Point"
+    },
+    "categories": [
+        "Outdoor"
+    ]
+}

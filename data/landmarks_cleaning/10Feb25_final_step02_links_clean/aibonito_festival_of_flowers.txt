@@ -1,0 +1,20 @@
+{
+    "main_content": "Contents\nAibonito Festival of Flowers\nThe Aibonito Festival of Flowers  is a yearly festival that takes place in Aibonito, Puerto Rico . This is a 10-day festival that is celebrated every June at specially-designated grounds just outside Aibonito Pueblo . Attendees to the festival are able to see and purchase flowers of all kinds brought by growers and retailers from all over Puerto Rico. In addition to the floral exhibits there are exhibitions dedicated to fruit and vegetable plants, live music performances, food kiosks, activities for children, and traditional arts and crafts.  \\n\nHistory\nAibonito is an important center in the floral industry of Puerto Rico since before the first edition of the festival. The festival has been celebrated for almost fifty years, and the first edition was celebrated in 1969.  Its original purpose was and still is to showcase Puerto Rico\\'s flora and island\\'s floral industry. The festival was officially established for its second edition when the \" Festival de las Flores de Aibonito, Inc \" (\"Aibonito Festival of Flowers, Inc.\") was incorporated with the objective of promoting and celebrating the town\\'s floriculture and agriculture. In 2017 Hurricane María brought significant amount of rain, wind and destruction which decimated the flower industry of Aibonito.  In 2020 and 2021  the festival was cancelled due to the ongoing COVID-19 pandemic in Puerto Rico .\\n\nSee also\nReferences\nExternal links",
+    "relevant_links": [
+        "https://es.wikipedia.org/wiki/Festival_de_las_Flores_de_Aibonito",
+        "https://www.discoverpuertorico.com/",
+        "https://www.discoverpuertorico.com/info/festival-de-las-flores",
+        "https://en.wikipedia.org/w/index.php?title=Aibonito_Festival_of_Flowers&oldid=1054264618",
+        "https://en.wikipedia.org/wiki/aibonito_festival_of_flowers"
+    ],
+    "geo_metadata": {
+        "coordinates": "Not Found",
+        "title": "Aibonito Festival Of Flowers",
+        "type": "Point"
+    },
+    "categories": [
+        "Festivals & Events",
+        "Food",
+        "Culture"
+    ]
+}

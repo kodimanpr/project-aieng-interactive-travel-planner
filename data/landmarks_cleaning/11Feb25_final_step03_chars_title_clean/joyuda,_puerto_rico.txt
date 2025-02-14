@@ -1,0 +1,23 @@
+{
+    "main_content": "Contents\nJoyuda, Puerto Rico\nJoyuda is a quiet coastal fishing village in western Puerto Rico , located between the cities of Mayagüez and Cabo Rojo , known for its seafood and snorkeling and seafood restaurants.    \\n\nLocation\nThough Joyuda is easy to access from Mayagüez, the neighborhood belongs to the barrio Miradero in the municipality of Cabo Rojo. A chain of fishing hamlets, mini-docks and wooden homes raised above water on stilts, occupies the mile-long portion of the road P.R. 102 that borders the sea, just along the Joyuda Cove . At its north, runs the Guanajibo River , also known as Pirate River for \"stealing the waters of rivers that ran south.\" Closer yet lies the bioluminescent  saltwater Joyuda Lagoon , a natural preserve and a bird sanctuary with an extensive mangrove forest and more than 40 sorts of fish. Slightly to the west, off the coast and toward the Mona Passage is another natural preserve. Within a stone\\'s throw, emerges Mice Cay , a Brown pelican nesting grounds, an islet covered with Australian pines and bordered by sandy beaches.\\n\nHistory\nJoyuda should be one of the few coastal settlements in western Puerto Rico to forgo claims of Christopher Columbus landing. Though the nearby path, \"Camino el Indio\" (en: Indian Way), may elicit visions of a rich indigenous past, little surfaces, in fact, from colonial sources about Joyuda, but until the 19th century. With the sharp population growth that followed the Spanish American wars of independence and the resulting migration of loyalist creoles to the island, Joyuda made a definitive appearance on the map. Even foreign publications refer to 19th century Joyuda as a fishing center, flanked by sugarcane fields, watered by the Guanajibo watershed. One Spanish source describes the Mouse Cay as larger and nearer to the coast than what is today. Pineapple and sugarcane grew on it, which explains its earlier name of Cay of Pineapples .\\n\nAmong the flurry of English-language publications about Puerto Rico that rolled out of New York presses in the wake of the Spanish-American War, Joyuda turns up commonly as a point of geo-reference. Scientists suddenly were paying attention to the Joyuda Lagoon, particularly those from the College of Agriculture, today\\'s Mayagüez campus of the University of Puerto Rico. Even a coconut-cultivation business grew around it, cutting the extent of the mangrove forest drastically. The fishing community, however, continued to make little noise. Only its food, especially homemade meals prepared with shellfish, crab and fish, was making waves. It began in the 1940s with a trickle. From nearby U.S. companies in Mayagüez, came a steady dribble of customers who could afford to take the 15-minute drive over the new road and across the river and lagoon to eat \"genuine\" Puerto Rican food. In the 1950s, Mayagüez suburbs, like the Guanajibo Homes, developed toward the coast and contiguous to Joyuda.\\n\nGallery\nPlaces in Joyuda:\\n\nSee also\nReferences",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Joyuda,_Puerto_Rico&oldid=1081643339",
+        "https://en.wikipedia.org/wiki/joyuda,_puerto_rico"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.114972,
+            -67.1825
+        ],
+        "title": "Joyuda, Puerto Rico",
+        "type": "Point"
+    },
+    "categories": [
+        "Soft Adventure",
+        "Culture",
+        "Beach",
+        "Outdoor",
+        "Religion",
+        "Food"
+    ]
+}

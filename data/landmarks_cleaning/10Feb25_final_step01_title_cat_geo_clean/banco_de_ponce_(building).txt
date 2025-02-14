@@ -1,0 +1,18 @@
+{
+    "main_content": "Contents\nBanco de Ponce (building)\n\\n\nThe Banco de Ponce building , a historic building in Ponce, Puerto Rico , was the first and main office of Banco de Ponce until the company merged with Banco Popular in 1990.  Though its headquarters had moved to a presumptuous building in Hato Rey \\'s Milla de Oro by then, Banco de Ponce continued to consider this building its main office, until the company merged with Banco Popular in 1990.  The building was listed on the U.S. National Register of Historic Places on June 25, 1987. It was built in 1924.  \\n\nLocation\nThe building is located facing Plaza Degetau .  The large structure occupies a small city block .  It is bounded by Mayor, Francisco Parra Duperon (also known as Comercio ), Marina, and Amor streets. Amor street was also called Callejon Amor , or Amor Alley; literally, Love Alley . In 1991, Amor street was converted into a promenade and renamed Paseo Antonio Arias Ventura, after the long-time employee of the bank who started as a custodian and rose to become the bank\\'s general manager.\\n\nArchitecture\nThe building\\'s architect was Francisco Porrata Doria .  \\n\nThe Banco de Ponce building is a four-story brick and concrete structure. As it is set in a very narrow triangular lot defined by near-parallel Amor and Comercio Streets, the architect\\'s solution to the lot\\'s footprint geometry was the development of a continuous facade enveloping these two streets and the narrow front to Plaza Las Delicias .  \\n\nThe predominant style is related to the Beaux art neoclassical , with three\\nhorizontal bands defining this wraparound facade. The base is made of a pinkish stone\\nextracted from a quarry close to the city. This stone has been commonly used in other\\nPonce buildings.  \\n\nThe second and third floors house bank office. \"These are rendered in elaborate plasterwork with square Corinthian columns, brackets, medallions and panels between the structural beams ornamented with paterae. Naturalistic motifs are ubiquitous.\"  For a while, the building\\'s third floor was used as a ballroom for Ponce\\'s old casino .  \\n\nContemporary use\nIn 1990, at the time of the merger between Banco de Ponce and Banco Popular, Banco de Ponce continued to operate at this building as Banco de Ponce, but eventually the BanPonce Corporation branded all of its branches with the Banco Popular name. Subsequently, the building was sold to Scotiabank , the Canadian concern, but later Banco Popular switched with Scotiabank the Banco de Ponce building, and Banco Popular has been using it since as its downtown Ponce branch.  Today, the first floor of the building houses a branch of Banco Popular. The fourth floor houses Banco Popular\\'s regional offices and the Commercial Banking Center.\\n\nSee also\nReferences\nExternal links",
+    "relevant_links": [
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://en.wikipedia.org/w/index.php?title=Banco_de_Ponce_(building)&oldid=1140845170"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.011111,
+            -66.613271
+        ],
+        "title": "Banco De Ponce (building)",
+        "type": "Point"
+    },
+    "categories": [
+        "Culture"
+    ]
+}

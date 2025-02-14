@@ -1,0 +1,18 @@
+{
+    "main_content": "Contents\nEl Monumento de la Recordación\n\\n\nEl Monumento de la Recordación (English: The Monument of Remembrance ) is a memorial monument and monolith erected in San Juan , Puerto Rico that honors Puerto Ricans who have fallen in combat in service of the United States Armed Forces .     The monument was unveiled on May 19, 1996 as a granite wall engraved with the names of Puerto Rican soldiers who died during combat.  As of 2009, the monument was etched with the names of more than 2,000 service members.  \\n\nThe monument largely contains the names of soldiers who had a Puerto Rico address at their time of enlistment and/or death. If a soldier had a stateside address their name is most likely not on the monument.  Because so many Puerto Ricans in the military list a United States address, their participation is underrepresented in statistics.  \\n\nA sculpture by Victor Gutierrez called Llama de la eternidad (Flame of eternity) is located in the center of monument.  \\n\nA service is held each year on Memorial Day at the Monumento de la Recordación . In 2019, attendees learned that two fallen soldiers from Puerto Rico had been recently identified as part of the Recovery of US human remains from the Korean War .  \\n\nSee also\nReferences\n18\\xc2\\xb027\\xe2\\x80\\xb258\\xe2\\x80\\xb3N 66\\xc2\\xb06\\xe2\\x80\\xb221.2\\xe2\\x80\\xb3W ﻿ / ﻿ 18.46611\\xc2\\xb0N 66.105889\\xc2\\xb0W ﻿ / 18.46611; -66.105889 \\n\n\\n\nThis article about a Puerto Rican building or structure related topic is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=El_Monumento_de_la_Recordaci%C3%B3n&action=edit",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://en.wikipedia.org/w/index.php?title=El_Monumento_de_la_Recordaci\\xc3\\xb3n&oldid=1202168867",
+        "https://es.wikipedia.org/wiki/El_Monumento_de_la_Recordaci%C3%B3n"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.46611,
+            -66.105889
+        ],
+        "title": "El Monumento De La Recordación",
+        "type": "Point"
+    },
+    "categories": []
+}

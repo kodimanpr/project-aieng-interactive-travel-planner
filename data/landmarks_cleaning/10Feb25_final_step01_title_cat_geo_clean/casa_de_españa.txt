@@ -1,0 +1,21 @@
+{
+    "main_content": "Contents\nCasa de España\nCasa de España is the headquarters of a private social organization whose members are those of Spanish descent in San Juan, Puerto Rico on Avenida de La Constitución in Old San Juan.  \\n\nHistory\nThe building was designed in a Moorish Revival style by architect Pedro Adolfo de Castro .  The building dates from 1934. Although it is named \"Casa\", it has never been a dwelling place for a family; rather it is a \"house\" whose members claim common ancestry. It was listed on the National Register of Historic Places in 1983,  nd on the Puerto Rico Register of Historic Sites and Zones in 2000.  It is not open to the public, but private affairs may be arranged.\\n\nThe building is a \"typical\" Moorish palace that is 119 feet (36 m) wide by 158 feet (48 m) long, with an interior rectangular courtyard, 51 feet (16 m) by 85 feet (26 m) long.  \\n\nThe fountain design outside the entrance is a copy of one in the \" Patio de los Leones \" at La Alhambra in Granada , Spain.  \\n\nMedia\nThe interior courtyard was used to film two coronation scenes for the Disney Channel Original Movie \" Princess Protection Program \" (2008).  \\n\nGallery\nSee also\nReferences\nExternal links\n\\n\nThis article about a property in Puerto Rico on the National Register of Historic Places is a stub . You can help Wikipedia by expanding it .\nThis article about a Puerto Rican building or structure related topic is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Casa_de_Espa%C3%B1a&action=edit",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://en.wikipedia.org/w/index.php?title=Casa_de_Espa\\xc3\\xb1a&oldid=1246947667",
+        "https://es.wikipedia.org/wiki/Casa_de_Espa%C3%B1a_(San_Juan)"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.466432,
+            -66.108019
+        ],
+        "title": "Casa De España",
+        "type": "Point"
+    },
+    "categories": [
+        "Family-Friendly",
+        "Culture"
+    ]
+}

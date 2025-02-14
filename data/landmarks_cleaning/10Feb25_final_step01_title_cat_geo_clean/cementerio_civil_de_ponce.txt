@@ -1,0 +1,16 @@
+{
+    "main_content": "Contents\nCementerio Civil de Ponce\n\\n\nCementerio Civil de Ponce (Ponce Civil Cemetery), a.k.a., Cementerio Municipal de Ponce , is a historic burial ground in Ponce, Puerto Rico . It was founded in 1901.  [ a ] It was designed by Manuel V. Domenech .  Some of the people buried at Cementerio Civil include Ruth Fernández , Isabel la Negra and Héctor Lavoe . It is believed to be the largest cemetery in Puerto Rico.  \\n\nThe cemetery is also home to the Monumento a los heroes de El Polvorín (Monument to the El Polvorin Heroes). It is located in Barrio Portugues Urbano at N 18.01327 W 66.63286 (18\\xc2\\xb0 0\\' 47.7714\" N, 66\\xc2\\xb0 37\\' 58.2954\" W).\\n\nNotable interments\nSee also\nNotes\nReferences\nExternal links\nDownload coordinates as: \\n",
+    "relevant_links": [
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://en.wikipedia.org/w/index.php?title=Cementerio_Civil_de_Ponce&oldid=1246267421"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.01327,
+            -66.63286
+        ],
+        "title": "Cementerio Civil de Ponce",
+        "type": "Point"
+    },
+    "categories": []
+}

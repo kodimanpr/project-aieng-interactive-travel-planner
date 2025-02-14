@@ -1,0 +1,19 @@
+{
+    "main_content": "Contents\nSan Sebastián barrio-pueblo\nSan Sebastián barrio-pueblo is a barrio and the administrative center ( seat ) of San Sebastián , a municipality of Puerto Rico. Its population in 2010 was 1,424.    \\n\nAs was customary in Spain, in Puerto Rico, the municipality has a barrio called pueblo which contains a central plaza, the municipal buildings (city hall), and a Catholic church. Fiestas patronales (patron saint festivals) are held in the central plaza every year.   \\n\nThe central plaza and its church\nThe central plaza, or square, is a place for official and unofficial recreational events and a place where people can gather and socialize from dusk to dawn. The Laws of the Indies , Spanish law, which regulated life in Puerto Rico in the early 19th century, stated the plaza\\'s purpose was for \"the parties\" (celebrations, festivities) , and that the square should be proportionally large enough for the number of neighbors . These Spanish regulations also stated that the streets nearby should be comfortable portals for passersby, protecting them from the elements: sun and rain.  \\n\nLocated across the central plaza in San Sebastián barrio-pueblo is the Parroquia San Sebastián Mártir , a Roman Catholic church.   \\n\nSectors\nBarrios (which are, in contemporary times, roughly comparable to minor civil divisions )  in turn are further subdivided into smaller local populated place areas/units called sectores ( sectors in English). The types of sectores may vary, from normally sector to urbanización to reparto to barriada to residencial , among others.    There are two subbarrios in barrio-pueblo: Norzagaray and Urréjola.  \\n\nThe following sectors are in San Sebastián barrio-pueblo:  \\n\nAvenida Emérito Estrada Rivera, Calle Andrés M. Liciaga, Calle Andrés Velázquez, Calle \\xc3\\x81ngel Mislán, Calle Betances, Calle Emilio Ruiz, Calle Hipólito Castro, Calle Hostos, Calle Jesús T Piñero, Calle J. Méndez Cardona, Calle M. J. Cabrero, Calle Muñoz Rivera, Calle Padre Feliciano, Calle Pavía Fernández, Calle Raúl Gaya Benejam, Calle Ruiz Belvis, Calle Severo Arana, Calle 25 de Julio, Residencial San Sebastián Court, Residencial Villa Soigal, Sector Paralelo 38, Sector Rabo del Buey, Urbanización Guayabal, Urbanización Los Alamos, Urbanización Pedro T. Labayen , and Urbanización Román .\\n\nFeatures\nThe Antiguo Cementerio Municipal de San Sebastián (old cemetery of San Sebastian) is located in barrio-pueblo. It was first used in 1826 but completed and established in 1863.  The cemetery was expanded during the cholera outbreak that occurred in Puerto Rico starting in 1855.  \\n\nGallery\nImages of places in San Sebastián pueblo:\\n\nSee also\nReferences",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=San_Sebasti\\xc3\\xa1n_barrio-pueblo&oldid=1192951353",
+        "https://es.wikipedia.org/wiki/San_Sebasti%C3%A1n_(San_Sebasti%C3%A1n)",
+        "https://en.wikipedia.org/wiki/san_sebastián_barrio-pueblo"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.336802,
+            -66.990029
+        ],
+        "title": "San Sebastián Barrio-pueblo",
+        "type": "Point"
+    },
+    "categories": [
+        "Religion"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "main_content": "Contents\nVega Baja barrio-pueblo\nVega Baja barrio-pueblo is a barrio and downtown area that serves as the administrative center ( seat ) of Vega Baja , a municipality of Puerto Rico . Its population in 2010 was 816.     \\n\nThe central plaza and its church\nAs was customary in Spain, in Puerto Rico, the municipality has a barrio called pueblo which contains a central plaza, the municipal buildings (city hall), and a Catholic church. Fiestas patronales (patron saint festivals) are held in the central plaza every year.   \\n\nThe Vega Baja central plaza is called La Plaza José Francisco Náter , and is named after a pharmacist from Vega Baja who was also one of its mayors.  The central plaza, or square, is a place for official and unofficial recreational events and a place where people can gather and socialize from dusk to dawn. The Laws of the Indies , Spanish law, which regulated life in Puerto Rico in the early 19th century, stated the plaza\\'s purpose was for \"the parties\" (celebrations, festivities) , and that the square should be proportionally large enough for the number of neighbors . These Spanish regulations also stated that the streets nearby should be comfortable portals for passersby, protecting them from the elements: sun and rain.  \\n\nLocated across from the central plaza is the Church Santa María del Rosario of Vega Baja , a Roman Catholic church  which was inaugurated in 1870. There had been another church there, built in 1795 and demolished in 1860.  The church has been listed in the National Register of Historic Places since 1984.  The entire historic downtown zone ( pueblo ) of Vega Baja has also been listed on the Puerto Rico Register of Historic Sites and Zones since 2004.  \\n\nHistory\nBefore being settled, the area used to be a sugarcane plantation. The settlement that is today Vega Baja barrio-pueblo (downtown Vega Baja) was first founded in 1776 as Vega-Baxa del Naranjal de Nuestra Señora del Rosario by Don Antonio Viera in an area originally owned by Don Manuel Negrón Benítez. This is also considered the official founding of the municipality itself.  The famous Casa Alonso is a good example of the Neoclassical vernacular style developed by sugarcane plantation owners in the downtown area during this time.\\n\nVega Baja barrio-pueblo was in Spain\\'s gazetteers  until Puerto Rico was ceded by Spain in the aftermath of the Spanish-American War under the terms of the Treaty of Paris of 1898 and became an unincorporated territory of the United States . In 1899, the United States Department of War conducted a census of Puerto Rico finding that the population of Pueblo was 2,288.  The current city hall was built and inaugurated in 1923.  \\n\nLandmarks and places of interest\nGallery\nSee also\nReferences\nExternal links",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Vega_Baja_barrio-pueblo&oldid=1240276488",
+        "https://es.wikipedia.org/wiki/Vega_Baja_(Vega_Baja)",
+        "https://en.wikipedia.org/wiki/vega_baja_barrio-pueblo"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.444396,
+            -66.386913
+        ],
+        "title": "Vega Baja Barrio-pueblo",
+        "type": "Point"
+    },
+    "categories": [
+        "Religion",
+        "Culture"
+    ]
+}

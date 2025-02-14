@@ -1,0 +1,22 @@
+{
+    "main_content": "Contents\nLos Tres Picachos\nTres Picachos ( Spanish for Three Little Peaks ) is one of the highest peaks in Puerto Rico at 968 meters (3,176 ft). It is located on the border between  the municipalities of Ciales and Jayuya  in the central part of the island, and is part of the Cordillera Central .   \\n\nThe mountain has three joint peaks from which the name is derived. It is believed that Taíno Indians thought the mountain to be sacred.\\n\nReferences\n\\n\nThis Jayuya, Puerto Rico location article is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://arz.wikipedia.org/wiki/%D8%AC%D8%A8%D9%84_%D8%AA%D8%B1%D9%8A%D8%B3_%D9%BE%D9%8A%D9%83%D8%A7%D8%AA%D8%B4%D9%88%D8%B3",
+        "https://en.wikipedia.org/w/index.php?title=Los_Tres_Picachos&action=edit",
+        "https://en.wikipedia.org/w/index.php?title=Los_Tres_Picachos&oldid=1150720815",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://es.wikipedia.org/wiki/Tres_Picachos",
+        "https://fr.wikipedia.org/wiki/Tres_Picachos",
+        "https://ceb.wikipedia.org/wiki/Los_Tres_Picachos_(bukid)",
+        "https://lld.wikipedia.org/wiki/Tres_Picachos"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.21472,
+            -66.54139
+        ],
+        "title": "Los Tres Picachos",
+        "type": "Point"
+    },
+    "categories": []
+}

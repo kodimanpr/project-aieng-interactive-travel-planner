@@ -1,0 +1,104 @@
+[
+    {
+        "query": "What is the tallest landmark in Puerto Rico?",
+        "expected_answers": [
+            "The tallest landmark in Puerto Rico is the Arecibo Observatory, which was one of the world's largest radio telescopes before its collapse in 2020."
+        ]
+    },
+    {
+        "query": "Where is El Yunque National Forest located?",
+        "expected_answers": [
+            "El Yunque National Forest is located in the northeastern region of Puerto Rico, on the slopes of the Sierra de Luquillo mountains and it is near the municipalities of Rio Grande and Luquillo."
+        ]
+    },
+    {
+        "query": "When was La Fortaleza built?",
+        "expected_answers": [
+            "La Fortaleza was built between 1533 and 1540, making it the oldest executive mansion still in use in the Americas."
+        ]
+    },
+    {
+        "query": "Tell me about the history and importance of Ponce, Puerto Rico.",
+        "expected_answers": [
+            "Ponce, Puerto Rico, was founded in 1692 and is known as 'La Perla del Sur' (The Pearl of the South). It played a significant role in the island’s economic and cultural development, particularly in the 19th century."
+        ]
+    },
+    {
+        "query": "What is the best time to visit San Juan?",
+        "expected_answers": [
+            "The best time to visit San Juan, Puerto Rico, is from mid-December to April, as it offers pleasant weather and many cultural events, though it is also the peak tourist season."
+        ]
+    },
+    {
+        "query": "Compare Castillo San Felipe del Morro and Castillo San Cristóbal.",
+        "expected_answers": [
+            "Castillo San Felipe del Morro and Castillo San Cristóbal are both Spanish fortresses in Old San Juan. El Morro was designed to protect the island from sea attacks, while San Cristóbal was built to defend against land invasions."
+        ]
+    },
+    {
+        "query": "Who was the first governor of California?",
+        "expected_answers": [
+            "This question is out of scope as it is unrelated to Puerto Rico. However, the first governor of California was Peter Hardeman Burnett in 1849."
+        ]
+    },
+    {
+        "query": "Which landmarks are near Old San Juan?",
+        "expected_answers": [
+            "Landmarks near Old San Juan includes but not limited to El Morro, Casa Blanca, Castillo San Cristóbal, La Perla, La Fortaleza, Hotel El Convento, and Paseo de la Princesa."
+        ]
+    },
+    {
+        "query": "What is the current status of El Yunque after Hurricane Maria?",
+        "expected_answers": [
+            "After Hurricane Maria in 2017, El Yunque National Forest experienced significant damage, but restoration efforts have reopened major trails and visitor centers."
+        ]
+    },
+    {
+        "query": "I'm planning a trip to Puerto Rico. What should I visit?",
+        "expected_answers": [
+            "Popular destinations in Puerto Rico include Old San Juan, El Yunque National Forest, Flamenco Beach in Culebra, and the bioluminescent bays in Vieques and Fajardo."
+        ]
+    },
+    {
+        "query": "What is the significance of the Paseo de la Princesa?",
+        "expected_answers": [
+            "Paseo de la Princesa is a historic promenade in Old San Juan that dates back to the 19th century. It offers scenic views, cultural events, and historical monuments."
+        ]
+    },
+    {
+        "query": "How many municipalities are there in Puerto Rico?",
+        "expected_answers": [
+            "Puerto Rico is divided into 78 municipalities, each with its own local government and unique attractions."
+        ]
+    },
+    {
+        "query": "What are the bioluminescent bays in Puerto Rico?",
+        "expected_answers": [
+            "Puerto Rico has three bioluminescent bays: Mosquito Bay in Vieques, Laguna Grande in Fajardo, and La Parguera in Lajas. These bays glow due to microorganisms that produce bioluminescence."
+        ]
+    },
+    {
+        "query": "What are the best hiking trails in Puerto Rico?",
+        "expected_answers": [
+            "Some of the best hiking locations in Puerto Rico include El Yunque National Forest, Guánica Dry Forest, and Toro Negro State Forest."
+        ]
+    },
+    {
+        "query": "Which towns in Puerto Rico have historic plazas?",
+        "expected_answers": [
+            "Many towns in Puerto Rico have historic plazas, including Plaza Las Delicias in Ponce, Plaza Colón in Mayagüez, and Plaza de Armas in San Juan."
+        ]
+    },
+    {
+        "query": "What are the best outdoor adventure activities in Puerto Rico?",
+        "expected_answers": [
+            "Puerto Rico offers various outdoor adventures, including hiking in El Yunque, zip-lining in Toro Verde, snorkeling in Flamenco Beach, and kayaking in the bioluminescent bays."
+        ]
+    },
+    {
+        "query": "Where can I go zip-lining in Puerto Rico?",
+        "expected_answers": [
+            "One of the best places for zip-lining in Puerto Rico is Toro Verde Adventure Park in Orocovis, home to ‘The Monster,’ one of the longest zip lines in the world."
+        ]
+    },
+]

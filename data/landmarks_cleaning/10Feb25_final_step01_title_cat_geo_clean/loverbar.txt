@@ -1,0 +1,22 @@
+{
+    "main_content": "Contents\nLoverbar\n\\n\nLoverbar was a queer bar , restaurant and nightclub located in Río Piedras , San Juan, Puerto Rico .  As a queer club it was the first of its kind in Puerto Rico,   with Refinery29 calling it \" the queer destination for everything exciting, progressive, and radical about the Puerto Rican queer scene .\"  It opened in 2020 and announced its closure at the end of 2021.\\n\nHistory\nLoverbar was founded by journalist Jhoni Jackson, who previously had co-owned Club 77, a discotheque , where she organized an LGBT group of artists called House of De Show . In 2017, Jackson resigned as Club 77\\'s owner and,     after setting up an unsuccessful Indiegogo campaign,  raised and saved money for three years. Loverbar was idealized as a safe space , since Puerto Rico has a high rate of crimes and murders against transgender people , to showcase queer artists, due in part to the lack of venues for LGBT artists, including drag performers .        \\n\nLoverbar opened on Paseo José de Diego on 20 August 2020, however, due to the effects of the COVID-19 pandemic , Jackson and her team converted the bar and nightclub into a restaurant, opening earlier in the day and offering coffee and a vegan menu . In addition, it counted with a community closet, permitting people to donate as well as take pieces of clothing. Jackson had clarified that making a profit is not the goal, as she viewed Loverbar as a space to provide employment to queer individuals and allegedly paid them above minimum wage ,     at $9.00 an hour.  \\n\nIntervention by the Puerto Rico Police had been frequent, since they had dispersed crowds that tended to gather outside the club, or entered armed to the venue. A notable police raid was carried out on the night of 22 July 2021, when, half an hour before closing, ten armed police officers blocked the bar entrance, while another ten raided it. This was allegedly due to a complaint filed by a neighbor, alleging a lack of COVID-19 regulation enforcement as well as use of public space for private purposes . While there was no substance to the complaint, permit enforcers did fine Jackson for lacking a permit to operate a bar with a closed kitchen. (The kitchen had closed only about an hour prior.) This was decried on social media,      including Pedro Julio Serrano   and Manuel Natal Albelo ,  citing harassment and discrimination, as the San Juan mayor , Miguel Romero Lugo , said that other establishments had been inspected as well, however, he and his office refused to detail which were those.     subsequently, Romero Lugo made a press release confirming his stance against discrimination.  Nonetheless, the only other venue to be reviewed in a similar manner was Club 77.   Other neighboring establishments, such as Paseo Bar, Iluminati and El Ensayo, were also visited that night by the Police operatives. The raids had been an alleged part of an attempt to gentrify the area.  \\n\nWithout prior warning, Loverbar announced its closure on its social media profiles on 8 December 2021, with that night being its last and directing its patrons to donate directly to the venue\\'s employees.   \\n\nReferences\nExternal links\n\\n 18\\xc2\\xb023\\xe2\\x80\\xb258\\xe2\\x80\\xb3N 66\\xc2\\xb003\\xe2\\x80\\xb208\\xe2\\x80\\xb3W ﻿ / ﻿ 18.399355555914\\xc2\\xb0N 66.052160715376\\xc2\\xb0W ﻿ / 18.399355555914; -66.052160715376 \\n",
+    "relevant_links": [
+        "https://zh.wikipedia.org/wiki/Loverbar",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://en.wikipedia.org/w/index.php?title=Loverbar&oldid=1247629049",
+        "https://es.wikipedia.org/wiki/Loverbar"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.399355555914,
+            -66.052160715376
+        ],
+        "title": "Loverbar",
+        "type": "Point"
+    },
+    "categories": [
+        "Nightlife",
+        "Food",
+        "Culture"
+    ]
+}

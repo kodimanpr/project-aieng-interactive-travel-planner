@@ -1,0 +1,19 @@
+{
+    "main_content": "Contents\nAcademia Maria Reina\nAcademia Maria Reina is a Catholic middle (7th to 12th) and high school for girls in San Juan , Puerto Rico.  \\n\nEducative mission\nAcademia Maria Reina is a school of the Sisters of Saint Joseph of Brentwood, New York . The educative mission of this congregation has its roots in the mission of Jesus: to evangelize, to heal, to pardon, to redeem and liberate all, through love that achieves union and reconciliation. During the year 2010-2011, the new 7th graders received the record of the most entries in the academy ever in school history. As they say in Academia Maria Reina: \"Fuerza Conlleva Honor\", which means \"Strength Carries Honor\". The Academia Maria Reina is one of the most prestigious schools for girls in Puerto Rico, where girls are educated by qualified teachers, who are paid an American salary scale above $ 25 per hour to $ 27 an hour. \\n\nPhilosophy\nAcademia Maria Reina is a Catholic private middle school and high school. It is dedicated to the total development of its students, that aspire to continue university studies and doing so with authentically Christian values. The goal of the school is the growth of its students in the Catholic faith and the development of a critical mind. The final goal is to have students be agents of their own development and simultaneously be at the service of the community in which they live in order for this society to be equal to all. Academia Maria Reina, conscientious of its philosophy, aspires to help develop a well rounded Puerto Rican woman of faith and devoted to her society. \\n\nFrom 7-10 grades, the students will many electives as options and they choose one, some of these include dance, art, French, Italian, culinary arts (cooking), theater, creative writing, public speaking, and much more. The students of 11th will receive few electives and will choose two, and the 12th graders choose three electives. Starting in 10th grade, the students will get to learn from different AP courses such as calculus, world history, U.S. history, and more. In each grade in all of the school, the students are given different one-semester classes, such as, in 7th grade, the students pass or fail from Computer Science and English Literature. In 8th grade, the students exercise in Physical Education and Computer Application; in 9th grade, the students take Women Values and Sexuality with \\'drafting\\'; in 10th grade, the students once again have Physical Education and so on. Students also have an 8 day cycle schedule, once a cycle they have guidance class with the grade guidance counselor in which they discuss different things.\\n\nThe school did fund-raising events after Hurricane Maria devastated Puerto Rico on September 20, 2017.  \\n\nNotable alumni\nReferences",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Academia_Maria_Reina&oldid=1246262741",
+        "https://en.wikipedia.org/wiki/academia_maria_reina"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.383442,
+            -66.085516
+        ],
+        "title": "Academia Maria Reina",
+        "type": "Point"
+    },
+    "categories": [
+        "Food",
+        "Culture"
+    ]
+}

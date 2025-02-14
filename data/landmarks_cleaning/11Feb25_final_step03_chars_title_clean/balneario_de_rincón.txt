@@ -1,0 +1,19 @@
+{
+    "main_content": "Contents\nBalneario de Rincón\nBalneario de Rincón is a public beach in Rincón, Puerto Rico .   It hosted the Triathlon events for the 2010 Central American and Caribbean Games .  \\n\nReferences\nExternal links\nU.S. Geological Survey Geographic Names Information System: Balneario de Rincón \\n\n18°20\\xe2\\x80\\xb216\\xe2\\x80\\xb3N 67°15\\xe2\\x80\\xb215\\xe2\\x80\\xb3W ﻿ / ﻿ 18.3376436°N 67.2541605°W ﻿ / 18.3376436; -67.2541605 \\n\n\\n\nThis article about a sports venue in Puerto Rico is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Balneario_de_Rinc%C3%B3n&action=edit",
+        "https://en.wikipedia.org/w/index.php?title=Balneario_de_Rinc\\xc3\\xb3n&oldid=944744381",
+        "https://en.wikipedia.org/wiki/balneario_de_rincón"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.3376436,
+            -67.2541605
+        ],
+        "title": "Balneario De Rincón",
+        "type": "Point"
+    },
+    "categories": [
+        "Beach"
+    ]
+}

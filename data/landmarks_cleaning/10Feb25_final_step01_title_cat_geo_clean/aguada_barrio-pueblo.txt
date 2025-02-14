@@ -1,0 +1,22 @@
+{
+    "main_content": "Contents\nAguada barrio-pueblo\nAguada barrio-pueblo is a small barrio and the administrative center ( seat ) of Aguada , a municipality of Puerto Rico. Its population in 2010 was 1,324. Aguada barrio-pueblo has two subdivisions: California and Rosario.     \\n\nAs was customary in Spain, in Puerto Rico, the municipality has a barrio called pueblo which contains a central plaza, the municipal buildings (city hall), and a Catholic church. Fiestas patronales (patron saint festivals) are held in the central plaza every year.   \\n\nThe central plaza and its church\nThe central plaza, or square, is a place for official and unofficial recreational events and a place where people can gather and socialize from dusk to dawn. The Laws of the Indies , Spanish law, which regulated life in Puerto Rico in the early 19th century, stated the plaza\\'s purpose was for \"the parties\" (celebrations, festivities) , and that the square should be proportionally large enough for the number of neighbors . These Spanish regulations also stated that the streets nearby should be comfortable portals for passersby, protecting them from the elements: sun and rain.  \\n\nIn 1516, the Ermita de Espinar church was built, and after it was destroyed by indigenous people , it was reconstructed in 1639.\\n\nLocated across the central plaza in Aguada barrio-pueblo is the Parroquia San Francisco de Asís , a Roman Catholic church. It was built in 1692, then reconstructed in 1793. It was destroyed by the 1918 San Fermín earthquake . Following the architectural design of Antonio Martínez and José Lazaro, it was rebuilt between the years 1924 and 1936.  Stained glass windows were installed in 1956 and again in 1964. Its interior was remodeled in 1993.  \\n\nThe oldest festival in Puerto Rico was celebrated in and around the church in Aguada. To honor the Immaculate Conception it was held for many years, starting in the 16th century. The festival which lasted eight days went on for many years until ended by the church for having become too commercialized.  \\n\nAguada\\'s annual patron saint festival in honor of Francis of Assisi is held from late September to early October in the Plaza Carlos Ruiz.  \\n\nSectors\nBarrios (which are like minor civil divisions )  in turn are further subdivided into smaller local populated place areas/units called sectores ( sectors in English). The types of sectores may vary, from normally sector to urbanización to reparto to barriada to residencial , among others.\\n\nThe following sectores are in Aguada barrio-pueblo:  \\n\nCalle Elomita,\\nCalle Paz, \\nEste De La Calle Manuel Ruíz González, \\nHogar Love and Care, \\nOeste De La Calle Manuel Ruíz González, \\nResidencias de Colores, \\nRuíz González, \\nSector California, \\nSector Rosario, \\nUrbanización Moropó , and Urbanización San Cristóbal .\\n\nIn Aguada barrio-pueblo is part of the Aguada urban zone.  \\n\nGallery\nPlaces in Aguada barrio-pueblo:\\n\nSee also\nReferences\nExternal links",
+    "relevant_links": [
+        "https://es.wikipedia.org/wiki/Aguada_(Aguada)",
+        "https://nl.wikipedia.org/wiki/Aguada_(plaats)",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://ceb.wikipedia.org/wiki/Aguada_Barrio-Pueblo",
+        "https://en.wikipedia.org/w/index.php?title=Aguada_barrio-pueblo&oldid=1220230471"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.380211,
+            -67.188632
+        ],
+        "title": "Aguada Barrio-pueblo",
+        "type": "Point"
+    },
+    "categories": [
+        "Festivals & Events",
+        "Religion"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "main_content": "Contents\nCarolina barrio-pueblo\nCarolina barrio-pueblo is a barrio and the administrative center ( seat ) of Carolina , a municipality of Puerto Rico. Its population in 2010 was 1,201.     \\n\nAs was customary in Spain, in Puerto Rico, the municipality has a barrio called pueblo which contains a central plaza, the municipal buildings (city hall), and a Catholic church. Fiestas patronales (patron saint festivals) are held in the central plaza every year.   \\n\nThe central plaza and its church\nThe central plaza, or square, is a place for official and unofficial recreational events and a place where people can gather and socialize from dusk to dawn. The Laws of the Indies , Spanish law, which regulated life in Puerto Rico in the early 19th century, stated the plaza\\'s purpose was for \"the parties\" (celebrations, festivities) , and that the square should be proportionally large enough for the number of neighbors . These Spanish regulations also stated that the streets nearby should be comfortable portals for passersby, protecting them from the elements: sun and rain.  \\n\nLocated across the central plaza in Carolina barrio-pueblo is the Parroquia San Fernando ,  a Roman Catholic church. The church was constructed from 1860 to 1870 and was designed by Antonio María Guitián. Modifications and repairs have been made to the church over the years.  \\n\nHistory\nCarolina barrio-pueblo was in Spain\\'s gazetteers  until Puerto Rico was ceded by Spain in the aftermath of the Spanish\\xe2\\x80\\x93American War under the terms of the Treaty of Paris of 1898 and became an unincorporated territory of the United States . In 1899, the United States Department of War conducted a census of Puerto Rico finding that the population of Carolina Pueblo was 2,177.  \\n \\n\nIn July 2020, Federal Emergency Management Agency appropriated funds for repairs to Carolina\\'s plaza.  \\n\nSee also\nReferences\n\\n\nThis Carolina, Puerto Rico location article is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Carolina_barrio-pueblo&action=edit",
+        "https://en.wikipedia.org/w/index.php?title=Carolina_barrio-pueblo&oldid=1192179945",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://ceb.wikipedia.org/wiki/Carolina_Barrio-Pueblo",
+        "https://es.wikipedia.org/wiki/Carolina_(Carolina)"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.381789,
+            -65.956908
+        ],
+        "title": "Carolina Barrio-pueblo",
+        "type": "Point"
+    },
+    "categories": [
+        "Religion",
+        "Culture"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "main_content": "Contents\nPorta Coeli (Puerto Rico)\nPorta Coeli (\\'Gateway to Heaven\\') Convent church, or El Convento de Santo Domingo de Porta Coeli in Spanish, is one of the oldest church structures in the western hemisphere , located in San Germán, Puerto Rico .\\n\nHistory\nIn 1609, the Dominican Order built the Convento de Porta Coeli at the crest of a hill in what is now San Germán Historic District . During the 18th century the Convento was reconstructed and a church built next to it. The single nave church was constructed of rubble masonry with stucco surfaced walls and a wood truss roof.  \\n\nIn 1949 Ubaldino Ramírez de Arellano , Monseñor Mac Manus, Bishop of Ponce, Senator Santiago R. Palmer and others arranged for the church of Porta Coeli in San German to be sold to the Government of Puerto Rico for a dollar so that it would be responsible for its safekeeping and preservation.  \\n\nAfter restoration by the Institute of Puerto Rican Culture, the church now houses the Museo de Arte Religioso . This is a museum of religious paintings and wooden carvings dating from the 18th and 19th centuries. The building was listed in 1976 on the U.S. National Register of Historic Places as \"Convento de Porta Coeli\" .\\n\nCemetery\nThere is also a Porta Coeli cemetery in Puerto Rico. Located in Bayamón , it is the resting grounds, among others, of Luis Aguad Jorge , a Cuban actor who became famous in Puerto Rico as the enanito de Holsum , or Holsum (bread)\\'s dwarf .  \\n\nReferences\nExternal links",
+    "relevant_links": [
+        "https://es.wikipedia.org/wiki/Convento_de_Santo_Domingo_de_Porta_Coeli",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://ca.wikipedia.org/wiki/Santo_Domingo_de_Porta_Coeli",
+        "https://en.wikipedia.org/w/index.php?title=Porta_Coeli_(Puerto_Rico)&oldid=1141591386",
+        "https://arz.wikipedia.org/wiki/%D9%83%D9%86%D9%8A%D8%B3%D9%87_%D8%A8%D9%88%D8%B1%D8%AA%D8%A7_%D9%83%D9%88%D9%8A%D9%84%D9%89",
+        "https://fa.wikipedia.org/wiki/%D9%BE%D9%88%D8%B1%D8%AA%D8%A7_%DA%A9%D9%88%D9%84%DB%8C"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.082002,
+            -67.041002
+        ],
+        "title": "Porta Coeli (puerto Rico)",
+        "type": "Point"
+    },
+    "categories": [
+        "Religion",
+        "Culture"
+    ]
+}

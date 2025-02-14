@@ -1,0 +1,19 @@
+{
+    "main_content": "Contents\nEdificio Patio Español\nEdificio Patio Español ( Spanish for \\'building of the Spanish courtyard\\'), also known as La Filarmónica Building , is a mixed-use building located in the Old San Juan historic district of the city of San Juan, Puerto Rico.  It was designed in a Spanish Mission Revival-style by civil engineer Eduardo Fossas López and built in 1937 with the purpose of refilling an emptied lot of the old city with a structure that resembled and referenced the Spanish Colonial architecture around it. Engineer Fossas was hired by Manuel, José and Amalia Vias Torrijos, owners of the lot, sons of the Puerto Rican lawyer and politician Juan Vias Ochoteco who, in 1908, had bought the building that previously occupied that lot.\\nThis emptied lot was formerly the site of a meeting house for a group called Sociedad La Filarmónica (\\'Society of the Philharmonic\\'), a scholarly club that was founded by Manuel de Elzaburú and Alejandro Tapia y Rivera with the intention of promoting cultural activities in the city of San Juan. The Patio Español building was added to the National Register of Historic Places in 2005.  \\n\nGallery\nSee also\nReferences\n\\n\nThis article about a property in Puerto Rico on the National Register of Historic Places is a stub . You can help Wikipedia by expanding it .\nThis article about a Puerto Rican building or structure related topic is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Edificio_Patio_Espa\\xc3\\xb1ol&oldid=1244475707",
+        "https://en.wikipedia.org/w/index.php?title=Edificio_Patio_Espa%C3%B1ol&action=edit",
+        "https://stats.wikimedia.org/#/en.wikipedia.org"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.4658622,
+            -66.1162218
+        ],
+        "title": "Edificio Patio Español",
+        "type": "Point"
+    },
+    "categories": [
+        "Culture"
+    ]
+}

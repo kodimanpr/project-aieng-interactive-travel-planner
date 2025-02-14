@@ -1,0 +1,23 @@
+{
+    "main_content": "Contents\nHermitage of San Antonio de Padua de la Tuna\nThe Hermitage of San Antonio de Padua de la Tuna  is an archaeological site located near the Guajataca River in Coto , Isabela, Puerto Rico , dating from 1730. It comprises the ruins of a village church that was abandoned in the early 19th century when the community, with the permission of Governor Salvador Meléndez , moved to a more favorable location nearer the coast, which became the modern town of Isabela , founded in 1819.   \\n\nThe hermitage was listed on the U.S. National Register of Historic Places in 1983,  and on the Puerto Rico Register of Historic Sites and Zones in 2000.  The ruins are easily accessible from the main PR-2 road.  \\n\nHistory\nAround 1725, Spanish Governor of Puerto Rico José Antonio de Mendizábal y Azares, granted authorization to base a population on the existing hermitage and village. Its given name, San Antonio de La Tuna, derives from the avocation of the Spanish settlers to the saint Anthony of Padua and after the abundance of prickly pears growing in the region ( Opuntia or tuna , in Spanish). At the end of the 18th century San Antonio de la Tuna had a church, more than sixty houses, and almost 1,200 inhabitants, which was a considerable population for those times.\\n\nGallery\nSee also\nReferences\nExternal links\n\\n\nThis article about a property in Puerto Rico on the National Register of Historic Places is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://www.discoverpuertorico.com/profile/ermita-san-antonio-de-padua-de-la-tuna/8513",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://en.wikipedia.org/w/index.php?title=Hermitage_of_San_Antonio_de_Padua_de_la_Tuna&oldid=1240148273",
+        "https://en.wikipedia.org/w/index.php?title=Hermitage_of_San_Antonio_de_Padua_de_la_Tuna&action=edit"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.478613,
+            -66.96339
+        ],
+        "title": "Hermitage Of San Antonio De Padua De La Tuna",
+        "type": "Point"
+    },
+    "categories": [
+        "Outdoor",
+        "Religion",
+        "Culture",
+        "Beach"
+    ]
+}

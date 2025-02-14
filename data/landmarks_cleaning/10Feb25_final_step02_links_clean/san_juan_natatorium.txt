@@ -1,0 +1,19 @@
+{
+    "main_content": "Contents\nSan Juan Natatorium\nThe San Juan Natatorium is an Olympic-level aquatic sports facility located in San Juan, Puerto Rico.  Located in San Juan\\'s Parque Central (Central Park) the natatorium is regarded as the most advanced natatorium in the Caribbean and 4th in the entire world as of October 2007. [ citation needed ] The facility is used to host local and international events such as the 2nd A.S.U.A Pan American Masters Swimming Championship, as well as an important United States collegiate winter practice venue for many NCAA-affiliated colleges and universities.  San Juan\\'s Mayor Jorge Santini opened the new roofed San Juan Natatorium, developed by San Juan Sports Director María Elena Batista on December 15, 2006.\\n\nFacilities\nThe San Juan Natatorium was built in December 2006. It includes an Olympic-size 50-meter pool convertible to two, 25-meter pools, 10 lanes each 5 meterwide with permanent starting blocks. It has an adjustable depth from 9' to 0' and is completely indoors with open walls. A second adjacent diving pool is used for additional warm-up during events. The Natatorium has conference rooms for technical meetings, medical facilities, a commercial gym and is the venue for Batista\\'s departmental offices. The facility is equipped with Daktronics timing equipment and a control room. It has a capacity for 2000 spectators and 1800 additional removable chairs. The design was based on the Atlanta Olympic Center where the 1996 Olympics were held.  \\n\nAfter Hurricane Maria struck Puerto Rico on September 19, 2017, the Natatorium had to undergo repairs and remained closed for over a year, until February 18, 2019.   \\n\nEvents\nThe Natatorium was the venue of the 2010 Summer Nationals for U.S. Masters Swimming from August 9-12.\\n2019 International swimming opens were held at the Natatorium.   \\n\nFunding\nThe San Juan Natatorium was built using combined funds (local and section 108). A total of $20,677,136.02 (section 108 funds) were used in the construction of the facility. An additional $8 million were used from local sources.  \\n\nExternal links\nReferences\n18°26\\xe2\\x80\\xb230\\xe2\\x80\\xb3N 66°04\\xe2\\x80\\xb239\\xe2\\x80\\xb3W ﻿ / ﻿ 18.441629°N 66.077507°W ﻿ / 18.441629; -66.077507 \\n",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=San_Juan_Natatorium&oldid=1146793576",
+        "https://en.wikipedia.org/wiki/san_juan_natatorium"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.441629,
+            -66.077507
+        ],
+        "title": "San Juan Natatorium",
+        "type": "Point"
+    },
+    "categories": [
+        "Outdoor",
+        "Family-Friendly"
+    ]
+}

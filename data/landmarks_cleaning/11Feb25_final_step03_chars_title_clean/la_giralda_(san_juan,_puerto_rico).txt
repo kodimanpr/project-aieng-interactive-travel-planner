@@ -1,0 +1,17 @@
+{
+    "main_content": "Contents\nLa Giralda (San Juan, Puerto Rico)\nLa Giralda in the Santurce barrio of San Juan, Puerto Rico is a four-story reinforced concrete house that was built in c. 1910.  It was listed on the U.S. National Register of Historic Places in 2008.  \\n\nIt is located at 651 José Martí Street, at Miramar Avenue, at the highest point of the Miramar neighborhood, and is believed to have been designed by architect Francisco Valinés Cofresí and includes eclectic architectural style, including Neoclassical and Victorian elements, on an irregular square plan with a rounded balcony at its corner.  It is unusual for its complexity including a crossed gabled roof with pediments.  It is regarded as a \"historic jewel\", the finest of 21 buildings surviving in Miramar from the early 20th century.  \\n\nReferences\n\\n\nThis article about a property in Puerto Rico on the National Register of Historic Places is a stub . You can help Wikipedia by expanding it .\nThis article about a Puerto Rican building or structure related topic is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=La_Giralda_(San_Juan,_Puerto_Rico)&oldid=1219337351",
+        "https://en.wikipedia.org/w/index.php?title=La_Giralda_(San_Juan,_Puerto_Rico)&action=edit",
+        "https://en.wikipedia.org/wiki/la_giralda_(san_juan,_puerto_rico)"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.45528,
+            -66.08528
+        ],
+        "title": "La Giralda (San Juan, Puerto Rico)",
+        "type": "Point"
+    },
+    "categories": []
+}

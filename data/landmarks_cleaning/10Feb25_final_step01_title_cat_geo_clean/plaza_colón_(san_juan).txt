@@ -1,0 +1,23 @@
+{
+    "main_content": "Contents\nPlaza Colón (San Juan)\nPlaza Colón ( Spanish for Columbus square or plaza ), formerly called Santiago Square , is a plaza or public town square located in Old San Juan where the easternmost city walls and main city gate (Puerta de Santiago) used to be located. The square today is a popular meeting place and is often used as a starting point for sightseeing in Old San Juan as it is located close to the main cruise ship docks, numerous restaurants, cafés and gift shops, and important landmarks such as San Cristóbal Castle , Tapia Theater , the Old Casino and the Puerto Rico Capitol .\\n\nHistory\nThe area was originally considered an important transportation and social center in San Juan. The Tapia Theater was built around this time and inaugurated in 1832.  The Christopher Columbus statue was first erected in the area in 1893 to celebrate the 400th anniversary of the European \"discovery\" of Puerto Rico.  The statue of Juan Ponce de Leon that used to be located in the center of the square was moved to Plaza San Jose (next to San Jose Church ). Before its construction in 1897, the plaza used to be the eastern end of the defensive wall system that surrounded San Juan. It used to be the location of one of the main city gates, Santiago Gate . This section of the wall was torn down in the May of 1897 as it was deemed unnecessary and it was considered an obstacle to San Juan\\'s economic growth as the walled district was isolated from the rest of the modern city. The statue of Columbus atop its column at the center of the square caused people to start referring to the plaza as Plaza Colón rather than Plaza Santiago.  The square today is paved with marble tiles and lightened by adorned lamp posts which were installed during the revitalization of the area in the latter half of the 20th century.\\n\nGallery\nSee also\nReferences\n18\\xc2\\xb027\\xe2\\x80\\xb258\\xe2\\x80\\xb3N 66\\xc2\\xb006\\xe2\\x80\\xb244\\xe2\\x80\\xb3W ﻿ / ﻿ 18.4662\\xc2\\xb0N 66.1121\\xc2\\xb0W ﻿ / 18.4662; -66.1121 \\n",
+    "relevant_links": [
+        "https://puertorico.com.pr/plaza-colon-san-juan/",
+        "https://en.wikipedia.org/w/index.php?title=Plaza_Col\\xc3\\xb3n_(San_Juan)&oldid=1247116855",
+        "https://ceb.wikipedia.org/wiki/Plaza_Col%C3%B3n",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://www.discoverpuertorico.com/profile/plaza-colon-san-juan/8039",
+        "https://es.wikipedia.org/wiki/Plaza_Col%C3%B3n_(San_Juan)"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.4662,
+            -66.1121
+        ],
+        "title": "Plaza Colón (san Juan)",
+        "type": "Point"
+    },
+    "categories": [
+        "Religion",
+        "Culture"
+    ]
+}

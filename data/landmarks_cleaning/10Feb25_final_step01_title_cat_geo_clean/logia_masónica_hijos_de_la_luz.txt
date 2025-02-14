@@ -1,0 +1,17 @@
+{
+    "main_content": "Contents\nLogia Masónica Hijos de la Luz\nThe Logia Masónica Hijos de la Luz , on Avenida José C. Barbosa in Yauco, Puerto Rico , is a stuccoed masonry building constructed in 1894. It was listed on the National Register of Historic Places in 1988,  and on the Puerto Rico Register of Historic Sites and Zones in 2001.  \\n\nIt is Classical Revival in style, designed by French architect André Troublard and built by master builder Jesus Emmanuelli .  \\n\nAlso known as Logia Masónica , it served as a meeting hall .  \\n\nIt is probably the earliest built and oldest surviving purpose-built Masonic building in Puerto Rico .  \\n\nAndré Troublard also designed the Casa Franceschi Antongiorgi , also in Yauco and listed on the National Register.  \\n\nSee also\nReferences\nExternal links\n\\n\nThis article about a property in Puerto Rico on the National Register of Historic Places is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Logia_Mas\\xc3\\xb3nica_Hijos_de_la_Luz&oldid=1240280863",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://en.wikipedia.org/w/index.php?title=Logia_Mas%C3%B3nica_Hijos_de_la_Luz&action=edit"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.03194,
+            -66.84845
+        ],
+        "title": "Logia Masónica Hijos De La Luz",
+        "type": "Point"
+    },
+    "categories": []
+}

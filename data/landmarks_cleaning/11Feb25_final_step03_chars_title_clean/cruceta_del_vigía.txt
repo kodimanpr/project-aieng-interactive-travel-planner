@@ -1,0 +1,21 @@
+{
+    "main_content": "Contents\nCruceta del Vigía\n\\n\nCruceta del Vigía (English: The Watchman Cross) is a 100 feet (30 m) tall cross located atop Cerro del Vigía in Ponce, Puerto Rico , across from Museo Castillo Serrallés . It houses a tourist center at its base, a ten-story vertical tower, and a horizontal sky bridge that has panoramic views of the city of Ponce and the Caribbean Sea . Visitors can reach the skybridge via glass elevators or a staircase. Made of reinforced concrete, the cross has withstood various natural disasters, including three major hurricanes . The arms of the cross measure 70 feet. It was inaugurated in 1984.  \\n\nOne of many landmarks of the city of Ponce, the cross is owned by the Municipality of Ponce and is currently operated by the \"Patronato de Ponce\", a non-profit organization dedicated to preserving the city\\'s cultural heritage.  [ a ] It is visited annually by some 100,000 tourists.  \\n\nHistorical background\nThe cross sits at the same spot on Cerro del Vigía where early settlers once looked out for merchant ships and would-be invaders, including marauding pirates. In 1801, the settlers built a much smaller cross made of two intersecting tree trunks where an observer would constantly watch the sea and the city\\'s port, raising different flags to either notify local merchants of incoming trade ships or alert military authorities of possible threats (a replica of this wooden cross now sits behind the current monument). Originally a hut was built accompanied by a cross from where flags were raised to signal the approach of ships as well as their port of origin. This station was run by two brothers Ricardo and Alberto Lugo, they were honored with a plaque at the base of the cross in 1984. They are descendants of Alonso Fernández de Lugo last conquistador of Spain.  \\n\nOne of the best remembered watchmen was named Luis Castro. Nearly 200 years ago, Luis would sit atop a huge wooden cross on this hill. On the lookout for ocean vessels, it was his responsibility to determine the nationality of approaching ships. If he recognized the vessel he would raise a flag, but if a ship was thought to be carrying contraband then no flag was raised and the Spanish military would investigate.  The Cruceta was built in honor of Castro and all the other watchmen who so faithfully helped protect the city during its younger years.  \\n\nThe Cerro del Vigía also served as a refugee camp for citizens during the storm of 12 September 1738, the earthquake of 10 May 1787 , the tsunami of 18 November 1867, and the American invasion of 25 July 1898.  \\n\nJapanese Garden\nIn recent years, a Japanese Garden was built in the grounds nearby the Cruceta. The garden is located in a 2,223 square meter ground. Its purpose is to encourage spiritual peace and harmony by the means of nature and Zen music. The garden features small lakes, rivers, bonsais , and bridges.\\n\nGallery\nNotes\nReferences\nExternal links\n18°01\\xe2\\x80\\xb208.35\\xe2\\x80\\xb3N 66°37\\xe2\\x80\\xb212.66\\xe2\\x80\\xb3W ﻿ / ﻿ 18.0189861°N 66.6201833°W ﻿ / 18.0189861; -66.6201833 \\n",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Cruceta_del_Vig\\xc3\\xada&oldid=1245681476",
+        "https://es.wikipedia.org/wiki/Cruceta_del_Vig%C3%ADa",
+        "https://en.wikipedia.org/wiki/cruceta_del_vigía"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.0189861,
+            -66.6201833
+        ],
+        "title": "Cruceta del Vigía",
+        "type": "Point"
+    },
+    "categories": [
+        "Outdoor",
+        "Culture",
+        "Beach"
+    ]
+}

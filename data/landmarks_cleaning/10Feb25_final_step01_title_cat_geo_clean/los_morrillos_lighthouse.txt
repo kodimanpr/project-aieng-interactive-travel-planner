@@ -1,0 +1,20 @@
+{
+    "main_content": "Contents\nFaro Los Morrillos de Cabo Rojo\nFaro Los Morrillos de Cabo Rojo , also known as Los Morrillos Light , is a historic lighthouse located in Los Morrillos cape (officially Cabo Rojo , Spanish for \"red cape\") in the municipality of Cabo Rojo, Puerto Rico .\\n\nHistory\nLocated at the southwestern tip of the island of Puerto Rico , the construction of this lighthouse was completed in 1882.  It was built to guide passing ships through the southeast entrance from the Caribbean Sea through the treacherous Mona Passage into the Atlantic Ocean . The lighthouse is located over a white lime cliff which is surrounded by salt water lagoons and marshes . The cliffs surrounding the lighthouse drop over 200 feet into the ocean.\\n\nThe lighthouse\\'s architecture is distinguished by its simplicity, with minimal decoration and an unelaborated cornice repeated through the structure. The illuminating apparatus is housed in a cast-iron , copper and glass lantern . The lenticular lens was manufactured by the French firm Sautter, Lemonnier and Company.\\n\nOriginally, the lighthouse was staffed by two keepers and an engineer, who lived on the grounds with their families. In 1967 the lighthouse was renovated and its operation is currently completely automated. The structure itself has been abandoned for decades, although recent the local government as well as local civic groups, such as Caborrojeños Pro Salud y Ambiente , are pushing towards turning the old lighthouse keeper\\'s house into a museum. The project was taken over by the municipality, an action that lost U.S. Federal government funds that had been assigned for it. The municipality took over the renovations, which, according to critics, has irrevocably damaged the historical significance of the internal structure.\\n\nGallery\nSee also\nReferences\nExternal links",
+    "relevant_links": [
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://fr.wikipedia.org/wiki/Phare_de_Los_Morrillos",
+        "https://en.wikipedia.org/w/index.php?title=Faro_Los_Morrillos_de_Cabo_Rojo&oldid=1240128318"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            17.933667,
+            -67.192194
+        ],
+        "title": "Faro Los Morrillos de Cabo Rojo",
+        "type": "Point"
+    },
+    "categories": [
+        "Culture",
+        "Beach"
+    ]
+}

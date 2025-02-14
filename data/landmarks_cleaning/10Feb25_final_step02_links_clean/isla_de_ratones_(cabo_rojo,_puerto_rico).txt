@@ -1,0 +1,22 @@
+{
+    "main_content": "Contents\nIsla de Ratones (Cabo Rojo, Puerto Rico)\nIsla de Ratones also known as Cayo Ratones or Isla Ratones ( Spanish for mice island ) is a small island located near the Joyuda Lagoon in Cabo Rojo, Puerto Rico . The island is a popular spot for snorkeling and bathing .\\n\nHistory\nThe island was originally known as Piñas , Piñero Island, or Pineapple Island .  In the past, the island was used to cultivate pineapple and sugar cane crops.  Later on for years the island was abandoned and was practically a dumpster, because of which the residents of Joyuda began referring to it as Isla de los Ratones , ( transl. Island of Mice ) because of the amount of rodents that inhabited the island.  \\n\nDuring half of the twentieth century, the then owner of the Cerveceria India , Don Alfonso Valdés Cobián was one of the people in charge of the Island.  During this time he began cleaning up the small isle.  \\n\nIn 1988, the island was sold to MTV , who organized a fantasy island sweepstakes promoted by Cyndi Lauper . After several protests, nothing more was heard from MTV.  \\n\nNow, the custodians of the island are the Puerto Rico Department of Natural and Environmental Resources (DRNA) and Tourmarine, a private tourist company.  They have a cooperative agreement to help in the cleaning and trash collecting because of the DRNA lack of personnel.  \\n\nAs part of the annual Tríalo de Joyuda en Cabo Rojo or Joyuda Triathlon in Cabo Rojo, one leg of the event consist of reaching the island and returning.  \\n\nRestoration\nIn 2005, Caborrojeños Pro Salud y Ambiente , an environmentalist organization undertook a restoration project on the island\\'s north shore to try to stop erosion and sedimentation that is threatening the coral reef and mangrove forest that used to surround the island.  The island has lost approximately 45 percent of its area over the past 60 years due to coral bleaching , disease, and destruction of reefs by wave force and currents.  In 2006, the Inter American University of Puerto Rico received grant from NOAA and the Gulf of Mexico Foundation to implement a second phase of the restoration project.  Students, professors and members of Caborrojeños Pro Salud y Ambiente, under the direction of the DRNA, planted some 400 floating seeds of red mangrove that forms part of the ecological inventory that surrounds the island.  Approximately 0.25 acres (0.10 ha) of mangrove habitat was restored and 0.0091 acres (0.0037 ha) of artificial reef was created.\\n\nGallery\nSee also\nReferences\nExternal links\n18°06\\xe2\\x80\\xb259.84\\xe2\\x80\\xb3N 67°11\\xe2\\x80\\xb218.00\\xe2\\x80\\xb3W ﻿ / ﻿ 18.1166222°N 67.1883333°W ﻿ / 18.1166222; -67.1883333 \\n",
+    "relevant_links": [
+        "https://es.wikipedia.org/wiki/Isla_de_Ratones",
+        "https://en.wikipedia.org/w/index.php?title=Isla_de_Ratones_(Cabo_Rojo,_Puerto_Rico)&oldid=1246250075",
+        "https://en.wikipedia.org/wiki/isla_de_ratones_(cabo_rojo,_puerto_rico)"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.1166222,
+            -67.1883333
+        ],
+        "title": "Isla De Ratones (cabo Rojo, Puerto Rico)",
+        "type": "Point"
+    },
+    "categories": [
+        "Festivals & Events",
+        "Soft Adventure",
+        "Culture",
+        "Beach"
+    ]
+}

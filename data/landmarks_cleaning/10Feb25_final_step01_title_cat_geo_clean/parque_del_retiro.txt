@@ -1,0 +1,20 @@
+{
+    "main_content": "Contents\nParque del Retiro\n\\n\nParque del Retiro (English: Retirement Park) is the only senior citizens-oriented passive park in Ponce, Puerto Rico . It is located in barrio Canas Urbano . The park commemorated its 30th anniversary on 11 February 2010.  It has a \"steady attendance\" of some 70 senior citizens. The park\\'s oldest member is 91 years old. The park\\'s managing  ranger is Roberto Castro Franceschi.  \\n\nLocation\nThe park is located  on Villa street, between the Clausells and Baldorioty sectors of barrio Canas Urbano .  The area is a mixed residential/commercial area on urban route PR-123 . The park sits on an underprivileged sector of the city. The park is a self-contained non-profit entity. It is managed by the Ponce municipal government. It serves exclusively the City's elderly population. The park is set \"in a calming setting among lush mahogany, avocado, almond, lemon and flamboyán trees.\"  \\n\nHistory\nIn the late 1960s, the park was an empty city lot with many tall trees, very few bushes and shrubbery, and some open semi-grassy areas.  Senior citizens of the area gravitated to the empty lot in the afternoons for its comfortable shade and for the inevitable conversations with other retired neighborhood seniors. With time, the senior made their way to the park with scrap chairs to make their longer stays more comfortable. It wasn\\'t long before a table or two also found their way there, making it possible for the retired seniors to share in a game of domino . Soon the domino games became a regular feature of the daily gatherings.  It was not long before the still-empty government lot had been \"appropriated\" by the seniors for their daily gatherings and domino games. The daily games gathered popularity and after a few years domino tournaments also took place.  At this time the park was locally known as Las Vegas , \"for its popular open-air kiosks with 12 game tables\".  \\n\nIn view of the need for a clean and safe gathering place for the seniors of the area, the city, fixed the \"park\", built permanently set poured concrete tables and chairs, added flower gardens with walkways as well as restroom facilities. The park was then inaugurated in 1980, under the administration of mayor José G. Tormos Vega .\\n\nA senior citizens center\nThe park also serves as the center for an array of community services oriented towards the senior citizens community.  Within the park are the offices of the non-profit organization running the park.  It has an eight-member staff including a social worker, a nurse, and a recreation leader.  \\n\nSome of the free services the park offers are: \\n\nReforestation effort\nIn November 2009, Parque del Retiro was selected for green reforestation effort sponsored by Telemundo , Doral Bank and the Department of Natural and Environmental Resources of the Commonwealth of Puerto Rico.  \\n\nReferences\n18\\xc2\\xb000\\xe2\\x80\\xb236.61\\xe2\\x80\\xb3N 66\\xc2\\xb037\\xe2\\x80\\xb235.44\\xe2\\x80\\xb3W ﻿ / ﻿ 18.0101694\\xc2\\xb0N 66.6265111\\xc2\\xb0W ﻿ / 18.0101694; -66.6265111 \\n",
+    "relevant_links": [
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://en.wikipedia.org/w/index.php?title=Parque_del_Retiro&oldid=1246287226"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.0101694,
+            -66.6265111
+        ],
+        "title": "Parque del Retiro",
+        "type": "Point"
+    },
+    "categories": [
+        "Outdoor",
+        "Family-Friendly",
+        "Culture"
+    ]
+}

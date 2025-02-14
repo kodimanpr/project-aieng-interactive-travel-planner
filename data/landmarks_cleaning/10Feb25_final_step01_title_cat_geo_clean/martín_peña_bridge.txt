@@ -1,0 +1,20 @@
+{
+    "main_content": "Contents\nMartín Peña Bridge\nMartín Peña Bridge , in Spanish properly known as Puente Martín Peña , is an \\n Art Deco style bridge from 1939, designed by Cecilio Delgado and others.  It crosses the Martín Peña Channel in San Juan, Puerto Rico .\\n\nIt was listed on the U.S. National Register of Historic Places in 2008.  \\n\nHistory\nThe original Martín Peña Bridge was simply a stone causeway probably built around the mid-1500s. Later, a wooden bridge was built on top of the causeway, which was in turn replaced by a brick edification in 1784. This bridge, designed by Juan Francisco Mestre, was destroyed by the British during Ralph Abercromby \\'s invasion of Puerto Rico . After this, the bridge was rebuilt in 1846 with a design by engineer Santiago Cortijo. This new bridge measured 220 feet long and 6 meters wide, and was composed of nine elliptical arches.  \\n\nAccording to a book by Luis Pumarada and Maria de los Angeles Castro, the name of Martín Peña comes from a fisherman who operated a cove near the area.  \\n\nGallery\nReferences\n\\n\nThis article about a property in Puerto Rico on the National Register of Historic Places is a stub . You can help Wikipedia by expanding it .\nThis article about a Puerto Rican building or structure related topic is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://es.wikipedia.org/wiki/Puente_Mart%C3%ADn_Pe%C3%B1a",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://en.wikipedia.org/w/index.php?title=Mart%C3%ADn_Pe%C3%B1a_Bridge&action=edit",
+        "https://en.wikipedia.org/w/index.php?title=Mart\\xc3\\xadn_Pe\\xc3\\xb1a_Bridge&oldid=1141238423"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.43342,
+            -66.05906
+        ],
+        "title": "Martín Peña Bridge",
+        "type": "Point"
+    },
+    "categories": [
+        "Culture"
+    ]
+}

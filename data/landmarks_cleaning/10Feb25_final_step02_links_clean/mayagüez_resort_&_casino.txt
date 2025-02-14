@@ -1,0 +1,23 @@
+{
+    "main_content": "Contents\nMayagüez Resort & Casino\nThe Mayagüez Resort & Casino is the largest hotel resort in western Puerto Rico .  It sits by the Puerto Rico Highway 2 which is the main road in the west. Close to major shopping centers like Mayagüez Mall and Western Plaza. Less than 5 minutes away from the world-renowned University Of Puerto Rico at Mayagüez . \\n\nFacilities\nThe hotel has two restaurants, a large conference center, a casino, and a newly constructed river pool.  It was the main hotel for the 2010 Central American and Caribbean Games .\\n\nHistory\nThe hotel is located on the land where the Valdes Castle once stood. Valdes Castle was the home of a prominent Puerto Rican figure Alfonso Valdés Cobián , he was the co-founder of Cervecería India which is the largest brewery on the island and creator of Medalla Light and Malta India. \\n\nThe hotel was built in 1963 by Hilton and was named Mayagüez Hilton. The hotel had a very modern design mimicking that of the Caribe Hilton hotel in San Juan . It had 140 rooms with air-conditioning and an Olympic-sized pool for its guests. The entrance still has the main gates of the Valdes Castle, showcasing its history. It also opened a brand new Casino which was one of the first in western Puerto Rico and was very popular amongst guests. \\n\nIt boasted the tourism to the west but its location wasn\\'t as stellar as they had hoped. Although Mayagüez is one of the biggest cities on the west side, it was being overthrown by Rincon and Aguadilla which were more inclined to get visited by tourists due to the proximity to the airport and its beach offerings that Mayagüez did not have. \\n\nBecause of this, Hilton decided to sell the hotel. The hotel was then purchased by a private group and it was renamed The Mayagüez Resort and Casino. As with its rebranding, it expanded its recreational activities to open a new pool area with a zero-entry pool, a lazy river, and a water slide. And also expanding the room count by opening a brand-new tower adding more than double their rooms. \\n\n\\n\nSee also\nReferences",
+    "relevant_links": [
+        "https://es.wikipedia.org/wiki/Resort_y_Casino_Mayag%C3%BCez",
+        "https://en.wikipedia.org/w/index.php?title=Mayag\\xc3\\xbcez_Resort_%26_Casino&oldid=1219497762",
+        "https://en.wikipedia.org/wiki/mayagüez_resort_&_casino"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.2203278,
+            -67.1529556
+        ],
+        "title": "Mayag\\xc3\\xbcez Resort \\\\u0026amp; Casino",
+        "type": "Point"
+    },
+    "categories": [
+        "Culture",
+        "Luxury & Resorts",
+        "Beach",
+        "Outdoor",
+        "Shopping"
+    ]
+}

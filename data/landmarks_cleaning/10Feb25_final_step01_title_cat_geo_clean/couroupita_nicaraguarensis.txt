@@ -1,0 +1,20 @@
+{
+    "main_content": "Contents\nCouroupita nicaraguarensis\n\\n\nCouroupita nicaraguarensis (the epithet often spelled as nicaraguensis ), the bala de cañón , coco de mono , paraíso , zapote de mico , or zapote de mono , is a species of woody plant in the family Lecythidaceae . It is found in Colombia , Costa Rica , Ecuador , El Salvador , Nicaragua , Puerto Rico and Panama . It is threatened by habitat loss . In Puerto Rico , the only place it is found at is Toa Alta, Puerto Rico .  \\n\nReferences\n\\n\nThis Lecythidaceae article is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Couroupita_nicaraguarensis&action=edit",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://ceb.wikipedia.org/wiki/Couroupita_nicaraguarensis",
+        "https://sv.wikipedia.org/wiki/Couroupita_nicaraguarensis",
+        "https://vi.wikipedia.org/wiki/Couroupita_nicaraguarensis",
+        "https://en.wikipedia.org/w/index.php?title=Couroupita_nicaraguarensis&oldid=1055707391",
+        "https://war.wikipedia.org/wiki/Couroupita_nicaraguarensis"
+    ],
+    "geo_metadata": {
+        "coordinates": "Not Found",
+        "title": "Couroupita Nicaraguarensis",
+        "type": "Point"
+    },
+    "categories": [
+        "Family-Friendly"
+    ]
+}

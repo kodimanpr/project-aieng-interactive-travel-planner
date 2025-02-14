@@ -1,0 +1,21 @@
+{
+    "main_content": "Contents\nDesecheo National Wildlife Refuge\nThe Desecheo National Wildlife Refuge  is a National Wildlife Refuge in Puerto Rico .  It is part of the Caribbean Islands National Wildlife Refuge Complex .\\n\nThe island of Desecheo is located 14 miles (23 km) west of Puerto Rico and is bounded by the Atlantic Ocean on the north and the Caribbean Sea on the south. The refuge encompasses the entire rugged island. From 1940 to 1952 the island was used as a practice target for aerial bombardment by the US War Department and from 1952 to 1960 Desecheo was used as a survival training area for the U.S. Air Force . Although formerly containing a colony of 15,000 brown boobies and 10,000 red-footed boobies , currently no successful booby breeding is known to occur on the island.\\n\nOther seabird species also use the island. There are three endemic species of lizards . The endangered higo chumbo cactus is found on the island and hawksbill turtles sometimes nest on the refuge. Feral goats became established on the island in the 18th century. No public use is allowed on the island because of safety considerations associated with unexploded ordnance that remain on the refuge. The refuge has had a colorful past. In 1966, the National Institutes of Health introduced 56 rhesus monkeys to be later culled for medical research. Desecheo is often used as a drop-off point for illegal aliens and drugs.\\n\nConservation and Restoration\nBefore the introduction of invasive rats, the island hosted large colonies of breeding seabirds, including the largest Brown Booby colony in the Caribbean region and an important Red-footed Booby colony. But, due to the destruction of native vegetation and predation on eggs and chicks by invasive rats and Rhesus macaques , seabirds nesting was reduced significantly on Desecheo and many plants and animals were threatened.\\n\nIn response to this threat, the US Fish and Wildlife Service (USFWS), Island Conservation , and other key partners, including the US Department of Agriculture, Puerto Rico Department of Natural and Environmental Resources (PR-DNER), Bell Laboratories, and Tomcat, eradicated the invasive vertebrates providing significant benefits for seabirds, the island's endemic lizards, three endemic arachnids, the federally Threatened Higo Chumbo cactus and native plants.     \\n\nIn July 2017, one year after the final phase of this ambitious operation, conservation biologists confirmed that these predators are absent from the island, and the operation was declared a success.  This project, the largest conservation operation of its kind to date in the region, aims to return the island to its former status as the most important seabird colony in the region.\\n\nIn February 2018, USFWS , Island Conservation and Effective Environmental Restoration Inc (EER) with support from the National Fish and Wildlife Foundation and the National Geographic Society initiated a seabird social attraction project to encourage Bridled Terns , Brown Noddies , and Audubon's Shearwaters to nest on the island.  The teams established seabird colonies using decoy, mirrors, and sound systems playing recorded bird calls to make it appear as if the birds were already on the island in an attempt to revive the once-thriving seabird colony.\\n\nReferences\nThis article incorporates public domain material from websites or documents of the United States Fish and Wildlife Service .\\n\nExternal links",
+    "relevant_links": [
+        "https://es.wikipedia.org/wiki/Refugio_nacional_de_vida_silvestre_de_Desecheo",
+        "https://en.wikipedia.org/w/index.php?title=Desecheo_National_Wildlife_Refuge&oldid=1168927480",
+        "https://en.wikipedia.org/wiki/desecheo_national_wildlife_refuge"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.38889,
+            -67.475
+        ],
+        "title": "Desecheo National Wildlife Refuge",
+        "type": "Point"
+    },
+    "categories": [
+        "Outdoor",
+        "Wildlife",
+        "Beach"
+    ]
+}

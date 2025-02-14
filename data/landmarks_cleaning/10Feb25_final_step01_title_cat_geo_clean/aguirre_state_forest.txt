@@ -1,0 +1,24 @@
+{
+    "main_content": "Contents\nAguirre State Forest\nThe Aguirre State Forest (in Spanish : Bosque Estatal de Aguirre ) is a 2,393-acre (9.68 km 2 ) nature reserve on the south coast of Puerto Rico and one of the commonwealth\\'s 20 state forests . It mainly consists of mangrove coasts, keys and floodplain forests, and it borders the Jobos Bay National Estuarine Research Reserve . The Aguirre State Forest is owned and administered by Puerto Rico . It was established in 1918 by Puerto Rico governor Arthur Yager to protect the mangrove forests areas between the municipalities of Guayama and Santa Isabel ( Punta Petrona ).  \\n\nNatural features\nThe state forest is named after the nearby Central Aguirre , a historic sugarcane plantation and refinery, and the barrio of Salinas of the same name . The forest is notable for its dense mangrove forests and salt ponds . As such it is an ecologically diverse area that is home to 13 species of reptiles, 4 species of amphibians and 3 species of bats. At least 184 bird species can be found within the forest and the area is an important bird nesting site. Some notable bird species found here are yellow-crowned night herons ( Nyctanassa violacea ), mangrove rails ( Rallus longirostris ), yellow warblers ( Setophaga petechia ), and endangered birds such as yellow-shouldered blackbirds ( Agelaius xanthomus) . Manatees can also be observed in the lagoons located in and around the forest.\\n\nThe types of mangroves found within the state forest are white mangrove ( Laguncularia racemosa ), black mangrove ( Avicennia germinans ), red mangrove ( Rhizophora mangle ) and buttonwood ( Conocarpus erectus ). Batis maritima , Sesuvium portulacastrum and Sporobolus virginicus are the main grass species found in the area, particularly around the tropical salt ponds and keys.  \\n\nRecreation\nThe forest is offers opportunities for bird watching, nature walks, camping and kayaking in designated areas.  Most of the visitors\\' amenities are found in Laguna El Toconal in Jobos, Guayama .  Additional visitors\\' information, interpretation and activities can be found at the Jobos Bay National Estuarine Research Reserve headquarters in Aguirre, Salinas.  17\\xc2\\xb056\\xe2\\x80\\xb236\\xe2\\x80\\xb3N 66\\xc2\\xb010\\xe2\\x80\\xb207\\xe2\\x80\\xb3W ﻿ / ﻿ 17.9433010\\xc2\\xb0N 66.1684998\\xc2\\xb0W ﻿ / 17.9433010; -66.1684998  \\n\nGallery\nSee also\nReferences\nExternal links",
+    "relevant_links": [
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://es.wikipedia.org/wiki/Bosque_estatal_de_Aguirre",
+        "https://www.discoverpuertorico.com/profile/bosque-estatal-aguirre-area-de-acampar/1711",
+        "https://ceb.wikipedia.org/wiki/Bosque_Estatal_de_Aguirre",
+        "https://en.wikipedia.org/w/index.php?title=Aguirre_State_Forest&oldid=1242579341"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            17.943301,
+            -66.1684998
+        ],
+        "title": "Aguirre State Forest",
+        "type": "Point"
+    },
+    "categories": [
+        "Outdoor",
+        "Soft Adventure",
+        "Family-Friendly",
+        "Beach"
+    ]
+}

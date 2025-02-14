@@ -1,0 +1,21 @@
+{
+    "main_content": "Contents\nBahía de Jobos\nBahía de Jobos  ( English : Jobos Bay ) or Reserva Natural de Investigación Estuarina de Bahía de Jobos ( English : Jobos Bay National Estuarine Research Reserve ) is a federally protected estuary in Aguirre, Salinas, Puerto Rico .  The bay is an intertidal tropical ecosystem dominated by seagrass beds , coral reefs , and mangroves .  In an area of 1,140 hectares (2,800 acres), the reserve contains five distinct habitat types and provides sanctuary to several endangered species.  Bahía de Jobos is one of 28 reserves that comprise the National Oceanic and Atmospheric Administration's (NOAA) National Estuarine Research Reserve System .  The reserve is operated in conjunction with the Puerto Rico Department of Natural and Environmental Resources (DRNA).\\n\nHistory\nJobos Bay is located on the south coast of Puerto Rico in Aguirre barrio, between Salinas and Guayama .  Most of the land in the reserve is owned by a private company which leased the land to the Aguirre Corporation, which operated an extensive sugarcane farm and sugar mill in the region.  After the burst of the sugar industry, Aguirre closed in 1980 and the land remains owned by the private corporation. The land has been offered to the Commonwealth of Puerto Rico but because of financial troubles the purchase never concluded.  The land remains under private ownership but part of the Bay is Federal Land.  Bahía de Jobos was established as a National Estuarine Sanctuary in 1981. Jobos Bay private lands remains the only undeveloped bay lands in the entire island, consisting of close to 160 hectares (400 acres) and more than 4 kilometres (2.5 mi) of frontage to the bay.  In fact, The Jobos Bay property controls most of the northern section of the Bay.  It runs close to Aguirre Sugar Mill and all the way to the Eastern edge of Jobos Bay.  This property can be developed for commercial and private use.  A new corporation was established in 2017 Jobos Bay Properties, Inc. to administer the sale of the land in private hands.  \\n\nSince the 1980s, land-use in the areas surrounding Bahía de Jobos has continued to change.  The Corporacion Amoros private reserve borders the Aguirre State Forest on the East, a fisherman village (Las Mareas) on the West, and agricultural and residential land on the north.  Due to urbanization in the region and shifting irrigation regimes, watershed dynamics have changed significantly. [ citation needed ] \\n\nAbout 30 families who have squatted on the land were facing eviction in 2022.  \\n\nEcology\nJobos Bay is a tropical estuary with five distinct habitat types grading roughly from the ocean landward: coral reefs , seagrass beds , mangrove forests , mudflats , and evergreen littoral forests .  Jobos is the second largest estuary in Puerto Rico by total area and the largest (by a factor of three) by total coastline.  The Jobos mangroves are estimated to comprise 42.6% of that habitat type on the south coast of Puerto Rico.\\n\nAt least seven endangered species can be found at Bahía de Jobos.\\n\nSee also\nReferences\nExternal links\n17°57\\xe2\\x80\\xb227.26\\xe2\\x80\\xb3N 66°13\\xe2\\x80\\xb220.13\\xe2\\x80\\xb3W ﻿ / ﻿ 17.9575722°N 66.2222583°W ﻿ / 17.9575722; -66.2222583 \\n",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Bah\\xc3\\xada_de_Jobos&oldid=1222537164",
+        "https://es.wikipedia.org/wiki/Bah%C3%ADa_de_Jobos",
+        "https://en.wikipedia.org/wiki/bahía_de_jobos"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            17.9575722,
+            -66.2222583
+        ],
+        "title": "Bahía De Jobos",
+        "type": "Point"
+    },
+    "categories": [
+        "Religion",
+        "Culture",
+        "Beach"
+    ]
+}

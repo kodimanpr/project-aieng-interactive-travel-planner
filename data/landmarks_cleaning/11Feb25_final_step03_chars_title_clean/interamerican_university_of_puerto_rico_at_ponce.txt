@@ -1,0 +1,18 @@
+{
+    "main_content": "Contents\nInteramerican University of Puerto Rico at Ponce\n\\n\nThe Interamerican University of Puerto Rico at Ponce \\xe2\\x80\\x94 or Universidad Interamericana de Puerto Rico, Recinto de Ponce ( UIPR-P ) in Spanish, and often referred to as \" La Inter \" \\xe2\\x80\\x94 is a Christian co-educational non-sectarian university in Ponce, Puerto Rico . It was founded in 1962. It is part of the Universidad Interamericana de Puerto Rico system, whose main campus is in San German , Puerto Rico .\\n\nHistory\nThe school opened in August 1962 as an extension program of the San German campus. It opened at facilities on Calle Villa, near downtown Ponce , at Primera Iglesia Metodista La Resurrección .  The school then moved to calle Marina and Calle Jobos, at the locale also known as Casa Forneris.  In 1966, more spacious quarters were established at the intersection of Calle Castillo and Calle Mayor.  [ a ] In the early 1980s the university started to build a new campus east of the city. In 1984 it moved to this new campus in the Mercedita sector of Barrio Vayas , Ponce. In 1992 the school became an autonomous campus of the Inter-American University system.\\n\nAcademics\nThe school offers programs in education, health, and management. It has over 25 academic programs, including offering five Master Degrees in Education, Business and Criminal Justice. It also offers 22 Bachelor Degrees , seven Associate Degrees , and four technical certificates. It has an enrollment of approximately 5,000 students.  The university offers academic programs in 11 teaching units.  \\n\nExpansion\nIn August 2012, the school announced a $10 million expansion plan that would create a college preparatory school. The new facility is scheduled to open in August 2013 in the immediacy of the current school grounds.  \\n\nNotes\nReferences",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Interamerican_University_of_Puerto_Rico_at_Ponce&oldid=1244429451",
+        "https://en.wikipedia.org/wiki/interamerican_university_of_puerto_rico_at_ponce"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.00777,
+            -66.57813
+        ],
+        "title": "Interamerican University Of Puerto Rico At Ponce",
+        "type": "Point"
+    },
+    "categories": [
+        "Culture"
+    ]
+}

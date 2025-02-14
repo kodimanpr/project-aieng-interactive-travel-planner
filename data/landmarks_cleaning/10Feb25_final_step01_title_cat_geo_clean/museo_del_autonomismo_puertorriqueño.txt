@@ -1,0 +1,19 @@
+{
+    "main_content": "Contents\nMuseo del Autonomismo Puertorriqueño\n\\n\nThe Museo del Autonomismo Puertorriqueño (English: Museum of Puerto Rican Autonomism) is a small museum in Ponce, Puerto Rico , that showcases the political history of Puerto Rico with an emphasis on the contributions made by the municipality of Ponce and its residents. The museum was established on 7 September 2006.  \\n\nHistory\nThe museum was established in 2006 under the municipal administration of Mayor Francisco Zayas Seijo .  \\n\nLocation\nThe museum is located within the grounds of the Panteón Nacional Román Baldorioty de Castro (English: Román Baldorioty de Castro National Pantheon). The Panteon is a tract of land in Barrio Segundo of the city of Ponce, Puerto Rico , originally designed as the city\\'s cemetery , but later converted into what has come to be a famous burial place. Established in 1842, it is Puerto Rico \\'s first (and only) national pantheon.   It is the only cemetery dedicated as a museum in Puerto Rico and the Caribbean.  The pantheon, and its Museum of Puerto Rican Autonomism, is located at Number 1 Calle Torres at Calle Frontispicio in Barrio Segundo , Ponce.  \\n\nObjective\nThe purpose of the museum is to trace the history of autonomism in the Island.  In 2009, the municipality also commissioned the Pontifical Catholic University of Puerto Rico School of Architecture to perform a study to determine the viability and cost for the total reconstruction of the Pantheon.\\n\nCollections and displays\nThe museum has three main permanent collections. The first one portrays Puerto Rico\\'s quest for national autonomy during the 19th century.\\nThe second collection displays Puerto Rico\\'s national autonomy during the 20th century, and the third wing is dedicated to the autonomy of the Ponce municipal government.  Each display area pinpoints the role of the city of Ponce as the cradle of Puerto Rican autonomism, in particular, the Executive Orders of former governor Rafael Hernández Colón in the development of national autonomism during the second half of the twentieth century, and his leading role of the establishment of Puerto Rico\\'s Law of Autonomous Municipalities of  1991 and the development of municipal autonomy.  \\n\nSignificance\nThe cemetery adjacent to the museum distinguishes itself because various illustrious Puerto Ricans of transcendental importance are buried here. The most important personage buried in this historic cemetery is Don Ramon Baldorioty de Castro , distinguished Puerto Rican patriot, journalist, educator, writer, orator, and abolitionist . In 1870, he was elected delegate to the Cortes of Cádiz , where he attacked the slavery system of the time, being responsible for most of the liberty amendments. Afterward, on 23 March 1873, the abolition of slavery was proclaimed, being Baldorioty de Castro responsible for such proclamation. He is known as the father of Puerto Rican autonomism.  The late mayor of Ponce, Churumba , also an autonomist, has a mausoleum here also.  The remains of nationalist heroe Casimiro Berenguer are buried here as well.  \\n\nSee also\nReferences\nExternal links\nDownload coordinates as: \\n",
+    "relevant_links": [
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://es.wikipedia.org/wiki/Museo_del_Autonomismo_Puertorrique%C3%B1o",
+        "https://en.wikipedia.org/w/index.php?title=Museo_del_Autonomismo_Puertorrique\\xc3\\xb1o&oldid=1246285401"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.00389,
+            -66.61694
+        ],
+        "title": "Museo Del Autonomismo Puertorriqueño",
+        "type": "Point"
+    },
+    "categories": [
+        "Culture"
+    ]
+}

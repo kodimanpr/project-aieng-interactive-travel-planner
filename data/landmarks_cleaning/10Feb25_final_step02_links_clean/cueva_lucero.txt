@@ -1,0 +1,17 @@
+{
+    "main_content": "Contents\nCueva Lucero\nCueva Lucero (English: Star Cave ) is a cave and archeological site in the Guayabal barrio of the Juana Díaz municipality, in Puerto Rico . The cave includes more than 100 petroglyphs and pictographs \"making it one of the best examples of aboriginal rock art in the Antilles .\" It has been known to archeologists since at least the early 1900s. Most of its images are zoomorphic . The site is known to locals including rock-climbers and spelunkers and there is some modern graffiti.  \\n\nThe cave was listed on the National Register of Historic Places in 2008.  \\n\nGallery\nView from inside Cueva Lucero :\\n\nSee also\nReferences\nExternal links\n\\n\nThis article about a property in Puerto Rico on the National Register of Historic Places is a stub . You can help Wikipedia by expanding it .\nThis article relating to archaeology in the United States is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Cueva_Lucero&action=edit",
+        "https://en.wikipedia.org/w/index.php?title=Cueva_Lucero&oldid=1140423852",
+        "https://en.wikipedia.org/wiki/cueva_lucero"
+    ],
+    "geo_metadata": {
+        "coordinates": "Not Found",
+        "title": "Cueva Lucero",
+        "type": "Point"
+    },
+    "categories": [
+        "Outdoor",
+        "Culture"
+    ]
+}

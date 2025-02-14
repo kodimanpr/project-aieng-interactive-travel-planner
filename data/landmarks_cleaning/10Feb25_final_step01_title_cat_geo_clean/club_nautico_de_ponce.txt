@@ -1,0 +1,21 @@
+{
+    "main_content": "Contents\nClub Náutico de Ponce\n\\n\nThe Club Náutico de Ponce ( Ponce Yacht and Fishing Club ) is a yacht club in Ponce, Puerto Rico . The club is located contiguously on Isla de Gatas , near the La Guancha recreational and cultural area, and next to the Port of Ponce .\\n\nThe complex consists of two restaurants, a private beach, a gym, a running track, two pools, various basketball, tennis, and volleyball courts, and a marina .  The club also runs a sailing school for children.  Founded in 1941 by a group of nautical enthusiasts from Ponce to promote water and fishing sports, the marina is one of Puerto Rico\\'s oldest.  \\n\nHistory\nThe idea of building a Club in Isla de Gatas began in 1935 by seven men, among them Pedro Juan Serralles Galiano .  At that time the island had an area of approximately 1-acre (0.40 ha) and people had to take a small boat to reach it.  The clubhouse was finished in 1938, and over the years the original 1 acre was expanded to 13 acres (5.3 ha), in part due to club member Tito Castro.  Mr. Castro owned a construction company and the surplus rocks that were removed from various road and construction projects that he contracted for were deposited around Isla de Gatas and eventually filled the shallow surrounding it.  Isla de Gatas is connected to the mainland by a dike at Punta Carenero.  \\n\nIn later years the U.S. Army Corps of Engineers built a breakwater protecting the area.  This, and the Tito Castro land reclamations, made it possible to build a road that joined the island to the mainland.  \\n\nDuring World War II the Club was used by the U.S. Navy who had five PT Boats stationed there.  Since 1946 membership has grown from 100 people to over 900 families in 2006.  The original two-story clubhouse is now a restaurant called \" El Comodoro \" ( The Commodore ). Club Náutico has room for 250 boat slips.  \\n\nGallery\nSee also\nReferences\n17\\xc2\\xb057\\xe2\\x80\\xb249.10\\xe2\\x80\\xb3N 66\\xc2\\xb037\\xe2\\x80\\xb204.99\\xe2\\x80\\xb3W ﻿ / ﻿ 17.9636389\\xc2\\xb0N 66.6180528\\xc2\\xb0W ﻿ / 17.9636389; -66.6180528 \\n",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Club_N\\xc3\\xa1utico_de_Ponce&oldid=1078644148",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://es.wikipedia.org/wiki/Club_N%C3%A1utico_de_Ponce"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            17.9636389,
+            -66.6180528
+        ],
+        "title": "Club Nautico De Ponce",
+        "type": "Point"
+    },
+    "categories": [
+        "Food",
+        "Culture",
+        "Beach"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "main_content": "Contents\nCueva Ventana\nCueva Ventana (English: Window Cave ) is a large cave situated atop a limestone cliff in Arecibo, Puerto Rico , overlooking the Río Grande de Arecibo valley. It is visible from the PR-123 but is accessible from a trail that begins adjacent to a Puma gas station located along PR-10 on kilometer 75. The cave and surrounding land are privately owned.\\n\nTourism\n\\nThe cave is a popular tourist attraction for Puerto Ricans as well as tourists visiting from outside Puerto Rico.  An initial admittance fee for Saturday and Sunday visits was established by the owner of a nearby gas station, due to the location\\'s popularity. The number of visitors is at its largest on both Saturdays and Sundays from early morning to an hour before nightfall. In January 2013, a daily admission fee was established, and later raised the following month. A boardwalk project was constructed from the gas station, leading up to around 200 feet into the trail, as well as a small parking lot atop a plateau behind the gas station. After a rise in popularity and visits, different admission fees were established for certain days of the week, providing necessary safety equipment for the 45-minute guided tour. The number of visitors is greatest on both Saturdays and Sundays from early morning to an hour before nightfall. Nightly tours are also offered on Wednesdays and Thursdays.   \nIn popular culture\nBetween February and March 2009, Disney Channel filmed Wizards of Waverly Place: The Movie in Puerto Rico with scenes shot inside the cave as well as a land that sits in the Río Grande de Arecibo valley in front of the limestone cliff where the cave sits. In 2011, the cave was used as one of the settings for the 2012 British TV miniseries Treasure Island . In the summer of 2012, filming of the 2013 film Runner, Runner took place inside the cave.  \\n\nVandalism issues\nIn November 2012, the Arecibo Municipal Government planned to talk to the owner of the gas station to buy the adjacent land to be transferred to the Department of Natural and Environmental Resources and protect it from vandalism.   \\n\nReferences\nExternal links",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Cueva_Ventana&oldid=1244832562",
+        "https://es.wikipedia.org/wiki/Cueva_Ventana",
+        "https://en.wikipedia.org/wiki/cueva_ventana"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.3712,
+            -66.6915
+        ],
+        "title": "Cueva Ventana",
+        "type": "Point"
+    },
+    "categories": [
+        "Outdoor"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "main_content": "Contents\nSan Miguel Arcángel Church (Cabo Rojo)\nIglesia San Miguel Arcángel is a Roman Catholic parish church located in Cabo Rojo, Puerto Rico .  Construction on the building started in 1773 and was completed in 1783. The church\\'s archives holds the birth records of Ramón Emeterio Betances , Salvador Brau , and the pirate Roberto Cofresi .  \\n\nHistory\nA description of the church  from 1843 indicates that it had three naves separated by arches of wood, covered with tiles, with a ceiling vault. In 1927, Father Joe Smith collected funds to build a dome over the altar and repair the sacristy. Father Benito Sánchez gave the task of commissioning a number of additional works, among them, raising  the height of the nave an additional ten feet. In 1936, Father Benito died and is the only Augustine priest buried in the church.  \\n\nTo free children from slavery, Ramón Emeterio Betances used to come to the door of the church on Sunday and, as the baby slaves were brought out from their christening ceremonies, he paid twenty five pesos (once baptized the cost for the slaves were doubled at 50 pesos).  \\n\nIn 2004, the church was designated a historic monument by the Puerto Rican government.  The church is part of the Roman Catholic Diocese of Mayagüez .  \\n\nReferences\n18\\xc2\\xb05\\xe2\\x80\\xb212.36\\xe2\\x80\\xb3N 67\\xc2\\xb08\\xe2\\x80\\xb245.61\\xe2\\x80\\xb3W ﻿ / ﻿ 18.0867667\\xc2\\xb0N 67.1460028\\xc2\\xb0W ﻿ / 18.0867667; -67.1460028 \\n",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=San_Miguel_Arc\\xc3\\xa1ngel_Church_(Cabo_Rojo)&oldid=1145504614",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://es.wikipedia.org/wiki/Iglesia_de_San_Miguel_Arc%C3%A1ngel_(Cabo_Rojo)"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.0867667,
+            -67.1460028
+        ],
+        "title": "San Miguel Arcángel Church (cabo Rojo)",
+        "type": "Point"
+    },
+    "categories": [
+        "Religion",
+        "Culture"
+    ]
+}

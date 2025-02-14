@@ -1,0 +1,21 @@
+{
+    "main_content": "Contents\nPueblo, San Juan, Puerto Rico\nRío Piedras Pueblo (officially just Pueblo , unofficially downtown Río Piedras ), is one of 18 barrios in the municipality of San Juan , Puerto Rico .    Rio Piedras Pueblo is what used to be the urban center- barrio (downtown district) of the former municipality of Río Piedras until 1951, when the municipality of Rio Piedras was merged with the municipality of San Juan.\\n\nRio Piedras Pueblo is bounded to the west by Hato Rey Sur and El Cinco , with Universidad barrio to the North, and with Sabana Llana Sur barrio to the south and east. It is made up of 6 subbarrios : Buen Consejo , Capetillo , Monte Rey , Río Piedras Antiguo , Ubarri , and Venezuela . The University of Puerto Rico, Rio Piedras is located nearby.\\n\nThe central plaza and its church\nBefore the establishment of the town square, the area was the site of the Hermitage of Our Lady of the Pillar since at least 1647.  The central plaza, today known as Plaza de la Convalecencia (La Convalecencia Square), dates to 1823 when the town was granted municipality rights. The old city house and Casa del Rey date to this time.  Located across the central plaza is the Church of Our Lady of the Pillar, a Roman Catholic church which used to be the main Catholic parish of the former municipality.  \\n\nDemographics\nIn 2010, it had a population of 8,720 residing in land area of 0.73 sq. mi. (1.86 km 2 ).\\n\nSubbarrios\nPueblo comprises the following six subbarrios (3rd level subdivisions):  \\n\nGallery\nSee also\nReferences",
+    "relevant_links": [
+        "https://es.wikipedia.org/wiki/R%C3%ADo_Piedras_Pueblo",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://ceb.wikipedia.org/wiki/Pueblo_Barrio_(baranggay_sa_San_Juan)",
+        "https://en.wikipedia.org/w/index.php?title=Pueblo,_San_Juan,_Puerto_Rico&oldid=1192948081",
+        "https://fr.wikipedia.org/wiki/Pueblo_(San_Juan)"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.393852,
+            -66.047738
+        ],
+        "title": "Pueblo, San Juan, Puerto Rico",
+        "type": "Point"
+    },
+    "categories": [
+        "Religion"
+    ]
+}

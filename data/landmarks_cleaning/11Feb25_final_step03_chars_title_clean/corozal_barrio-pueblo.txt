@@ -1,0 +1,20 @@
+{
+    "main_content": "Contents\nCorozal barrio-pueblo\nCorozal barrio-pueblo is an urban barrio and the administrative center ( seat ) of Corozal , a municipality of Puerto Rico. Its population in 2010 was 2,631.   \\n\nAs was customary in Spain, in Puerto Rico, the municipality has a pueblo which contains a central plaza, the municipal buildings (city hall), and a Catholic church. Fiestas patronales (patron saint festivals) are held in the central plaza every year.   \\n\nHistory\nCorozal barrio-pueblo was in Spain\\'s gazetteers  until Puerto Rico was ceded by Spain in the aftermath of the Spanish-American War under the terms of the Treaty of Paris of 1898 and became an unincorporated territory of the United States . In 1899, the United States Department of War conducted a census of Puerto Rico finding that the population of Corozal barrio-pueblo (Pueblo) was 1,057.  \\n\nFeatures and demographics\nCorozal barrio-pueblo has .352 square miles (0.91 km 2 ) of land area and no water area. In 2010, its population was 2,631 with a population density of 7,517.1 inhabitants per square mile (2,902.4/km 2 ).  \\n\nThe central plaza and its church\nThe central plaza, or square, is a place for official and unofficial recreational events and a place where people can gather and socialize from dusk to dawn. The Laws of the Indies , Spanish law, which regulated life in Puerto Rico in the early 19th century, stated the plaza\\'s purpose was for \"the parties\" (celebrations, festivities) , and that the square should be proportionally large enough for the number of neighbors . These Spanish regulations also stated that the streets nearby should be comfortable portals for passersby, protecting them from the elements: sun and rain.  \\n\nLocated across the central plaza in Corozal barrio-pueblo is the Parroquia La Sagrada Familia , a Roman Catholic church.  \\n\nSectors\nBarrios (which are, in contemporary times, roughly comparable to minor civil divisions )  in turn are further subdivided into smaller local populated place areas/units called sectores ( sectors in English). The types of sectores may vary, from normally sector to urbanización to reparto to barriada to residencial , among others.    \\n\nThe following sectors are in Corozal barrio-pueblo:  \\n\nBarriada Aldea Vázquez,\\nBarriada Bou,\\nCalle Carmelo Aponte,\\nCalle Cervantes,\\nCalle Colegio Católico,\\nCalle Culto,\\nCalle Gándara,\\nCalle Genaro Bou,\\nCalle Howard T. Jason,\\nCalle José Valiente,\\nCalle La Marina,\\nCalle Las Mercedes,\\nCalle Nueva,\\nCalle San Manuel,\\nCalle Urbano Ramírez,\\nCalle Santo Domingo,\\nCalle Sostre,\\nCalle San Ramón,\\nDesvío Urbano,\\nExtensión Sobrino,\\nResidencial El Centro,\\nResidencial Enrique Landrón,\\nSector Alcantarilla,\\nSector Alfonso Matos,\\nSector Cantera,\\nSector Portugués,\\nUrbanización Sanfeliz, and Urbanización Sobrino. \\n\nGallery\nSee also\nReferences\nExternal links",
+    "relevant_links": [
+        "https://es.wikipedia.org/wiki/Corozal_(Corozal)",
+        "https://en.wikipedia.org/w/index.php?title=Corozal_barrio-pueblo&oldid=1226424801",
+        "https://en.wikipedia.org/wiki/corozal_barrio-pueblo"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.3397382,
+            -66.3167536
+        ],
+        "title": "Corozal Barrio-pueblo",
+        "type": "Point"
+    },
+    "categories": [
+        "Religion",
+        "Culture"
+    ]
+}

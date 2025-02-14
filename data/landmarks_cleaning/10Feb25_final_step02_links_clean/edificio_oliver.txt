@@ -1,0 +1,17 @@
+{
+    "main_content": "Contents\nEdificio Oliver\nEdificio Oliver in Arecibo, Puerto Rico was built in 1914. The building houses government offices for the municipality of Arecibo .\\n\nA Beaux Arts -style building, it was the first building made of reinforced concrete in the Arecibo area.  \\n\nIt is located in the town center on the location of the former \"King\\'s House\", the military garrison building built by the Spanish government in 1765.  After 1868 that building became a courthouse, a police headquarters, and a public school then was demolished in 1913. The Edificio Oliver was built soon after in the corner location and was used both as a residence and for commercial purposes. It served also served as a foreign consulate.  \\n\nEdificio Oliver was listed on the National Register of Historic Places in 1986,  and on the Puerto Rico Register of Historic Sites and Zones in 2000.  \\n\nReferences\n\\n\nThis article about a property in Puerto Rico on the National Register of Historic Places is a stub . You can help Wikipedia by expanding it .\nThis article about a Puerto Rican building or structure related topic is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Edificio_Oliver&action=edit",
+        "https://en.wikipedia.org/w/index.php?title=Edificio_Oliver&oldid=1240121614",
+        "https://en.wikipedia.org/wiki/edificio_oliver"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.472584,
+            -66.715239
+        ],
+        "title": "Edificio Oliver",
+        "type": "Point"
+    },
+    "categories": []
+}

@@ -1,0 +1,20 @@
+{
+    "main_content": "Contents\nEpiscopal Cathedral of St. John the Baptist (San Juan, Puerto Rico)\nThe Cathedral of Saint John the Baptist  is an Episcopal cathedral in San Juan, Puerto Rico . It is the seat of the Diocese of Puerto Rico and it is located in the Santurce district of San Juan.  \\n\nHistory\nThe first service of the Mission of St. John the Baptist was held on March 12, 1899, in a hall on the plaza in Old San Juan .  The Rev. James Van Buren came to Puerto Rico in February 1901 and on Christmas Eve of that year St. John\\'s became a parish with Van Buren as the first rector.  The cornerstone for the congregation\\'s first church was laid on December 26, 1902.  Old San Juan increasingly became a commercial center and its residents moved elsewhere.  In 1928 Bishop Charles Colmore proposed relocating St. John\\'s and St. Luke\\'s Church in new locations.  The following year the bishop spoke of St. John\\'s and St. Catherine\\'s Training School for Women relocating at Santurce with the hope that St. John\\'s Day School and the rectory would join them.  The groundbreaking for the present church took place on February 22, 1929, and it was completed the following February.\\n\nSee also\nReferences\nExternal links",
+    "relevant_links": [
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://it.wikipedia.org/wiki/Cattedrale_di_San_Giovanni_Battista_(Porto_Rico,_Chiesa_anglicana)",
+        "https://en.wikipedia.org/w/index.php?title=Episcopal_Cathedral_of_St._John_the_Baptist_(San_Juan,_Puerto_Rico)&oldid=1247550070"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.4484222,
+            -66.0709806
+        ],
+        "title": "Episcopal Cathedral Of St. John The Baptist (san Juan, Puerto Rico)",
+        "type": "Point"
+    },
+    "categories": [
+        "Religion",
+        "Culture"
+    ]
+}

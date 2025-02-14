@@ -1,0 +1,16 @@
+{
+    "main_content": "Contents\nMiguel Angel García Méndez Post Office Building\nThe Miguel Angel Garcia Mendez Post Office Building in Mayagüez, Puerto Rico , previously known as the United States Post Office and Courthouse ,  and also known as Correo Central de Mayagüez is a post office and courthouse facility of the United States , housing operations of the United States District Court for the District of Puerto Rico . It was designed by Louis A. Simon , Supervising Architect of the Treasury , and was built in 1935. It  was listed on the National Register of Historic Places in 1986 as U.S. Post Office and Courthouse .  In 2007, the U.S. Congress passed a bill renaming the building for statesman and local government figure Miguel A. García Méndez .   \\n\nOverview\nIn this same lot stood, since the times of Spanish rule, first the Barracks of the Alfonso XII Regiment until 1898, then the district court and jail until the October 11, 1918 earthquake when the old brick building was destroyed.  The barracks were built in 1848; they were large and had two floors. They could house a battalion of 800 men and its officers. The building\\'s brick roof had 30 lightning rods.  \\n\nGallery\nSee also\nReferences\nExternal links\n18°12\\xe2\\x80\\xb205.60\\xe2\\x80\\xb3N 67°08\\xe2\\x80\\xb238.09\\xe2\\x80\\xb3W ﻿ / ﻿ 18.2015556°N 67.1439139°W ﻿ / 18.2015556; -67.1439139 \\n",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Miguel_Angel_Garc\\xc3\\xada_M\\xc3\\xa9ndez_Post_Office_Building&oldid=1138107794",
+        "https://en.wikipedia.org/wiki/u.s._post_office_and_courthouse_(mayagüez,_puerto_rico)"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.2015556,
+            -67.1439139
+        ],
+        "title": "U.s. Post Office And Courthouse (mayagüez, Puerto Rico)",
+        "type": "Point"
+    },
+    "categories": []
+}

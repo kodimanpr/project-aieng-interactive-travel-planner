@@ -1,0 +1,16 @@
+{
+    "main_content": "Contents\nPuerto Del Rey Marina\nPuerto del Rey Marina is a marina in Fajardo, Puerto Rico . With  a capacity of  over 2,000 boats, it is one of the largest marinas in the Caribbean .   \\n\nGeneral description\nCompleted in 1988 and then re-done in 2014, Puerto del Rey Marina is operating at near its capacity of nearly 1,000 wet slips on concrete fixed piers and over 750 dry-stack spaces for smaller boats three-high, with extra spaces along piers and at anchor for transient boats.  \\n\nOpen year-round, the marina\\'s busiest boating season is from October through April. Boats range in size from 30 feet up to 150-foot yachts.  \\n\nIn 2021, the marina\\'s investment in boat forklift machines help it compete with other marinas.  \\n\nSee also\nReferences\nExternal links\n18°17\\xe2\\x80\\xb214\\xe2\\x80\\xb3N 65°38\\xe2\\x80\\xb211\\xe2\\x80\\xb3W ﻿ / ﻿ 18.287297°N 65.636497°W ﻿ / 18.287297; -65.636497 \\n",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Puerto_Del_Rey_Marina&oldid=1016790135",
+        "https://en.wikipedia.org/wiki/puerto_del_rey_marina"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.287297,
+            -65.636497
+        ],
+        "title": "Puerto Del Rey Marina",
+        "type": "Point"
+    },
+    "categories": []
+}

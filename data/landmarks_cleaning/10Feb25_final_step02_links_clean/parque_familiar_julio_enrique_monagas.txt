@@ -1,0 +1,21 @@
+{
+    "main_content": "Contents\nParque Familiar Julio Enrique Monagas\n\\n\nParque Familiar Julio Enrique Monagas (English: Julio Enrique Monagas Family Park ) is Puerto Rico\\'s largest passive park.   It is located in barrio Bucaná , Ponce, Puerto Rico , on the banks of the Bucaná and Portugués rivers. The park was named after Julio Enrique Monagas , \"the father of Puerto Rican Olympic sports\".  In November 2017, the park was severely damaged by Hurricane Maria and, as of today (January 2021), remains closed.\\n\nLocation\nThe park is located in barrio Bucana , at the merging of Rio Portugues and Rio Bucana , off PR-2 (Ponce By-pass). The park was built at a cost of over $3 million.  \\n\nHistory\nThe park was created under the administration of Ponce mayor Rafael Cordero Santiago . It initially consisted of 80 acres (320,000 m 2 ) of land and lakes. It was subsequently expanded to 125 acres (0.51 km 2 ). It opened in 1994 under the administration of mayor Rafael Cordero Santiago  and was considerably enlarged in October 2008 under the administration of mayor Francisco Zayas Seijo .  It was built during the administration of Mayor Rafael Cordero Santiago .  At the moment of its inauguration in 1994, it was the largest passive park in the Caribbean.  \\n\nThe park was severely damaged by Hurricane Maria in September 2017 and, as of November 2019, remained closed. In April 2019 the USACE removed debris and, upon completion, the Government of the Municipality of Ponce proceeded to perform cleanup activities.  In late September 2019, mayor Mayita announced the allocation of $3.9 USD million for the reconstruction of the park. The funds, however, were to be shared with reconstruction of Teatro La Perla , Complejo Recreativo de La Guancha , Centro Ceremonial Indígena de Tibes , Plaza del Mercado Isabel II , and Complejo Acuático Víctor Vasallo .  \\n\nAmenities\nThe family-oriented park had paddle boats, picnic areas with gazebos, exotic birds, skate park and various playgrounds for children and a Ridable miniature railway .  \\n\nReferences",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Parque_Familiar_Julio_Enrique_Monagas&oldid=1193375834",
+        "https://en.wikipedia.org/wiki/parque_familiar_julio_enrique_monagas"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            17.9954306,
+            -66.5968
+        ],
+        "title": "Parque Familiar Julio Enrique Monagas",
+        "type": "Point"
+    },
+    "categories": [
+        "Outdoor",
+        "Family-Friendly",
+        "Extreme Adventure",
+        "Culture"
+    ]
+}

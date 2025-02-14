@@ -1,0 +1,20 @@
+{
+    "main_content": "Contents\nSan José Church\nSan José Church , located in Old San Juan within the historic colonial zone of the capital of Puerto Rico , is one of the first significant works of architecture on the island.   The church is one of the earliest surviving examples of 16th-century Spanish Gothic architecture in the Western hemisphere .   \\n\nIn 2013 it was added to the National Trust for Historic Preservation \\'s list of 11 Most Endangered Historic Places of 2013.  \\n\nHistory\nThe church was constructed from 1528 to 1735 by the Dominican Order as part of the Saint Aquinas Monastery. It was renamed by the Jesuits who took over the monastery on September 2, 1858.  \\n\nJuan Ponce de León , the first governor of Puerto Rico, was buried in the crypt of the church from 1559 to 1836, when his remains were exhumed and later transferred to the Cathedral of San Juan Bautista .  However, his coat of arms is still located near the main altar. His grandson, Juan Ponce de Leon II is buried in the crypt beneath the Sanctuary\\'s floor. Puerto Rican painter José Campeche is also buried in the church.\\n\nIn 1972, the 15th-century painting Our Lady of Bethlehem disappeared from the church. In 2002, a restoration project on the structure began and several painted murals were discovered including a mid-19th century depiction of the Battle of Lepanto .  In 2004, the church was listed on the 2004 World Monuments Watch by the World Monuments Fund , which helped the conservation effort.  \\n\nRestoration of the church was completed in March 2021.  \\n\nGallery\nSee also\nReferences\nExternal links\n18°28\\xe2\\x80\\xb23.04\\xe2\\x80\\xb3N 66°7\\xe2\\x80\\xb26.7\\xe2\\x80\\xb3W ﻿ / ﻿ 18.4675111°N 66.118528°W ﻿ / 18.4675111; -66.118528 \\n",
+    "relevant_links": [
+        "https://es.wikipedia.org/wiki/Iglesia_de_San_Jos%C3%A9_(San_Juan,_Puerto_Rico)",
+        "https://en.wikipedia.org/w/index.php?title=San_Jos\\xc3\\xa9_Church&oldid=1239305438",
+        "https://en.wikipedia.org/wiki/san_josé_church"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.4675111,
+            -66.118528
+        ],
+        "title": "San José Church",
+        "type": "Point"
+    },
+    "categories": [
+        "Religion",
+        "Culture"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "main_content": "Contents\nPlaya Espinar\n18°23\\xe2\\x80\\xb230\\xe2\\x80\\xb3N 67°11\\xe2\\x80\\xb247\\xe2\\x80\\xb3W ﻿ / ﻿ 18.3916128°N 67.1962921°W ﻿ / 18.3916128; -67.1962921 \\n Playa Espinar is a beach on the north-west coast of Puerto Rico , in the town of Aguada . The beach is 760 meters long.  \\n\nSee also\nReferences\nExternal links\n\\n\nThis Aguada, Puerto Rico location article is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Playa_Espinar&oldid=997901985",
+        "https://en.wikipedia.org/w/index.php?title=Playa_Espinar&action=edit",
+        "https://en.wikipedia.org/wiki/playa_espinar"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.3916128,
+            -67.1962921
+        ],
+        "title": "Playa Espinar",
+        "type": "Point"
+    },
+    "categories": [
+        "Beach"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "main_content": "Contents\nEdificio Victory Garden\nEdificio Victory Garden is a four-story apartment house that faces on Ponce de Leon Avenue and Elisa Colberg Street in the Miramar district of Santurce, Puerto Rico . It was deemed notable as \"one of Puerto Rico\\'s finest examples of Spanish Revival apartment houses from the early 20th century.\"  \\n\nThe building was designed by Pedro Adolfo de Castro y Besosa (January 5, 1895-October, 1936), the first United States university-trained Puerto Rican architect.  : 16 He designed 33 or more apartment houses during 1929\\xe2\\x80\\x931936. Rafael Carmoega emerged to higher prominence only after de Castro\\'s early death, at age 41.  : 17 \\n\nAlthough it appears massive, the building\\'s footprint only uses up 30 percent of the lot\\'s area.  It is U-shaped with a courtyard not visible from the corner of the streets.  \\n\nReferences\n\\n\nThis article about a property in Puerto Rico on the National Register of Historic Places is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://en.wikipedia.org/w/index.php?title=Edificio_Victory_Garden&oldid=1222064881",
+        "https://en.wikipedia.org/w/index.php?title=Edificio_Victory_Garden&action=edit"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.45361,
+            -66.07861
+        ],
+        "title": "Edificio Victory Garden",
+        "type": "Point"
+    },
+    "categories": []
+}

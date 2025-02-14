@@ -1,0 +1,19 @@
+{
+    "main_content": "Contents\nRío Matón Bridge\nThe Río Matón Bridge , in Matón Abajo , a barrio of Cayey, Puerto Rico , was built in 1886.  It was listed on the National Register of Historic Places in 1995 and on the Puerto Rico Register of Historic Sites and Zones in 2000.   \\n\nIt is a lateral solid web girder bridge spanning Río Matón . It was built as part of the Carretera Central .  Its iron span was designed by Spanish engineer Manuel Lopez-Bayo and was brought from Europe. Its purchase cost was 11,105 francs .  \\n\nIt carries Highway 14 , at km 63.2.\\n\nIt has also been known as Bridge #1.  Its designer was engineer, Manuel Lopez-Bayo . The bridge entered the NRHP because of its architecture and engineering and because it demonstrates an important time in the history of Puerto Rico.  \\n\nReferences\n\\n\nThis article about a property in Puerto Rico on the National Register of Historic Places is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=R%C3%ADo_Mat%C3%B3n_Bridge&action=edit",
+        "https://en.wikipedia.org/w/index.php?title=R\\xc3\\xado_Mat\\xc3\\xb3n_Bridge&oldid=1246588937",
+        "https://en.wikipedia.org/wiki/río_matón_bridge"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.13972,
+            -66.21083
+        ],
+        "title": "Río Matón Bridge",
+        "type": "Point"
+    },
+    "categories": [
+        "Culture"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "main_content": "Contents\nCasa Roig Museum\nThe Casa Roig Museum is a historic house museum and gallery in Humacao , Puerto Rico . It was designed as a residence for the wealthy sugar planter Antonio Roig by the prominent Czech architect and Puerto Rico resident Antonin Nechodoma (1877\\xe2\\x80\\x931928  ) and built in 1920.\\n\nDescription\nCasa Roig was built in the Prairie School style in 1920. The house has a cruciform plan, has two floors and a basement. It is made of concrete and wood and decorated lavishly with stained glass and mosaics.  The design follows the Prairie House School style of the architect Louis Sullivan, but especially the unique style of the renowned American architect Frank Lloyd Wright (1867\\xe2\\x80\\x931959).  \\n\nThe house was inhabited until 1956. From then on it remained closed until August 13, 1977, when the heirs of Antonio Roig donated the residence to the University of Puerto Rico who adopted the mission to restore and preserve the structure.  The work of restoration was carried out by the architects Otto Reyes and Tom Marvel over a period of 10 years. Casa Roig opened its doors to the public in 1989 and since then has served as a physical footprint and testimony of the Prairie School style adapted to the Caribbean, and as a center for cultural diffusion. Casa Roig is considered among the best works of Nechodoma and is the only residential structure built by Nechodoma which still remains complete.  \\n\nThe house was listed on the U.S. National Register of Historic Places in 1977,  and on the Puerto Rico Register of Historic Sites and Zones on May 16, 2001.  \\n\nThe museum\\'s roof sustained damages when Hurricane Maria struck Puerto Rico in September 2017.  \\n\nGallery\nSee also\nReferences\nExternal links\n\\n\nThis article about a property in Puerto Rico on the National Register of Historic Places is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Casa_Roig_Museum&oldid=1240147474",
+        "https://es.wikipedia.org/wiki/Museo_Casa_Roig",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://en.wikipedia.org/w/index.php?title=Casa_Roig_Museum&action=edit",
+        "https://ca.wikipedia.org/wiki/Museu_Casa_Roig",
+        "https://web.archive.org/web/20170616045625/http://www.puertorico.com/museums/casa-roig/",
+        "https://fa.wikipedia.org/wiki/%D9%85%D9%88%D8%B2%D9%87_%DA%A9%D8%A7%D8%B2%D8%A7_%D8%B1%D9%88%DA%AF"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.147971,
+            -65.824867
+        ],
+        "title": "Casa Roig Museum",
+        "type": "Point"
+    },
+    "categories": [
+        "Culture"
+    ]
+}

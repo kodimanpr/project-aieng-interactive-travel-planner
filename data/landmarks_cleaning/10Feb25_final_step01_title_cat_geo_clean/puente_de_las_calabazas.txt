@@ -1,0 +1,19 @@
+{
+    "main_content": "Contents\nPuente de las Calabazas\nPuente de las Calabazas is a single-span lattice girder bridge over the Cuyón River near Coamo, Puerto Rico on the Carreterra Central that dates from 1882.  It was designed by Ricardo (or Raimundo?) Camprubi and was fabricated by Eugen Rollin and Co., a Belgian firm that exported via Spain from Braine le Comte , Belgium.  Prolific engineer Camprubí designed several single span lattice bridges in Puerto Rico.  He also designed the first two-span lattice girder bridge in Puerto Rico, the Padre Inigo Bridge (in Coamo, No. 174), which is also NRHP-listed.  All of these were part of the Carretera Central.  : 13 \\n\nIt was listed on the U.S. National Register of Historic Places in 2009.  \\n\nReferences\nExternal links\n\\n\nThis article about a property in Puerto Rico on the National Register of Historic Places is a stub . You can help Wikipedia by expanding it .\nThis article about a Puerto Rican building or structure related topic is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Puente_de_las_Calabazas&action=edit",
+        "https://en.wikipedia.org/w/index.php?title=Puente_de_las_Calabazas&oldid=1246588818",
+        "https://stats.wikimedia.org/#/en.wikipedia.org"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.088056,
+            -66.313333
+        ],
+        "title": "Puente De Las Calabazas",
+        "type": "Point"
+    },
+    "categories": [
+        "Outdoor"
+    ]
+}

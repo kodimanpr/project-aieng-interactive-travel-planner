@@ -1,0 +1,19 @@
+{
+    "main_content": "Contents\nChurch of San Francisco de Asís\nThe Church of San Francisco de Asís de la Aguada  is a parish of the Catholic Church in Aguada, Puerto Rico . It is located on the eastern end of the Plaza de Aguada (the main town square) in downtown Aguada .  \\n\nHistory\nThe Parish of Aguada was officially established in 1692 and it has belonged to four different dioceses throughout its history. Although the current church dates to the early 20th century, different wooden church buildings have occupied the space. The previous structure was destroyed during the 1918 Puerto Rico earthquake , The church was designed by architects Antonio Martínez and José Lazaro, and construction took place between the years 1919 and 1926.  The church is currently undergoing extensive renovations.\\n\nSee also\nReferences\n18°22\\xe2\\x80\\xb247\\xe2\\x80\\xb3N 67°11\\xe2\\x80\\xb218\\xe2\\x80\\xb3W ﻿ / ﻿ 18.37972°N 67.18833°W ﻿ / 18.37972; -67.18833 \\n",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Church_of_San_Francisco_de_As\\xc3\\xads&oldid=1146451738",
+        "https://en.wikipedia.org/wiki/church_of_san_francisco_de_asís"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.37972,
+            -67.18833
+        ],
+        "title": "Church of San Francisco de As\\xc3\\xads",
+        "type": "Point"
+    },
+    "categories": [
+        "Religion",
+        "Culture"
+    ]
+}

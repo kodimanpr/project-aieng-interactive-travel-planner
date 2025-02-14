@@ -1,0 +1,18 @@
+{
+    "main_content": "Contents\nLos Túneles subterráneos de San Germán\nThe San Germán Underground  is a vaulted brick storm sewer system built in 1835 underneath the urban center of San Germán, Puerto Rico .  The system is made of a central tunnel and several smaller side tunnels. The construction is of brick and rubble with modern concrete repairs. The main part of the system covers the underground course of Quebrada Manzanares from its headwaters to its resurgence as a surface stream, 842.53 metres (2,764.2 ft) away.  The vaulted brick branches, most of them abandoned and sealed, date mostly from before 1910. The tunnel sections built up to 1918 are listed on the National Register of Historic Places as Alcantarilla Pluvial sobre la Quebrada Manzanares .\\n\nSee also\nNotes\nReferences\nExternal links\n\\n\nThis article about a property in Puerto Rico on the National Register of Historic Places is a stub . You can help Wikipedia by expanding it .\nThis article about a Puerto Rican building or structure related topic is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Los_T%C3%BAneles_subterr%C3%A1neos_de_San_Germ%C3%A1n&action=edit",
+        "https://es.wikipedia.org/wiki/T%C3%BAneles_subterr%C3%A1neos_de_San_Germ%C3%A1n",
+        "https://en.wikipedia.org/w/index.php?title=Los_T\\xc3\\xbaneles_subterr\\xc3\\xa1neos_de_San_Germ\\xc3\\xa1n&oldid=1240266651",
+        "https://en.wikipedia.org/wiki/los_túneles_subterráneos_de_san_germán"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.081531,
+            -67.042515
+        ],
+        "title": "Los Túneles Subterráneos De San Germán",
+        "type": "Point"
+    },
+    "categories": []
+}

@@ -1,0 +1,19 @@
+{
+    "main_content": "Contents\nRío Piedras Bridge\nThe Río Piedras Bridge  or Piedras River Bridge ( Puente del Río Piedras ), also designated as Bridge #3 , is a historic 19th-century barrel vault bridge located in the former town of Río Piedras , today part of the city of San Juan, Puerto Rico , that spans across the Piedras River .  The bridge was built in 1853 as part of the development of the Carretera Central that linked San Juan to Ponce , making it the oldest still-existing bridge of said route. Today the bridge is still stable and usable, and it can be found near the entrance of the University of Puerto Rico Botanical Garden . It was added to the National Register of Historic Places in 1995 and on the Puerto Rico Register of Historic Sites and Zones in 2000,  and it is considered to be the best-preserved example of a Spanish masonry arch bridge anywhere in Puerto Rico and the United States.  \\n\nGallery\nSee also\nReferences\n\\n\nThis article about a property in Puerto Rico on the National Register of Historic Places is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://en.wikipedia.org/w/index.php?title=R\\xc3\\xado_Piedras_Bridge&oldid=1240273406",
+        "https://en.wikipedia.org/w/index.php?title=R%C3%ADo_Piedras_Bridge&action=edit"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.3944444,
+            -66.0558333
+        ],
+        "title": "Río Piedras Bridge",
+        "type": "Point"
+    },
+    "categories": [
+        "Outdoor"
+    ]
+}

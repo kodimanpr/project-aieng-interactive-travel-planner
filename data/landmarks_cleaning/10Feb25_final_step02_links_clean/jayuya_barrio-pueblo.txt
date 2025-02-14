@@ -1,0 +1,20 @@
+{
+    "main_content": "Contents\nJayuya barrio-pueblo\nJayuya barrio-pueblo is a barrio and the administrative center ( seat ) of Jayuya , a municipality of Puerto Rico. Its population in 2010 was 1,222.     \\n\nAs was customary in Spain, in Puerto Rico, the municipality has a barrio called pueblo which contains a central plaza, the municipal buildings (city hall), and a Catholic church. Fiestas patronales (patron saint festivals) are held in the central plaza every year.   \\n \\n\nThe central plaza and its church\nThe central plaza, or square, is a place for official and unofficial recreational events and a place where people can gather and socialize from dusk to dawn. The Laws of the Indies , Spanish law, which regulated life in Puerto Rico in the early 19th century, stated the plaza\\'s purpose was for \"the parties\" (celebrations, festivities) , and that the square should be proportionally large enough for the number of neighbors . These Spanish regulations also stated that the streets nearby should be comfortable portals for passersby, protecting them from the elements: sun and rain.  \\n\nLocated across the central plaza in Jayuya barrio-pueblo is the Parroquia Nuestra Señora de la Monserrate , a Roman Catholic church.  \\n\nSee also\nReferences\nExternal links\n\\n\nThis Jayuya, Puerto Rico location article is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Jayuya_barrio-pueblo&oldid=1192734609",
+        "https://en.wikipedia.org/w/index.php?title=Jayuya_barrio-pueblo&action=edit",
+        "https://es.wikipedia.org/wiki/Jayuya_(Jayuya)",
+        "https://en.wikipedia.org/wiki/jayuya_barrio-pueblo"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.219831,
+            -66.592566
+        ],
+        "title": "Jayuya Barrio-pueblo",
+        "type": "Point"
+    },
+    "categories": [
+        "Religion"
+    ]
+}

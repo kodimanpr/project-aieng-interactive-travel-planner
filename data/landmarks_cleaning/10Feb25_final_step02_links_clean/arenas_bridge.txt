@@ -1,0 +1,21 @@
+{
+    "main_content": "Contents\nArenas Bridge\nThe Arenas Bridge is a truss bridge built in 1894 between the municipalities of Cayey and Cidra in Puerto Rico .  Also known as Puente Rio La Plata , it was the longest bridge constructed in Puerto Rico during the Spanish colonial period.  It crosses the Rio de la Plata , the longest river in Puerto Rico.  According to the U.S. National Park Service, \"[t]his is the most important metal bridge in Puerto Rico from the period.\"  The bridge is still standing.  \\n\nHistory\nThe bridge was built as \"part of the Carretera Central , the first highway across the central mountains of Puerto Rico.\"  The Carretera Central, a 134 kilometer highway between San Juan and the port of Ponce was largely completed by 1886, with temporary bridges in place at some crossings and 13 permanent bridges completed.  : E-7 The installation of the permanent Arenas Bridge in 1894 was near the completion of the Carretera in 1898.  : E-7 \\n\nBecause of scarcity of iron in Puerto Rico, there were no metal fabricators in the country.  Instead, bridges like this were fabricated overseas and shipped in parts to Puerto Rico.  A Spanish government agent in Paris secured international bids, largely from French and Belgian firms, for bridges to be built in the overseas colonies of Spain.  : E-10 The Arenas Bridge itself was fabricated by Nicaise et Delcuve , a Belgian firm, and was shipped on the steamship Teutonia to Puerto Rico for assembly.  \\n\nAn alternative to a truss bridge would have been a suspension bridge design, which was a well-developed technology for long spans before the Arenas Bridge was built.  However, there were no truly long spans in Puerto Rico that would have absolutely required a suspension bridge in colonial times, as there are no particularly wide rivers or canyons, and chief engineer Manuel Sanchez-Nunez assessed that suspension bridges were unsuited to the tropical climate, even removing, a few years later, one that had been constructed in Caguas in 1857.  : E-5 As a result, suspension bridge technology was not widely employed in Puerto Rico.  Even today it is believed that there are only a small number of suspension bridges in the commonwealth, one being a modern pedestrian bridge in Bayamon . [ citation needed ] Another one is located in Caguas .   and yet another one , a vehicular one, is on the Bayamon - Naranjito border.  \\n\nThe bridge was designed by Mariano Sichar.  A steel truss bridge, it weighed 23,623 pounds and was contracted to be built for 56,221 pesos.  Stone abutments to support the bridge were constructed under supervision of José Roque-Paniagua; engineer Julio Larrinaga oversaw assembly of the bridge.  \\n\nIt brings what is now Puerto Rico Highway 735 over Rio de la Plata between Barrio Monte Llano and Barrio Arenas.  It is between the municipalities of Cayey and Cidra .  \\n\nIn the Spanish-American War, American forces moved from south to north over the Carretara Central.  Another Carretera bridge was demolished by the Spanish to delay the American advance, but not Arenas Bridge.  : E-12 \\n\nReferences\nExternal links",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Arenas_Bridge&oldid=1246573637",
+        "https://es.wikipedia.org/wiki/Puente_Arenas",
+        "https://en.wikipedia.org/wiki/arenas_bridge"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.134325,
+            -66.138119
+        ],
+        "title": "Arenas Bridge",
+        "type": "Point"
+    },
+    "categories": [
+        "Outdoor",
+        "Family-Friendly",
+        "Culture"
+    ]
+}

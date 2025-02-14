@@ -1,0 +1,22 @@
+{
+    "main_content": "Contents\nCaparra Archaeological Site\nCaparra is an archaeological site in the municipality of Guaynabo, Puerto Rico .  It was declared a U.S. National Historic Landmark in 1994.  The site contains the remains of the first Spanish capital of the island, settled in 1508 and officially abandoned in 1521.  It represents the oldest known European settlement on United States territory.  \\n\nThe site is on the grounds of the Museum of the Conquest and Colonization of Puerto Rico (Museo de la Conquista y Colonización), which features artifacts from the site and other archaeological sites in Puerto Rico.\\n\nHistory\nIn 1508, Juan Ponce de León founded the original Spanish settlement in Puerto Rico at Caparra, named after the abandoned ancient Roman village of Cáparra in the province of Cáceres , Spain, the birthplace of then-governor of Spain\\'s Caribbean territories Nicolás de Ovando .,  Today it is known as the Pueblo Viejo barrio of Guaynabo , just to the west of the present San Juan metropolitan area.  \\n\nThe air was not wholesome and the mendicant friars insisted on moving the settlement closer to the bay and to the sea. They complained that the infants were dying. Their preferred area was that of the Islet of Puerto Rico (\"rich port\" or \"good port\"), because of its similar geographical features to the island of Gran Canaria in the Canary Islands .  \\n\nIt was not until the end of Ponce de León\\'s tenure as governor that they had their wish. By 1521, the move was complete and it was known as \"Villa de Puerto Rico.\" With time the name of the island, San Juan Bautista de Puerto Rico , traded places with what is now the capital of Puerto Rico: San Juan .  \\n\nAccording to Floyd, \"Ponce built the only stone house in the village, which for years functioned additionally as the Casa de Contratación , the archive, and the arsenal.\"  It became his permanent home, where he was joined by his family in 1509.  \\n\nArchaeological history\nThe Caparra Site was first identified as important during a survey in 1936, as part of a program to develop tourist facilities on the island.  Preliminary excavations spearheaded by Puerto Rico\\'s fifth official historian, Adolfo de Hostos ,  in 1936 and 1937, identified a large tapia structure, bisected by a two-lane highway, that matched de León\\'s description of his own residence, the only non-wooden structure in the settlement.  Further excavation identified the main plaza and the sites of other buildings.  \\n\nThe property was acquired by the Puerto Rican government in 1948, which relocated the northern section of the house ruins in order to widen the road.  The roadway was again widened in 1963, destroying the southern portion of the structure excavated in 1936.  The museum was established in 1958; the site continues to be examined by archaeologists.  \\n\nIn folklore\nA story from 1530 says that two Spanish men, Diego Ramos de Orozco and Diego Guilarte de Salazar, were living in Caparra and searching for gold in Puerto Rico\\'s rivers, for Spain. They each had at their disposal 40 Taíno slaves .  Good friends, they elaborated a plan to travel to a hard to reach, secret place in order to excavate and find gold for themselves and their own fortunes.   \\n\nImmediately upon finding a large piece of gold that they had originally agreed to share, their friendship was tested. In conniving to keep the gold, Orozco used fake dice, but then suffered a bad fall. Days later, when his friend Guilarte finally returned with help, Orozco lay dying, and confessed to having used fake dice and asked his friend for forgiveness. Sierra de Orozco , a mountain located in the Cordillera Central , is named after Orozco.   \\n\nSee also\nReferences\nExternal links",
+    "relevant_links": [
+        "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%8Ba_%C4%91i%E1%BB%83m_kh%E1%BA%A3o_c%E1%BB%95_Caparra",
+        "https://en.wikipedia.org/w/index.php?title=Caparra_Archaeological_Site&oldid=1240144273",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://it.wikipedia.org/wiki/Caparra_(sito_archeologico)",
+        "https://ca.wikipedia.org/wiki/Ru%C3%AFnes_de_Caparra"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.405,
+            -66.11417
+        ],
+        "title": "Caparra Archaeological Site",
+        "type": "Point"
+    },
+    "categories": [
+        "Family-Friendly",
+        "Culture"
+    ]
+}

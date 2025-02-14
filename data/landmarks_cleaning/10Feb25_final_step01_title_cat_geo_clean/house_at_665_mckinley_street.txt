@@ -1,0 +1,19 @@
+{
+    "main_content": "Contents\nHouse at 665 McKinley Street\n665 McKinley Street is a historic Spanish Creole vernacular -style house located in Miramar , a historic residential area of Santurce in the city of San Juan, Puerto Rico .  The house was built in 1906 during a transitional period in the history of architecture in Puerto Rico when the local adaptations of Spanish vernacular styles were transitioning into the Spanish Revival styles that was being imported from the United States and adapted into the tropical environments of the island. The house is well-preserved and retains all elements of this period and, with the exception of the rear balcony, no modifications or alterations that modify the architectural integrity have been made. For this reason, it was added to the National Register of Historic Places in 1991,  and on the Puerto Rico Register of Historic Sites and Zones in 2000.  \\n\nReferences\n\\n\nThis article about a property in Puerto Rico on the National Register of Historic Places is a stub . You can help Wikipedia by expanding it .\nThis article about a Puerto Rican building or structure related topic is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=House_at_665_McKinley_Street&oldid=1240272888",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://en.wikipedia.org/w/index.php?title=House_at_665_McKinley_Street&action=edit"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.4552933,
+            -66.0835317
+        ],
+        "title": "House At 665 Mckinley Street",
+        "type": "Point"
+    },
+    "categories": [
+        "Culture"
+    ]
+}

@@ -1,0 +1,416 @@
+[
+    {
+        "query": "What is the tallest landmark in Puerto Rico?",
+        "expected_answers": [
+            "The tallest landmark in Puerto Rico is the Arecibo Observatory, which was one of the world's largest radio telescopes before its collapse in 2020."
+        ],
+        "retrieved_texts": [
+            "The observation tower, accessible only on foot via Trail #3, rises at 3,537 feet above sea level, making it the highest manmade point on the island.  The observation tower sits atop Cerro Doña Juana , Puerto Rico\\'s 11th highest peak at 3,474 feet (1,059 m) above sea level.  The tower\\'s coordinates are 18.17178\\xc2\\xb0N, 66.48091\\xc2\\xb0W ( 18\\xc2\\xb010\\xe2\\x80\\xb218.4074\\xe2\\x80\\xb3N 66\\xc2\\xb028\\xe2\\x80\\xb251.2754\\xe2\\x80\\xb3W ﻿ / ﻿ 18.171779833\\xc2\\xb0N 66.480909833\\xc2\\xb0W ﻿ / 18.171779833; -66.480909833 ).  The tower is used for observation of the landscape surrounding Toro Negro and, on clear mornings before the afternoon clouds roll in, both the northern and southern shores of Puerto Rico are visible. San Juan is also visible as a distant haze in the northeastern horizon.  The observation tower affords views Lake El Guineo and Lake Guayabal as well as the Caribbean Sea.  It was built by the Spaniards during colonial times as a lookout tower to protect the south coast of the Island.  [ unreliable",
+            "El Toro peak is the tallest and has a view of the east coast of Puerto Rico - the Naguabo and Humacao towns and the ocean. This peak has less rain and fog compared to El Yunque and is undeveloped. Very few do come around here unlike El Yunque trail.\\n\nLike most deep forest trails there is little if any cell phone reception and one must be very careful since you are very isolated. Try to come early to avoid being there at night, carry water, some food and good shoes. Avoid this forest when hurricanes are close or during storms. After major storms or hurricanes, the trails may be damaged, and the park closed.\\n\nSee also\nReferences\nExternal links",
+            "The forest includes Puerto Rico\\'s highest peak, Cerro de Punta , which is located at km. 17.0 on Puerto Rico Highway 143.  It is at 18.1722\\xc2\\xb0N, 66.5917\\xc2\\xb0W ( 18\\xc2\\xb010\\xe2\\x80\\xb219.8\\xe2\\x80\\xb3N 66\\xc2\\xb035\\xe2\\x80\\xb230.03\\xe2\\x80\\xb3W ﻿ / ﻿ 18.172167\\xc2\\xb0N 66.5916750\\xc2\\xb0W ﻿ / 18.172167; -66.5916750 ). The mountain is the dividing landmark for the municipalities of Ponce and Jayuya. The mountain is accessible by car but the road is quite steep and many prefer to walk the road (it is about half hour\\'s hike to the top) unless riding on an all-wheel drive vehicle.  There is parking on PR-143 for those who prefer to walk to the hilltop.  Another peak in the Toro Negro is Cerro Maravilla , infamous due to the murders of two independentistas youth at the hand of police in an ambush. This peak is also accessible by car from PR-143. The road leading to the top of Cerro Maravilla is PR-577 and is not as steep as that to Cerro de Punta (the Cerro de Punta road has no state signing.) This"
+        ],
+        "retrieved_titles": [
+            "Unknown",
+            "Unknown",
+            "Unknown"
+        ],
+        "retrieval_scores": {
+            "ROUGE-L": 0.08362369196420985,
+            "METEOR": 0.14921362941434696,
+            "BLEU": 1.836618037630362e-155
+        },
+        "cpu_usage": "35.5% -> 32.5%",
+        "latency": "2.8614 seconds"
+    },
+    {
+        "query": "Where is El Yunque National Forest located?",
+        "expected_answers": [
+            "El Yunque National Forest is located in the northeastern region of Puerto Rico, near the municipalities of Rio Grande and Luquillo."
+        ],
+        "retrieved_texts": [
+            "Contents\nEl Yunque National Forest\nEl Yunque National Forest ( Spanish : Bosque Nacional El Yunque ), formerly known as the Caribbean National Forest (or Bosque Nacional del Caribe ),   is a forest located in northeastern Puerto Rico . While there are both temperate and tropical rainforests in other states and territories, it is the only tropical rainforest in the United States National Forest System and the United States Forest Service .  El Yunque National Forest is located on the slopes of the Sierra de Luquillo mountains, encompassing more than 28,000 acres (43.753 mi 2 or 113.32 km 2 ) of land, making it the largest block of public land in Puerto Rico .\\n",
+            "El Yunque National Forest has been incorrectly called the only rainforest in the United States National Forest Service, [ note 1 ] but it is actually the only tropical rainforest.  There are others that are temperate rainforests including some in Alaska and the Pacific Northwest .  \\n\nIn 2002, the U.S. Congress designated areas bounded by the Río Mameyes , Río de la Mina , and Río Icacos in the Caribbean National Forest as components of the National Wild and Scenic Rivers System .  \\n\nContrary to the popular assumption, El Yunque Peak is not the highest mountain in either the Sierra de Luquillo or Puerto Rico. The highest mountain of the Sierra de Luquillo is El Toro , also located in the national forest, while the highest mountain in Puerto Rico is Cerro de Punta in the Cordillera Central on the border between Jayuya and Ponce .  \\n",
+            "In addition to being an important ecological forest reserve, El Yunque National Forest is one of the most popular tourist attractions in Puerto Rico,  both for locals and visitors, and it offers numerous recreational opportunities such as picnicking, birdwatching, and biking in designated areas. Camping is allowed in designated areas (depending on the size of the group) and there are also cabins available for rent. Additionally, the forest is known for its vista points and observation towers: Yokahu Tower and Mount Britton Tower.  \\n\nHiking is probably the most popular activity in El Yunque National Forest.  The forest offers several trails with varying difficulties.  The 35.9 mile (57.8 km) long Puerto Rican Northeast Trail also connects to and traverses through El Yunque.  \\n"
+        ],
+        "retrieved_titles": [
+            "Unknown",
+            "Unknown",
+            "Unknown"
+        ],
+        "retrieval_scores": {
+            "ROUGE-L": 0.10723240592074586,
+            "METEOR": 0.1663102657505122,
+            "BLEU": 0.008470199168878074
+        },
+        "cpu_usage": "22.7% -> 44.5%",
+        "latency": "3.0765 seconds"
+    },
+    {
+        "query": "When was La Fortaleza built?",
+        "expected_answers": [
+            "La Fortaleza was built between 1533 and 1540, making it the oldest executive mansion still in use in the Western Hemisphere."
+        ],
+        "retrieved_texts": [
+            "On October 9, 1960, La Fortaleza was designated a United States National Historic Landmark .   Teodoro Vidal , a cultural affairs official under Luis Muñoz Marín , organized renovation work on the building around this time.  \\n\nIn 1983, La Fortaleza , along with the San Juan National Historic Site , was declared a World Heritage Site by UNESCO .  \\n\nTrivia\nLa Fortaleza has two towers: the Astral Tower and the Homenaje Tower (Homage Tower), which show that it was originally a military structure.\\n\nThe Homage Tower houses the Santa Catalina Chapel , where a colorful mosaic of 95,000 pieces in honor of the Holy Trinity stands out.\\n\nIn 1956, when an area covered with a panel was unsealed, what could be the old kitch en of La Fortaleza was discovered in the Austral Tower .\\n\nThe paintings exhibited at La Fortaleza are on loan from the Institute of Puerto Rican Historical Culture and are changed according to the taste of the ruler of the day.\\n",
+            "Starting in 1529, Governor La Gama petitioned the emperor on the need to build defensive fortifications \"because the island\\'s defenseless condition caused the people to emigrate.\"  Construction started in 1533, using stone, and concluded by 1540.  Yet the fort had no guns, and Gonzalo Fernández de Oviedo y Valdés commented, \"if it had been constructed by blind men could not have been located in a worse location.\"  Yet the structure has served as the governor\\'s residence since 1544.   \\n\nSince the 16th century, La Fortaleza has acted as the residence of the Governor of Puerto Rico, making it the oldest executive mansion in continuous use in the Americas.  The mansion was remodeled in 1846 by the Spanish authorities to adapt its military origin to its new purely administrative function.\\n\nLa Fortaleza has been captured three times by foreign powers:\\n",
+            "The structure\nLa Fortaleza was the first defensive fortification built in the historic city of Old San Juan, originally known as Ciudad de Puerto Rico (rich port city) , and the first of a series of military structures built to protect the city, which included the Castillo San Felipe del Morro and the Fort San Cristóbal . The construction was authorized by Charles V, Holy Roman Emperor as a defense against attacks from Island Caribs and the European powers of the time.\\n\nInitially, the structure consisted of four walls enclosing an interior patio with a circular tower known as the Homage Tower . From the top of the tower, following military tradition, the governor would take fidelity oaths at critical moments to the King and Queen of Spain. Later, a second tower named the Austral Tower was constructed.\\n"
+        ],
+        "retrieved_titles": [
+            "Unknown",
+            "Unknown",
+            "Unknown"
+        ],
+        "retrieval_scores": {
+            "ROUGE-L": 0.10277587548274152,
+            "METEOR": 0.17772710432571534,
+            "BLEU": 0.010935736823542293
+        },
+        "cpu_usage": "39.3% -> 29.7%",
+        "latency": "2.4845 seconds"
+    },
+    {
+        "query": "Tell me about the history and importance of Ponce, Puerto Rico.",
+        "expected_answers": [
+            "Ponce, Puerto Rico, was founded in 1692 and is known as 'La Perla del Sur' (The Pearl of the South). It played a significant role in the island’s economic and cultural development, particularly in the 19th century."
+        ],
+        "retrieved_texts": [
+            "Ponce is the only town in Puerto Rico that has officially declared a group of citizens as \"heroes\". The date of the twenty-fifth of January is, after the date of the founding of the city (1692), the second most important date in the municipality of Ponce.  The seven heroes where: Rafael Rivera Esbri (who later became mayor of the municipality), Juan Romero, Rafael del Valle y Valle, Cayetano Casals, Pedro Sabater, Gregorio Rivera, Pedro Ruiz y Tomás Rivera.  The heroes proclamation was made via a legislative action and was exhibited at the Parque de Bombas museum. Regrettably, it disappeared from the museum while it was being restored during the years 1969 to 1972.  \\n",
+            "By 2002, ten years after its founding, the Museum of the History of Ponce had become one of Puerto Rico\\'s most active cultural centers,  and Puerto Rico\\'s most complete history museum.  The museum provides a variety of cultural offerings intended to strengthen and increase awareness of the study of Puerto Rican and Ponceño history. As part of the 10th anniversary celebrations, the third and last phase of the museum\\'s development was begun.  It included two permanent exhibits on education and daily life, and the creation of a general museum catalog.\\n\nBuilding",
+            "Contents\nMuseo de la Historia de Ponce\n\\n\nThe Museo de la Historia de Ponce ( Museum of the History of Ponce ) is a local history museum located in the historic Casa Salazar-Candal in the city of Ponce, Puerto Rico . The museum depicts the city\\'s ecology, economy, architecture, government, and elements of daily life. It seeks to promote the research, conservation, and dissemination of the historic heritage of Ponce and Puerto Rico.  \\n\nInaugurated on 12 December 1992,  it was the first museum in Puerto Rico established to cover the history of the people of a town or city.  It traces the city\\'s history from the Taino Indians to today. The museum was inaugurated under the administration of Mayor Rafael Cordero Santiago , as part of the tricentennial celebration of the founding of the city.  \\n"
+        ],
+        "retrieved_titles": [
+            "Unknown",
+            "Unknown",
+            "Unknown"
+        ],
+        "retrieval_scores": {
+            "ROUGE-L": 0.10066681163163607,
+            "METEOR": 0.1869657257881057,
+            "BLEU": 0.00820180261765672
+        },
+        "cpu_usage": "32.7% -> 20.9%",
+        "latency": "2.4075 seconds"
+    },
+    {
+        "query": "What is the best time to visit San Juan?",
+        "expected_answers": [
+            "The best time to visit San Juan, Puerto Rico, is from mid-December to April, as it offers pleasant weather and many cultural events, though it is also the peak tourist season."
+        ],
+        "retrieved_texts": [
+            "\\nThe cave is a popular tourist attraction for Puerto Ricans as well as tourists visiting from outside Puerto Rico.  An initial admittance fee for Saturday and Sunday visits was established by the owner of a nearby gas station, due to the location\\'s popularity. The number of visitors is at its largest on both Saturdays and Sundays from early morning to an hour before nightfall. In January 2013, a daily admission fee was established, and later raised the following month. A boardwalk project was constructed from the gas station, leading up to around 200 feet into the trail, as well as a small parking lot atop a plateau behind the gas station. After a rise in popularity and visits, different admission fees were established for certain days of the week, providing necessary safety equipment for the 45-minute guided tour. The number of visitors is greatest on both Saturdays and Sundays from early morning to an hour before nightfall. Nightly tours are also offered on Wednesdays and Thursdays.   \nIn popular culture",
+            "The climate of the Caguas-Juncos Valley is rainy, with areas receiving up to 100 inches of precipitation annually. Rain varies throughout the year with the dry period lasting from January to April, the rainiest period being from May to June, the driest period from July to August, and the period of heavy rains lasting until the end of the year.  \\n\nLa India Dormida",
+            "The height of the mountain makes for some interesting sights. For example, on clear days both the northern and southern coasts of the island can be appreciated simultaneously. In the winter season, the air is crisp and the temperature at night will usually fluctuate between the 40s and 60s degrees Fahrenheit. The chirping of the familiar \" coquis \" is prominent after nightfall.\\n\nCerro Maravilla incident\nThe peak might be best known for being the place where two Puerto Rico independence activists were slain on 25 July 1978 in a police ambush (see Cerro Maravilla murders .) This controversy has since turned the mountain into a meeting point for supporters of the independence of the Puerto Rican Commonwealth to gather annually to remember the murdered activists and condemn the current colonial status.\\n\nClimate"
+        ],
+        "retrieved_titles": [
+            "Unknown",
+            "Unknown",
+            "Unknown"
+        ],
+        "retrieval_scores": {
+            "ROUGE-L": 0.10012528563510478,
+            "METEOR": 0.18573391581824533,
+            "BLEU": 0.0065614420941253766
+        },
+        "cpu_usage": "28.2% -> 41.6%",
+        "latency": "2.7037 seconds"
+    },
+    {
+        "query": "Compare Castillo San Felipe del Morro and Castillo San Cristóbal.",
+        "expected_answers": [
+            "Castillo San Felipe del Morro and Castillo San Cristóbal are both Spanish fortresses in Old San Juan. El Morro was designed to protect the island from sea attacks, while San Cristóbal was built to defend against land invasions."
+        ],
+        "retrieved_texts": [
+            "Contents\nCastillo San Felipe del Morro",
+            "Castillo San Cristóbal also contains five cisterns that were used for the storage of water during the ages of the Spanish Colony. They are extremely large (24 ft tall, 17 ft wide, and 57 ft long) and were used as bomb shelters during World War II .\\n\nHistorical gallery\nHistorical timeline\n1521 \\xe2\\x80\\x93 San Juan founded by Spanish settlers from Caparra .\\n\n1539 \\xe2\\x80\\x93 Construction of the first fortified defenses at Castillo San Felipe del Morro and La Fortaleza , with batteries aimed at the harbor entrance.\\n\n1595 \\xe2\\x80\\x93 The English attack San Juan, led by Sir Francis Drake, 25 ships penetrated the line of fire from El Morro . At the end of the battle the English fled taking some prisoners but no treasure, the reason for which they attacked.\\n\n1625 \\xe2\\x80\\x93 The Dutch attack and take San Juan from the land side. Construction of some form of defense for San Cristóbal Hill was ordered to prevent other attacks from the land side.\\n",
+            "Development\nLying on the northwesternmost point of the islet of Old San Juan , Castillo San Felipe del Morro is named in honor of King Philip II of Spain . The fortification, also referred to as el Morro or \\'the promontory ,\\' was designed to guard the entrance to the San Juan Bay , and defend the Spanish colonial port city of San Juan from seaborne enemies.  \\n\nIn 1983, the citadel was declared a World Heritage Site by the United Nations in conjunction with the San Juan National Historic Site . Over two million visitors a year explore the castillo , making it one of Puerto Rico\\'s leading tourist attractions. Facing the structure, on the opposite side of the bay, a smaller fortification known as El Cañuelo complemented the castillo\\'s defense of the entrance to the bay.   \\n\nStructure for deployment"
+        ],
+        "retrieved_titles": [
+            "Unknown",
+            "Unknown",
+            "Unknown"
+        ],
+        "retrieval_scores": {
+            "ROUGE-L": 0.1135964677798209,
+            "METEOR": 0.20800974239311695,
+            "BLEU": 0.01015864057655281
+        },
+        "cpu_usage": "38.9% -> 30.8%",
+        "latency": "2.7343 seconds"
+    },
+    {
+        "query": "Who was the first governor of California?",
+        "expected_answers": [
+            "This question is out of scope as it is unrelated to Puerto Rico. However, the first governor of California was Peter Hardeman Burnett in 1849."
+        ],
+        "retrieved_texts": [
+            "On June 5, 1900, President William McKinley named Barbosa, together with Rosendo Matienzo Cintrón , José de Diego , Manuel Camuñas and Andrés Crosas, as part of an Executive Cabinet under U.S.-appointed Governor Charles H. Allen , the first civilian governor of the island. The Executive Cabinet also included six American members.  Barbosa served on the Executive Cabinet until 1917, dealing with a variety of governors appointed by the US during that period, and providing continuity in administration.  \\n\nDuring this period, in 1907 he founded the newspaper El Tiempo , the first bilingual newspaper published on the island.  \\n\nWith representative elections authorized in 1917, Barbosa ran for an at-large seat. He was elected, serving as a member of the first Puerto Rican Senate , from 1917 to 1921.  \\n",
+            "In 1502, Fray Nicolás de Ovando was sent to Isla de la Mona to keep an eye, from a safe distance, on the native revolts occurring in Hispaniola. With a group of 2,000 Spanish settlers, Ovando was left in charge of creating a permanent settlement on the island. Due to its small size and location, the island proved inadequate to accommodate such a large settlement, and food became scarce as shipments from Hispaniola and Puerto Rico were received infrequently.\\n\nJuan Ponce de León , who accompanied Columbus on his first two voyages, became the first ruling governor of Puerto Rico .  \\n",
+            "Contents\nJosé Celso Barbosa\n\\n\nJosé Celso Barbosa Alcala (July 27, 1857 \\xe2\\x80\\x93 September 21, 1921) was a Puerto Rican physician , sociologist and political leader. Known as the father of the statehood movement in Puerto Rico ,  Barbosa was the first Puerto Rican, and one of the first persons of African descent to earn a medical degree in the United States .  \\n\nAfter his return to the island in 1880, Barbosa made many contributions to medicine and public health. He initiated an early form of health insurance, encouraging employers to pay a fee to cover future needs of their employees. In 1900 Barbosa was among the first five Puerto Rican leaders appointed to the Executive Cabinet under Governor Charles H. Allen , in the first civilian government organized by the United States. He served in the Cabinet until 1917. From 1917 to 1921, Barbosa served in the first elected Puerto Rican Senate .\\n\nEarly years"
+        ],
+        "retrieved_titles": [
+            "Unknown",
+            "Unknown",
+            "Unknown"
+        ],
+        "retrieval_scores": {
+            "ROUGE-L": 0.10942385579719509,
+            "METEOR": 0.19808830670304195,
+            "BLEU": 0.008707406208473838
+        },
+        "cpu_usage": "62.3% -> 91.2%",
+        "latency": "2.5329 seconds"
+    },
+    {
+        "query": "Which landmarks are near Old San Juan?",
+        "expected_answers": [
+            "Landmarks near Old San Juan include El Morro, Castillo San Cristóbal, La Fortaleza, and Paseo de la Princesa."
+        ],
+        "retrieved_texts": [
+            "The oldest parts of the district of Old San Juan remain partly enclosed by massive walls. Several defensive structures and notable forts, such as the Fort San Felipe del Morro , Castle of San Cristóbal , and el Palacio de Santa Catalina (also known as La Fortaleza ), acted as the primary defense of the settlement which has been subjected to numerous attacks. La Fortaleza continues to serve also as the executive mansion for the Governor of Puerto Rico . Many of the historic fortifications are part of San Juan National Historic Site .  Old San Juan\\'s land area roughly correlates to the following subbarrios of barrio San Juan Antiguo: Ballajá, Catedral, Marina, Mercado, San Cristóbal, and San Francisco.\\n\nPublic transportation",
+            "The district is characterized by numerous public plazas, which are filled with local shops that sell traditional craftwork,   sculptures and typical musical instruments. Moreover, Old San Juan is known for its historical churches, such as San José Church and the Cathedral of San Juan Bautista , which contains the tomb of the Spanish explorer and first European to discover modern day Florida , Juan Ponce de León .\\n\nTourists\\' main spot to visit at Old San Juan is Castillo San Felipe del Morro, a fort built by the Spaniards when settled on the Island. Besides the magnificent fort, tourists are drawn to La Perla , a colorful neighborhood outside of the historic city wall.\\n\nOld San Juan is one of the two barrios , in addition to Santurce , that made up the municipality of San Juan after 1864 and prior to 1951, in which the former independent municipality of Río Piedras was annexed.\\n\nBlockhouses and subbarrios",
+            "Old San Juan is one of the two barrios , in addition to Santurce , that made up the municipality of San Juan from 1864 to 1951, at which time the former independent municipality of Río Piedras was annexed. With its abundance of shops, historic places, museums, open air cafés, restaurants, gracious homes, tree-shaded plazas, and its old beauty and architectonical peculiarity, Old San Juan is a main spot for local and internal tourism. The district is also characterized by numerous public plazas and churches including San José Church and the Cathedral of San Juan Bautista , which contains the tomb of the Spanish explorer Juan Ponce de León . It also houses the oldest Catholic school for elementary education in Puerto Rico, the Colegio de Párvulos, built in 1865.\\n"
+        ],
+        "retrieved_titles": [
+            "Unknown",
+            "Unknown",
+            "Unknown"
+        ],
+        "retrieval_scores": {
+            "ROUGE-L": 0.10492018556939993,
+            "METEOR": 0.19364359027729747,
+            "BLEU": 0.0076189804324146085
+        },
+        "cpu_usage": "55.2% -> 33.9%",
+        "latency": "2.2333 seconds"
+    },
+    {
+        "query": "What is the current status of El Yunque after Hurricane Maria?",
+        "expected_answers": [
+            "After Hurricane Maria in 2017, El Yunque National Forest experienced significant damage, but restoration efforts have reopened major trails and visitor centers."
+        ],
+        "retrieved_texts": [
+            "reconstructed following Hurricane Maria. El Yunque National Forest today extends over 28,000 acres through the municipalities of Río Grande , Luquillo , Naguabo , Ceiba , Fajardo , Canóvanas , Las Piedras and Juncos .\\n",
+            "The area where the Humacao nature reserve is located today saw a number of bunkers and defensive infrastructure built during the Second World War , including a lookout post at the top of El Morrillo hill.  This area which contains a number of mangrove and Pterocarpus forests was later proclaimed a wildlife refuge in 1986.  \\n\nHurricane Maria hit Puerto Rico on September 20, 2017. The hurricane eye entered the island close to Punta Yeguas in Yabucoa , not far from Punta Santiago. The barrio was particularly vulnerable to the associated storm surges . According to Father José Colón, the local Catholic priest, the hurricane caused the total flooding of Punta Santiago.  \\n\n\"The town was flooded from all directions, from the ocean, rain and nearby rivers...\"\\n",
+            "The monument survived the passing of Cat. 5 hurricane Maria in September 2017 without structural damage.  However, the adjacent infrastructure was heavily affected.  The remodeling of the beach house (which is expected to host the visitor center), as well as the construction of new roads, parking and a plaza were all halted.  Reforestation efforts in the area were completely reverted after the winds decimated the flora.  These developments forced architect Roberto Alsina to delay the timetable and reconsider strategies, this while working to undo the damage to the area that would host the Terravista ParkLand.  \\n"
+        ],
+        "retrieved_titles": [
+            "Unknown",
+            "Unknown",
+            "Unknown"
+        ],
+        "retrieval_scores": {
+            "ROUGE-L": 0.10483646102142069,
+            "METEOR": 0.2008835441630798,
+            "BLEU": 0.008142280939338935
+        },
+        "cpu_usage": "23.1% -> 44.8%",
+        "latency": "2.3021 seconds"
+    },
+    {
+        "query": "I'm planning a trip to Puerto Rico. What should I visit?",
+        "expected_answers": [
+            "Popular destinations in Puerto Rico include Old San Juan, El Yunque National Forest, Flamenco Beach in Culebra, and the bioluminescent bays in Vieques and Fajardo."
+        ],
+        "retrieved_texts": [
+            "The Bacardi complex is the second most visited tourist attraction in Puerto Rico.  At the complex, tourists can go on a historical tour, a rum tasting tour and learn how to mix Bacardi rum drinks.  \\n\nAfter Hurricane Maria devastated Puerto Rico on September 20, 2017, the distillery was soon able to provide clean drinking water to residents.  \\n\nBuildings\nGallery\nReferences\nExternal links",
+            "Other landmarks and attractions are the Americas Heritage Fountain , the San Justo y Pastor Bastion , the La Concepción Bastion , and a playground for children. The promenade also hosts an open air café and a restaurant that serves traditional Puerto Rican food called Princesa Gastrobar .  Piraguas , piña coladas and platanutres (fried plantain chips) are popular drinks and snacks to buy in the esplanade.  During the weekends and festival celebrations, one can find live music, street vendors, traditional street food and temporary art exhibitions. There is live jazz on Fridays and Saturdays, and salsa music and dance on Saturdays and Sundays.  \\n\nHistory\nIn 1837, the interim prison of Antigua Prisión La Princesa (The Princess Old Prison ), originally known as Real Cárcel La Princesa (The Princess Royal Jail ), was first built in the named after Queen Isabella II of Spain , who in 1833 was proclaimed sovereign at the age of three following her father Ferdinand VII 's death. \\n",
+            "Puerto Rico consists of the main island of Puerto Rico and various smaller islands, including Vieques , Culebra , Mona , Desecheo , and Caja de Muertos . Of these five, only Culebra and Vieques are inhabited year-round. Mona, which has played a key role in maritime history, is uninhabited most of the year except for employees of the Puerto Rico Department of Natural Resources .  There are many other even smaller islets , like Monito , located near Mona,  and Isla de Cabras and La Isleta de San Juan , both located on the San Juan Bay . The latter is the only inhabited islet with communities like Old San Juan and Puerta de Tierra , which are connected to the main island by bridges.   \\n"
+        ],
+        "retrieved_titles": [
+            "Unknown",
+            "Unknown",
+            "Unknown"
+        ],
+        "retrieval_scores": {
+            "ROUGE-L": 0.10096438500192326,
+            "METEOR": 0.20221520520272235,
+            "BLEU": 0.007328052845405042
+        },
+        "cpu_usage": "25.8% -> 24.1%",
+        "latency": "2.2914 seconds"
+    },
+    {
+        "query": "What is the significance of the Paseo de la Princesa?",
+        "expected_answers": [
+            "Paseo de la Princesa is a historic promenade in Old San Juan that dates back to the 19th century. It offers scenic views, cultural events, and historical monuments."
+        ],
+        "retrieved_texts": [
+            "Contents\nPaseo de la Princesa\nPaseo de la Princesa ( English : Promenade of the Princess or Princess Promenade ), is a partially waterside 19th-century pedestrian promenade about .50 miles (0.80 km) in length, located in the historic district of Old San Juan in Puerto Rico . Constructed between 1852 and 1854 in honor of Queen Isabella II of Spain 's first-born , Princess of Asturias Infanta Isabel , the promenade runs adjacent and parallel to the southwestern section of the Walls of Old San Juan .   Lined with Victorian lampposts and benches, large trees and gardens, and varying fountains and sculptures, it hosts food and artisan vendors, musical and theatrical entertainers , and cultural restaurants and festivals.  \\n",
+            "Overview\nPaseo de la Princesa is often described as one of the most scenic city walkways in the world and, as a result of its location close to the cruise ship harbor, it is often the starting point for sightseeing in Old San Juan .  \\n\nLocated on a plaza at the midpoint of the promenade, Fuente Raíces (Roots Fountain) is a 1992 sculpture fountain by Spanish sculptor Luis Sanguino  representing and celebrating the ancestral roots of the Puerto Rican identity : the European culture brought by the Spanish and other settlers, the African culture by the Sun-Saharan African slaves and the indigenous culture by the native Taino .  This plaza also hosts a small wooden dock that offers great views of San Juan Bay , El Yunque and the Sierra de Luquillo to the east, and of other municipalities, such as Cataño and Bayamón to the west.\\n",
+            "Other landmarks and attractions are the Americas Heritage Fountain , the San Justo y Pastor Bastion , the La Concepción Bastion , and a playground for children. The promenade also hosts an open air café and a restaurant that serves traditional Puerto Rican food called Princesa Gastrobar .  Piraguas , piña coladas and platanutres (fried plantain chips) are popular drinks and snacks to buy in the esplanade.  During the weekends and festival celebrations, one can find live music, street vendors, traditional street food and temporary art exhibitions. There is live jazz on Fridays and Saturdays, and salsa music and dance on Saturdays and Sundays.  \\n\nHistory\nIn 1837, the interim prison of Antigua Prisión La Princesa (The Princess Old Prison ), originally known as Real Cárcel La Princesa (The Princess Royal Jail ), was first built in the named after Queen Isabella II of Spain , who in 1833 was proclaimed sovereign at the age of three following her father Ferdinand VII 's death. \\n"
+        ],
+        "retrieved_titles": [
+            "Unknown",
+            "Unknown",
+            "Unknown"
+        ],
+        "retrieval_scores": {
+            "ROUGE-L": 0.10355820464413,
+            "METEOR": 0.20126898087037068,
+            "BLEU": 0.008164687952803501
+        },
+        "cpu_usage": "24.1% -> 28.4%",
+        "latency": "2.3904 seconds"
+    },
+    {
+        "query": "How many municipalities are there in Puerto Rico?",
+        "expected_answers": [
+            "Puerto Rico is divided into 78 municipalities, each with its own local government and unique attractions."
+        ],
+        "retrieved_texts": [
+            "Puerto Rico has eight senatorial districts , 40 representative districts , and 78 municipalities ; there are no first-order administrative divisions as defined by the U.S. government. Municipalities are subdivided into wards or barrios , and those into sectors. Each municipality has a mayor and a municipal legislature elected for a four-year term. The municipality of San Juan is the oldest, founded in 1521;  the next earliest settlements are San Germán in 1570, Coamo in 1579, Arecibo in 1614, Aguada in 1692 and Ponce in 1692. Increased settlement in the 18th century saw 30 more communities established, following 34 in the 19th century. Six were founded in the 20th century, the most recent being Florida in 1971.  \\n",
+            "Unlike the vast majority of U.S. states, Puerto Rico has no first-order administrative divisions akin to counties , but has 78 municipalities or municipios as the secondary unit of administration; for U.S. Census purposes, the municipalities are considered county equivalents . Municipalities are subdivided into barrios , and those into sectors. Each municipality has a mayor and a municipal legislature elected for four-year terms, per the Autonomous Municipalities Act of 1991 .\\n\nPuerto Rico is subject to the Commerce and Territorial Clause of the U.S. Constitution and is thus restricted on how it can engage with other nations, sharing the opportunities and limitations that state governments have albeit not being one. As is the case with state governments, it has established several trade agreements with other nations, particularly with Latin American countries such as Colombia and Panamá.   \\n",
+            "During the 20th century, several efforts were made to declare Florida as a municipality . First, on April 14, 1949, House Representative Francisco Díaz Marchand presented a project to create a legislative commission that would study the economic and social conditions of the barrio, to determine the suitability of it as an independent municipality. The project was unsuccessful. In 1960, Manuel Frías Morales presented a law that would permit the study to establish the municipality but it was also unsuccessful.\\n\nFinally, on June 14, 1971, the Senate of Puerto Rico and Governor Don Luis A. Ferré approved the law that officially created the municipality of Florida. It is thus the youngest municipality established in the island.\\n\nOn September 20, 2017 Hurricane Maria struck Puerto Rico. In Florida, 1400 homes were a total loss and 2,295 homes were partially damaged.  \\n\nGeography"
+        ],
+        "retrieved_titles": [
+            "Unknown",
+            "Unknown",
+            "Unknown"
+        ],
+        "retrieval_scores": {
+            "ROUGE-L": 0.1006263598489569,
+            "METEOR": 0.1961958525359464,
+            "BLEU": 0.007484297290069876
+        },
+        "cpu_usage": "23.0% -> 31.3%",
+        "latency": "2.8496 seconds"
+    },
+    {
+        "query": "What are the bioluminescent bays in Puerto Rico?",
+        "expected_answers": [
+            "Puerto Rico has three bioluminescent bays: Mosquito Bay in Vieques, Laguna Grande in Fajardo, and La Parguera in Lajas. These bays glow due to microorganisms that produce bioluminescence."
+        ],
+        "retrieved_texts": [
+            "Puerto Rico has three of the seven year-long bioluminescent bays in the Caribbean: Laguna Grande in Fajardo , La Parguera in Lajas and Puerto Mosquito in Vieques . These are unique bodies of water surrounded by mangroves that are inhabited by the dinoflagellate Pyrodinium bahamense .   However, tourism, pollution, and hurricanes have highly threatened these unique ecosystems.  \\n\nGovernment and politics\nPuerto Rico has a republican form of government based on the American model , with separation of powers subject to the jurisdiction and sovereignty of the United States.   All governmental powers are delegated by the United States Congress , with the head of state being the president of the United States . As an unincorporated territory , Puerto Rico lacks full protection under the U.S. Constitution.  \\n",
+            "Contents\nCape San Juan Light\nCape San Juan Light ( Faro de Las Cabezas de San Juan ) is a historic lighthouse located on the northeastern part of the highest point of Cape San Juan in Fajardo, Puerto Rico . The lighthouse was constructed in 1880 and was officially lit on May 2, 1882. The original illuminating apparatus, not changed until after 1898, had an 18-mile (29 km) range and displayed a fixed white light which every three minutes flashed red.\\n\nThe lighthouse owned by the Puerto Rico Conservation Trust is part of the Las Cabezas de San Juan Nature Reserve .  The  316-acre (128 ha) reserve includes a bioluminescence bay, rare flora and fauna, various trails and boardwalks, and a scientific research center. Despite its small size, the reserve shelters seven different ecological systems, including beaches, lagoons, dry forest, coral reefs and mangroves.\\n",
+            "In 2009, the government of Puerto Rico announced plans to make development of the island and its restoration of its lighthouse, both for tourism purposes, a priority of the DRNA.   By the summer of 2012, there were three businesses making tour trips there, including one for charter trips only.  In 2010, Playa Pelícano received the Blue Flag beach certification.  In 2017, much of what DRNA had built was destroyed by Hurricane Maria and the tourist ferry was halted, but restarted about a year later.   \\n"
+        ],
+        "retrieved_titles": [
+            "Unknown",
+            "Unknown",
+            "Unknown"
+        ],
+        "retrieval_scores": {
+            "ROUGE-L": 0.10409733108908287,
+            "METEOR": 0.20118076082981076,
+            "BLEU": 0.007983054071010161
+        },
+        "cpu_usage": "23.1% -> 26.0%",
+        "latency": "2.3702 seconds"
+    },
+    {
+        "query": "What are the best hiking trails in Puerto Rico?",
+        "expected_answers": [
+            "Some of the best hiking trails in Puerto Rico include La Mina Trail in El Yunque, the trails of Toro Negro State Forest, and Cueva Ventana in Arecibo."
+        ],
+        "retrieved_texts": [
+            "Guajataca Forest contains the largest trail system of any forest in Puerto Rico, including El Yunque National Forest. Most of the trails begin by the ranger station, which also hosts an information center although it is not always open and it is recommended to call the rangers\\' office beforehand. The most popular hike is the 1.5-mile Interpretative Trail (Spanish: Vereda Interpretativa ) which leads to an observation tower that offer some of the best views of the karstic countryside.  Trail #1 starts off the Interpretative Trail  and leads to the Cueva de Viento, the park\\'s most popular feature.  \\n",
+            "Trail #5 is about 0.9 mile long and is a medium challenge trail. There is a significant amount of mud on this trail, but less so in the dry season months of December through March and June through July. To reach this trail from the visitors\\' parking area hikers must first head northbound to trek the entire length of Trail #7 (the Camping Area trail, 0.1 mile long), cross the bridge over the Doña Juana Creek and then hop on Trail #8. From this point on Trail #8, hikers head West for about 0.2 mile where Trail #5 begins; its entrance is located on the right hand side. The trail heads North and leads to Puerto Rico Highway 564. The first segment of the trail runs downhill for 0.9 mile.  The trail runs a thick tropical jungle of banana trees, sierra palms, tree ferns, flamboyant trees , and elephant ears . The trail is muddy, steep, and scantily-marked. Visibility is minimal through the dense foliage.  There are several creeks near this trail and birds are abundant: black-throated blue warblers , northern",
+            "0.2 miles (0.32 km), the trail becomes uphill again as it connects to the northernmost point of a paved road, Puerto Rico Highway 561, on the right hand side. From this point on the trail starts to head North on a downhill grade but in less than 0.1 miles (0.16 km) it connects to Trail #3 which leads to the Observation Tower, where there is a sign that reads La Torre (\"The Tower\"). The trail continuous downhill North-Northwest about 0.8 miles (1.3 km) until it reaches paved road PR-143, in the vicinity of km 32.6. From this point hikers make a left to walk southwest bound on PR-143 (that is, \"West\" on PR-143) until reaching the visitors\\' area at km 32.4.  \\n"
+        ],
+        "retrieved_titles": [
+            "Unknown",
+            "Unknown",
+            "Unknown"
+        ],
+        "retrieval_scores": {
+            "ROUGE-L": 0.10280020018018861,
+            "METEOR": 0.2030887030809277,
+            "BLEU": 0.007412835923080864
+        },
+        "cpu_usage": "23.7% -> 24.2%",
+        "latency": "6.6153 seconds"
+    },
+    {
+        "query": "Which towns in Puerto Rico have historic plazas?",
+        "expected_answers": [
+            "Many towns in Puerto Rico have historic plazas, including Plaza Las Delicias in Ponce, Plaza Colón in Mayagüez, and Plaza de Armas in San Juan."
+        ],
+        "retrieved_texts": [
+            "The main town square of Caguas is named Plaza de Recreo Santiago R. Palmer . This is one of the largest main town squares or plazas in Puerto Rico. The central plaza or square, is a public space that is often used for official and unofficial recreational events and is a place where people can gather and socialize from dusk to dawn. The Laws of the Indies , Spanish law, which regulated life in Puerto Rico in the early 19th century, stated the plaza\\'s purpose was for \"the parties\" (celebrations, festivities) ( Spanish : a propósito para las fiestas ), and that the square should be proportionally large enough for the number of neighbors ( Spanish : grandeza proporcionada al\\nnúmero de vecinos ). These Spanish regulations also stated that the streets nearby should be comfortable portals for passersby, protecting them from the elements: sun and rain.  \\n",
+            "According to the traditional Spanish colonial custom, a town\\'s main square, or plaza, was the center of the town. In the case of Ponce, a Catholic church was built on the center of the plaza, thus splitting the plaza into two sections: Plaza Muñoz Rivera to the north (the subject of this article) and Plaza Degetau to the south.  Plaza Las Delicias square is, thus, actually made up of two plazas. The north section of the square is named Plaza Luis Muñoz Rivera (Luis Muñoz Rivera square), while the south section is called Plaza Federico Degetau (Federico Degetau square). Plaza Muñoz Rivera measures 2,400 square meters.  \\n",
+            "The central plaza in Villalba barrio-pueblo is named Plaza de Recreo José Ramón Figueroa , after one of the town founders.  The central plaza, or square, is a place for official and unofficial recreational events and a place where people can gather and socialize from dusk to dawn. The Laws of the Indies , Spanish law, which regulated life in Puerto Rico in the early 19th century, stated the plaza\\'s purpose was for \"the parties\" (celebrations, festivities) ( Spanish : a propósito para las fiestas ), and that the square should be proportionally large enough for the number of neighbors ( Spanish : grandeza proporcionada al\\nnúmero de vecinos ). These Spanish regulations also stated that the streets nearby should be comfortable portals for passersby, protecting them from the elements: sun and rain.  \\n\nLocated across the central plaza in Villalba barrio-pueblo is the Parroquia Nuestra Señora del Carmen , a Roman Catholic church.  \\n\nSectors"
+        ],
+        "retrieved_titles": [
+            "Unknown",
+            "Unknown",
+            "Unknown"
+        ],
+        "retrieval_scores": {
+            "ROUGE-L": 0.1024685925027696,
+            "METEOR": 0.20051930008511368,
+            "BLEU": 0.00691864686154214
+        },
+        "cpu_usage": "27.6% -> 36.6%",
+        "latency": "2.5224 seconds"
+    },
+    {
+        "query": "What are the best outdoor adventure activities in Puerto Rico?",
+        "expected_answers": [
+            "Puerto Rico offers various outdoor adventures, including hiking in El Yunque, zip-lining in Toro Verde, snorkeling in Flamenco Beach, and kayaking in the bioluminescent bays."
+        ],
+        "retrieved_texts": [
+            "Guajataca Forest contains the largest trail system of any forest in Puerto Rico, including El Yunque National Forest. Most of the trails begin by the ranger station, which also hosts an information center although it is not always open and it is recommended to call the rangers\\' office beforehand. The most popular hike is the 1.5-mile Interpretative Trail (Spanish: Vereda Interpretativa ) which leads to an observation tower that offer some of the best views of the karstic countryside.  Trail #1 starts off the Interpretative Trail  and leads to the Cueva de Viento, the park\\'s most popular feature.  \\n",
+            "There is a boardwalk and trail used for biking and walking through parts of the forest. Several agencies carefully manage the Piñones Trail (in Spanish : Paseo Piñones ), so as to avoid disturbing sensitive ecological and archeological points, while still encouraging \"family-type\" visits. In 2001, the trail received an award from the Federal Highway Administration for excellence in non-motorized transportation.   \\n\nActivities nearby\nNear the forest is a beach called Playa Aviones and kiosks including, Kiosko El Boricua on PR-187 mentioned by the Puerto Rico Tourism Company .  \\n\nGallery\nSee also\nReferences",
+            "The forest reserve is open during daylight hours and offers opportunities for hiking, birdwatching and cabins. There are two main hiking trails in the forest: the San Andrés Trail which circumnavigates the forest and the Pico Guilarte trail  which leads to the summit of Monte Guilarte , the highest point of the forest. Both trails offer views through a series of lookout points. Other facilities in the forest include bathrooms, barbecue pits and cabins for visitors. There are seven cabins (with room for 4 guests) available, and reservations must be made in advanced by contacting the Puerto Rico Department of Natural and Environmental Resources .  Parking is available at the DRNA ranger office in Guilarte, Adjuntas at the corner of PR-518 and PR-131 roads.  \\n"
+        ],
+        "retrieved_titles": [
+            "Unknown",
+            "Unknown",
+            "Unknown"
+        ],
+        "retrieval_scores": {
+            "ROUGE-L": 0.10063051540405225,
+            "METEOR": 0.19896196207047956,
+            "BLEU": 0.006486231432695756
+        },
+        "cpu_usage": "30.6% -> 42.6%",
+        "latency": "2.3313 seconds"
+    },
+    {
+        "query": "Where can I go zip-lining in Puerto Rico?",
+        "expected_answers": [
+            "One of the best places for zip-lining in Puerto Rico is Toro Verde Adventure Park in Orocovis, home to ‘The Monster,’ one of the longest zip lines in the world."
+        ],
+        "retrieved_texts": [
+            "Guajataca Forest contains the largest trail system of any forest in Puerto Rico, including El Yunque National Forest. Most of the trails begin by the ranger station, which also hosts an information center although it is not always open and it is recommended to call the rangers\\' office beforehand. The most popular hike is the 1.5-mile Interpretative Trail (Spanish: Vereda Interpretativa ) which leads to an observation tower that offer some of the best views of the karstic countryside.  Trail #1 starts off the Interpretative Trail  and leads to the Cueva de Viento, the park\\'s most popular feature.  \\n",
+            "There is a boardwalk and trail used for biking and walking through parts of the forest. Several agencies carefully manage the Piñones Trail (in Spanish : Paseo Piñones ), so as to avoid disturbing sensitive ecological and archeological points, while still encouraging \"family-type\" visits. In 2001, the trail received an award from the Federal Highway Administration for excellence in non-motorized transportation.   \\n\nActivities nearby\nNear the forest is a beach called Playa Aviones and kiosks including, Kiosko El Boricua on PR-187 mentioned by the Puerto Rico Tourism Company .  \\n\nGallery\nSee also\nReferences",
+            "Due to its location along the Luis Muñoz Marín Scenic Route (better known as the Ruta Panorámica ), the Maricao State Forest offers some iconic panoramic views of the Cordillera Central and the southwestern coast of Puerto Rico.  In clear days it is possible to observe the city of Mayagüez and even Mona Island from the Santa Ana Observation Tower (better known as Torre de Piedra ).  The forest has hiking trails and is featured in Caribbean guides  as an important destination for birdwatching .   Hiking trails are accessible from route PR-120, from the Monte del Estado Ecological Park ( Parque Ecológico Monte del Estado ) and the Monte del Estado Vacation Center ( Centro Vacacional Monte del Estado ),  both of which also provide limited camping and lodging to visitors.   \\n"
+        ],
+        "retrieved_titles": [
+            "Unknown",
+            "Unknown",
+            "Unknown"
+        ],
+        "retrieval_scores": {
+            "ROUGE-L": 0.09830727151169603,
+            "METEOR": 0.19773215852060896,
+            "BLEU": 0.006104688407243064
+        },
+        "cpu_usage": "36.0% -> 33.3%",
+        "latency": "2.2368 seconds"
+    },
+    {
+        "query": "Which landmarks in Puerto Rico offer hiking trails?",
+        "expected_answers": [
+            "Some landmarks with great hiking trails include El Yunque National Forest (La Mina Trail), Cueva Ventana in Arecibo, and the Guánica Dry Forest."
+        ],
+        "retrieved_texts": [
+            "Guajataca Forest contains the largest trail system of any forest in Puerto Rico, including El Yunque National Forest. Most of the trails begin by the ranger station, which also hosts an information center although it is not always open and it is recommended to call the rangers\\' office beforehand. The most popular hike is the 1.5-mile Interpretative Trail (Spanish: Vereda Interpretativa ) which leads to an observation tower that offer some of the best views of the karstic countryside.  Trail #1 starts off the Interpretative Trail  and leads to the Cueva de Viento, the park\\'s most popular feature.  \\n",
+            "0.2 miles (0.32 km), the trail becomes uphill again as it connects to the northernmost point of a paved road, Puerto Rico Highway 561, on the right hand side. From this point on the trail starts to head North on a downhill grade but in less than 0.1 miles (0.16 km) it connects to Trail #3 which leads to the Observation Tower, where there is a sign that reads La Torre (\"The Tower\"). The trail continuous downhill North-Northwest about 0.8 miles (1.3 km) until it reaches paved road PR-143, in the vicinity of km 32.6. From this point hikers make a left to walk southwest bound on PR-143 (that is, \"West\" on PR-143) until reaching the visitors\\' area at km 32.4.  \\n",
+            "Due to its location along the Luis Muñoz Marín Scenic Route (better known as the Ruta Panorámica ), the Maricao State Forest offers some iconic panoramic views of the Cordillera Central and the southwestern coast of Puerto Rico.  In clear days it is possible to observe the city of Mayagüez and even Mona Island from the Santa Ana Observation Tower (better known as Torre de Piedra ).  The forest has hiking trails and is featured in Caribbean guides  as an important destination for birdwatching .   Hiking trails are accessible from route PR-120, from the Monte del Estado Ecological Park ( Parque Ecológico Monte del Estado ) and the Monte del Estado Vacation Center ( Centro Vacacional Monte del Estado ),  both of which also provide limited camping and lodging to visitors.   \\n"
+        ],
+        "retrieved_titles": [
+            "Unknown",
+            "Unknown",
+            "Unknown"
+        ],
+        "retrieval_scores": {
+            "ROUGE-L": 0.09702985675325966,
+            "METEOR": 0.19991456310819034,
+            "BLEU": 0.005765539051285117
+        },
+        "cpu_usage": "28.5% -> 27.7%",
+        "latency": "2.2564 seconds"
+    }
+]

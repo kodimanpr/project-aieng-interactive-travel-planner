@@ -1,0 +1,22 @@
+{
+    "main_content": "Contents\nTeatro Fox Delicias\n\\n\nTeatro Fox Delicias is a historic building in the city of Ponce , Puerto Rico . Inaugurated in 1931,  it originally housed a movie house until 1980, from 1991 to 1998 it house a shopping mall, and stating in 2004 it housed a boutique hotel . Its architecture is Art Deco . Originally called Teatro Delicias , it was renamed Fox Delicias many years after its inauguration based on a contract with 20th Century Fox .  \\n\nLocation\nThe historic structure is located across the historic Plaza Las Delicias in the heart of the Ponce Historic Zone . Its location just north of Plaza Las Delicias makes it part of barrio Segundo .\\n\nDesign\nThe building was designed by Francisco Porrata-Doria , who also designed Hotel Melia, Banco de Ponce and many other structures in Puerto Rico.  The building bears an Art Deco architectural structure with an impressive multi-level front facade.  \\n\nHistory\nThe theater had its origins in the late 1920s when Pedro Juan Serralles purchased a piece of land in the center of the city to build the first movie theater in Ponce. The structure was completed in 1931. The owners contracted with Twentieth Century Fox for showing the movies.  Given the movie contract and the location of the theater, it was named Teatro Fox Delicias.  It closed its doors as a movie theater in 1980.\\n\nAfter serving Ponce moviegoers for some five decades, the building was sold to the Ruberté family . In 1989 the theater was converted into a mall under the design of architect Axel Bonilla.  It was named the Fox Delicias Mall.  The new mall opened in March, 1991. It had 26 commercial spaces ranging from 300 square feet (28 m 2 ) to 1,200 square feet (110 m 2 ). It also had a cafe-theater. The total space was 30,000 square feet (2,800 m 2 ). Its president is Eduardo Ruberte Huertas. Its renovation lasted a year and cost $3 million.  \\n\nIn 2004 the building started conversion into a hotel.   The boutique hotel had 30 rooms. The new hotel opened in 2004.  While it operated as a hotel, the structure continued to experience a flow of non-resident tourists.  It closed around 2010 and in 2018, Grupo Misla Villalba, a group of local investors, acquired the property and it\\'s currently under remodelation to reopen as a Pop Art themed hotel named \"The Fox Hotel\".    The hotel reopened on 4 December 2019.  \\n\nOther area theaters\nAfter Teatro Fox Delicias, a number of theaters opened throughout the city, most of which became known for their architecture. Among these were\\n\nSee also\nReferences\nExternal links",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Teatro_Fox_Delicias&oldid=1215953946",
+        "https://es.wikipedia.org/wiki/Teatro_Fox_Delicias",
+        "https://en.wikipedia.org/wiki/teatro_fox_delicias"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.0128,
+            -66.6142
+        ],
+        "title": "Teatro Fox Delicias",
+        "type": "Point"
+    },
+    "categories": [
+        "Luxury & Resorts",
+        "Shopping",
+        "Family-Friendly",
+        "Culture"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "main_content": "Contents\nAguas Buenas barrio-pueblo\nAguas Buenas barrio-pueblo is a barrio and the administrative center ( seat ) of Aguas Buenas , a municipality of Puerto Rico. Its population in 2010 was 1,711.    \\n\nAs was customary in Spain, in Puerto Rico, the municipality has a barrio called pueblo which contains a central plaza, the municipal buildings (city hall), and a Catholic church. Fiestas patronales (patron saint festivals) are held in the central plaza every year.   \\n\nThe central plaza and its church\nThe central plaza, or square, is a place for official and unofficial recreational events and a place where people can gather and socialize from dusk to dawn. The Laws of the Indies , Spanish law, which regulated life in Puerto Rico in the early 19th century, stated the plaza\\'s purpose was for \"the parties\" (celebrations, festivities) , and that the square should be proportionally large enough for the number of neighbors . These Spanish regulations also stated that the streets nearby should be comfortable portals for passersby, protecting them from the elements: sun and rain.  \\n\nLocated across from the central plaza in Aguas Buenas barrio-pueblo is the Parroquía Los Tres Santos Reyes , a Roman Catholic church. Other churches had been constructed in the area as early as 1834. A church made of cement was constructed in 1926 and provided services until it was demolished in 1968.  The current church was designed by Gonzalo González Seijo and inaugurated in 1969.   \\n\nHistory\nAguas Buenas barrio-pueblo was in Spain\\'s gazetteers  until Puerto Rico was ceded by Spain in the aftermath of the Spanish\\xe2\\x80\\x93American War under the terms of the Treaty of Paris of 1898 and became an unincorporated territory of the United States . In 1899, the United States Department of War conducted a census of Puerto Rico finding that the population of Pueblo was 1,309.  \\n \\n\nGallery\nPlaces in Aguas Buenas barrio-pueblo:\\n\nSee also\nReferences\nExternal links",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Aguas_Buenas_barrio-pueblo&oldid=1193004554",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://es.wikipedia.org/wiki/Aguas_Buenas_(Aguas_Buenas)",
+        "https://ceb.wikipedia.org/wiki/Aguas_Buenas_Barrio-Pueblo",
+        "https://nl.wikipedia.org/wiki/Aguas_Buenas_(plaats)"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.256469,
+            -66.105428
+        ],
+        "title": "Aguas Buenas Barrio-pueblo",
+        "type": "Point"
+    },
+    "categories": [
+        "Religion",
+        "Culture"
+    ]
+}

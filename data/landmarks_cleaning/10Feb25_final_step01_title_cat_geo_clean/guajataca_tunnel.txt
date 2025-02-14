@@ -1,0 +1,23 @@
+{
+    "main_content": "Contents\nGuajataca Tunnel\nGuajataca Tunnel is a railroad tunnel that connected the town of Isabela and Quebradillas, Puerto Rico . The tunnel is one of the most significant work of the remnants of the national railway system that connected the island during the first half of the twentieth century.  In 2000, the Government of Puerto Rico declared it a historical monument.  \\n\nHistory\nThe American Railroad Co. of Puerto Rico began construction of the tunnel around 1904 during the expansion of the northern line towards the west of the island. The tunnel connected the towns of Quebradillas and Isabela on the Guajataca River canyon. The construction was completed with the excavation of two tunnels on each side of the canyon. They were joined by a steel viaduct 250 feet (76.2 m) long at an elevation of 131 feet (40 m) above the river level.   \\n\nThe tunnel is open to the public but it is fairly isolated.  The tunnel leads to \"Guajataca beach\" known for its white sand, raging surf, and dangerous turbulent waters.  \\n\nConcerts are sometimes held at the Guajataca Tunnel.  \\nIn 2019, virtual tours of Guajataca Tunnel, were organized by Discover Puerto Rico, the marketing arm of the Puerto Rico Department of Tourism.  \\n\nGallery\nSee also\nReferences\nExternal links\n18\\xc2\\xb029\\xe2\\x80\\xb224\\xe2\\x80\\xb3N 66\\xc2\\xb057\\xe2\\x80\\xb235\\xe2\\x80\\xb3W ﻿ / ﻿ 18.4900\\xc2\\xb0N 66.9598\\xc2\\xb0W ﻿ / 18.4900; -66.9598 \\n\n\\n\nThis article about a Puerto Rican building or structure related topic is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%82%A2%E3%83%8F%E3%82%BF%E3%82%AB%E3%83%BB%E3%83%88%E3%83%B3%E3%83%8D%E3%83%AB",
+        "https://es.wikipedia.org/wiki/T%C3%BAnel_de_Guajataca",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://en.wikipedia.org/w/index.php?title=Guajataca_Tunnel&oldid=1141789943",
+        "https://en.wikipedia.org/w/index.php?title=Guajataca_Tunnel&action=edit"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.49,
+            -66.9598
+        ],
+        "title": "Guajataca Tunnel",
+        "type": "Point"
+    },
+    "categories": [
+        "Outdoor",
+        "Culture",
+        "Beach"
+    ]
+}

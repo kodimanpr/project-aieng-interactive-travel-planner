@@ -1,0 +1,20 @@
+{
+    "main_content": "Contents\nDomes Beach\n18\\xc2\\xb021\\xe2\\x80\\xb251\\xe2\\x80\\xb3N 67\\xc2\\xb016\\xe2\\x80\\xb213\\xe2\\x80\\xb3W ﻿ / ﻿ 18.3641129\\xc2\\xb0N 67.2701808\\xc2\\xb0W ﻿ / 18.3641129; -67.2701808 \\n\nDomes Beach ( Playa Domes ) is on the northwest point of Puerto Rico, in Rincón and known for big wave surfing during the winter. It is also known as Lighthouse Beach and Maria\\'s Beach.  \\n\nThe beach is near a defunct nuclear facility called the Boiling Nuclear Superheater (BONUS) Reactor Facility .  The beach is near the Punta Higuero Lighthouse .\\n\nDomes Beach in Rincón is considered a dangerous beach.  \\n\nGallery\nSee also\nReferences\nExternal links\n\\n\nThis Rincón, Puerto Rico location article is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Domes_Beach&action=edit",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://en.wikipedia.org/w/index.php?title=Domes_Beach&oldid=1182245212",
+        "https://ceb.wikipedia.org/wiki/Domes_Beach"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.3641129,
+            -67.2701808
+        ],
+        "title": "Domes Beach",
+        "type": "Point"
+    },
+    "categories": [
+        "Beach"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "main_content": "Contents\nCasa del Rey\nCasa del Rey ( Spanish for \\'house of the king\\') is a historic building and former cabildo located in the historic center of Dorado, Puerto Rico . Throughout its history it has also been known as the Militia Guard Headquarters ( Cuartel de la Guardia de Milicias ), Parador del Rey , and the Municipal Jail of Dorado ( Cárcel Municipal de Dorado ).\\n\nThe building, the oldest in town, provided housing for Spanish government personnel and also served as the regional military headquarters. In 1848, Jacinto López purchased the structure. In converting it into a residence, López added two wings which created a U-shaped configuration around an interior patio. In 1871, Casa del Rey became the home of Manuel Alonso y Pacheco , Puerto Rico\\'s notable romantic writer.\\n\nIt was listed on the U.S. National Register of Historic Places in 1989 and on the Puerto Rico Register of Historic Sites and Zones in 2000.   The house was restored by the Institute of Puerto Rican Culture in 1978  and is now a local history museum.\\n\nSee also\nReferences\nExternal links",
+    "relevant_links": [
+        "https://es.wikipedia.org/wiki/Casa_del_Rey",
+        "https://en.wikipedia.org/w/index.php?title=Casa_del_Rey&oldid=1240142890",
+        "https://en.wikipedia.org/wiki/casa_del_rey"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.458862,
+            -66.260483
+        ],
+        "title": "Casa Del Rey",
+        "type": "Point"
+    },
+    "categories": [
+        "Culture"
+    ]
+}

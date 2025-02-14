@@ -1,0 +1,19 @@
+{
+    "main_content": "Contents\nErmita Nuestra Señora de la Valvanera\nThe Ermita Nuestra Señora de la Valvanera (English: Hermitage Church of Our Lady of Valvanera ) is a historic church in Coamo, Puerto Rico . It was built in 1685 and added to the National Register of Historic Places in 1986.\\n\nThe chapel is brick masonry and about 68 feet (21 m) by 34 feet (10 m).  \\n\nReferences\n\\n\nThis article about a property in Puerto Rico on the National Register of Historic Places is a stub . You can help Wikipedia by expanding it .\nThis article about a church building or other Christian place of worship in Puerto Rico is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Ermita_Nuestra_Se\\xc3\\xb1ora_de_la_Valvanera&oldid=1140577391",
+        "https://en.wikipedia.org/w/index.php?title=Ermita_Nuestra_Se%C3%B1ora_de_la_Valvanera&action=edit",
+        "https://en.wikipedia.org/wiki/ermita_nuestra_señora_de_la_valvanera"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.079333,
+            -66.359067
+        ],
+        "title": "Ermita Nuestra Señora De La Valvanera",
+        "type": "Point"
+    },
+    "categories": [
+        "Religion"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "main_content": "Contents\nFilardi House\nThe Filardi House , also known as Casa Muñoz (English: Muñoz House ), is a historic house with ground-level commercial space in Yauco , Puerto Rico . It is notable for the extensive use of concrete sculptural ornamentation on its facade. Italian immigrant Vicente Filardi, a contractor with business in Ponce and Yauco, designed and built the house in 1916 with his sons Juan Bautista and Domingo. The younger Filardis were responsible for the integration of the elaborate decorative features with the overall Beaux-Arts plan, and later came to be recognized as experts in production of ornamental elements of cast concrete.  \\n\nThe house was added to the U.S. National Register of Historic Places in 1985,  and on the Puerto Rico Register of Historic Sites and Zones in 2001.  \\n\nSee also\nReferences\nExternal links\n\\n\nThis article about a property in Puerto Rico on the National Register of Historic Places is a stub . You can help Wikipedia by expanding it .\nThis article about a Puerto Rican building or structure related topic is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Filardi_House&oldid=1240280021",
+        "https://en.wikipedia.org/w/index.php?title=Filardi_House&action=edit",
+        "https://en.wikipedia.org/wiki/filardi_house"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.033258,
+            -66.849906
+        ],
+        "title": "Filardi House",
+        "type": "Point"
+    },
+    "categories": []
+}

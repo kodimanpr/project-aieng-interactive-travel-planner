@@ -1,0 +1,20 @@
+{
+    "main_content": "Contents\nPunta de las Figuras Light\nPunta de las Figuras Light   is an historic lighthouse located in Arroyo, Puerto Rico . It was first lit by the Spanish government in 1893.  The light was relocated in 1938, and the structure was deactivated and abandoned. During World War II , the lighthouse was used as a lookout. After the U.S. Army abandoned the structure in 1963, the lighthouse was repeatedly vandalized. In 1969 the lens and lantern were destroyed.  The lighthouse was again damaged by Hurricane Maria on September 20, 2017. The light housing is broken, all of the windows are boarded up, and several of the surrounding light pole fixtures are downed. The interior is currently inaccessible.\\n\nThe lighthouse was listed to the U.S. National Register of Historic Places in 1981,  and to the Puerto Rico Register of Historic Sites and Zones in 2001.  In 2003, the Puerto Rican government rehabilitated it at a cost of two million dollars. The lighthouse is located at the entrance of the Balneario Punta Guilarte beach resort managed by the Puerto Rico National Parks Company.  \\n\nSee also\nReferences\nExternal links\n\\n\nThis article about a property in Puerto Rico on the National Register of Historic Places is a stub . You can help Wikipedia by expanding it .\nThis article about a Puerto Rican building or structure related topic is a stub . You can help Wikipedia by expanding it .\nThis article relating to a United States lighthouse is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Punta_de_las_Figuras_Light&oldid=1240125643",
+        "https://en.wikipedia.org/w/index.php?title=Punta_de_las_Figuras_Light&action=edit",
+        "https://en.wikipedia.org/wiki/punta_de_las_figuras_light"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            17.9549778,
+            -66.0476556
+        ],
+        "title": "Punta de las Figuras Light",
+        "type": "Point"
+    },
+    "categories": [
+        "Luxury & Resorts",
+        "Beach"
+    ]
+}

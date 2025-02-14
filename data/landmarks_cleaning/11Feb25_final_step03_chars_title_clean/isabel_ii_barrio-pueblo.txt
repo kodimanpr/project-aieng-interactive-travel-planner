@@ -1,0 +1,20 @@
+{
+    "main_content": "Contents\nIsabel II barrio-pueblo\nIsabel II barrio-pueblo (referred to as Isabel Segunda in Spanish) is a barrio and the administrative center ( seat ) in the downtown area in the island-municipality of Vieques, Puerto Rico . Its population in 2010 was 1,354.    \\n\nThe central plaza and its church\nAs was customary in Spain, in Puerto Rico, the municipality has a barrio which contains a central plaza, the municipal buildings (city hall), and a Catholic church. Fiestas patronales (patron saint festivals) are held in the central plaza every year.   \\n\nThe central plaza, or square, is a place for official and unofficial recreational events and a place where people can gather and socialize from dusk to dawn. The Laws of the Indies , Spanish law, which regulated life in Puerto Rico in the early 19th century, stated the plaza\\'s purpose was for \"the parties\" (celebrations, festivities) , and that the square should be proportionally large enough for the number of neighbors . These Spanish regulations also stated that the streets nearby should be comfortable portals for passersby, protecting them from the elements: sun and rain.  \\n\nLocated across the central plaza in Isabel II barrio-pueblo is the Parroquia Inmaculada Concepción , a Roman Catholic church, which was first built in 1844.  \\n\nHistory\nIsabel II was in Spain\\'s gazetteers  until Puerto Rico was ceded by Spain in the aftermath of the Spanish-American War under the terms of the Treaty of Paris of 1898 and became an unincorporated territory of the United States . In 1899, the United States Department of War conducted a census of Puerto Rico finding that the combined population of Pueblo and Florida barrios was 2,646.  \\n\nIn July 2020, Federal Emergency Management Agency appropriated funds for repairs to Vieques\\' plaza.  \\n\nSectors\nBarrios (which are, in contemporary times, roughly comparable to minor civil divisions )  in turn are further subdivided into smaller local populated place areas/units called sectores ( sectors in English). The types of sectores may vary, from normally sector to urbanización to reparto to barriada to residencial , among others.    \\n\nThe following sectors are in Isabel II barrio-pueblo:  \\n\nBarriada Fuerte,\\nCalle Antonio G. Mellado,\\nCalle Baldorioty de Castro,\\nCalle Benítez Castaño,\\nCalle Carlos Lebrum,\\nCalle Muñoz Rivera,\\nCalle Plinio Peterson,\\nCalle Prudencio Quiñones,\\nCalle Tomás Pérez Brignoni,\\nCalle Víctor Duteill,\\nCalle 65 de Infantería,\\nCondominio Terra San Francisco,\\nSector Buena Vista,\\nSector Cañón,\\nSector Leguillow , and Sector Pueblo Nuevo .\\n\nHistoric sites and features\nIsabel II barrio-pueblo is the location of several historic sites listed on the U.S. National Register of Historic Places , including: \\n\nGallery\nPlaces in Isabel II barrio-pueblo:\\n\nSee also\nReferences",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Isabel_II_barrio-pueblo&oldid=1246156440",
+        "https://es.wikipedia.org/wiki/Isabel_II_(Vieques)",
+        "https://en.wikipedia.org/wiki/isabel_ii_barrio-pueblo"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.147362,
+            -65.442628
+        ],
+        "title": "Isabel Ii Barrio-pueblo",
+        "type": "Point"
+    },
+    "categories": [
+        "Religion",
+        "Culture"
+    ]
+}

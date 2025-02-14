@@ -1,0 +1,23 @@
+{
+    "main_content": "Contents\nSan Germán Historic District\nThe San Germán Historic District is a 36-acre (15 ha) historic district located in the western section of the town of San Germán, Puerto Rico . The district was added to both the National Register of Historic Places and the Puerto Rico Register of Historic Sites and Zones in 1994.  The district contains more than 100 significant buildings, including the Church San Germán de Auxerre and the Convento de Porta Coeli .\\n\nHistory\nSpanish colonists established La Villa de San Germán de Auxerre, also known as Nueva Salamanca, in the early years of the 16th century. The town of San Germán grew out of the settlement formally established in 1573, and it is this original urban core, transformed by rapid growth from the 1830s to the 1940s, that comprises the San Germán Historic District.  \\n\nThe district includes numerous homes, among these the noted Victorian-style Juan Ortiz Perichi House on Luna Street, which architect Jorge Rigau once called \"one of the best developed spatial sequences in residential architecture in Puerto Rico.\" Many notable Puerto Ricans came from the San Germán Historic District; among them was Lola Rodríguez de Tió , the well-known poet and pro-independence leader who wrote the lyrics to the revolutionary version of Puerto Rico\\'s national anthem \" La Borinqueña \".\\n\nIn late summer 1898, under the command of General Theodore Schwan , the United States Cavalry traveled through Luna Street, during the Spanish-American War, and Puerto Ricans welcomed the Americans in this district and in nearby Mayagüez, with flowers- believing in the promise of prosperity that would come under American rule. Despite wanting to spend the night in San Germán, the Americans decided to continue moving on, to battle the Spanish.   \\n\nThe San Germán Historic District is roughly bounded by Luna, Estrella, Concepción, Javilla, and Ferrocarril Streets in the western section of the town.   \\n\nLandmarks and places of interest\nGallery\nReferences\nThis article incorporates public domain material from San Germán Historic District . National Park Service . \\n\nExternal links",
+    "relevant_links": [
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://ceb.wikipedia.org/wiki/San_Germ%C3%A1n_(kapital_sa_munisipyo)",
+        "https://es.wikipedia.org/wiki/Distrito_Hist%C3%B3rico_de_San_Germ%C3%A1n",
+        "https://en.wikipedia.org/w/index.php?title=San_Germ\\xc3\\xa1n_Historic_District&oldid=1240266198"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.08194,
+            -67.04389
+        ],
+        "title": "San Germán Historic District",
+        "type": "Point"
+    },
+    "categories": [
+        "Outdoor",
+        "Religion",
+        "Family-Friendly",
+        "Culture"
+    ]
+}

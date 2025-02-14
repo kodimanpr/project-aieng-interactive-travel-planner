@@ -1,0 +1,20 @@
+{
+    "main_content": "Contents\nLa Pocita de las Golondrinas Beach\nLa Pocita de las Golondrinas Beach is a small public and natural saltwater beach in Isabela . It is safe for families with children because of its shallow waters (about two feet deep) and lacks entries to the open sea. It is located about five minutes to the right of Montones Beach . Currently this beach does not have facilities.  Still, it is surrounded by food kiosks and there are parking lots in walking distance.\\n\nLocation\nIt may be reached using PR-466 street in Isabela .\\n\nWhat can be done\nFacilities\nSee also\nReferences\nExternal links\n\\n\nThis Isabela, Puerto Rico location article is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=La_Pocita_de_las_Golondrinas_Beach&oldid=1194463064",
+        "https://en.wikipedia.org/w/index.php?title=La_Pocita_de_las_Golondrinas_Beach&action=edit",
+        "https://en.wikipedia.org/wiki/la_pocita_de_las_golondrinas_beach"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.514185,
+            -67.064136
+        ],
+        "title": "La Pocita De Las Golondrinas Beach",
+        "type": "Point"
+    },
+    "categories": [
+        "Food",
+        "Beach"
+    ]
+}

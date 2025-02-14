@@ -1,0 +1,21 @@
+{
+    "main_content": "Contents\nParroquia del Espíritu Santo y San Patricio\nThe Parroquia del Espíritu Santo y San Patricio (English: Parish Church of the Holy Spirit and Saint Patrick ), constructed in 1645, is one of Puerto Rico\\'s oldest Catholic parish churches . It is located in the main plaza of the municipality of Loíza, Puerto Rico . The church represents an ethnically distinct community characterized by a rich Afro-Hispanic cultural and folk craft tradition.  The structure\\'s massive walls and buttresses helped the building withstand flood and hurricanes and likewise provided the people of Loíza with shelter from such natural disasters. The church, named after Saint Patrick , was enlarged to its present size in 1729.  \\n\nThe church was listed on the U.S. National Register of Historic Places in 1976,  and on the Puerto Rico Register of Historic Sites and Zones in 2000.  \\n\nSee also\nNotes\nReferences\nThis article incorporates public domain material from Parroquia del Espíritu Santo y San Patricio . National Park Service . \\n\n\\n\nThis article about a property in Puerto Rico on the National Register of Historic Places is a stub . You can help Wikipedia by expanding it .\nThis article about a church building or other Christian place of worship in Puerto Rico is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Parroquia_del_Esp%C3%ADritu_Santo_y_San_Patricio&action=edit",
+        "https://en.wikipedia.org/w/index.php?title=Parroquia_del_Esp\\xc3\\xadritu_Santo_y_San_Patricio&oldid=1240149153",
+        "https://en.wikipedia.org/wiki/parroquia_del_espíritu_santo_y_san_patricio"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.433238,
+            -65.87961
+        ],
+        "title": "Parroquia Del Espíritu Santo Y San Patricio",
+        "type": "Point"
+    },
+    "categories": [
+        "Outdoor",
+        "Religion",
+        "Family-Friendly"
+    ]
+}

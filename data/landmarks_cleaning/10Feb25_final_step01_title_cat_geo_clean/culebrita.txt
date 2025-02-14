@@ -1,0 +1,24 @@
+{
+    "main_content": "Contents\nCulebrita Island\nCulebrita Island  is a small, uninhabited island off the eastern coast of the island- municipality of Culebra in the Spanish Virgin Islands , administratively part of the archipelago of Puerto Rico and geographically part of the archipelago of the Virgin Islands . Together with Cayo Botella off the northwestern point, and Pelá and Pelaita to the west, Culebrita belongs to the barrio Fraile of the main island of Culebra. It is a nature reserve and is part of the Culebra National Wildlife Refuge . The island is home to Culebrita Lighthouse , one of the oldest lighthouses in the Caribbean . Culebrita is only accessible by private boat from the main island of Culebra.  \\n\nGeography\nCulebrita is a coral island approximately 1 mile in length and a tourist spot.  It is roughly y-shaped with three branches extending from the island\\'s center. Punta del Este is the easternmost landmass of the Commonwealth of Puerto Rico .\\n\nThere are six beaches on Culebrita, the chief one being Playa Tortuga (Turtle Beach) on the north side of the island. The beach is named for the many sea turtles that use the beach for breeding grounds and the surrounding waters for grazing. Sea turtles Tina and Ike call Playa Tortuga home. The other two large beaches are Trash Beach and West Beach.  Because Trash Beach is located on the windward side of the island, debris is often blown onto this beach. This is how the beach gets its name. West Beach is where the water taxis from Culebra Island dock.  \\n\nThere are also large tidal pools on the east side of the island where people lounge as if they were large baths. The pools trap small sea life at low tide.  The west side of the island contains two lagoons . The Culebrita Reef lays off the southern coast of the island.\\n\nWetlands\nIsla Culebrita has two shallow lagoons , the largest of which, Laguna de Molino (Mill Lagoon), is located in northwest branch of the island. It covers approximately 5.5 acres (2.2 ha) and is about 3 feet (0.91 m) below sea level. The second lagoon, referred to as the eastern tidal flat , is located near the middle of the island\\'s west coast and covers about 0.9 acres (0.36 ha). Both lagoons are bordered on the seaward-side by a small mangrove fringe.  These wetlands are an important habitat for some of the local wildlife.\\n\nFlora and fauna\nIn 2006, an environmental and cultural resource survey of Culebrita  was carried out by Southeastern Archaeological Research (SEARCH) of Jonesville, Florida and Ellis Environmental Group, LC, in conjunction with the U.S. Army Corps of Engineers (USACE), Huntsville in order to identify \"cultural resources, sensitive habitats, and endangered plants and animals that may exist\" on Isla Culebrita. During the survey, a total of 97 plant species were recorded, none of which are state or federally threatened or endangered species. In addition, 32 birds, four reptiles, and two mammals were recorded. Of these animals, one federally endangered species, the brown pelican ( Pelecanus occidentalis ) and one threatened species, the white-cheeked pintail ( Anas bahamensis ) were observed. Endangered green sea turtles ( Chelonia mydas ) were also observed on the island.  \\n\nThe endangered Culebra skink live on Culebrita.  \\n\nGallery\nReferences",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Culebrita_Island&oldid=1244622300",
+        "https://de.wikipedia.org/wiki/Culebrita",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://ceb.wikipedia.org/wiki/Isla_Culebrita_(pulo_sa_Purtoriko)",
+        "https://es.wikipedia.org/wiki/Culebrita",
+        "https://fr.wikipedia.org/wiki/Culebrita"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.313694,
+            -65.227444
+        ],
+        "title": "Culebrita",
+        "type": "Point"
+    },
+    "categories": [
+        "Outdoor",
+        "Wildlife",
+        "Beach"
+    ]
+}

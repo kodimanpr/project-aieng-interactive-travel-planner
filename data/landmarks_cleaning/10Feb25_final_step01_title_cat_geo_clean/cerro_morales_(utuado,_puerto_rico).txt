@@ -1,0 +1,17 @@
+{
+    "main_content": "Contents\nCerro Morales (Utuado, Puerto Rico)\nCerro Morales is the highest peak in the municipality of Utuado , raising to 3,214 feet (980 m) above sea level. The mountain is shared by the municipalities of Utuado , in the barrio of Tetuán , and Jayuya , in the barrio of Jayuya Abajo .  The mountain is considered a geographical landmark as it can be observed from many places in Utuado.\\n\nReferences",
+    "relevant_links": [
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://ceb.wikipedia.org/wiki/Cerro_Morales_(bukid_sa_Puerto_Rico)",
+        "https://en.wikipedia.org/w/index.php?title=Cerro_Morales_(Utuado,_Puerto_Rico)&oldid=1069361671"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.24722,
+            -66.625
+        ],
+        "title": "Cerro Morales (utuado, Puerto Rico)",
+        "type": "Point"
+    },
+    "categories": []
+}

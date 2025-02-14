@@ -1,0 +1,22 @@
+{
+    "main_content": "Contents\nParque de la Abolición\n\\n\n\\n1890s (opened)   \\n \\n\nParque de la Abolición (English: Abolition Park) is a city park in Barrio Cuarto , Ponce, Puerto Rico .  It was the first park in the Caribbean to commemorate the abolition of slavery .  It was built in 1874 and renovated in 1956.\\n\nBackground\nSlaves were brought to Puerto Rico from Africa, starting in the early 16th century and lasting through the 19th century, to replace the local Indian slaves who had been decimated.  The new slaves worked the coffee , sugar cane , and gold mining industries in Puerto Rico. During the 18th century, as gold mining ceased to be one of the major industries in Puerto Rico, slaves worked mostly in coffee plantations and sugar cane fields.  By a royal proclamation of Spain slavery was abolished on 22 March 1873.  \\n\nHistory\nIn 1874, a year after the abolition of slavery, a group of citizens built a small park in memory of the historic event.  In 1880 Olimpio Otero , Juan Mayoral Barnés, and Román Baldorioty de Castro were instrumental in creating the concept for a park dedicated to the commemorating the abolition of slavery, the only such memorial in the Caribbean .  Juan Mayoral Barnés brought the idea for the creation of the park to the Ponce Municipal Assembly on 14 March 1880. It was unanimously approved by the Assembly, ratified by the Central Government, and confirmed by Royal Decree on 1 March 1881.  The park was built and opened in the 1890s. It had swing sets for children, a fountain with colorful fish, and a roller coaster .  \\n\nOn 6 May 1956,  under the administration of Ponce mayor Andrés Grillasca Salas , the roller coaster, swing sets and fish pond were removed, and replace with the current Concha Acústica amphitheater. The statue of the freed slave was added at the base of the obelisk.  The sculpture of the freed slave is a work of Victor Cott.  Also in 1956, the park\\'s Concha Acústica opened.  \\n\nLocation and features\nThe park is located on Avenida Hostos at the fork of Salud Street and Marina Street, immediately north of the 100-foot high Monumento a la abolición de la esclavitud . It sits across from the Darlington Building, Ponce\\'s first multi-story building, which was completed in 1952.  \\n\nThe park features a grassy green area with trees and masonry benches as well as two monuments to commemorate the abolition of slavery in Puerto Rico : a monument depicting a black male slave with broken chains depicting he is a free man, and a 100-foot high obelisk , Monumento a la abolición de la esclavitud , which rises just behind the black iron sculpture of the freed slave to accentuates and give instance to the occasion. Between the green area of the park and the two monuments is the outdoors acoustic amphitheater known as La Concha Acustica (English: The Acoustic Shell) which completes the park in its triangular city block. \\n\nAfter almost 70 years of use with only minor maintenance, the park was renovated in 1956 by Francisco Porrata Doria , an architect from Ponce.   \\n\nSee also\nReferences\nFurther reading\nExternal links\n\\n",
+    "relevant_links": [
+        "https://ceb.wikipedia.org/wiki/Parque_de_la_Abolici%C3%B3n",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://en.wikipedia.org/w/index.php?title=Parque_de_la_Abolici\\xc3\\xb3n&oldid=1242092647"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.006329833,
+            -66.612719833
+        ],
+        "title": "Parque de la Abolici\\xc3\\xb3n",
+        "type": "Point"
+    },
+    "categories": [
+        "Outdoor",
+        "Festivals & Events",
+        "Family-Friendly",
+        "Culture"
+    ]
+}

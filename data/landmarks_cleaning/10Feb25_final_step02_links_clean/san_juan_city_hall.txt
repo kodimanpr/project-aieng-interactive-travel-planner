@@ -1,0 +1,20 @@
+{
+    "main_content": "Contents\nSan Juan City Hall\nSan Juan City Hall  is the seat of government for the Autonomous Municipality of San Juan in Puerto Rico . The city hall is located in Old San Juan, in front of the Plaza de Armas and next to the Antiguo Palacio de la Real Intendencia (Palace of the Royal Intendancy) , which today hosts the Puerto Rico Department of State . \\n\nThe San Juan City Hall was built in stages from 1604 to 1789. It went through numerous additions and expansions throughout its history. Its current structure and fa\\xc3 7ade by the square, inspired by the Casa de la Panadería in the Plaza Mayor of Madrid , completed in 1840 and was designed by architect Pedro García.  \\n\nFeatures\nThe city hall building has a large staircase and an inner courtyard which is open to visitors. The Plaza de Armas main entrance has an inscription in Latin which translates to \"Esteem the light of justice whoever is at the service of their people\". The first floor of the main building hosts tourism offices while the second floor houses the office of the Mayor of San Juan and the seat of municipal government.\\n\nOne of its most famous rooms is the Sala Capitular (Spanish for chapter hall ), a meeting hall that has hosted numerous historical events, such as the proclamation of Admiral Ramón Power y Giralt as the first representative for Puerto Rico at the Cortes de Cádiz in Spain in 1812 and the signing of the abolition of slavery in Puerto Rico in 1873.  The city hall also hosts the San Juan Bautista Gallery, which often showcases works of art made by local artists.  \\n\nGallery\nSee also\nReferences\nExternal links\n18°27\\xe2\\x80\\xb256\\xe2\\x80\\xb3N 66°7\\xe2\\x80\\xb20\\xe2\\x80\\xb3W ﻿ / ﻿ 18.46556°N 66.11667°W ﻿ / 18.46556; -66.11667 \\n\n\\n\nThis article about a Puerto Rican building or structure related topic is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=San_Juan_City_Hall&action=edit",
+        "https://en.wikipedia.org/w/index.php?title=San_Juan_City_Hall&oldid=1247117997",
+        "https://es.wikipedia.org/wiki/Casa_de_la_Alcald%C3%ADa_de_San_Juan",
+        "https://en.wikipedia.org/wiki/san_juan_city_hall"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.46556,
+            -66.11667
+        ],
+        "title": "San Juan City Hall",
+        "type": "Point"
+    },
+    "categories": [
+        "Culture"
+    ]
+}

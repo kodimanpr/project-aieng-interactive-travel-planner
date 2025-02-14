@@ -1,0 +1,20 @@
+{
+    "main_content": "Contents\nJuana Díaz barrio-pueblo\nJuana Díaz barrio-pueblo is a barrio and the administrative center ( seat ) of Juana Díaz , a municipality of Puerto Rico. Its population in 2010 was 3,977.     \\n\nAs was customary in Spain, in Puerto Rico, the municipality has a barrio called pueblo which contains a central plaza, the municipal buildings (city hall), and a Catholic church. Fiestas patronales (patron saint festivals) are held in the central plaza every year.   \\n \\n\nThe central plaza and its church\nThe central plaza, or square, is a place in the barrio-pueblo for official and unofficial recreational events and a place where people can gather and socialize from dusk to dawn. The Laws of the Indies , Spanish law, which regulated life in Puerto Rico in the early 19th century, stated the plaza\\'s purpose was for \"the parties\" (celebrations, festivities) , and that the square should be proportionally large enough for the number of neighbors . These Spanish regulations also stated that the streets nearby should be comfortable portals for passersby, protecting them from the elements: sun and rain.  \\n\nLocated across the central plaza in Juana Díaz barrio-pueblo is the Parroquia San Ramón Nonato , a Roman Catholic church.  The historic church was built in 1807.  \\n\nThe pueblo , as the barrio-pueblo is still called, is divided into north, east, west and south sections.\\n\nGallery\nSee also\nReferences\n\\n\nThis Juana Díaz, Puerto Rico location article is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://es.wikipedia.org/wiki/Juana_D%C3%ADaz_(Juana_D%C3%ADaz)",
+        "https://en.wikipedia.org/w/index.php?title=Juana_D\\xc3\\xadaz_barrio-pueblo&oldid=1192734928",
+        "https://en.wikipedia.org/w/index.php?title=Juana_D%C3%ADaz_barrio-pueblo&action=edit",
+        "https://en.wikipedia.org/wiki/juana_díaz_barrio-pueblo"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.05132,
+            -66.506542
+        ],
+        "title": "Juana Díaz Barrio-pueblo",
+        "type": "Point"
+    },
+    "categories": [
+        "Religion"
+    ]
+}

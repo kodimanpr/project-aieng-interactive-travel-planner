@@ -1,0 +1,20 @@
+{
+    "main_content": "Contents\nCentral Guánica\nCentral Guánica was a sugar mill located in Ensenada Barrio in the municipality of Guánica, Puerto Rico . It was one of the largest sugar mills in the Caribbean , and until World War I , it was one of the largest mills in the world.  \\nIt ceased operations in 1982.  \\n\nHistory\nIts owners, the South Puerto Rico Sugar Company of New Jersey , began construction of the Central Guánica sugar mill in 1901. A company town , which included a hospital, school, and housing facilities was organized around the sugar mill.  \\n\nIn 1967, South Puerto Rico Sugar Company was acquired by Gulf and Western Industries , which later sold the sugar mill during the 1970s.\\n\nIn 2002, the government of Puerto Rico declared the two chimneys of the sugar mill as historic monuments.  \\n\nGallery\nSee also\nReferences\nExternal links\nThis Puerto Rico \\xe2\\x80\\x93related article is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://ca.wikipedia.org/wiki/Central_Gu%C3%A1nica",
+        "https://en.wikipedia.org/w/index.php?title=Central_Gu\\xc3\\xa1nica&oldid=1234029559",
+        "https://en.wikipedia.org/w/index.php?title=Central_Gu%C3%A1nica&action=edit"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            17.9685,
+            -66.9296
+        ],
+        "title": "Central Guánica",
+        "type": "Point"
+    },
+    "categories": [
+        "Culture"
+    ]
+}

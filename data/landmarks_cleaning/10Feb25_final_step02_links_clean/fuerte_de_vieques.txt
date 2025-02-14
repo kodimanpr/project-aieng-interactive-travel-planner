@@ -1,0 +1,20 @@
+{
+    "main_content": "Contents\nFortín Conde de Mirasol\nEl Fortín Conde de Mirasol ,  also known as Fuerte de Vieques, is a fort built in 1845 located in the town of Isabel Segunda in Vieques , an island municipality of Puerto Rico . In 1991, the fort was restored by the Institute of Puerto Rican Culture . The structure houses the Vieques Museum of Art and History and the Vieques Historic Archives , an extensive collection of documents related to the history of Vieques.  It was listed on the National Register of Historic Places in 1977,  and on the Puerto Rico Register of Historic Sites and Zones in 2001.  \\n\nGallery\nSee also\nReferences\nExternal links\n\\n\nThis article about a property in Puerto Rico on the National Register of Historic Places is a stub . You can help Wikipedia by expanding it .\nThis article about a Puerto Rican building or structure related topic is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://es.wikipedia.org/wiki/Fort%C3%ADn_Conde_de_Mirasol",
+        "https://en.wikipedia.org/w/index.php?title=Fort%C3%ADn_Conde_de_Mirasol&action=edit",
+        "https://en.wikipedia.org/w/index.php?title=Fort\\xc3\\xadn_Conde_de_Mirasol&oldid=1240279199",
+        "https://en.wikipedia.org/wiki/fuerte_de_vieques"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.147436,
+            -65.43907
+        ],
+        "title": "Fuerte De Vieques",
+        "type": "Point"
+    },
+    "categories": [
+        "Culture"
+    ]
+}

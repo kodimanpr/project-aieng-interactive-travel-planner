@@ -1,0 +1,19 @@
+{
+    "main_content": "Contents\nCiudad Deportiva Millito Navarro\n\\n\nThe Ciudad Deportiva Millito Navarro (Millito Navarro Sports City) is a multi-sport complex currently under construction in Ponce, Puerto Rico .  The complex is to consist of a soccer stadium , a baseball field , three tennis courts , a track for track and field , a covered basketball court , and a covered gymnasium . It is also planned to have schooling, physical training, and medical facilities on the premises.  Its projected cost is 32.3 million USD .  The complex is named after Ponce\\'s Millito Navarro ,   the first Puerto Rican to play baseball in the Negro leagues and who, living until age 105, was also the oldest living professional baseball player to have played in the Negro leagues.   \\n\nDescription and location\nCiudad Deportiva is being built in an area of over 1 million square feet of land,  between Urbanizacion Los Caobos and  Caminos del Sur.  It is to consist of a soccer stadium , a baseball field, three tennis courts , a track for track and field sports, a covered gymnasium, and covered handball courts. In addition it is planned to have a sports academy, the first one of its kind in Puerto Rico. Other facilities are to include a central plaza , a medical sports clinic, and facilities for martial arts .  Ciudad Deportiva will be located in Ponce\\'s Barrio Bucana , next to Polideportivo Frankie Colón at Urbanizacion Los Caobos.  \\n\nHistory\nThe idea for Ciudad Deportiva was one of five ideas that Mayor Maria Melendez Altieri had for permanent structures for Ponce during her administration. She called the five ideas the \"emblematic\" projects of her administration and dubbed the overall plan \"Ponce Avanza\" (Ponce Moves Forward). The original plan judged the initial cost of the Ciudad Deportiva at $4.5 million initially.  In 2010, the mayor\\'s plan for Ciudad Deportiva was presented before the Puerto Rico Senate . In early 2012 the first payment of $1,050,000 was made to CGC Builders to start construction work.  \\n\nPurpose\nThe purpose of the complex is to \"provide ... sports facilities in the city of Ponce for the celebration of sporting events lasting more than one day\".  \\n\nFunding\nIn February 2012, the sports campus has an initial projected total cost of $20 million USD .  The municipality has secured US$6.3 million to start construction.  In January 2012, the municipality of Ponce adjudicated US$1.05 million to GCG Builders to level the ground to commence the first phase of construction.  This was revised in May 2012 to $32.3 million USD .  \\n\nConstruction phases\nThe Sports City will be developed in phases. Phase I will include construction of the three tennis courts and an area for extreme sports , including skateboarding . Phase II will encompass the baseball field, the track and field area, soccer field, and the central plaza. A future phase yet would include the soccer stadium.  The skateboarding facility opened on 23 March 2013.  By October 2013, building of the soccer field  had already started.  \\n\nReferences\nExternal links\n18°00\\xe2\\x80\\xb213\\xe2\\x80\\xb3N 66°35\\xe2\\x80\\xb205\\xe2\\x80\\xb3W ﻿ / ﻿ 18.00363°N 66.58462°W ﻿ / 18.00363; -66.58462 \\n",
+    "relevant_links": [
+        "https://es.wikipedia.org/wiki/Ciudad_Deportiva_Millito_Navarro",
+        "https://en.wikipedia.org/w/index.php?title=Ciudad_Deportiva_Millito_Navarro&oldid=1246268148",
+        "https://en.wikipedia.org/wiki/ciudad_deportiva_millito_navarro"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.00363,
+            -66.58462
+        ],
+        "title": "Ciudad Deportiva Millito Navarro",
+        "type": "Point"
+    },
+    "categories": [
+        "Culture"
+    ]
+}

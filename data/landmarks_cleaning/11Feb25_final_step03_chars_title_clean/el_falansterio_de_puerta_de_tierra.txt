@@ -1,0 +1,19 @@
+{
+    "main_content": "Contents\nEl Falansterio de Puerta de Tierra\nThe Puerta de Tierra Phalanstery , simply known as El Falansterio and originally known as the Puerta de Tierra Tenement Group Project A ,  is a historic district and Art Deco public housing building complex from 1937 located in the Puerta de Tierra sub-district of San Juan, Puerto Rico . \\n\nThe district is located in the eastern section of the Islet of San Juan , close to the Capitol of Puerto Rico , and it is bounded by the Manuel Fernández Juncos Avenue to the south, San Juan Bautista Street to the east, and the del Tren and Matías Ledesma Streets to the north and west, respectively.  The construction was a New Deal investment from the Puerto Rico Reconstruction Administration with funding from the Federal Emergency Relief Administration .  \\n\nThe building complex today serves as a public condominium owned by Condominio del Falansterio, Inc. and has been listed in the United States National Register of Historic Places since April 4, 1984,  and on the Puerto Rico Register of Historic Sites and Zones since 2000.  \\n\nGallery\nSee also\nReferences\n\\n\nThis article about a property in Puerto Rico on the National Register of Historic Places is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=El_Falansterio_de_Puerta_de_Tierra&oldid=1240271822",
+        "https://en.wikipedia.org/w/index.php?title=El_Falansterio_de_Puerta_de_Tierra&action=edit",
+        "https://en.wikipedia.org/wiki/el_falansterio_de_puerta_de_tierra"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.46333,
+            -66.09639
+        ],
+        "title": "El Falansterio De Puerta De Tierra",
+        "type": "Point"
+    },
+    "categories": [
+        "Culture"
+    ]
+}

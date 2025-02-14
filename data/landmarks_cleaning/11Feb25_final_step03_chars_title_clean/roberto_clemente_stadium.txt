@@ -1,0 +1,18 @@
+{
+    "main_content": "Contents\nRoberto Clemente Stadium\nRoberto Clemente Stadium  is a multi-purpose stadium in Carolina , Puerto Rico .  It is currently used mostly for baseball games and is the home of Gigantes de Carolina .  The stadium holds 12,500 people and was built in 2000.  It is named after former Puerto Rican baseball great and native of Carolina, Roberto Clemente .\\n\nIt hosted the 2007 Caribbean Series . From 2008 it is the home of the Gigantes de Carolina (football club) who plays in the Puerto Rico Soccer League .\\n\nIt has been a venue for political campaign events,  and gift-giving holiday events.  \\n\nReferences\nExternal links\n\\n\nThis article about a sports venue in Puerto Rico is a stub . You can help Wikipedia by expanding it .\nThis article about a baseball venue in the United States is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Roberto_Clemente_Stadium&oldid=1193411937",
+        "https://es.wikipedia.org/wiki/Estadio_Roberto_Clemente_Walker",
+        "https://en.wikipedia.org/w/index.php?title=Roberto_Clemente_Stadium&action=edit",
+        "https://en.wikipedia.org/wiki/roberto_clemente_stadium"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.37667,
+            -65.94917
+        ],
+        "title": "Roberto Clemente Stadium",
+        "type": "Point"
+    },
+    "categories": []
+}

@@ -1,0 +1,24 @@
+{
+    "main_content": "Contents\nIcacos Cay\nIcacos Cay  is the largest uninhabited cay forming part of a small chain of cays , reefs , and islets located off the coast of the barrio of Cabezas in the municipality of Fajardo in northeastern Puerto Rico . Along with Palominos island , it is part of the La Cordillera Reef Nature Reserve and under the jurisdiction of the Department of Natural Resources and Environment . Icacos is a fifteen-minute water taxi ride from Fajardo.  The cay is a popular snorkeling and beach tourism destination.\\n\nFor some time, there was a limestone quarry on the southern part of the island, with a short railroad system to shuttle limestone from the quarry to the pier.  \\n\nSee also\nReferences\nExternal links\n\\n\nThis Fajardo, Puerto Rico location article is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://es.wikipedia.org/wiki/Icacos_(Puerto_Rico)",
+        "https://ceb.wikipedia.org/wiki/Cayo_Icacos",
+        "https://en.wikipedia.org/w/index.php?title=Icacos_Cay&oldid=1243872808",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://ur.wikipedia.org/wiki/%DA%A9%D8%A7%DB%8C%D9%88_%D8%A7%DB%8C%DA%A9%D8%A7%DA%A9%D9%88%D8%B3",
+        "https://en.wikipedia.org/w/index.php?title=Icacos_Cay&action=edit"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.38639,
+            -65.58889
+        ],
+        "title": "Cayo Icacos",
+        "type": "Point"
+    },
+    "categories": [
+        "Outdoor",
+        "Soft Adventure",
+        "Beach"
+    ]
+}

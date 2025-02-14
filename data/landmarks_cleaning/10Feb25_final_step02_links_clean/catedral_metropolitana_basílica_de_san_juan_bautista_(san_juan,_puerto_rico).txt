@@ -1,0 +1,20 @@
+{
+    "main_content": "Contents\nCathedral of San Juan, Puerto Rico\nThe Catedral Basílica Metropolitana  de San Juan Bautista , or in English, Metropolitan Cathedral Basilica of Saint John the Baptist , is the Catholic cathedral for the Archdiocese of San Juan de Puerto Rico . It is one of the oldest buildings in Old San Juan , the oldest cathedral in the United States , and the second-oldest cathedral in the Americas.  \\n\nAlthough the Cathedral of Santa María la Menor in Santo Domingo, Dominican Republic , is an older church building, the Cathedral holds the distinction of being the first cathedral church in the Americas.  This is because San Juan, then known as the City of Puerto Rico, was the first diocese of the New World, with Bishop Don Alonso Manso appointed in 1511.  \\n\nA private Puerto Rican foundation known as Fundación Protectora de la Catedral Metropolitana de San Juan, Inc. was established to fund the historical restoration of the building and its art treasures for its 500th anniversary in 2021, and to protect it for the coming centuries.  \\n\nHistory\nThe original cathedral in what was the city of Puerto Rico (changed to San Juan Bautista in 1521) was constructed from wood in 1521. It was destroyed by a hurricane and the current church construction began in 1535, being practically completed in 1802, later in 1905 an upper portion to the facade was added.  \\n\nThe first school in Puerto Rico was the Escuela de gramática (Grammar School). The school was established by Bishop Alonso Manso in 1513, in the area where the cathedral would later be constructed. The school was free of charge and the courses taught were Latin language, literature, history, science, art, philosophy and theology.  \\n\nThe cathedral contains the tomb of the Spanish explorer and settlement founder Juan Ponce de León . It also has a shrine to the Blessed Carlos Manuel Rodríguez Santiago , the first Puerto Rican and first Caribbean -born layperson in history to be beatified.  \\n\nThe first organist of the Cathedral of San Juan was the Canarian Domingo Crisanto Delgado Gómez   who came from the island of Tenerife and managed to take this position in 1836 , having been a composer in Cathedral Our Lady of Los Remedios of San Cristóbal de La Laguna in his native island.  \\n\nGallery\nSee also\nReferences\nExternal links",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Cathedral_of_San_Juan,_Puerto_Rico&oldid=1239464496",
+        "https://es.wikipedia.org/wiki/Catedral_de_San_Juan_Bautista_(San_Juan,_Puerto_Rico)",
+        "https://en.wikipedia.org/wiki/catedral_metropolitana_basílica_de_san_juan_bautista_(san_juan,_puerto_rico)"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.46583,
+            -66.11778
+        ],
+        "title": "Catedral Metropolitana Basílica De San Juan Bautista (san Juan, Puerto Rico)",
+        "type": "Point"
+    },
+    "categories": [
+        "Religion",
+        "Culture"
+    ]
+}

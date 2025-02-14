@@ -1,0 +1,23 @@
+{
+    "main_content": "Contents\nPunta Santiago, Humacao, Puerto Rico\nPunta Santiago is a barrio and fishing community located in the municipality of Humacao, Puerto Rico . Its population in 2020 was 3,716.   Located in the estuary of Humacao, Punta Santiago is famous for its fishing heritage, its iconic pier and Cayo Santiago , popularly known as Monkey Island  after its Rhesus macaque population. The barrio is also the home of the Humacao Nature Reserve and the Punta Santiago Beach and Vacation Area.  Punta Santiago is one of the most vulnerable barrios to flooding and complete destruction whenever hurricanes enter Puerto Rico through the area of Humacao.\\n\nHistory\nThe fishing village of Punta Santiago was originally called Playa de Humacao as it was the closest beach to Humacao Pueblo , the historic and administrative downtown area of Humacao.  The community of Punta Santiago used to be part of two former barrios of Humacao, one called Humacao Playa and the other called Mabú. By the end of the 19th century barrio Mabú had been eliminated and incorporated into barrio Playa, now renamed Punta Santiago after the geographical headland or point ( punta ) where the fishing village is located.  \\n\nSince December 1938, Cayo Santiago , located immediately off Punta Santiago, has been the home to a population of free roaming Rhesus macaques imported from India by the School of Tropical Medicine in San Juan , the Columbia University College of Physicians and Surgeons and the University of Puerto Rico .\\n\nThe area where the Humacao nature reserve is located today saw a number of bunkers and defensive infrastructure built during the Second World War , including a lookout post at the top of El Morrillo hill.  This area which contains a number of mangrove and Pterocarpus forests was later proclaimed a wildlife refuge in 1986.  \\n\nHurricane Maria hit Puerto Rico on September 20, 2017. The hurricane eye entered the island close to Punta Yeguas in Yabucoa , not far from Punta Santiago. The barrio was particularly vulnerable to the associated storm surges . According to Father José Colón, the local Catholic priest, the hurricane caused the total flooding of Punta Santiago.  \\n\n\"The town was flooded from all directions, from the ocean, rain and nearby rivers...\"\\n\nPunta Santiago was one of the most impacted communities in the aftermath of the hurricane. It was the location of the viral image of an SOS message written on one of the roads of the community.  The Punta Santiago Vacation Center was greatly affected by the hurricane, and it remained abandoned by 2023. \nFlood zone\nIn 2019, updated flood zone maps show that because of its location- where most cyclones enter the island, Humacao is one of the most vulnerable areas of Puerto Rico.  Humacao was working on flood mitigation plans and shared that its barrios located on the coast; Antón Ruíz , Punta Santiago, Río Abajo , Buena Vista and Candelero Abajo barrios, are prone to flooding and in danger of being completed destroyed by a hurricane.  \\n\nDemographics\nPunta Santiago was in Spain\\'s gazetteers  until Puerto Rico was ceded by Spain in the aftermath of the Spanish-American War under the terms of the Treaty of Paris of 1898 and became an unincorporated territory of the United States . In 1899, the United States Department of War conducted a census of Puerto Rico finding that the combined population of Punta Santiago and San Francisco barrios was 1,754.  \\n \\n\nThe population of Punta Santiago in 2020 was 3,716, a 21.3% decrease from 4,723 in 2010.  \\n\nLandmarks and places of interest\nGallery\nSee also\nReferences\nExternal links",
+    "relevant_links": [
+        "https://es.wikipedia.org/wiki/Punta_Santiago_(Humacao)",
+        "https://en.wikipedia.org/w/index.php?title=Punta_Santiago,_Humacao,_Puerto_Rico&oldid=1192948308",
+        "https://www.discoverpuertorico.com/es/profile/punta-santiago-reserva-natural-de-humacao/7844",
+        "https://en.wikipedia.org/wiki/punta_santiago,_humacao,_puerto_rico"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.164424,
+            -65.750547
+        ],
+        "title": "Punta Santiago, Humacao, Puerto Rico",
+        "type": "Point"
+    },
+    "categories": [
+        "Outdoor",
+        "Wildlife",
+        "Culture",
+        "Beach"
+    ]
+}

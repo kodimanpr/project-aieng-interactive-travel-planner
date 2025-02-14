@@ -1,0 +1,18 @@
+{
+    "main_content": "Contents\nPlayita del Condado\nPlayita del Condado is a beach located at the end of Avenida Ashford in Condado, Puerto Rico .\\n\nPlayita del Condado\nPlayita del Condado is a beach near Condado Lagoon . It is near Miramar and Isla Grande Boulevard and a seven-minute drive from Old San Juan .   \\n\nIn 2014, an open-air gym at Playita del Condado was inaugurated.  \\n\nReferences\n18\\xc2\\xb027\\xe2\\x80\\xb236\\xe2\\x80\\xb3N 66\\xc2\\xb04\\xe2\\x80\\xb241\\xe2\\x80\\xb3W ﻿ / ﻿ 18.46000\\xc2\\xb0N 66.07806\\xc2\\xb0W ﻿ / 18.46000; -66.07806 \\n",
+    "relevant_links": [
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://en.wikipedia.org/w/index.php?title=Playita_del_Condado&oldid=1188995930"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.46,
+            -66.07806
+        ],
+        "title": "Playita Del Condado",
+        "type": "Point"
+    },
+    "categories": [
+        "Beach"
+    ]
+}

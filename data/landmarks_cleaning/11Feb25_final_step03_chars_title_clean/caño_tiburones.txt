@@ -1,0 +1,21 @@
+{
+    "main_content": "Contents\nCaño Tiburones\nCaño Tiburones is a wetland and nature reserve located in the northern coast of Puerto Rico in the municipalities of Arecibo and Barceloneta . This is one of the largest wetlands in Puerto Rico, covering almost 7,000 acres. A large portion of the swamp, located in Arecibo, is protected as the Caño Tiburones Nature Reserve .  \\n\nGeography\nThe average annual temperature is of 80\\xcb\\x9aF (26.9\\xcb\\x9aC). Precipitation varies from 1,000 to 2,000 mm of average annual rain; it is rainiest during the wet season, from May to September.  \\n\nThe swamp is located north of the Northern Karst zone of Puerto Rico and lies above a wide limestone area. Most of the terrain in the area consists of swamp deposits made of clay and silt with smaller quantities of sand and peat . Most of the soil is hydric and organic with high acidity and poor drainage which sustains the swampy terrain.  \\n\nThe factors that contribute to the flooding characteristics of the wetlands are the number of fresh water springs located in the southern portion of the wetlands, the salt water springs to the north and the number of rivers that flow into the area, some of which are Puerto Rico\\'s longest and most torrential rivers, such as the Arecibo and Manatí rivers. Runoff flows from these rivers are integral in the formation of this wetland.  The karst zone is important for the sustainability of the wetlands since it is favorable for the flow of rivers which feed the marshy areas along the northern coast of Puerto Rico.  \\n\nHistory\nThe nature reserve was established in 1998 with the purpose of preserving the ecological integrity of the swamp.  The reserve is managed jointly by the Puerto Rico Department of Natural and Environmental Resources (DRNA) and the Puerto Rico Department of Agriculture . \\n\nEcology\nThe flora found in the swamp is typical of that found in wetlands and most species are hydrophytes, which are aquatic or semiaquatic plants that require flooded conditions to survive. Some of the most common plants in the swamp are the southern cattail ( Typha dominguensis ), aquatic ferns such as mangrove fern ( Acrosticum aureum ), Paspalum , and mangrove .  \\n\nThe area around the reserve is considered important for wildlife, including migratory species. The area is also an important nesting area for numerous fish species. The wetlands are home to 206 bird species, more than 25 insect species, 6 reptile species, 9 crustacean species and more than 20 species of fish. The Puerto Rican boa ( Epicrates inornatus ) can also be found in the region.  The swamp was formerly an important site for the Caribbean flamingo ( Phoenicopterus ruber ) and flamingo sightings can be considered as a good sign of the ecological revitalization and recovery of the area.  \\n\nRecreation\nThe recreational infrastructure in the wetlands are limited but there are opportunities for ecotourism (kayak tours are offered), birdwatching and fishing.  \\n\nReferences\nExternal links",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Ca\\xc3\\xb1o_Tiburones&oldid=1196996333",
+        "https://en.wikipedia.org/wiki/caño_tiburones"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.473,
+            -66.634
+        ],
+        "title": "Caño Tiburones",
+        "type": "Point"
+    },
+    "categories": [
+        "Outdoor",
+        "Wildlife",
+        "Culture",
+        "Beach"
+    ]
+}

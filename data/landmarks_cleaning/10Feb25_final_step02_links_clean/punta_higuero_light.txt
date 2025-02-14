@@ -1,0 +1,20 @@
+{
+    "main_content": "Contents\nPunta Higüero Light\nPunta Higüero Light  is a historic lighthouse located in the municipality of Rincón on the easternmost point in the main island of Puerto Rico . The original building was built in 1892 by the Spanish government and was rebuilt in 1922 by the United States Coast Guard .  \\n\nIn 1892 the original light was built as a fixed white, 6th order dioptric station and had a 6-mile-range (9.7 km) light beam. According to the Historic American Engineering Record , \"Its Mediterranean appearance came from an elaborate combination of exposed and indented brick work in the facades—around doors and windows—and corners.\"  The \"castle\" look was further emphasized by reddish stucco imitating stone-work on all facades and the very elaborate exposed brick cornice topped by a parapet built in lace-like brick-work. The lighthouse was severely damaged by the 1918 earthquake that struck the west part of the island.\\n\nThe new light was placed in commission on January 12, 1922.  The building suffered fire damage after the light was automated in 1933 and was later razed. The town of Rincón built El Faro Park around the lighthouse, a popular spot for surfing and whale watching.  \\n\nGallery\nSee also\nReferences\nExternal links",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Punta_Hig\\xc3\\xbcero_Light&oldid=1244621250",
+        "https://en.wikipedia.org/wiki/punta_higuero_light"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.362028,
+            -67.270972
+        ],
+        "title": "Punta Hig\\xc3\\xbcero Light",
+        "type": "Point"
+    },
+    "categories": [
+        "Outdoor",
+        "Family-Friendly",
+        "Beach"
+    ]
+}

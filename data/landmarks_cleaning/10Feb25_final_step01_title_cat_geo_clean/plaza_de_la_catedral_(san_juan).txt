@@ -1,0 +1,24 @@
+{
+    "main_content": "Contents\nPlaza de la Catedral (San Juan)\nPlaza de la Catedral ( Spanish for \\'cathedral square\\'), also known as Plazuela de las Monjas (\\'little square of the nuns\\'), is a small public square located in front of the Cathedral of San Juan Bautista and next to the former Carmelite convent (now a Hotel El Convento ) in the Old San Juan historic district of the city of San Juan, Puerto Rico . The small but historic square is possibly the oldest in the city,  dating to the foundation of the cathedral in 1521,  and is found at the end of a wide historical residential block bound by the alleyways  of Las Monjas and San Juan to the north and south, respectively, and by Calle del Cristo (\\'del Cristo Street\\') to the east.  Caleta de San Juan connects this square to the San Juan Gate ( Puerta de San Juan ),  formerly known as the Water Gate ( Puerta de Agua ) as it was the main harbor entrance into the walled city. This block formerly contained the first Episcopal church in the city between 1909 and 1929 when it was moved to a bigger location in Santurce , and later housed the San Juan Children\\'s Museum ( Museo del Niño de San Juan ), which closed in 2016.  \\n\nReferences\n\\n\nThis San Juan, Puerto Rico location article is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://ceb.wikipedia.org/wiki/Plazuela_Las_Monjas",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://www.discoverpuertorico.com/profile/catedral-de-san-juan-bautista/8041",
+        "https://en.wikipedia.org/w/index.php?title=Plaza_de_la_Catedral_(San_Juan)&action=edit",
+        "https://es.wikipedia.org/wiki/Plaza_de_la_Catedral_(San_Juan,_Puerto_Rico)",
+        "https://en.wikipedia.org/w/index.php?title=Plaza_de_la_Catedral_(San_Juan)&oldid=1243540048"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.46565,
+            -66.11829
+        ],
+        "title": "Plaza De La Catedral (san Juan)",
+        "type": "Point"
+    },
+    "categories": [
+        "Luxury & Resorts",
+        "Religion",
+        "Culture"
+    ]
+}

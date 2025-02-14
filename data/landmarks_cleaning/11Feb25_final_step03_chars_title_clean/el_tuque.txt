@@ -1,0 +1,26 @@
+{
+    "main_content": "Contents\nEl Tuque\n\\n\nEl Tuque is a beach and family recreational and tourist complex in the Punta Cucharas sector of Barrio Canas in Ponce, Puerto Rico .  It was designed in the early 1960s by Luis Flores , an architect from Cayey, Puerto Rico .  It is located on PR-2 , Km 220.1, in the El Tuque sector of Barrio Canas in Ponce.  The sector of El Tuque is considered Puerto Rico\\'s largest populated sector.  The beach opened on 17 July 1965.  \\n\nHistory\nThe name El Tuque comes from the name of a farm of measuring 267.11 cuerdas that was located in that area of Barrio Canas in the early 20th century.  \\n\nThe once deserted beach was developed into a balneario (balneary or bathhouse) by the government of the Commonwealth of Puerto Rico in the mid-1960s, as part of the central government\\'s attempt to provide a network of such recreational facilities throughout the island.  It included gazebos and fire pits near the beach, a restaurant, changing rooms with showers and lockers, a children\\'s pool, and two adult Olympic-size swimming pools with snack bars. It was inaugurated on 17 July 1965.  \\n\nDue to beach erosion that occurred over the years, a beach replenishment project then took place in 1979,  but the sand added was darker than the original sand there and locals now consider the beach \"dirty\".  \\n\nBy the early-1980s, however, the area had fallen into disrepair, starting with the swimming pools and parking areas, for lack of proper maintenance by the Commonwealth Government. As a result, the beach opened only sporadically.  Eventually the complex was permanently shut down in the late 1980s. The Municipality of Ponce, then obtained ownership of the property from the Commonwealth government via a transfer.  About a decade later, in 1996, the United States Army Corps of Engineers picked up the El Tuque project again for purposes of re-furbishing the beach with new sand.    \\n\nEl Tuque Recreational Complex\nIn May 2002, a group of private investors became interested in the area and entered into a contract with the Puerto Rico central government to develop the area into a family and tourist recreational center. The investors spent $16 million to develop the area into the El Tuque Beach Entertainment Center.  El Tuque Recreational Complex opened in the summer of 2002 and included an aquatic complex / splash water park with three pools with waves, high speed water slides, and water sports. Some of activities of the park were hiking, swimming, boating, fishing, whitewater paddling, snorkeling, and scuba diving.  The aquatic park closed in 2007, the same year that an accident at the water park injured a park patron leaving him quadriplegic.  The complex had a pub and a Quality Inn hotel located on the beach, within the recreational complex facilities.  A nearby Holiday Inn hotel that had opened a few years earlier, provides additional lodging facilities for beach-goers.\\n\nA second addition to the project, which opened in 2003, includes a new speedway called the Ponce International Speedway Park .  It includes a drag-racing track and circuit track. The speedway drag-racing sections has both 1/4-mile and 1/8th-mile sections, and the full circuit is 1.52 miles long and incorporates 12 turns.  A small marina has also been added. Boating and kayaking is promoted as part of the center\\'s eco-tourism activities.  \\n\nSolace by the Sea\nIn 2017, following Hurricane María , Grupo Misla Villalba, a group of local investors, remodeled the former Quality Inn Hotel, which had closed 2 years before, and opened a new hotel, named \"Solace by the Sea\" on 30 November 2017.  \\n\nSee also\nReferences",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=El_Tuque&oldid=1219884133",
+        "https://es.wikipedia.org/wiki/El_Tuque",
+        "https://en.wikipedia.org/wiki/el_tuque"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            17.98083,
+            -66.64333
+        ],
+        "title": "El Tuque",
+        "type": "Point"
+    },
+    "categories": [
+        "Soft Adventure",
+        "Culture",
+        "Luxury & Resorts",
+        "Beach",
+        "Outdoor",
+        "Family-Friendly",
+        "Nightlife",
+        "Food"
+    ]
+}

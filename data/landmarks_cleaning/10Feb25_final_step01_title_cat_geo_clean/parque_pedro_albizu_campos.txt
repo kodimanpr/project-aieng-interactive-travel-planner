@@ -1,0 +1,19 @@
+{
+    "main_content": "Contents\nParque Pedro Albizu Campos\n\\n\nThe Parque Pedro Albizu Campos (English: Pedro Albizu Campos Park ) is a passive recreational park in the city of Ponce, Puerto Rico .  It was dedicated on 12 September 1991, to the memory of Puerto Rican Nationalist leader Pedro Albizu Campos by the Government of the Autonomous Municipality of Ponce.  Dr. Pedro Albizu Campos was born in Ponce on 12 September 1891.  He was raised in Ponce and lived most of his life there as well.\\n\nLocation\nThe park is located in sector Tenerias of Barrio Machuelo Abajo , at the location where the house stood where Albizu Campos spent much of his youth. It sits on a 5- acre lot bordered by Rio Bucana on the east end, Puerto Rico route PR-1 on the south, Pedregal Street on the north, and Dr. Pedro Albizu Campos street on the west.  It is near the intersection of Ponce By-pass Road ( PR-2 ), Miguel Pou Boulevard ( PR-1 ), and Comercio Street ( PR-133 ).  The park is found at N 18.00999 W 66.59377 (18.00999, -66.59377). \\n\nThere is a full-body statue of Dr. Albizu Campos as the centerpiece of the park.  The statue is the work of Ponce sculptor Rafael Lopez del Campo.  The park was built in response to the initiative of the group Ponceños de Verdad and the support of the general public.  \\n\nUse\nThough a general use passive park, the park is also home to various civic and political activities relating to the ideals of autonomy, self-government and independence for Puerto Rico.\\n\nStones\nAmong the features of the park is a set of twelve stones set on the ground in a two-by-six vertical formation. The stones contain the names of the last twelve known survivors of the 1937 Ponce massacre . In addition to the name the survivor, the person\\'s date of death is also engraved on each stone. Also engraved are a Christian cross and the letters \" RIP \" (rest in peace). \\n\nThe names and dates on some of the stones have faded away due to exposure to the weather elements. The names and dates on the twelve stones are as follows:\\n\nSee also\nReferences",
+    "relevant_links": [
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://en.wikipedia.org/w/index.php?title=Parque_Pedro_Albizu_Campos&oldid=1246140685"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.00991,
+            -66.59403
+        ],
+        "title": "Parque Pedro Albizu Campos",
+        "type": "Point"
+    },
+    "categories": [
+        "Outdoor",
+        "Family-Friendly"
+    ]
+}

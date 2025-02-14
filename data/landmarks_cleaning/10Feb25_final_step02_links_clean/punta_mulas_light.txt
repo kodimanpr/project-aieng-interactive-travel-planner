@@ -1,0 +1,19 @@
+{
+    "main_content": "Contents\nPunta Mulas Light\nPunta Mulas Light , also known as Faro de Vieques , is a historic lighthouse located in the north shore of Vieques , an island-municipality of Puerto Rico . It was first lit in 1896 and automated in 1949.  Punta Mulas Light was the second lighthouse built on Vieques after the Puerto Ferro Light. The light was established to guide through the dangerous passage formed by a chain of reefs. It was of key importance for navigation in the San Juan Passage.  \\n\nIn 1992, the lighthouse was restored in celebration of the 500th anniversary of Christopher Columbus \\'s first voyage to America. The structure houses a museum featuring the maritime history of Vieques and the Americas as well as other historical exhibits.  It\\'s listed in both the U.S. National Register of Historic Places and the Puerto Rico Register of Historic Sites and Zones .  \\n\nSee also\nReferences\nExternal links\n\\n\nThis article about a Puerto Rican building or structure related topic is a stub . You can help Wikipedia by expanding it .\nThis article relating to a United States lighthouse is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Punta_Mulas_Light&oldid=1240277443",
+        "https://en.wikipedia.org/w/index.php?title=Punta_Mulas_Light&action=edit",
+        "https://en.wikipedia.org/wiki/punta_mulas_light"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.154472,
+            -65.443833
+        ],
+        "title": "Punta Mulas Light",
+        "type": "Point"
+    },
+    "categories": [
+        "Culture"
+    ]
+}

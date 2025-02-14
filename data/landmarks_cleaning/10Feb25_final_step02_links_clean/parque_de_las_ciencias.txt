@@ -1,0 +1,22 @@
+{
+    "main_content": "Contents\nParque de las Ciencias\nParque de las Ciencias Luis A. Ferré is an educational and recreational park located in Bayamón, Puerto Rico focused on science -related exhibitions. It is one of multiple touristic attractions inaugurated under the leadership of longtime mayor Ramon Luis Rivera and is named in honor of former Governor of Puerto Rico Luis A. Ferré . The park closed for renovations in February 2011.  It reopened on January 10, 2016 after renovations at the cost of eleven million dollars.  \\n\nPark features\nSome of the main features of the park are a natural observatory set on a hill at 285 feet (87m) above sea level , a zoo , and an artificial lake. It also features exhibitions of archaeology , space exploration , transportation , science and health , among many others.\\n\nThe park also includes parks dedicated to late comedian José Miguel Agrelot and child entertainer Joaquín Monserrat (\"Pacheco\").\\n\nThe park occupies 42 acres (17 ha) and connects with several main highways.\\n\nAs of January 2016, the prices are:\\n\nAdults: $10 \\nKids (2-12): $8 \\nElderly (65+): $5 \\nPeople with disabilities: $5\\n\nSome attractions such as the Mini Golf, Bungee Trampoline, Cups, Carousel, and Human Gyroscope have additional costs.  \\n\nGallery\nSee also\nReferences\nExternal links\n18°24\\xe2\\x80\\xb236\\xe2\\x80\\xb3N 66°09\\xe2\\x80\\xb237\\xe2\\x80\\xb3W ﻿ / ﻿ 18.41000°N 66.16028°W ﻿ / 18.41000; -66.16028 \\n\n\\n\nThis Puerto Rican culture-related article is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Parque_de_las_Ciencias&action=edit",
+        "https://es.wikipedia.org/wiki/Parque_de_las_Ciencias_(Bayam%C3%B3n)",
+        "https://en.wikipedia.org/w/index.php?title=Parque_de_las_Ciencias&oldid=1247812924",
+        "https://en.wikipedia.org/wiki/parque_de_las_ciencias"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.41,
+            -66.16028
+        ],
+        "title": "Parque de las Ciencias",
+        "type": "Point"
+    },
+    "categories": [
+        "Outdoor",
+        "Wildlife",
+        "Family-Friendly"
+    ]
+}

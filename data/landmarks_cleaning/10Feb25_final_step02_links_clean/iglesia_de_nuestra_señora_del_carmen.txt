@@ -1,0 +1,19 @@
+{
+    "main_content": "Contents\nIglesia de Nuestra Señora del Carmen\nThe Iglesia de Nuestra Señora del Carmen (English: Church of Our Lady of Mount Carmel ) is a church in Hatillo, Puerto Rico dating from 1879. It was listed on the National Register of Historic Places in 1984 and on the Puerto Rico Register of Historic Sites and Zones in 2000.   \\n\nIt was designed by Pedro A. Beibal .  \\n\nIt is one of 31 churches reviewed for listing on the National Register in 1984.  \\n\nSee also\nReferences\n\\n\nThis article on a Catholic church building is a stub . You can help Wikipedia by expanding it .\nThis article about a property in Puerto Rico on the National Register of Historic Places is a stub . You can help Wikipedia by expanding it .\nThis article about a church building or other Christian place of worship in Puerto Rico is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Iglesia_de_Nuestra_Se\\xc3\\xb1ora_del_Carmen&oldid=1240146300",
+        "https://en.wikipedia.org/w/index.php?title=Iglesia_de_Nuestra_Se%C3%B1ora_del_Carmen&action=edit",
+        "https://en.wikipedia.org/wiki/iglesia_de_nuestra_señora_del_carmen"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.486541,
+            -66.825279
+        ],
+        "title": "Iglesia De Nuestra Señora Del Carmen",
+        "type": "Point"
+    },
+    "categories": [
+        "Religion"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "main_content": "Contents\nCabo Rojo barrio-pueblo\nCabo Rojo barrio-pueblo is a barrio and the administrative center ( seat ) of Cabo Rojo , a municipality of Puerto Rico. Its population in 2010 was 1,078.    \\n\nAs was customary in Spain, the municipality in Puerto Rico has a barrio called pueblo which contains a central plaza, the municipal buildings (city hall), and a Catholic church. Fiestas patronales (patron saint festivals) are held in the central plaza every year.   \\n\nThe central plaza and its church\nThe central plaza, or square, is a place for official and unofficial recreational events and a place where people can gather and socialize from dusk to dawn. The Laws of the Indies , Spanish law, which regulated life in Puerto Rico in the early 19th century, stated the plaza\\'s purpose was for \"the parties\" (celebrations, festivities) , and that the square should be proportionally large enough for the number of neighbors . These Spanish regulations also stated that the streets nearby should be comfortable portals for passersby, protecting them from the elements: sun and rain.  \\n\nLocated across from the central plaza in Cabo Rojo barrio-pueblo is the Parroquia San Miguel Arcángel which was built between 1771 and 1783. Partly destroyed by lightning in 1861, the roof was rebuilt. Its current facade was designed by Onofre Llompart and its construction began in 1878. In 1965, the roof was changed as well as the church interior.  \\n\nHistory\nCabo Rojo barrio-pueblo was in Spain\\'s gazetteers  until Puerto Rico was ceded by Spain in the aftermath of the Spanish\\xe2\\x80\\x93American War under the terms of the Treaty of Paris of 1898 and became an unincorporated territory of the United States . In 1899, the United States Department of War conducted a census of Puerto Rico finding that the population of Cabo Rojo Pueblo was 2,744.  \\n \\n\nIn July 2020, Federal Emergency Management Agency appropriated funds for repairs to Cabo Rojo\\'s plaza.  \\n\nGallery\nPlaces in Cabo Rojo barrio-pueblo:\\n\nSee also\nReferences",
+    "relevant_links": [
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://es.wikipedia.org/wiki/Cabo_Rojo_(Cabo_Rojo)",
+        "https://ceb.wikipedia.org/wiki/Cabo_Rojo_Barrio-Pueblo",
+        "https://en.wikipedia.org/w/index.php?title=Cabo_Rojo_barrio-pueblo&oldid=1192174324"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.087206,
+            -67.146664
+        ],
+        "title": "Cabo Rojo Barrio-pueblo",
+        "type": "Point"
+    },
+    "categories": [
+        "Religion",
+        "Culture"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "main_content": "Contents\nTeodoro Moscoso Bridge\nThe Teodoro Moscoso Bridge  is a bridge in Puerto Rico . It works as an extension of PR-17 , also known as the Jesus T. Piñero Expressway, connecting this  thoroughfare with the Román Baldorioty de Castro Expressway ( PR-26 ). It crosses the San José Lagoon thereby linking Hato Rey and Rio Piedras in San Juan to Isla Verde in Carolina . The bridge has become the new entrance to the Luis Muñoz Marín International Airport . It was opened on February 28, 1994 under the administration of Governor Pedro Rosselló , this construction being the first to be held under a Public Private Partnership in Puerto Rico.  The bridge consists of four lanes, electronic signs , a toll plaza with a fee of $3.65 in each direction.  The bridge has flagpoles on both sides with alternating American and Puerto Rican flags. The bridge accepts AutoExpreso , Puerto Rico\\'s toll transponder system.  \\n\nToll Plaza\nEtymology\nThe bridge is named after Teodoro Moscoso , known as \"the architect of Operation Bootstrap \", a plan of economic expansion after World War II .\\n\nOverview\nAs one of the longest bridges in Puerto Rico, it measures 1.4 miles (2.3 km) in length. From Hato Rey and Rio Piedras , San Juan , the bridge serves as a direct entrance to Luis Muñoz Marín International Airport in Isla Verde , Carolina . The bridge goes over Laguna San José (San Jose Lagoon) .  \\n\nThe bridge was built with an investment of $126.8 million. As of April 2016, the standard toll is $3.65 collected on the South Shore for southbound and northbound traffic, making it the most expensive toll fare in Puerto Rico.  It is the first project of privatization of road on the island and across the United States. [ clarification needed ] \\n\nThe bridge holds one of the largest 10K races in the world, the World\\'s Best 10K , which attracts thousands of local and international competitors each year. \\n\nGallery\nSee also\nReferences",
+    "relevant_links": [
+        "https://es.wikipedia.org/wiki/Puente_Teodoro_Moscoso",
+        "https://en.wikipedia.org/w/index.php?title=Teodoro_Moscoso_Bridge&oldid=1246960561",
+        "https://en.wikipedia.org/wiki/teodoro_moscoso_bridge"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.42444,
+            -66.02472
+        ],
+        "title": "Teodoro Moscoso Bridge",
+        "type": "Point"
+    },
+    "categories": []
+}

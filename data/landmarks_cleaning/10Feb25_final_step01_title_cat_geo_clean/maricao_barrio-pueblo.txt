@@ -1,0 +1,23 @@
+{
+    "main_content": "Contents\nMaricao barrio-pueblo\nMaricao barrio-pueblo is a barrio and the administrative center ( seat ) of Maricao , a municipality of Puerto Rico. Its population in 2010 was 716.     \\n\nAs was customary in Spain, in Puerto Rico, the municipality has a barrio called pueblo which contains a central plaza, the municipal buildings (city hall), and a Catholic church. Fiestas patronales (patron saint festivals) are held in the central plaza every year.   \\n\nThe central plaza and its church\nThe central plaza, or square, is a place for official and unofficial recreational events and a place where people can gather and socialize from dusk to dawn. The Laws of the Indies , Spanish law, which regulated life in Puerto Rico in the early 19th century, stated the plaza\\'s purpose was for \"the parties\" (celebrations, festivities) , and that the square should be proportionally large enough for the number of neighbors . These Spanish regulations also stated that the streets nearby should be comfortable portals for passersby, protecting them from the elements: sun and rain.  \\n\nThere was a church made of wood in Maricao pueblo by 1864. The current church, Parroquia San Juan Bautista  in the central plaza was built between 1890 and 1898. Renovations were made to the church in 1960 and in 1984.  \\n\nHistory\nMaricao barrio-pueblo was in Spain\\'s gazetteers  until Puerto Rico was ceded by Spain in the aftermath of the Spanish\\xe2\\x80\\x93American War under the terms of the Treaty of Paris of 1898 and became an unincorporated territory of the United States . In 1899, the United States Department of War conducted a census of Puerto Rico finding that the population of Maricao Pueblo barrio was 1,179.  \\n \\n\nFestivals and events\nMaricao has only one annual festival, the End of the Coffee Harvest festival, known locally as the Acabe de Café . It celebrates the traditional harvest festival wherein the Hacienda owners would feed their workers at the end of the harvest. It is held on President\\'s Day weekend in February. It was founded in 1977 by then mayor, Vicente Byron, and has been held yearly for over thirty years.\\n\nGallery\nSee also\nReferences",
+    "relevant_links": [
+        "https://ceb.wikipedia.org/wiki/Maricao_Barrio-Pueblo",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://es.wikipedia.org/wiki/Maricao_(Maricao)",
+        "https://en.wikipedia.org/w/index.php?title=Maricao_barrio-pueblo&oldid=1192872303",
+        "https://nl.wikipedia.org/wiki/Maricao_(plaats)"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.18209,
+            -66.979743
+        ],
+        "title": "Maricao Barrio-pueblo",
+        "type": "Point"
+    },
+    "categories": [
+        "Festivals & Events",
+        "Religion",
+        "Culture"
+    ]
+}

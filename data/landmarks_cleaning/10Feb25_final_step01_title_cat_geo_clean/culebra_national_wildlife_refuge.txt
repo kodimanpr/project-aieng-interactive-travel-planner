@@ -1,0 +1,24 @@
+{
+    "main_content": "Contents\nCulebra National Wildlife Refuge\nThe Culebra National Wildlife Refuge  is a National Wildlife Refuge in Puerto Rico . It is part of the Caribbean Islands National Wildlife Refuge Complex , which is a unit of the U.S. Fish and Wildlife Service . It is the site of the former Camp Roosevelt.  \\n\nThe wildlife refuge covers an area of 1,450 acres (5.86 square kilometers) or one quarter of the island municipality of Culebra , protecting all of its outlying islands and keys (with the exception of the privately owned Key Norte ), and the wetlands and mangroves found in Ensenada Honda and southeast Culebra. The national refuge also includes the forested areas around Monte Resaca, the highest point in Culebra.  \\n\nHistory\nPortions of the island of Culebra were first designated a wildlife reserve in 1909 in accordance with an order proclaimed by then President Theodore Roosevelt. At the time, Culebra was administered by the United States Navy, and several areas were used for gunnery and bombing practice by the Navy and the Marine Corps until 1976. Portions of the Navy-administered lands were returned to the Puerto Rican government in 1977 while jurisdiction over the rest of the zone was passed to the United States Fish and Wildlife Service. On-site administration of the refuge was established in 1983.  \\n\nBackground\nMore than 50,000 seabirds of 13 species breed and nurture their young at the refuge annually, with the largest sooty tern nesting in the Culebra archipelago being found on Peninsula Flamenco.\\n\nMany other bird species permanently call Culebra home while three species of sea turtles , including leatherback and hawksbill , use the waters surrounding Culebra and nest on refuge beaches. \\n\nGallery\nReferences\nThis article incorporates public domain material from websites or documents of the United States Fish and Wildlife Service .\\n\nExternal links\n\\n\nThis article related to a protected area in the United States is a stub . You can help Wikipedia by expanding it .\nThis Culebra, Puerto Rico location article is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://es.wikipedia.org/wiki/Refugio_nacional_de_vida_silvestre_de_Culebra",
+        "https://ceb.wikipedia.org/wiki/Culebra_National_Wildlife_Refuge_(parke,_lat_18,33,_long_-65,29)",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://en.wikipedia.org/w/index.php?title=Culebra_National_Wildlife_Refuge&action=edit",
+        "https://en.wikipedia.org/w/index.php?title=Culebra_National_Wildlife_Refuge&oldid=1231868192",
+        "https://fr.wikipedia.org/wiki/Refuge_faunique_national_de_Culebra"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.3382888,
+            -65.2579344
+        ],
+        "title": "Culebra National Wildlife Refuge",
+        "type": "Point"
+    },
+    "categories": [
+        "Outdoor",
+        "Wildlife",
+        "Culture"
+    ]
+}

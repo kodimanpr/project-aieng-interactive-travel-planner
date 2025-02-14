@@ -1,0 +1,17 @@
+{
+    "main_content": "Contents\nBlack sand\nBlack sand is sand that is black in color. One type of black sand is a heavy, glossy, partly magnetic mixture of usually fine sands containing minerals such as magnetite , found as part of a placer deposit . Another type of black sand, found on beaches near a volcano , consists of tiny fragments of basalt .\\n\nWhile some beaches are predominantly made of black sand, even other color beaches (e.g. gold and white) can often have deposits of black sand, particularly after storms. Larger waves can sort out sand grains leaving deposits of heavy minerals visible on the surface of erosion escarpments .\\n\nPlacer deposits\nBlack sands are used by miners and prospectors to indicate the presence of a placer formation. Placer mining activities produce a concentrate that is composed mostly of black sand.  Black sand concentrates often contain additional valuables, other than precious metals: rare earth elements , thorium , titanium , tungsten , zirconium and others are often fractionated during igneous processes into a common mineral-suite that becomes black sands after weathering and erosion.\\n\nSeveral gemstones , such as garnet , topaz , ruby , sapphire , and diamond are found in placers and in the course of placer mining, and sands of these gems are found in black sands and concentrates.  Purple or ruby-colored garnet sand often forms a showy surface dressing on ocean beach placers.\\n\nAn example of a non-volcanic black sand beach is at Langkawi in Malaysia.  \\n\nBasalt fragments\nWhen lava contacts water, it cools rapidly and shatters into sand and fragmented debris of various size.  Much of the debris is small enough to be considered sand.  A large lava flow entering an ocean may produce enough basalt fragments to build a new black sand beach almost overnight.  The famous \"black sand\" beaches of Hawaii, such as Punalu\\xca\\xbbu Beach and Kehena Beach , were created virtually instantaneously by the violent interaction between hot lava and sea water.  Since a black sand beach is made by a lava flow in a one time event, they tend to be rather short lived since sands do not get replenished if currents or storms wash sand into deeper water. For this reason, the state of Hawaii has made it illegal to remove black sand from its beaches. Further, a black sand beach is vulnerable to being inundated by future lava flows, as was the case for Hawai\\xca\\xbbi\\'s Kaim\\xc5 b , usually known simply as Black Sand Beach, and Kalapana beaches.  An even shorter-lived black sand beach was Kamoamoa.  Unlike with white and green sand beaches, walking barefoot on black sand can result in burns, as the black sand absorbs more solar radiation .  \\n\nBeaches\nBlack sand has formed beaches in places including:    \\n\nSee also\nReferences",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Black_sand&action=edit",
+        "https://en.wikipedia.org/w/index.php?title=Black_sand&oldid=1195824966",
+        "https://en.wikipedia.org/wiki/black_sand"
+    ],
+    "geo_metadata": {
+        "coordinates": "Not Found",
+        "title": "Black Sand",
+        "type": "Point"
+    },
+    "categories": [
+        "Festivals & Events",
+        "Beach"
+    ]
+}

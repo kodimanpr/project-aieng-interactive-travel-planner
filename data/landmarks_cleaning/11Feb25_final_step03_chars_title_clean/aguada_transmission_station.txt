@@ -1,0 +1,18 @@
+{
+    "main_content": "Contents\nNaval Radio Transmitter Facility Aguada\nNaval Radio Transmitter Facility Aguada is a tall guyed radio mast erected by the United States Navy . It is used as a facility of the US Navy for ashore and U.S. and NATO ships, planes, and submarines operating at sea in areas of broadcast coverage near Aguada, Puerto Rico at 18°23\\xe2\\x80\\xb255\\xe2\\x80\\xb3N 67°10\\xe2\\x80\\xb238\\xe2\\x80\\xb3W ﻿ / ﻿ 18.39861°N 67.17722°W ﻿ / 18.39861; -67.17722 by using radio waves in the very low frequency range.\\n\nThe Aguada transmission station, originally part of \"The Naval Radio Transmitter Facility Aguada\", works on very low frequency (VLF) 40.75 kHz with the callsign NAU. The Naval Radio Transmitter Facility Aguada, apparently consisted of three locations with guyed towers: the primary Aguada transmission station in a 330-acre site; the Naval Radio Receiver at a 242-acre site at Campamento Santiago in Salinas, Puerto Rico ; and the Naval Radio Transmitter at a 408-acre site in Isabela County .  Only the tallest with a height of 367.3 metres (1205 ft) is still standing and in use., while the other two were dismantled. It is the tallest structure in Puerto Rico and in the Caribbean region.\\n\nCommunication with submarines\nThis transmission station emits signals below 50 kHz, being capable of penetrating ocean depths to approximately 200 metres. The United States Navy communicates with submarines on these frequencies.  \\n\nDue to the low frequency, a VLF broadcast antenna needs to be quite large. In fact, broadcasting sites are usually a few square kilometres. This prevents such antennas being installed on submarines. Submarines carry only a VLF reception aerial and do not respond on such low frequencies, so a ground-to-submarine VLF broadcast is always a one-way broadcast, originating on the ground and received aboard the boat. If two-way communication is needed, the boat must ascend to periscope depth (just below the surface) and raise a telescopic mast antenna to communicate on higher frequencies (such as HF , UHF , or VHF ).\\n\nBecause of the narrow bandwidth of this band, VLF radio signals cannot carry audio (voice), and can transmit text messages only at a slow data rate. VLF data transmission rates are around 300 bit/s – or about 35 eight-bit ASCII characters per second (or the equivalent of a sentence every two seconds) – a total of 450 words per minute. Simply shifting to 7 bit ASCII increases the number of transmitted characters per time unit by 14%. An additional shift to a 6 bit or a 5 bit code (such as the baudot code ) would result in speeds of more than 600 and 700 words per minute.\\n\nIn situations where GPS is denied to U.S. forces, VLF may be used to help provide position navigation and timing. The VLF stations, such as this in Puerto Rico, are in fixed locations. As part of a backup system, the VLF signals may be used to triangulate a user\\'s position on the globe, in much the same way a GPS receiver is used.  \\n\nSee also\nReferences\nExternal links",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Naval_Radio_Transmitter_Facility_Aguada&oldid=1161291533",
+        "https://en.wikipedia.org/wiki/aguada_transmission_station"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.39861,
+            -67.17722
+        ],
+        "title": "Naval Radio Transmitter Facility Aguada",
+        "type": "Point"
+    },
+    "categories": [
+        "Beach"
+    ]
+}

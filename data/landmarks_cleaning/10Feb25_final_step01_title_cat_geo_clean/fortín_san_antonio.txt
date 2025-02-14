@@ -1,0 +1,19 @@
+{
+    "main_content": "Contents\nFortín San Antonio\nFortín de San Antonio was a fortification built by the Spanish in San Juan, Puerto Rico with the aim of fortifying the San Antonio Bridge. The bridge was of great strategic importance, given that it was the only land accessible entrance to the islet of San Juan. It was located southeast of Fortín de San Gerónimo .  \\n\nHistory\nConstruction began in 1568 of the bridge which would link the islet of San Juan with the island of Puerto Rico . The bridge at this time was made of wood with a door with a permanent garrison.\\n\nIn 1595, 26 ships led by the privateer Sir Francis Drake attempted to land his forces near the coast of Escambron. Coastal defenses in Boqueron and the cannon batteries of San Antonio bridge repelled his landing attempt, forcing Drake's armada to withdraw and attempt to enter San Juan Bay . The bay defenses ultimately thwarted his attack.\\n\nIn 1598, George Clifford, 3rd Earl of Cumberland , attacked the islet of San Juan. The English forces managed land at El Boquerón, and overwhelmed the Spanish defensive forces which had been debilitated by a recent dysentery outbreak. The English managed to lay siege to the city which subsequently surrendered. However, a disease outbreak which killed around 400 English troops forced the English to withdraw on 28 August.\\n\nIn 1776, the fortified bridge of San Antonio was replaced by a new reinforced structure designed by Thomas O\\'Daly. The structure is later remodeled in 1783 by Juan Francisco Mestre. Further strengthening of the bridgehead was done by Ignacio Mascaro and Homar in 1796.\\n\nBoth the fort of San Jeronimo as the fortified facilities San Antonio Bridge were instrumental in repelling the English attack of 1797 in which the English army, led by Sir Ralph Abercromby, sought to besiege the island of San Juan. The batteries of Fort San Antonio were heavily damaged by the impact of English cannon fire.\\n\nSee Battle of San Juan (1797) .\\n\nThe reconstruction and renovation of Fort San Antonio was completed in 1800 in which a battery of two cannons was added. In peacetime, the fort was used as a tax control point for cattle ranchers .\\n\nBy 1822 the bridge was in great disrepair as well as the entire area including the fort of San Jeronimo and El Morro. Repairs were made under the leadership of Miguel de la Torre , who was serving as governor.  \\nIn 1894, Governor Antonio Dabán ordered the demolition of the entire complex to build a new metal bridge into the islet of San Juan.  The only remnants of Fort San Antonio which survive today is a small portion of a rampart which is visible between the new Guillermo Esteves bridge and Dos Hermanos Bridge .\\n\nReferences\n18\\xc2\\xb027\\xe2\\x80\\xb235\\xe2\\x80\\xb3N 66\\xc2\\xb005\\xe2\\x80\\xb210\\xe2\\x80\\xb3W ﻿ / ﻿ 18.459857\\xc2\\xb0N 66.086187\\xc2\\xb0W ﻿ / 18.459857; -66.086187 \\n",
+    "relevant_links": [
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://en.wikipedia.org/w/index.php?title=Fort\\xc3\\xadn_San_Antonio&oldid=1173520283"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.459857,
+            -66.086187
+        ],
+        "title": "Fortín San Antonio",
+        "type": "Point"
+    },
+    "categories": [
+        "Culture",
+        "Beach"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "main_content": "Contents\nCentral Aguirre Historic District\nThe Central Aguirre Historic District , in Aguirre, Salinas, Puerto Rico was listed on the National Register of Historic Places in 2002.  Following the acquisition of Puerto Rico by the U.S. government in 1898, as a colonial consequence of the Spanish-American War , the town was originally built as a company town by Ford & Co. (no relation to the automobile manufacturer), an American investment firm that developed a sugar cane manufacturing and export business, and its accompanying employee town facilities.\\n\nIt included 317 contributing buildings , 17 contributing structures , and seven contributing sites on 326 acres (1.32 km 2 ).     The sugar mill town and its facilities were constructed into separate living areas for white Americans, the American Zone, and those for Puerto Rican employees, The Puerto Rican Zone. On December 26, 1934, a series of protracted labor strikes began against the structured racial segregation and subsistent wages of the sugar cane industry, locally, and across Puerto Rico. The international price of sugar declined over the course of the 20th century, and by the 1960s, the company abandoned the town. At the time, its operation was taken over by local and national government, but with the continued decline of the international sugar price, the factory and its facilities were permanently closed in 1993.\\n\nIn 2020, American Express awarded funds for the restoration of the Central Aguirre Historic District.  It was also listed on 2020 World Monuments Watch .  \\n\nGallery\nReferences\n\\n\nThis article about a property in Puerto Rico on the National Register of Historic Places is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Central_Aguirre_Historic_District&action=edit",
+        "https://en.wikipedia.org/w/index.php?title=Central_Aguirre_Historic_District&oldid=1239940755",
+        "https://en.wikipedia.org/wiki/central_aguirre_historic_district"
+    ],
+    "geo_metadata": {
+        "coordinates": "Not Found",
+        "title": "Central Aguirre Historic District",
+        "type": "Point"
+    },
+    "categories": [
+        "Culture"
+    ]
+}

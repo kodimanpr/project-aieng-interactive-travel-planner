@@ -1,0 +1,17 @@
+{
+    "main_content": "Contents\nCasa Franceschi Antongiorgi\nThe Casa Franceschi Antongiorgi (Franceschi Antongiorgi House), located at 25 de Julio St. in Yauco, Puerto Rico , is a house listed on the National Register of Historic Places in 1985.  It has also been known as Casa Fleming .  \\n\nThe house was built in 1907-1910 by the French architect André Troublard for Alejandro Franceschi Antongiorgi, a rich landowner and lover of the arts . Antongiorgi frequently held banquets , concerts and meetings with visiting artists in his house.  \\n\nIt is Beaux Arts in style and has Classical Revival details.  Architect André Troublard also designed the Logia Masónica Hijos de la Luz , also in Yauco and listed on the National Register.   \\n\nReferences\n\\n\nThis article about a property in Puerto Rico on the National Register of Historic Places is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Casa_Franceschi_Antongiorgi&action=edit",
+        "https://en.wikipedia.org/w/index.php?title=Casa_Franceschi_Antongiorgi&oldid=1240279810",
+        "https://en.wikipedia.org/wiki/casa_franceschi_antongiorgi"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.03583,
+            -66.84917
+        ],
+        "title": "Casa Franceschi Antongiorgi",
+        "type": "Point"
+    },
+    "categories": []
+}

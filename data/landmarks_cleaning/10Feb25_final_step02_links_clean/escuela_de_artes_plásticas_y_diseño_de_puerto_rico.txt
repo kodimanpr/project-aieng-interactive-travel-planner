@@ -1,0 +1,19 @@
+{
+    "main_content": "Contents\nEscuela de Artes Plásticas y Diseño de Puerto Rico\nThe Escuela de Artes Plásticas y Diseño de Puerto Rico (English: School of Plastic Arts and Design of Puerto Rico ) is an institution of higher learning engaged in the training of students in the visual arts .  It is located in Old San Juan , San Juan , Puerto Rico .  The school was founded in 1965 as part of the Institute of Puerto Rican Culture . Painter José Antonio Torres Martinó was one of the school\\'s co-founders.  The school\\'s first director was Miguel Pou .  \\n\nAs an autonomous school it was created by an amendment of legislation by the Legislative Assembly of Puerto Rico in 1971, and achieved its definitive form and autonomy under Public Law 54 of August 22, 1990.\\n\nThe school offers bachelor degrees in seven concentrations: graphic arts , photography and design (with specialties in digital graphic design and photography and motion), art education , sculpture , painting , industrial design and fashion design . Today, the school is Puerto Rico\\'s foremost institution of higher education in the visual arts. The building used to be the Insular Madhouse or Manicomio Insular.\\n\nGallery\nReferences\nExternal links\n18°28\\xe2\\x80\\xb204\\xe2\\x80\\xb3N 66°07\\xe2\\x80\\xb217\\xe2\\x80\\xb3W ﻿ / ﻿ 18.467741°N 66.121293°W ﻿ / 18.467741; -66.121293 \\n\n\\n\nThis Puerto Rico -related article is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Escuela_de_Artes_Pl\\xc3\\xa1sticas_y_Dise\\xc3\\xb1o_de_Puerto_Rico&oldid=1247387142",
+        "https://en.wikipedia.org/w/index.php?title=Escuela_de_Artes_Pl%C3%A1sticas_y_Dise%C3%B1o_de_Puerto_Rico&action=edit",
+        "https://en.wikipedia.org/wiki/escuela_de_artes_plásticas_y_diseño_de_puerto_rico"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.467741,
+            -66.121293
+        ],
+        "title": "Escuela De Artes Plásticas Y Diseño De Puerto Rico",
+        "type": "Point"
+    },
+    "categories": [
+        "Culture"
+    ]
+}

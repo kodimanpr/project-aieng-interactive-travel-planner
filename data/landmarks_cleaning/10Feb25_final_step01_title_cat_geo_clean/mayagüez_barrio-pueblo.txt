@@ -1,0 +1,21 @@
+{
+    "main_content": "Contents\nMayagüez barrio-pueblo\nMayagüez barrio-pueblo is a barrio and the administrative center ( seat ) of Mayagüez , a municipality of Puerto Rico. Its population in 2010 was 26,903.     \\n\nAs was customary in Spain, in Puerto Rico, the municipality has a barrio called pueblo which contains a central plaza, the municipal buildings (city hall), and a Catholic church. Fiestas patronales (patron saint festivals) are held in the central plaza every year.   \\n \\n\nThe central plaza and its church\nThe central plaza, or square, is a place for official and unofficial recreational events and a place where people can gather and socialize from dusk to dawn. The Laws of the Indies , Spanish law, which regulated life in Puerto Rico in the early 19th century, stated the plaza\\'s purpose was for \"the parties\" (celebrations, festivities) , and that the square should be proportionally large enough for the number of neighbors . These Spanish regulations also stated that the streets nearby should be comfortable portals for passersby, protecting them from the elements: sun and rain.  \\n\nLocated across the central plaza in Mayagüez barrio-pueblo is the Catedral Nuestra Señora de la Candelaria , a Roman Catholic church  which was inaugurated in 1836. There have been a number of churches at the site since the first one which was made of wood and built in 1763. The subsequent church made of mamposteria (rubblework masonry) was built in 1780. In 1836, Vicente Piera designed the church which stands there now, however, the 1918 San Fermín earthquake damaged its towers and structure. In 1922 the facade was remodeled based on a design by Luis Perocier. The current church facade was designed by Carlos J. Ralat and was finished in 2004. The columns are reminiscent of Puerto Rico church artchitecture of the 19th century.  \\n\nGallery\nSee also\nReferences",
+    "relevant_links": [
+        "https://ceb.wikipedia.org/wiki/Mayag%C3%BCez_Barrio-Pueblo",
+        "https://en.wikipedia.org/w/index.php?title=Mayag\\xc3\\xbcez_barrio-pueblo&oldid=1192941971",
+        "https://es.wikipedia.org/wiki/Mayag%C3%BCez_(Mayag%C3%BCez)",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://nl.wikipedia.org/wiki/Mayag%C3%BCez_(plaats)"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.203335,
+            -67.14617
+        ],
+        "title": "Mayagüez Barrio-pueblo",
+        "type": "Point"
+    },
+    "categories": [
+        "Religion"
+    ]
+}

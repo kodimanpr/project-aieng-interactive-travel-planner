@@ -1,0 +1,21 @@
+{
+    "main_content": "Contents\nPuerto Rico Museum of Contemporary Art\nThe Puerto Rico Museum of Contemporary Art , often abbreviated to MAC , is a contemporary art museum in Santurce, Puerto Rico .\\n\nHistory\nThe museum was founded by artists and sponsors of the civil society and was officially instituted on October 8, 1984 as a non-profit organization. After its incorporation, the Museum offered its services in public spaces like Plaza Las Américas and amongst offices of known contributors.\\n\nIn 1988, the University of the Sacred Heart granted the museum a provisional home free of charge at the Magdalena Sofía Barat building. After 15 years, the museum officially petitioned the government to grant them the Labra Historical Building in Santurce . On October 20, 2002, the museum and Governor Sila Calderón signed a contract granting the museum the rights for the building.\\n\nBuilding\nThe museum building is called Rafael M. Labra Building. It was built in 1916 as part of a project from the Paul G. Miller Commission for the construction of public schools in urban zones. The building was designed by architect Adrian C. Finlayson.  \\n\nThe building belonged to the Department of Public Education of Puerto Rico since its construction and in 1987 was registered as the Rafael M. Labra High School on the National Register of Historic Places ,   and was added to the Puerto Rico Register of Historic Sites and Zones in 2000.  \\n\nThe architecture is of Georgian style that prevailed during the 18th century in England . Its restoration was in charge of Puerto Rican architect Otto Reyes Casanova and started from 1995 until 2002.\\n\nIt is located about ten minutes walking distance from La Placita de Santurce .  \\n\nCollection\nToday, the museum\\'s collection consists of art from the mid-20th century to today from artists in Puerto Rico, the Caribbean, and Latin America, such as Myrna Báez , Daniel Lind-Ramos , and Noemí Ruiz .  \\n\nSee also\nReferences\nExternal links",
+    "relevant_links": [
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://es.wikipedia.org/wiki/Museo_de_Arte_Contempor%C3%A1neo_de_Puerto_Rico",
+        "https://www.lonelyplanet.com/articles/best-places-to-see-art-in-san-juan",
+        "https://ca.wikipedia.org/wiki/Museu_d%27Art_Contemporani_de_Puerto_Rico",
+        "https://en.wikipedia.org/w/index.php?title=Puerto_Rico_Museum_of_Contemporary_Art&oldid=1240268392"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.450072,
+            -66.074406
+        ],
+        "title": "Puerto Rico Museum of Contemporary Art",
+        "type": "Point"
+    },
+    "categories": [
+        "Culture"
+    ]
+}

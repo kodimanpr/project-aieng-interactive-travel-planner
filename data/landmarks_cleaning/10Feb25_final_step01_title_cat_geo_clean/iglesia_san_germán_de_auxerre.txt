@@ -1,0 +1,23 @@
+{
+    "main_content": "Contents\nIglesia San Germán de Auxerre\nThe Iglesia San Germán de Auxerre (English: Church of Saint Germanus of Auxerre ) is a historic Roman Catholic parish church located in San Germán, Puerto Rico , overlooking the main plaza of the town. Spanish settlers founded San Germán parish in 1510 and built the first permanent church in 1688. The church was repaired and reconstructed between 1717 and 1739 after damages caused by numerous earthquakes during the 18th century. Between 1834 and 1897, new repairs were made to the building, and in 1920, the tower was rebuilt after the 1918 earthquake . With trompe-l\\'\\xc5\\x93il painting that imitates wood coffers on the ceiling, the Church of San Germán\\'s interior is one of the most lavishly decorated on the island.  The vault and arches are painted in the trompe-l\\'\\xc5\\x93il manner. The church conserves the 1869 marble altar as well as ten other 19th century smaller secondary marble altars. A collection of 17th century metalwork, 18th century wooden carvings and a painting by José Campeche are kept in the choir loft. It was listed on the National Register of Historic Places in 1984.\\n\nGallery\nSee also\nReferences\nThis article incorporates public domain material from Church of San Germán Auxerre . National Park Service . \\n\n\\n\nThis article about a property in Puerto Rico on the National Register of Historic Places is a stub . You can help Wikipedia by expanding it .\nThis article about a church building or other Christian place of worship in Puerto Rico is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://es.wikipedia.org/wiki/Iglesia_de_San_Germ%C3%A1n_de_Auxerre_(San_Germ%C3%A1n)",
+        "https://en.wikipedia.org/w/index.php?title=Iglesia_San_Germ\\xc3\\xa1n_de_Auxerre&oldid=1174502138",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://arz.wikipedia.org/wiki/%D9%83%D9%86%D9%8A%D8%B3%D9%87_%D8%B3%D8%A7%D9%86_%D8%AC%D9%8A%D8%B1%D9%85%D8%A7%D9%86_%D8%AF%D9%89_%D8%A7%D9%88%D9%83%D8%B3%D9%8A%D8%B1",
+        "https://en.wikipedia.org/w/index.php?title=Iglesia_San_Germ%C3%A1n_de_Auxerre&action=edit"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.082372,
+            -67.04397
+        ],
+        "title": "Iglesia San Germán De Auxerre",
+        "type": "Point"
+    },
+    "categories": [
+        "Outdoor",
+        "Religion",
+        "Family-Friendly"
+    ]
+}

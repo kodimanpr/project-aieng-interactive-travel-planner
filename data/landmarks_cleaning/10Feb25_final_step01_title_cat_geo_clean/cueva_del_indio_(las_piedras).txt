@@ -1,0 +1,20 @@
+{
+    "main_content": "Contents\nCueva del Indio (Las Piedras)\nCueva del Indio , in Las Piedras, Puerto Rico , is a prehistoric rock art site in what is now a public park.  It was listed on the National Register of Historic Places in 2003.  \\n\nArtifacts at the site appear to stem from Late Ceramic Period, third phase, i.e., from A.D. 1200 to 1500.   \\n\nReferences\n\\n\nThis article about a property in Puerto Rico on the National Register of Historic Places is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D1%8D%D0%B2%D0%B0-%D0%B4%D0%B5%D0%BB%D1%8C-%D0%98%D0%BD%D0%B4%D0%B8%D0%BE",
+        "https://arz.wikipedia.org/wiki/%D9%83%D9%88%D9%8A%D9%81%D8%A7_%D8%AF%D9%8A%D9%84_%D8%A7%D9%86%D8%AF%D9%8A%D9%88",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://en.wikipedia.org/w/index.php?title=Cueva_del_Indio_(Las_Piedras)&oldid=1157973735",
+        "https://en.wikipedia.org/w/index.php?title=Cueva_del_Indio_(Las_Piedras)&action=edit"
+    ],
+    "geo_metadata": {
+        "coordinates": "Not Found",
+        "title": "Cueva Del Indio (las Piedras)",
+        "type": "Point"
+    },
+    "categories": [
+        "Outdoor",
+        "Family-Friendly",
+        "Culture"
+    ]
+}

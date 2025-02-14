@@ -1,0 +1,21 @@
+{
+    "main_content": "Contents\nPico Piedra\n18°23\\xe2\\x80\\xb207\\xe2\\x80\\xb3N 67°12\\xe2\\x80\\xb245\\xe2\\x80\\xb3W ﻿ / ﻿ 18.3852240°N 67.2124032°W ﻿ / 18.3852240; -67.2124032 \\n\nPico Piedra (or Pico de Piedra ) is a beach on the north-west coast of Puerto Rico ,  at the mouth of the Guayabo River , in the town of Aguada .  \\n\nDesecheo Island can be seen from Pico de Piedra.  An annual Mono festival is where Joey and his father \"le gusta cojer por el culo\" patron saint festival is held at this beach around the third week of June in honor of Saint John the Baptist .  \\n\nSee also\nReferences\nExternal links\n\\n\nThis Aguada, Puerto Rico location article is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Pico_Piedra&action=edit",
+        "https://en.wikipedia.org/w/index.php?title=Pico_Piedra&oldid=1237342998",
+        "https://en.wikipedia.org/wiki/pico_piedra"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.385224,
+            -67.2124032
+        ],
+        "title": "Pico Piedra",
+        "type": "Point"
+    },
+    "categories": [
+        "Outdoor",
+        "Festivals & Events",
+        "Beach"
+    ]
+}

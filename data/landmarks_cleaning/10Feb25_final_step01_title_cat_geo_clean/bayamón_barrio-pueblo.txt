@@ -1,0 +1,21 @@
+{
+    "main_content": "Contents\nBayamón barrio-pueblo\nBayamón barrio-pueblo is a barrio and the administrative center ( seat ) of Bayamón , a municipality of Puerto Rico. Its population in 2010 was 4,746.     \\n\nAs was customary in Spain, in Puerto Rico, the municipality has a barrio called pueblo which contains a central plaza, the municipal buildings (city hall), and a Catholic church. Fiestas patronales (patron saint festivals) are held in the central plaza every year.   \\n\nThe central plaza and its church\nThe central plaza, or square, is a place for official and unofficial recreational events and a place where people can gather and socialize from dusk to dawn. The Laws of the Indies , Spanish law, which regulated life in Puerto Rico in the early 19th century, stated the plaza\\'s purpose was for \"the parties\" (celebrations, festivities) , and that the square should be proportionally large enough for the number of neighbors . These Spanish regulations also stated that the streets nearby should be comfortable portals for passersby, protecting them from the elements: sun and rain.  \\n\nLocated across from the central plaza in Bayamón barrio-pueblo is the church Parroquia Invención de la Santa Cruz .  The parish church in Bayamón was first built in 1772 and made of wood. The second church made of masonry sustained damages as a result of an earthquake in 1867 and was repaired in 1868.  \\n\nHistory\nBayamón barrio-pueblo was in Spain\\'s gazetteers  until Puerto Rico was ceded by Spain in the aftermath of the Spanish\\xe2\\x80\\x93American War under the terms of the Treaty of Paris of 1898 and became an unincorporated territory of the United States . In 1899, the United States Department of War conducted a census of Puerto Rico finding that the population of Bayamón Pueblo was 2,218.  \\n \\n\nGallery\nPlaces in Bayamón barrio-pueblo:\\n\nSee also\nReferences",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Bayam\\xc3\\xb3n_barrio-pueblo&oldid=1196454119",
+        "https://es.wikipedia.org/wiki/Bayam%C3%B3n_(Bayam%C3%B3n)",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://ceb.wikipedia.org/wiki/Bayam%C3%B3n_Barrio-Pueblo"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.394672,
+            -66.15429
+        ],
+        "title": "Bayamón Barrio-pueblo",
+        "type": "Point"
+    },
+    "categories": [
+        "Religion",
+        "Culture"
+    ]
+}

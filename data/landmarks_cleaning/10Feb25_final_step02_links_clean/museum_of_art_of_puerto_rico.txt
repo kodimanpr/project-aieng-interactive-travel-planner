@@ -1,0 +1,20 @@
+{
+    "main_content": "Contents\nMuseum of Art of Puerto Rico\nThe Museum of Art of Puerto Rico  is an art museum in Santurce , a barrio of San Juan, Puerto Rico , with 18 exhibition halls.  The museum is located in a historic building, formerly occupied by the San Juan Municipal Hospital.  \\n\nHistory\nThe museum building, designed by architect William H. Shimmelphening and built in 1920, is the remaining building in the former ruined complex of the San Juan Municipal Hospital. The building served as a hospital until 1966 when most of its body was moved to the newly inaugurated Centro Médico de Río Piedras (Río Piedras Medical Center). Afterwards it served as office space for the Puerto Rico Department of Transportation and Public Works until 1975.  \\n\nThe idea behind the Puerto Rico Museum of Art dates to 1995, when the Puerto Rico Tourism Company  with funding by the Government Development Bank for Puerto Rico ( Banco Gubernamental de Fomento , BGF). Instead of demolishing the building, the old structure was incorporated into the new museum building.  \\n\nPermanent collection\n\\nThe permanent collection of the Museum of Art of Puerto Rico is divided into 24 galleries located on the third and fourth levels of the museum building. \nGallery\nSee also\nReferences\nExternal links\n\\n\nThis article related to a museum in the Caribbean is a stub . You can help Wikipedia by expanding it .\nThis article about a Puerto Rican building or structure related topic is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Museum_of_Art_of_Puerto_Rico&action=edit",
+        "https://en.wikipedia.org/w/index.php?title=Museum_of_Art_of_Puerto_Rico&oldid=1236596571",
+        "https://es.wikipedia.org/wiki/Museo_de_arte_de_Puerto_Rico",
+        "https://en.wikipedia.org/wiki/museum_of_art_of_puerto_rico"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.4484556,
+            -66.0662111
+        ],
+        "title": "Museum of Art of Puerto Rico",
+        "type": "Point"
+    },
+    "categories": [
+        "Culture"
+    ]
+}

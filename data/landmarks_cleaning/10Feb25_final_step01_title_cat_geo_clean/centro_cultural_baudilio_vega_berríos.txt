@@ -1,0 +1,18 @@
+{
+    "main_content": "Contents\nCentro Cultural Baudilio Vega Berríos\nThe Centro Cultural Baudilio Vega Berríos is a cultural center located in Mayagüez, Puerto Rico .\\nLocated in the heart of the city, aside the City Hall and the Teatro Yagüez , extending between Candelaria Street (former McKinley ) at front to the Ernesto Ramos Antonini Street (former Eleven of August ) at back.  \\n\nArchitecture\nThe Cultural Center of Mayagüez is a two-story building with a facade that is dominated by arches, built at a cost of one million dollars under the management of Baudilio Vega Berríos , for whom the building was named. It was built strictly with municipal funds.  It has a theater with capacity for seven hundred people, a library, a history museum, reading and conference rooms as well as a modern cafeteria.  \\n\nHistory\nThe Centro Cultural Baudilio Vega Berríos is located in place that for many years occupied the town fire station.  The Cultural Center began as an organization founded in 1958 under the presidency of Amador Ramírez Silva as part of a project of the Puerto Rico Institute of Culture .  With the cooperation and donations of different institutions and people from Mayaguez, the Center starts to become a reality with a series of activities.  Since then the Municipal Administration has become an important column in the organization. [ citation needed ] \\n\nWith the city\\'s bicentennial approaching in 1960, the Bicentennial Committee proposed the construction of a building that would house the different facets of Mayagüez cultural life.  In 1968, the Cultural Center was finally inaugurated.  \\n\nDon Baudilio Vega Berríos, Mayor of the city , said during its inauguration, that: \"... in fact, at all classes social-working, artisans, dependents on commerce, businessmen, industrialists, it was notable the concern towards the joy in their cultural recreational field as so many jobs in their daily lives\".  Therefore, the building was constructed for the Cultural Center of the city of Mayagüez aiming to replace the old municipal theater using modern construction techniques.  \\n\nOn September 3, 1983 being mayor of the city Benjamin Cole , the Cultural Center was dedicated in honor of Baudilio Vega.  \\nCurrently, the Cultural Center of Mayagüez houses a public library, cultural theater and tourist office as well as the Municipal Bomba School.  \\n\nReferences\n18\\xc2\\xb012\\xe2\\x80\\xb204.01\\xe2\\x80\\xb3N 67\\xc2\\xb008\\xe2\\x80\\xb223.91\\xe2\\x80\\xb3W ﻿ / ﻿ 18.2011139\\xc2\\xb0N 67.1399750\\xc2\\xb0W ﻿ / 18.2011139; -67.1399750 \\n",
+    "relevant_links": [
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://en.wikipedia.org/w/index.php?title=Centro_Cultural_Baudilio_Vega_Berr\\xc3\\xados&oldid=1213124671"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.2011139,
+            -67.139975
+        ],
+        "title": "Centro Cultural Baudilio Vega Berríos",
+        "type": "Point"
+    },
+    "categories": [
+        "Culture"
+    ]
+}

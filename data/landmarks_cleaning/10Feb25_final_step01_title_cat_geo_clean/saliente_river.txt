@@ -1,0 +1,21 @@
+{
+    "main_content": "Contents\nSaliente River\nThe Saliente River is a river in Jayuya, Puerto Rico .\\n Piedra Escrita is a large boulder in the river with petroglyphs from Taino .   \\n\nSee also\n18\\xc2\\xb013\\xe2\\x80\\xb206\\xe2\\x80\\xb3N 66\\xc2\\xb035\\xe2\\x80\\xb225\\xe2\\x80\\xb3W ﻿ / ﻿ 18.2182896\\xc2\\xb0N 66.5901729\\xc2\\xb0W ﻿ / 18.2182896; -66.5901729  \\n\nReferences\nExternal links\n\\n\nThis article related to a river in Puerto Rico is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://ceb.wikipedia.org/wiki/R%C3%ADo_Saliente",
+        "https://en.wikipedia.org/w/index.php?title=Saliente_River&oldid=1140586425",
+        "https://www.discoverpuertorico.com/article/taina-route-indigenous-culture-puerto-rico",
+        "https://en.wikipedia.org/w/index.php?title=Saliente_River&action=edit"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.2182896,
+            -66.5901729
+        ],
+        "title": "Saliente River",
+        "type": "Point"
+    },
+    "categories": [
+        "Outdoor"
+    ]
+}

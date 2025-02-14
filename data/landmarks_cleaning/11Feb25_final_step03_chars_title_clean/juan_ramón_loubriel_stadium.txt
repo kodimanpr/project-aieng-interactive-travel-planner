@@ -1,0 +1,20 @@
+{
+    "main_content": "Contents\nJuan Ramón Loubriel Stadium\nJuan Ramón Loubriel Stadium  is a soccer-specific stadium located in Bayamón, Puerto Rico . It is best known as the former home of the Puerto Rico Islanders of the North American Soccer League and current home of the Bayamón FC of the Liga Puerto Rico . The stadium can seat up to 12,500 people. It has easy access the metro station known as \"Deportivo Station.\"\\n\nHistory\nBuilt in 1973 as a baseball stadium with a capacity of 12,500, it was home to the Vaqueros de Bayamón until 2003 when the team became defunct.\\n\nIn 2003 with the Vaqueros folding, the stadium seemed doomed to be relegated to a youth stadium or to demolition, but late that same year the stadium became home of the Puerto Rico Islanders . Its \" L \" shaped stands were not suited for the sport and it originally had an awkward feel to it since the stand behind the goal angles away from the pitch.\\n\nAnother name that has been used for the stadium is \"La Islandera\" since it was the home of the Islanders.  \\n\nIt was home to Bayamon FC , a professional football team in the Puerto Rico Soccer League now playing in the Bayamon Soccer Complex , and Sevilla Bayamon FC, now called Sevilla-FC Juncos ; they moved to Juncos .\\n\nIt has also played host to the CFU Club Championship Group C in 2006, where the Islanders played but lost to Trinidad and Tobago , W Connection 0-1 and the Puerto Rico MLS-USL Challenge in 2007, and two 2010 World Cup qualifying matches against the Dominican Republic and Honduras .\\n\nThe renovations to the stadium have been made to upgrade a stadium created for baseball to be soccer-specific. The stadium will also have new dressing rooms and bathrooms and the replacement of some seating. There will also be some temporary bleachers until the addition for new seating is completed later. Lighting has also been adjusted to be more uniform across the field.  \\n\nThe remodeling of the stadium will be done in several stages, with a total cost of $7 million.  \\n\nIn 2015, it was announced home to Puerto Rico FC of the North American Soccer League . The team played in the 2016 North American Soccer League season of Fall season.\\n\nOn September 22, 2017, the stadium was severely damaged by Hurricane Maria , which led to cancellations of the games and forced Puerto Rico FC to play the next same matches in neutral venues.\\n\nThe first match played after Hurricane María was a friendly match between Puerto Rico women\\'s national football team and Argentina on September 2, 2018.  \\n\nOn November 19, 2019, it was announced that Bayamón FC will be using the stadium for its home matches of the Liga Puerto Rico .\\n\nEvents\nThe first boxing bout between Alfredo Escalera and Alexis Argüello dubbed The Bloody Battle of Bayamon , took place at the stadium on January 28, 1978.\\n\nOn July 16, 1988, wrestler Bruiser Brody was fatally stabbed in the shower by fellow wrestler Jose Huertas Gonzalez.\\n\nOn September 26, 1992 the heavy metal band Iron Maiden played on their Fear of the Dark Tour. This was the first time Iron Maiden visited Puerto Rico.\\n\nThe popstar Madonna performed a sold out concert at the stadium on October 26, 1993 during The Girlie Show World Tour .\\n\nAmerican pop-singer Michael Jackson planned to perform there in November 1993 as part of his Dangerous World Tour , but the concert was cancelled due to Jackson's illness\\n\nThe rock band Aerosmith performed there on January 28, 1994 during their Get a Grip Tour .\\n\nReferences",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Juan_Ram\\xc3\\xb3n_Loubriel_Stadium&oldid=1222168162",
+        "https://es.wikipedia.org/wiki/Estadio_Juan_Ram%C3%B3n_Loubriel",
+        "https://en.wikipedia.org/wiki/juan_ramón_loubriel_stadium"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.393425,
+            -66.15085
+        ],
+        "title": "Juan Ramón Loubriel Stadium",
+        "type": "Point"
+    },
+    "categories": [
+        "Festivals & Events",
+        "Culture"
+    ]
+}

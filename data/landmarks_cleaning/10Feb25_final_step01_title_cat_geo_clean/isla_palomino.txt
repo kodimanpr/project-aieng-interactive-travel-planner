@@ -1,0 +1,25 @@
+{
+    "main_content": "Contents\nPalominos Island\nPalominos Island  is a small island located off the coast of the barrio of Cabezas in the municipality of Fajardo to the northeast of the main island of Puerto Rico . It forms part of a small chain of cays , reefs , and islets protected by the La Cordillera Reef Nature Reserve . The island is home to El Conquistador Resort .\\n\nGeography\nPalominos is 0.7 mi (1.1 km) long and maximally 1,722 feet (525 m) wide, measures 102 acres (41 ha) in area and reaches a height of 165 feet (50 m). [ citation needed ] Coral reefs, seagrass beds, and rocky coast species are among the natural attractions found in Palominos. Another attraction is the neighboring  island of Palominitos, which means tiny Palominos. Located about 2,000 feet (610 meters) south of Palominos, Palominitos now almost sank due to erosion. [ citation needed ] \\n\nEconomy\nPalominos is the largest of three private islands near Puerto Rico, the other two being the neighboring Ramos island and Lobos cay. The island is owned by the descendants of Alberto Bachman Glauser, the Bachman Family and the Fuertes Bachman Family . Most of the island is rented to El Conquistador Resort for their beach and water activities. A private company provides private yacht charters to the island.  A ferry is used to get guests to the island, which takes approximately 12 minutes.  Palominos horses can be rented by guests for horse-back riding on the beach.  \\n\nGallery\nReferences\nExternal links",
+    "relevant_links": [
+        "https://ceb.wikipedia.org/wiki/Isla_Palominos",
+        "https://zh.wikipedia.org/wiki/%E5%B8%95%E6%B4%9B%E7%B1%B3%E6%B4%9B%E6%96%AF%E5%B3%B6_(%E6%B3%A2%E5%A4%9A%E9%BB%8E%E5%90%84)",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://pt.wikipedia.org/wiki/Ilha_Palomino",
+        "https://en.wikipedia.org/w/index.php?title=Palominos_Island&oldid=1243872560",
+        "https://es.wikipedia.org/wiki/Isla_Palominos_(Puerto_Rico)"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.34861,
+            -65.56806
+        ],
+        "title": "Isla Palomino",
+        "type": "Point"
+    },
+    "categories": [
+        "Outdoor",
+        "Luxury & Resorts",
+        "Family-Friendly",
+        "Beach"
+    ]
+}

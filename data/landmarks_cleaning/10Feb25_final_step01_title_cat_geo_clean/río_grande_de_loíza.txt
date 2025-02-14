@@ -1,0 +1,25 @@
+{
+    "main_content": "Contents\nRío Grande de Loíza\nThe Rio Grande de Loíza ( English : Great River of Loíza or Loíza River ) is a river in the main island of Puerto Rico . It is the largest river in Puerto Rico by discharge volume. Situated on the north coast of the island, it originates in the northeastern Sierra de Cayey , flowing from south to north, and draining into the Atlantic Ocean , a few miles east of San Juan .  \\n\nRio Grande de Loíza runs for approximately 40 miles (64 kilometers). It has its origin in the municipality of San Lorenzo at an altitude of approximately 3,500 feet (1,100 meters) above sea level. It runs through the municipalities of San Lorenzo, Caguas , Gurabo , Trujillo Alto , Carolina , Canóvanas and Loíza , forming the Loíza Lake along its route, making it one of the longest rivers on the island.\\n\nGeography\nThe Rio Grande de Loíza basin is the largest in Puerto Rico with an area of 751 square kilometres (289.9 sq mi).  The source of the river is located in the Espino barrio of San Lorenzo, Puerto Rico on the eastern slopes of the Sierra de Cayey mountain range, close to Carite State Forest . The river flows northeastwardly through the San Lorenzo batholith , a hilly region of intrusive igneous rock , where it meets with the tributaries of Emajagua and Cayaguas . From here, the river turns northwest towards the Caguas Valley where it meets numerous other rivers and creeks including the Turabo , Gurabo , Bairoa and Cagüitas rivers. North of this, the river is dammed and flows through the reservoir Loíza Lake (also known as Carraízo Lake, after the barrio of Trujillo Alto it is located in). The river finally flows into San Juan\\'s urban area and the Northern Plain of Puerto Rico where it discharges into the Atlantic Ocean .  \\n\nHistory\nThe river is of historical importance due to the number of settlements, cities and towns that were founded along it such as San Lorenzo , Caguas and Trujillo Alto .\\n\nIn the 1898 Military Notes on Puerto Rico by the U.S. it is written that the \" limits of the Loisa River are: On the east, the sierra of Luquillo (situated near the northeast corner of the island); on the south, the sierra of Cayey, and on the west, ramifications of the latter. It rises in the northern slopes of the sierra of Cayey, and, running in a northwest direction for the first half of its course and turning to northeast in the second half, it arrives at Loisa, a port on the northern coast, where it discharges its waters into the Atlantic. During the first part of its course, it is known by the name of Cayagua .\"  The river was commemorated in a poem by Puerto Rican poet Julia de Burgos .  \\n\n18\\xc2\\xb026\\xe2\\x80\\xb218\\xe2\\x80\\xb3N 65\\xc2\\xb052\\xe2\\x80\\xb242\\xe2\\x80\\xb3W ﻿ / ﻿ 18.4382795\\xc2\\xb0N 65.8782200\\xc2\\xb0W ﻿ / 18.4382795; -65.8782200  In mid 2018, the United States Army Corps of Engineers announced it would be undertaking a major flood control project of the river, with a budget of $250 million.  \\n\nList of features\nGallery\nSee also\nReferences\nExternal links\n\\n\nThis article related to a river in Puerto Rico is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://el.wikipedia.org/wiki/%CE%A1%CE%AF%CE%BF_%CE%93%CE%BA%CF%81%CE%AC%CE%BD%CF%84%CE%B5_%CE%B4%CE%B5_%CE%9B%CE%BF%CE%90%CF%83%CE%B1",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://ceb.wikipedia.org/wiki/R%C3%ADo_Grande_De_Loiza",
+        "https://en.wikipedia.org/w/index.php?title=R%C3%ADo_Grande_de_Lo%C3%ADza&action=edit",
+        "https://arz.wikipedia.org/wiki/%D8%B1%D9%8A%D9%88_%D8%AC%D8%B1%D8%A7%D9%86%D8%AF%D9%89_%D8%AF%D9%89_%D9%84%D9%88%D9%8A%D8%B2%D8%A7",
+        "https://en.wikipedia.org/w/index.php?title=R\\xc3\\xado_Grande_de_Lo\\xc3\\xadza&oldid=1243738761",
+        "https://es.wikipedia.org/wiki/R%C3%ADo_Grande_de_Lo%C3%ADza"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.4382795,
+            -65.87822
+        ],
+        "title": "Río Grande De Loíza",
+        "type": "Point"
+    },
+    "categories": [
+        "Outdoor",
+        "Culture",
+        "Beach"
+    ]
+}

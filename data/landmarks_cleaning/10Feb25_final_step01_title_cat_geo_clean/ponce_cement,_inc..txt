@@ -1,0 +1,19 @@
+{
+    "main_content": "Contents\nPonce Cement\n\\n\nPonce Cement, Inc. was a cement and limestone manufacturer in Ponce, Puerto Rico . The company was located at the intersection of PR-123 and PR-500 , in Barrio Magueyes .  It was founded in 1941  by Antonio Ferré Bacallao, a Puerto Rican industrialist of Cuban origin.  In 1963, the company became the first Puerto Rican company to go public and be listed in the New York Stock Exchange .  \\n\nPonce Cement was part of the Empresas Ferré enterprise from 1941 to 2002. In 1950, Empresas Ferré purchased another cement enterprise, the Puerto Rico Cement Company, then owned by the Government of Puerto Rico.  In 2002, Ponce Cement, Inc., was sold to Cemex , a Mexican business concern that is both the world\\'s largest building materials supplier and the third largest cement producer, of which Ponce Cement is now a subsidiary.  The plant continues to operate at the same location, and continues to sell its products to the Puerto Rico market, but with the change in ownership, the company is no longer named Ponce Cement, Inc. ; it is now Cemex, Puerto Rico .  The new owners did keep the Cemento Ponce product label.  \\n\nHistory\nThe municipality of Ponce was the perfect place to establish a cement plant, as the type of soil needed for cement production is abundant in the region.   After founding the Puerto Rico Iron Works , and the El Dia newspaper, Empresas Ferré entered the construction business with Ponce Cement, Inc., and subsequently with Puerto Rican Cement, Inc.   \\n\nOver the 1940s, the company enlarged and Luis A. Ferré became its chief engineer.  By 1960, the company had become the leading cement supplier on the island, much of it the result of increasing new highway and housing construction projects spreading throughout the Island.  \\n\nApprovals\nOn February 23, 1989, the Ponce Cement plant received approval for conversion from a wet to a dry manufacturing process, which allowed it to almost double its output.  As of year 2000, cement was Puerto Rico\\'s leading nonfuel mineral\\ncommodity.  \\n\nSee also\nReferences\nFurther reading\nExternal links\n18\\xc2\\xb01\\xe2\\x80\\xb21.56\\xe2\\x80\\xb3N 66\\xc2\\xb038\\xe2\\x80\\xb219\\xe2\\x80\\xb3W ﻿ / ﻿ 18.0171000\\xc2\\xb0N 66.63861\\xc2\\xb0W ﻿ / 18.0171000; -66.63861 \\n",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Ponce_Cement&oldid=1183412452",
+        "https://stats.wikimedia.org/#/en.wikipedia.org"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.0171,
+            -66.63861
+        ],
+        "title": "Ponce Cement, Inc.",
+        "type": "Point"
+    },
+    "categories": [
+        "Shopping",
+        "Culture"
+    ]
+}

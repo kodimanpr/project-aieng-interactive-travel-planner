@@ -1,0 +1,21 @@
+{
+    "main_content": "Contents\nIsla Mata la Gata\nIsla Mata la Gata is a mangrove island and tourist attraction,  located off the southwest coast of Puerto Rico . Closest access from the island is by boat from the coastal village of La Parguera , in Lajas . Available facilities include dock, picnic tables, open air shelters, changing cabanas and commodes . Activities include sunbathing, swimming, snorkelling, picnicking, fishing.   \\n\nReferences\n\\n\nThis Lajas, Puerto Rico location article is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Isla_Mata_la_Gata&action=edit",
+        "https://en.wikipedia.org/w/index.php?title=Isla_Mata_la_Gata&oldid=1193596409",
+        "https://en.wikipedia.org/wiki/isla_mata_la_gata"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            17.96,
+            -67.03825
+        ],
+        "title": "Isla Mata La Gata",
+        "type": "Point"
+    },
+    "categories": [
+        "Outdoor",
+        "Family-Friendly",
+        "Beach"
+    ]
+}

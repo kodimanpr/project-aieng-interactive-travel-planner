@@ -1,0 +1,21 @@
+{
+    "main_content": "Contents\nMayagüez City Hall\nThe Casa Consistorial De Mayaguez , more commonly known as the Alcaldia de Mayagüez , is the city hall for the Municipality of Mayagüez . It is located in front of the Colón Main Square facing the Nuestra Señora de la Candelaria Cathedral .\\n\nHistory\nThe first building was built in 1845 but was destroyed by the earthquake of 1918 .  The original building housed the municipal offices, a jail, a telegraph station and the guard corps.  The current city hall was built in 1926. Its main entrance consists of a portico and a tower with a clock.  Its fa\\xc3 7ade is of the neoclassical style, classified as such because of the building\\'s Corinthian capitals and its grecoroman columns.  The architects were Carmoega and the Ing. Font Jiménez, it was built by Ignacio Flores Lorenzo, and Adriano González was the contractor of the work.  The mayor that ordered the new city hall was Juan Rullán Rivera .  Numerous parlors, rooms, offices and other services are situated in the building.  \\n\nGallery\nReferences\nExternal links\n\\n\nThis article about a property in Puerto Rico on the National Register of Historic Places is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Mayag\\xc3\\xbcez_City_Hall&oldid=1240152061",
+        "https://es.wikipedia.org/wiki/Casa_Consistorial_De_Mayag%C3%BCez",
+        "https://en.wikipedia.org/w/index.php?title=Mayag%C3%BCez_City_Hall&action=edit",
+        "https://en.wikipedia.org/wiki/mayagüez_city_hall"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.2011111,
+            -67.1397222
+        ],
+        "title": "Mayagüez City Hall",
+        "type": "Point"
+    },
+    "categories": [
+        "Religion",
+        "Culture"
+    ]
+}

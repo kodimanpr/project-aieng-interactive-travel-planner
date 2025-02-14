@@ -1,0 +1,19 @@
+{
+    "main_content": "Contents\nCasa Rosa\nCasa Rosa or Casa Rosada , also known as the Pink House, is a historic house located in Old San Juan, Puerto Rico . The house was built in 1812 as a barrack for the troops assigned to the San Agustin Bastion. It was converted to an officers quarters in 1881 by the Spanish Army. The building was later converted to a museum used for Puerto Rican crafts. Today it operates as a day care center for the children of employees of the Government of Puerto Rico .  \\n\nReferences\nExternal links\n18°28\\xe2\\x80\\xb205\\xe2\\x80\\xb3N 66°06\\xe2\\x80\\xb211\\xe2\\x80\\xb3W ﻿ / ﻿ 18.46806°N 66.10306°W ﻿ / 18.46806; -66.10306 \\n\n\\n\nThis article about a Puerto Rican building or structure related topic is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Casa_Rosa&oldid=1239464649",
+        "https://en.wikipedia.org/w/index.php?title=Casa_Rosa&action=edit",
+        "https://en.wikipedia.org/wiki/casa_rosa"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.46806,
+            -66.10306
+        ],
+        "title": "Casa Rosa",
+        "type": "Point"
+    },
+    "categories": [
+        "Culture"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "main_content": "Contents\nUniversity of Puerto Rico at Ponce\n\\n\nThe University of Puerto Rico at Ponce ( UPRP or UPR-Ponce ) is a public college in Ponce, Puerto Rico . It is the only campus of the University of Puerto Rico on the southern region of the island.  \\n\nHistory\nThe school opened on 23 August 1970 as Colegio Regional de Ponce de la Universidad de Puerto Rico (often shortened to Colegio Regional de Ponce ).  In 1982, the school starts offering four-year degrees and its name is changed Colegio Universitario Tecnológico de Ponce (CUTPO  ) to reflect this.  \\nIn 1998 the school is given administrative independence from the University of Puerto Rico flagship school at Rio Piedras and its name is once again changed to become Colegio Universitario de Ponce.  In 2000, in light of the expansion and diversity of the school academic offering, the Consejo de Educación Superior  de Puerto Rico ( Puerto Rico Higher Education Council ) authorized a name change to Universidad de Puerto Rico en Ponce (University of Puerto Rico at Ponce).  \\n\nIn 2010 the campus went on strike as part of the 2010-2011 University of Puerto Rico strikes . In 2017 in response to budget cuts to the university system by the Financial Oversight and Management Board for Puerto Rico the campus students voted to join the University of Puerto Rico strikes, 2017 .  \\n\nAcademics\nThe school offers associate degrees and bachelor degrees .\\n\nGallery\nSee also\nReferences\nExternal links",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=University_of_Puerto_Rico_at_Ponce&oldid=1243034144",
+        "https://en.wikipedia.org/wiki/university_of_puerto_rico_at_ponce"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            17.9925,
+            -66.60778
+        ],
+        "title": "University Of Puerto Rico At Ponce",
+        "type": "Point"
+    },
+    "categories": [
+        "Culture"
+    ]
+}

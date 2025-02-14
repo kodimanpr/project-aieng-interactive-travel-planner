@@ -1,0 +1,20 @@
+{
+    "main_content": "Contents\nDos Hermanos Bridge\nThe Dos Hermanos Bridge is a bridge in San Juan, Puerto Rico . It connects the sector of Condado with the entrance to Old San Juan , crossing over the Condado Lagoon . It was designed and built by brothers Hernan and Sosthenes Behn, and opened in June 1910.\\n\nEtymology\nThe bridge is named \"Dos Hermanos\", which translates to \"Two Brothers\", after the brothers Hernan and Sosthenes Benn who built it in 1910.\\n\nHistory\nThe Behn Brothers, Hernan and Sosthenes, arrived at Puerto Rico in 1906 from St. Thomas, U.S. Virgin Islands . They were the founders of the Porto Rico Telephone Company , and decided to create a 150-acre real estate development in Santurce . This project became what is now known as Condado . To help with the process, the Behn Brothers built permanent bridges to facilitate the access, and people quickly started calling the main bridge \"Dos Hermanos\".  \\n\nIn 1999, a project of reconstruction and restoration of the bridge started. However, it had to be halted for not counting with the necessary permits. The project was restarted on July 4, 2011, and the new bridge was inaugurated in December 2011.  \\n\nReferences",
+    "relevant_links": [
+        "https://uk.wikipedia.org/wiki/%D0%9C%D1%96%D1%81%D1%82_%D0%94%D0%B2%D0%BE%D1%85_%D0%91%D1%80%D0%B0%D1%82%D1%96%D0%B2",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://en.wikipedia.org/w/index.php?title=Dos_Hermanos_Bridge&oldid=1146445705",
+        "https://es.wikipedia.org/wiki/Puente_Dos_Hermanos"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.46028,
+            -66.08472
+        ],
+        "title": "Dos Hermanos Bridge",
+        "type": "Point"
+    },
+    "categories": [
+        "Culture"
+    ]
+}

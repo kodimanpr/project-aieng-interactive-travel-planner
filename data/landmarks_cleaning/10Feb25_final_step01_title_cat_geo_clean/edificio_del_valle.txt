@@ -1,0 +1,17 @@
+{
+    "main_content": "Contents\nEdificio del Valle\nEdificio del Valle is a historic mixed-use building located at 1118 Ponce de León Avenue of Santurce in San Juan, Puerto Rico .  It was built in 1941 by the Santurce Development Company and designed by famed Puerto Rican architect Rafael Carmoega , who also designed famous buildings such as the Capitol of Puerto Rico and the University of Puerto Rico clock tower among others. It is a five-story reinforced concrete structure with commercial and retail spaces on its ground level and 16 apartments in the rest. Edificio del Valle has a distinctive Spanish/Mission Revival -style, evident in many of Carmoega\\'s works, with eclectic elements that reference both the local vernacular, Neoclassical and the Modernist styles of the period.  \\n\nSee also\nReferences\n\\n\nThis article about a property in Puerto Rico on the National Register of Historic Places is a stub . You can help Wikipedia by expanding it .\nThis article about a Puerto Rican building or structure related topic is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Edificio_del_Valle&oldid=1183789634",
+        "https://en.wikipedia.org/w/index.php?title=Edificio_del_Valle&action=edit",
+        "https://stats.wikimedia.org/#/en.wikipedia.org"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.4513815,
+            -66.0756527
+        ],
+        "title": "Edificio Del Valle",
+        "type": "Point"
+    },
+    "categories": []
+}

@@ -1,0 +1,20 @@
+{
+    "main_content": "Contents\nLares Ice Cream Parlor\nThe Lares Ice Cream Parlor  is an ice cream store located in the town of Lares , Puerto Rico .\\n\nThe ice cream store was founded in 1968 by Salvador Barreto (known as \"Yinyo\") and has created over 200 flavors.   \\n\nThe ice cream store is located in front of the town square of Lares. It closed at the end of February 2014, due to the death of its founder  and re-opened in March 2017. It is open 7 days a week and offers around 50 different ice cream flavors on a regular basis.  \\n\nInfluence\nAnother ice cream shop, Heladería El Grito , is next door.  After Hurricane Maria , some Puerto Rican expatriates opened similar shops in Central Florida .   \\n\nSee also\nReferences\nExternal links\n18\\xc2\\xb017\\xe2\\x80\\xb242\\xe2\\x80\\xb3N 66\\xc2\\xb052\\xe2\\x80\\xb239\\xe2\\x80\\xb3W ﻿ / ﻿ 18.294965\\xc2\\xb0N 66.877387\\xc2\\xb0W ﻿ / 18.294965; -66.877387 \\n\n\\n\nThis US-based restaurant or restaurant chain article is a stub . You can help Wikipedia by expanding it .\nThis Puerto Rican culture-related article is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://en.wikipedia.org/w/index.php?title=Lares_Ice_Cream_Parlor&oldid=1234516501",
+        "https://en.wikipedia.org/w/index.php?title=Lares_Ice_Cream_Parlor&action=edit"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.294965,
+            -66.877387
+        ],
+        "title": "Lares Ice Cream Parlor",
+        "type": "Point"
+    },
+    "categories": [
+        "Food",
+        "Shopping"
+    ]
+}

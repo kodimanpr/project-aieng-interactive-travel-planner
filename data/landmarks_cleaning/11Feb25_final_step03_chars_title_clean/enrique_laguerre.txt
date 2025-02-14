@@ -1,0 +1,16 @@
+{
+    "main_content": "Contents\nEnrique Laguerre\nEnrique Arturo Laguerre Vélez (July 15, 1905 - June 16, 2005) was a teacher, novelist, playwright, critic , and newspaper columnist from Moca, Puerto Rico . He is the author of the 1935 novel La Llamarada ( lit. \\' The blaze \\' ), which has been for many years obligatory reading in many literature courses in Puerto Rico .\\n\nBiography\nLaguerre studied at various universities, obtaining degrees in arts from the University of Puerto Rico and Columbia University .\\n\nIn 1924, he took courses on teaching in rural areas in the town of Aguadilla . The courses were taught by Carmen Gómez Tejera . After this, he taught from 1925 to 1988, both at the elementary school and university levels.\\n\nLaguerre was known to use the pen-names of Tristán Ronda , Luis Urayoán , Motial and Alberto Prado , among others. Married for many years to the well-respected writer Luz V. Romero García , he also worked in many Puerto Rican publications before joining the staff of El Vocero .\\n\nIn 1998, his peers as well as former governors Rafael Hernández Colón and Luis A. Ferré , advocated for Laguerre to be considered for the Nobel Prize in Literature .  Despite their efforts, Laguerre was not awarded the prestigious award.\\n\nLaguerre was an emeritus member of the Center for Advanced Studies on Puerto Rico and the Caribbean .\\n\nEnrique Laguerre died on June 16, 2005, at the age of 99.  His body was buried on the grounds of the Palacete Los Moreau , an old hacienda restored as a museum, in his native town of Moca.\\n\nWritings\nLaguerre was one of the most prolific novelists of Puerto Rico and was nominated for a Nobel Prize in Literature.  Following in the steps of Manuel Zeno Gandía , Laguerre\\'s most influential work focused on the problems of the colonized society. His novel La Llamarada offers a comprehensive view of rural Puerto Rico during the Great Depression . Most of his novels are essential readings in Puerto Rican literature courses.\\n\nWorks\nLiterary Works - Novels\\n\nEnsayos y Teatro\\n\nSee also\nReferences\nExternal links",
+    "relevant_links": [
+        "https://es.wikipedia.org/wiki/Enrique_Laguerre",
+        "https://en.wikipedia.org/w/index.php?title=Enrique_Laguerre&oldid=1236144567",
+        "https://en.wikipedia.org/wiki/enrique_laguerre"
+    ],
+    "geo_metadata": {
+        "coordinates": "Not Found",
+        "title": "Enrique Laguerre",
+        "type": "Point"
+    },
+    "categories": [
+        "Culture"
+    ]
+}

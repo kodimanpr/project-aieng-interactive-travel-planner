@@ -1,0 +1,18 @@
+{
+    "main_content": "Contents\nEnsenada Honda (Culebra, Puerto Rico)\nEnsenada Honda (English: Deep Cove ), also known as \"Puerto Grande\" (English: Big Port ) and \"Bahía Honda\" for its elongated shape, is the largest inlet on the island of Culebra , Puerto Rico .\\n\nGeography\nSince the 19th century, observers have deemed Ensenada Honda among the safest Caribbean harbors. [ a ]   Its irregular coastline features rocky cliffs, sandy beaches, and mangrove forests. Three smaller inlets gate the cavernous cove: \"Malena\" and \"Dakity\" to the west, and \"Mosquito\" to the east. A number of distinct coral specimens inhabit the area around Culebra, and some communities have flourished at the very bay\\'s entrance.  They form bars barely above sea level and block portions of its opening.\\n\nEnvironmental history\nFor most of the 20th century (1902-1975) the bay served as grounds for military training, as wreckage left from the time reveals. Explosions and the resulting contamination left pulverized underwater craters and diminished the health of sea life. But low-tech, community-based programs and coral grafting have expanded the reefs\\' fields and increased their bio-diversity.   The bay is today an eco-tourist destination, celebrated for its turtles, and the center of the local fishing industry.\\n\nSee also\nNotes\nReferences",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Ensenada_Honda_(Culebra,_Puerto_Rico)&oldid=1234502899",
+        "https://en.wikipedia.org/wiki/ensenada_honda_(culebra,_puerto_rico)"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.302694,
+            -65.286306
+        ],
+        "title": "Ensenada Honda (culebra, Puerto Rico)",
+        "type": "Point"
+    },
+    "categories": [
+        "Culture"
+    ]
+}

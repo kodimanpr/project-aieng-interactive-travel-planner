@@ -1,0 +1,20 @@
+{
+    "main_content": "Contents\nInteramerican University of Puerto Rico\n\\n\nThe Inter American University of Puerto Rico  is a private Christian university with its main campus in San Germán, Puerto Rico .  It also has campuses in Aguadilla , Arecibo , Barranquitas , Bayamón , Fajardo , Guayama , Ponce , and San Juan . The university also has three professional schools: School of Optometry , School of Law , and the School of Aeronautics. The Inter offers academic programs in 11 teaching units.  It was founded in San Germán in 1912. The San Germán campus is also the home to the Inter American School, a private co-educational college-preparatory school.\\n\nHistory\nThe Inter American University was founded as Polytechnic Institute of Puerto Rico in 1912 by Rev. John Will Harris and his brother Clarence Harris. It was founded as an elementary and high school in the Lomas de Santa Marta sector of the town of San Germán in land now occupied by the university\\'s San Germán Campus. In 1927, the first high school class graduation took place. In 1944, the institute was accredited by the Middle States Association of Colleges and Secondary Schools , thus becoming the first liberal arts college to receive such accreditation in Puerto Rico, as well as the first outside the continental United States. This accreditation has been maintained over the years.\\n\nGovernance\nThe governing body of the Inter American University of Puerto Rico is its self-perpetuating Board of Trustees. The faculty and administration of the Faculty of Law and School of Optometry determine their own programs and rules subject to approval by the president and trustees.\\n\nReligious life\nAlthough Inter American University maintains a historic relationship with the Presbyterian Church (USA) , it does not adhere to any one particular theology or ecclesiastical body.\\n\nAccreditations\nThe eleven academic units of Inter American University of Puerto Rico are authorized by the Council on Education of Puerto Rico and accredited by the Middle States Commission on Higher Education to offer university studies of the undergraduate, graduate and professional levels, as the case may be. Likewise, the university is committed to the professional accreditation of its academic programs. For this reason, some academic units have programs accredited by organizations, such as:\\n\nCampuses\nAcademics\nInter American University offers pre-university, undergraduate, graduate and professional academic programs for obtaining certificates and Associate, Bachelors, Masters and Doctoral degrees in subject matters normally offered by institutions of higher education of a nature, educational mission and goals similar to those of this university. The School of Law of Inter American University grants the Juris Doctor degree and the School of Optometry, the Doctor of Optometry degree.  Graduate courses may be taught in Spanish.\\n\nNotable alumni\nSee also\nReferences\nExternal links",
+    "relevant_links": [
+        "https://ko.wikipedia.org/wiki/%ED%91%B8%EC%97%90%EB%A5%B4%ED%86%A0%EB%A6%AC%EC%BD%94_%EC%9D%B8%ED%84%B0%EB%9D%BC%EB%A9%94%EB%A6%AC%EC%B9%B8_%EB%8C%80%ED%95%99%EA%B5%90",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://en.wikipedia.org/w/index.php?title=Interamerican_University_of_Puerto_Rico&oldid=1244746436",
+        "https://es.wikipedia.org/wiki/Universidad_Interamericana_de_Puerto_Rico",
+        "https://no.wikipedia.org/wiki/Inter_American_University_of_Puerto_Rico"
+    ],
+    "geo_metadata": {
+        "coordinates": "Not Found",
+        "title": "Interamerican University Of Puerto Rico",
+        "type": "Point"
+    },
+    "categories": [
+        "Outdoor",
+        "Religion",
+        "Culture"
+    ]
+}

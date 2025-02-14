@@ -1,0 +1,22 @@
+{
+    "main_content": "Contents\nLa Ventana al Mar\nLa Ventana al Mar (English: The Window to the Sea) on Avenida Ashford in the district of Condado , of San Juan , Puerto Rico is a large public space built in 2004 fronting the Atlantic Ocean. The park is flanked by two of Condado\\'s landmark hotels: to the west by the Condado Vanderbilt Hotel (1919), designed by Warren and Whitmore, and to the east  by the La Concha Hotel (1957), designed by Toro Ferrer . The 1.8 hectare public space was developed by the Commonwealth of Puerto Rico\\'s Tourism Company, and has been credited as one of the principal motors steering the district\\'s urban revitalisation.  \\n\nDesigned by Puerto Rican architect and urbanist Andrés Mignucci , La Ventana al Mar has won numerous awards for design excellence including awards in the American Institute of Architects Puerto Rico Chapter Design Awards, the Puerto Rico Architecture Biennale, the Miami + Beach Architecture Biennale (Bronze Medal) and the Iberoamerican Architecture Biennale.  In 2016, La Ventana al Mar was exhibited at the Akademie der Künste in Berlin as part of the Demo:polis-the Right to Public Space exhibit.  \\n\nThe project includes a large ornamental fountain designed in collaboration with Wet Design of Los Angeles and two public space sculptures by artist \\xc3\\x81ngel Botello . The park has been the site for music festivals like \"La Ventana al Jazz\" and weekend markets and fairs.\\n\nThe public space occupies the site of the old Condado Convention Center built in the 1970s and became one of the components of the controversial Condado Trio project. El Condado was built over decades with private hotels, apartments and high rise condominiums so that access to the beach and view of the ocean was only possible under difficult circumstances. In the late 1990s the three choice properties on Avenida Ashford - the Convention Center and the Vanderbilt and La Concha Hotels were closed and in state of disrepair. The Government of Puerto Rico proposed remodelling the Vanderbilt Hotel and demolishing the Condado Convention Center and La Concha. The Government awarded the project\\'s development to a US-based hotel consortium which proposed to build an all-inclusive hotel and condominium resort at this location.  The case became a political issue and was the subject of protests and challenges by the local community, the College of Architects and the Municipality of San Juan.  Finally a counter-project proposed by the Municipality of San Juan based on the revitalisation of the two landmark hotels and the creation of a central public space, La Ventana al Mar, was approved and completed in 2004.\\n\nReferences\n18°27\\xe2\\x80\\xb230\\xe2\\x80\\xb3N 66°04\\xe2\\x80\\xb229\\xe2\\x80\\xb3W ﻿ / ﻿ 18.4583°N 66.0748°W ﻿ / 18.4583; -66.0748 \\n",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=La_Ventana_al_Mar&oldid=1188995887",
+        "https://en.wikipedia.org/wiki/la_ventana_al_mar"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.4583,
+            -66.0748
+        ],
+        "title": "La Ventana Al Mar",
+        "type": "Point"
+    },
+    "categories": [
+        "Culture",
+        "Luxury & Resorts",
+        "Beach",
+        "Outdoor",
+        "Family-Friendly"
+    ]
+}

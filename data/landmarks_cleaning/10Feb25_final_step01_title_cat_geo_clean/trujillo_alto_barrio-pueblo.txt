@@ -1,0 +1,22 @@
+{
+    "main_content": "Contents\nTrujillo Alto barrio-pueblo\nTrujillo Alto barrio-pueblo is a barrio and the administrative center ( seat ) of Trujillo Alto , a municipality of Puerto Rico. Its population in 2010 was 673.     \\n\nAs was customary in Spain, in Puerto Rico, the municipality has a barrio called pueblo which contains a central plaza, the municipal buildings (city hall), and a Catholic church. Fiestas patronales (patron saint festivals) are held in the central plaza every year.   \\n\nThe central plaza and its church\nThe central plaza, or square, is a place for official and unofficial recreational events and a place where people can gather and socialize from dusk to dawn. The Laws of the Indies , Spanish law, which regulated life in Puerto Rico in the early 19th century, stated the plaza\\'s purpose was for \"the parties\" (celebrations, festivities) , and that the square should be proportionally large enough for the number of neighbors . These Spanish regulations also stated that the streets nearby should be comfortable portals for passersby, protecting them from the elements: sun and rain.  \\n\nLocated across the central plaza in Trujillo Alto barrio-pueblo is the Parroquia Exaltación de la Santa Cruz , a Roman Catholic church.  \\n\nHistory\nTrujillo Alto barrio-pueblo was in Spain\\'s gazetteers  until Puerto Rico was ceded by Spain in the aftermath of the Spanish\\xe2\\x80\\x93American War under the terms of the Treaty of Paris of 1898 and became an unincorporated territory of the United States . In 1899, the United States Department of War conducted a census of Puerto Rico finding that the population of Trujillo Alto Pueblo was 1,025.  \\n \\n\nFestival\nThe annual Festival Del Macabeo is held in Trujillo Pueblo. The 39th edition of the event was held in 2019. The festival celebrates the macabeo, a local fried green banana treat.    The festival and the dish is an important aspect of Trujillo Alto\\'s culture and history.  \\n\nGallery\nPlaces in Trujillo Alto barrio-pueblo:\\n\nSee also\nReferences",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Trujillo_Alto_barrio-pueblo&oldid=1192952788",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://es.wikipedia.org/wiki/Trujillo_Alto_(Trujillo_Alto)",
+        "https://ceb.wikipedia.org/wiki/Trujillo_Alto_Barrio-Pueblo"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.35418,
+            -66.00699
+        ],
+        "title": "Trujillo Alto Barrio-pueblo",
+        "type": "Point"
+    },
+    "categories": [
+        "Festivals & Events",
+        "Religion",
+        "Culture"
+    ]
+}

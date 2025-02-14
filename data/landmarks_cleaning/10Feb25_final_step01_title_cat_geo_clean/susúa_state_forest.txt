@@ -1,0 +1,24 @@
+{
+    "main_content": "Contents\nSusúa State Forest\nSusúa State Forest  is one of the 20 forest units that make up the public forest system of Puerto Rico . This forest is located in the southeastern foothills of the Central Mountain Range or Cordillera Central , in the municipalities of Sabana Grande and Yauco . Most of the forest, particularly the lower parts, are of secondary growth as the land had originally been deforested and used for cattle grazing , timber production and agriculture. The forest is an important habitat for the endangered Puerto Rican nightjar .  \\n\nHistory\nThe forest reserve was proclaimed in 1935 by the forestry division of the Puerto Rico Reconstruction Administration (PRRA) and subject to the 1917 Puerto Rico Forestry Law. The forest is now managed by the Puerto Rico Department of Natural and Environmental Resources (DRNA). The forest is also important for its archaeological value as many Taíno sites have been uncovered in the forest.  \\n\nEcology\nThe forest is an important transition zone from a subtropical moist broadleaf biome to a subtropical dry broadleaf biome which is important to several endangered species such as the Puerto Rican nightjar ( Antrostomus noctitherus ). The forest is also considered an important ecological corridor between the Guánica dry forest and the Maricao State Forest . There is a high rate of endemism in the forest and species such as the Zamia portoricensis and the Calliandra locoensis of the Fabaceae family is only found in the area and nowhere else in Puerto Rico or the world. \\n\nSome endangered or threatened species found in the forest are the pincho rose tree ( Ottoschulzia rhodoxylon ), the black cobana ( Libidibia monosperma ), the Sierra higuero ( Crescentia portoricensis ) and the threatened red fruit bat ( Stenoderma rufum ).  \\n\nRecreation\nHiking is permitted in the forest on weekdays from 7:30 a.m. to 4:00 p.m. although visitors must contact the forest offices (787-999-2200 Ext. 5156) before arriving. Camping is allowed ($6 per tent) and cabins are also available for rent ($40 per night).    The forest office also offers group tours and guided hikes, and support for researchers interested in conducting scientific investigation in the forest.   \\n\nSee also\nReferences\n18\\xc2\\xb004\\xe2\\x80\\xb259\\xe2\\x80\\xb3N 66\\xc2\\xb054\\xe2\\x80\\xb218\\xe2\\x80\\xb3W ﻿ / ﻿ 18.083\\xc2\\xb0N 66.905\\xc2\\xb0W ﻿ / 18.083; -66.905 \\n",
+    "relevant_links": [
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://ceb.wikipedia.org/wiki/Bosque_Estatal_de_Sus%C3%BAa",
+        "https://www.lonelyplanet.com/puerto-rico/yauco-around/attractions/bosque-estatal-de-susua/a/poi-sig/1560634/1316101",
+        "https://www.discoverpuertorico.com/profile/bosque-estatal-de-susua/9083",
+        "https://en.wikipedia.org/w/index.php?title=Sus\\xc3\\xbaa_State_Forest&oldid=1190030585"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.083,
+            -66.905
+        ],
+        "title": "Susúa State Forest",
+        "type": "Point"
+    },
+    "categories": [
+        "Outdoor",
+        "Soft Adventure",
+        "Family-Friendly",
+        "Culture"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "main_content": "Contents\nSan Juan Botanical Garden\nThe San Juan Botanical Garden , officially known as the Botanical Garden of the University of Puerto Rico , is located in the Caribbean city of San Juan , capital of Puerto Rico .  This lush 300-acre (1.2 km 2 ) \"urban garden\" of native and exotic flora serves as a laboratory for the study, conservation and enrichment of plants, trees, flowers, grasses and many other plants.  Seventy-five acres are landscaped and open to the general public as well as researchers.\\n\nThe entrance is located off the south side of the intersection of Highway 1 and Road 847 in Río Piedras .  The \"Bosque Urbano del Nuevo Milenio\" ( Nuevo Milenio State Forest ),  a project for the conservation and growth of the urban forest , is on the eastern side of the Botanical Garden.\\n\nBackground\nThe botanical garden, proposed in 1959, was endorsed by the Council of Higher Education of Puerto Rico on 12 September 1969. On the initiative of Arturo Roque and supported by the president of the university, Dr. Jaime Benítez , the Botanical Garden was inaugurated on March 10, 1971.  \\n\nAdministratively, it functions as a part of the University of Puerto Rico, Mayagüez campus . Its international identification code is UPR . [ citation needed ] Fred Schaffner is the director.\\n\nThe garden was partially opened to the public from 1971 until 1989. However, in the wake of Hurricane Hugo , the garden was closed for reconstruction until it could reopen for visitors in 1991. The garden\\'s botanical collections, lakes, falls and shelters are well connected by paths, roads and walkways, allowing the visitor to know and better appreciate the value of native and tropical flora.\\n\nA Master Plan designated as the San Juan Ecological Corridor is underway which includes the development of public spaces, display exhibits, linkages for the new Tren Urbano with the University of Puerto Rico , the Nuevo Milenio State Forest, the Río Piedras River riparian zones, and its floodplain restoration.\\n\nCollections\nThe Botanic Garden exhibits several thematic collections  comprising tropical and subtropical plants. It also exhibits a collection of modern sculptures  by artists from Puerto Rico and Latin America.    \\n\nThe Garden comprises a living laboratory for informal instruction of the community in all aspects of the native flora and the other plants which are cultivated there.\\n\nEndangered native species\nThe endemic plants of Puerto Rico , including some which are threatened in the wild or in danger of extinction, are found in the northern part of the Garden. Here are the plants that the Puerto Rican botanist Agustín Stahl identified: [ citation needed ] * Argythamnia stahlii (Urb.) * Senna pendula var. stahlii (Urb.) Irwin & Barneby * Eugenia stahlii ( Kiaersk. ) Krug & (Urb.) * Lyonia stahlii (Urb.) * Ternstroemia stahlii (Krug & Urb.)  The genus Stahlia is represented by a single species, Stahlia monosperma (Tul.) (Urb.), found in the wild only in Puerto Rico and the eastern Dominican Republic . This species, listed as endangered, is known in Puerto Rico under the name of cóbana negra .\\n\nAffiliation\nThe San Juan Botanical Garden is an institutional member of the following professional organizations:\\n\nSee also\nReferences\nBibliography\nExternal links",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=San_Juan_Botanical_Garden&oldid=1146382414",
+        "https://es.wikipedia.org/wiki/Jard%C3%ADn_Bot%C3%A1nico_de_San_Juan",
+        "https://en.wikipedia.org/wiki/san_juan_botanical_garden"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.3898,
+            -66.0554
+        ],
+        "title": "San Juan Botanical Garden",
+        "type": "Point"
+    },
+    "categories": [
+        "Outdoor"
+    ]
+}

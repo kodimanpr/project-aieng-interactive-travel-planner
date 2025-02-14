@@ -1,0 +1,17 @@
+{
+    "main_content": "Contents\nJesús T. Piñero House\nThe Jesús T. Piñero House and Museum , often called the Pink House ( Casa Rosada ), is a historic house located along PR-3 just outside of Canóvanas Pueblo in the municipality of Canóvanas, Puerto Rico . \\n\nThe house was built in 1931 for politician and then businessman Jesús T. Piñero , the last United States-appointed and first Puerto Rican-born governor of Puerto Rico in 1946. He and his wife raised their two children here, although the house was abandoned in 1952 following his sudden death.  The house remained abandoned for a long period and was left to ruin due to vandalism in the 1980s and damages during Hurricane Georges in 1998, until it was acquired by the Institute of Puerto Rican Culture ( Instituto de Cultura Puertorriqueña ) and some members of the Piñero family who sponsored its renovation and preservation. The house today is a museum dedicated to the life of Jesús T. Piñero and to the everyday life of the time between the 1930s and 1950s.  The house was reopened to visitors in 2021 and guided tours are available.   \\n\nReferences\nExternal links\n\\n\nThis article about a Puerto Rican building or structure related topic is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Jes%C3%BAs_T._Pi%C3%B1ero_House&action=edit",
+        "https://en.wikipedia.org/w/index.php?title=Jes\\xc3\\xbas_T._Pi\\xc3\\xb1ero_House&oldid=1247502072",
+        "https://en.wikipedia.org/wiki/jesús_t._piñero_house"
+    ],
+    "geo_metadata": {
+        "coordinates": "Not Found",
+        "title": "Jesús T. Piñero House",
+        "type": "Point"
+    },
+    "categories": [
+        "Family-Friendly",
+        "Culture"
+    ]
+}

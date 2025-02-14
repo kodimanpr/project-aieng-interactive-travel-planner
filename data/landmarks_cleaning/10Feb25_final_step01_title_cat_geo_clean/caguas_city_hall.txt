@@ -1,0 +1,20 @@
+{
+    "main_content": "Caguas City Hall\nThe Caguas City Hall  consists of two buildings located in the downtown area of Caguas, Puerto Rico .\\n\nThe old city hall\nThe original city hall building  of the municipality of Caguas dates to 1856-1860, although it did not officially become the municipal headquarters until 1887. The building is well-maintained and still preserves its original Neoclassical fa\\xc3\\xa7ade.  The building was added to the National Register of Historic Places as Alcaldia de Caguas in March 22, 1989.  This building hosted municipal offices until 2010 when the new city hall building was inaugurated. The building now houses several cultural institutions including a museum dedicated to the history of Caguas .  \\n\nThe new city hall\nThe building of a new city hall was part of a project to develop and build more modern office and administrative spaces in the city. Some people, however, have criticized the continuous use of Brutalist architecture in new government buildings. The new city hall building, nicknamed \"El Cacique Mayor\" (Spanish for \\' the major cacique \\'), was inaugurated in September 2010 by Caguas mayor William Edgardo Miranda Torres .   \\n\nSee also\nReferences\n\\n\nThis article about a property in Puerto Rico on the National Register of Historic Places is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Caguas_City_Hall&action=edit",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://en.wikipedia.org/w/index.php?title=Caguas_City_Hall&oldid=1216245315",
+        "https://www.discoverpuertorico.com/profile/antigua-casa-alcaldia-de-caguas/8172"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.23667,
+            -66.03639
+        ],
+        "title": "Caguas City Hall",
+        "type": "Point"
+    },
+    "categories": [
+        "Culture"
+    ]
+}

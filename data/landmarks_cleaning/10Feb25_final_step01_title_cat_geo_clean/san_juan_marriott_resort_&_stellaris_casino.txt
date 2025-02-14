@@ -1,0 +1,22 @@
+{
+    "main_content": "Contents\nSan Juan Marriott Resort & Stellaris Casino\nThe San Juan Marriott Resort & Stellaris Casino is a hotel and casino located on the beach in Condado , San Juan , Puerto Rico . It is operated by Marriott International .\\n\nHistory\nThe hotel was designed by architects Osvaldo L. Toro and Miguel Ferrer and opened on October 4, 1963 as the Puerto Rico-Sheraton Hotel .  Directly on the beach in Condado , it boasted an Olympic-sized swimming pool .  Sheraton sold the property to the San Juan Dupont Plaza Corp. of Delaware  in 1979  and it was renamed the Dupont Plaza Hotel .  \\n\nOn December 31, 1986, the Dupont Plaza was the site of the second deadliest hotel fire in U.S. history , started by disgruntled employees in the middle of a labor/salary dispute. The fire claimed 97 lives and left 140 people injured. The San Juan Dupont Plaza Corp renovated the hotel in 1988, at a cost of $9 million, and renamed it the Palm Hotel and Casino . A reopening was announced for early 1989, but it was cancelled on December 19, 1988, when the Puerto Rican government refused to grant the hotel an operating permit, because the owners had only installed sprinklers in the hotel\\'s first three floors, and not throughout the entire building.  \\n\nA massive federal trial over the fire began in San Juan on March 15, 1989. It was one of the largest personal damages trials in US history up to that point, with $1.7 billion sought by 2,300 plaintiffs from 250 defendants, including a maze of corporations and subsidiaries involved in the property\\'s ownership.  AIG , a lead insurance underwriter supplying coverage for the blaze, ended up acquiring title to the shuttered hotel in June 1989, as part of the settlement of claims arising from the fire.  \\n\nIn October 1992, AIG announced plans to completely renovate the hotel at a cost of $130 million  and rebrand it as a Marriott.  The hotel reopened on February 16, 1995, as the San Juan Marriott Resort & Casino .  It was later renamed slightly, becoming the San Juan Marriott Resort & Stellaris Casino . AIG  sold the hotel to Rockwood Capital in August 2011 for $133 million.  Rockwood Capital resold it in May 2017 to an unnamed Chinese buyer  for $184 million.  \\n\nFacilities\nThe San Juan Marriott has 525 hotel rooms and a casino. In addition, the hotel has 8 meeting rooms with a total of 10,900 sq ft (1,010 m 2 ) of meeting space.\\n\nSee also\nReferences\nExternal links\n18\\xc2\\xb027\\xe2\\x80\\xb222\\xe2\\x80\\xb3N 66\\xc2\\xb04\\xe2\\x80\\xb213\\xe2\\x80\\xb3W ﻿ / ﻿ 18.45611\\xc2\\xb0N 66.07028\\xc2\\xb0W ﻿ / 18.45611; -66.07028 \\n",
+    "relevant_links": [
+        "https://es.wikipedia.org/wiki/Resort_San_Juan_Marriott_y_Casino_Stellaris",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://en.wikipedia.org/w/index.php?title=San_Juan_Marriott_Resort_%26_Stellaris_Casino&oldid=1163467800",
+        "https://arz.wikipedia.org/wiki/%D9%85%D9%86%D8%AA%D8%AC%D8%B9_%D8%B3%D8%A7%D9%86_%D8%AE%D9%88%D8%A7%D9%86_%D9%85%D8%A7%D8%B1%D9%8A%D9%88%D8%AA_%D9%88_%D9%83%D8%A7%D8%B2%D9%8A%D9%86%D9%88_%D8%B3%D8%AA%D9%8A%D9%84%D8%A7%D8%B1%D9%8A%D8%B3"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.45611,
+            -66.07028
+        ],
+        "title": "San Juan Marriott Resort & Stellaris Casino",
+        "type": "Point"
+    },
+    "categories": [
+        "Luxury & Resorts",
+        "Culture",
+        "Beach"
+    ]
+}

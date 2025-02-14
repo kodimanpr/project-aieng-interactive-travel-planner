@@ -1,0 +1,23 @@
+{
+    "main_content": "Contents\nIglesia San Blas de Illescas\nThe Iglesia San Blas de Illescas (English: Church of Saint Blaise of Illescas ) is a Catholic parish church located on the center plaza of Coamo, Puerto Rico . Construction on the church began in 1661; it has since been judged \"one of the most important works of religious architecture in Puerto Rico\".  \\n\nThe church is separated from the open plaza below by a series of ceremonial steps and a delicate cast iron balustrade. The delicately curved Baroque facade reflects a major reconstruction completed in 1784. A two-level bell-gable with open arches and bells is prominently featured in the facade. The parish of San Blas of Coamo is one of the oldest on the island.    \\n\nSee also\nReferences\nThis article incorporates public domain material from Church of San Blas de Illescas of Coamo . National Park Service . \\n\n\\n\nThis article about a property in Puerto Rico on the National Register of Historic Places is a stub . You can help Wikipedia by expanding it .\nThis article about a church building or other Christian place of worship in Puerto Rico is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Iglesia_San_Blas_de_Illescas&action=edit",
+        "https://es.wikipedia.org/wiki/Iglesia_de_San_Blas_de_Illescas_(Coamo)",
+        "https://en.wikipedia.org/w/index.php?title=Iglesia_San_Blas_de_Illescas&oldid=1140441415",
+        "https://en.wikipedia.org/wiki/church_san_blas_de_illescas_of_coamo"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.080702,
+            -66.356228
+        ],
+        "title": "Church San Blas De Illescas Of Coamo",
+        "type": "Point"
+    },
+    "categories": [
+        "Outdoor",
+        "Religion",
+        "Family-Friendly",
+        "Culture"
+    ]
+}

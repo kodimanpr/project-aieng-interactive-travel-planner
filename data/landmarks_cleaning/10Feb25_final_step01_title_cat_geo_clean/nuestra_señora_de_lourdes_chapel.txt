@@ -1,0 +1,22 @@
+{
+    "main_content": "Contents\nNuestra Señora de Lourdes Chapel\nOur Lady of Lourdes Chapel  is a historic chapel located at the Miramar district in Santurce , Puerto Rico . Its distinctive architecture bears a neo-Gothic style. It was designed by Czech architect Antonin Nechodoma and built in 1908.\\n\nHistory\nThe land was acquired in 1906 and the first stone was placed in 1907. The design of the chapel was made by Czech architect Antonin Nechodoma , who lived in Puerto Rico. The chapel was finally opened in 1908.\\n\nInitially, the chapel was used by a Methodist Episcopal church . After that, it was occupied by the Union Church. Owners Pedro Santiago and Catalina Mejía de Santiago gave the building as a present to the Roman Catholic Archdiocese of San Juan de Puerto Rico on February 17, 1959.  \\n\nDue to its unique architecture and historic nature, the chapel was included on the National Register for Historic Places on September 25, 1984,  and on the Puerto Rico Register of Historic Sites and Zones on February 3, 2000.  \\n\nIn 1982, the chapel was already abandoned and deteriorated. Elba Armstrong started an initiative to restore it. Along with members of the Lourdes Association, the restoration project had a cost of $24,300. Armstrong worked with architect Pablo Ojeda O\\'Neill and with the contributions of private and government entities.\\n\nIn 1987, the final restoration of the 24 stained-glass windows was done with a $13,500 donation of Angel Ramos Foundation. From 1990 to 1991, thanks to a $10,000 donation from the Senate of Puerto Rico , along with $5,000 more from Angel Ramos Foundation, the asbestos portions of the roof were replaced.\\n\nIn 1992, the Jesus and the Children and the Holy Spirit stained-glass windows were restored, with a $22,000 donation from Esso Standard Oil Company . The damaged frame of the windows was also built anew. 1993 saw the altar floor replaced by new wooden floors, identical to the original ones. This was achieved with a $19,000 donation from the Puerto Rican Committee for the Fifth Centenary of the Discovery of Puerto Rico. Also, a mosaic similar to the one in the main hall was found and installed in the side hall, the sacristy , and the bathroom.\\n\nThe furniture and the doors from the sacristy were designed by Ojeda and built in mahogany , and the bell was built in Spain .\\n\nArchitecture\nThe structure features a bell tower with four gargoyles that serve as a drainage system for the rain water. The tower itself features double arches with slight points. The main facade also features a stained-glass window with a smaller one on top. A celtic cross rests at the pinnacle of the church. The side windows also have stained-glass windows. The interior is simple with wood finishes. The chapel has only one central chamber with an A-frame apex roof.\\n\nGallery\nSee also\nReferences\nExternal links",
+    "relevant_links": [
+        "https://es.wikipedia.org/wiki/Capilla_de_Nuestra_Se%C3%B1ora_de_Lourdes_(Santurce)",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://en.wikipedia.org/w/index.php?title=Nuestra_Se\\xc3\\xb1ora_de_Lourdes_Chapel&oldid=1240272072",
+        "https://web.archive.org/web/20111108072727/http://www.claridadpuertorico.com/content.html?news=7DD76600304856266F6B411E7F3876CA"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.456394,
+            -66.085148
+        ],
+        "title": "Nuestra Señora De Lourdes Chapel",
+        "type": "Point"
+    },
+    "categories": [
+        "Outdoor",
+        "Religion",
+        "Culture"
+    ]
+}

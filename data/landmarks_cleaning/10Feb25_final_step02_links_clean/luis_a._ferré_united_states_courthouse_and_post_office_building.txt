@@ -1,0 +1,16 @@
+{
+    "main_content": "Contents\nLuis A. Ferré United States Courthouse and Post Office Building\n\\n\nThe Luis A. Ferré United States Courthouse and Post Office Building ( aka , Correo de la Calle Atocha  ) in Ponce, Puerto Rico , previously known as the U.S. Post Office and Court House, is a historic post office and courthouse facility of the United States , housing operations of the United States District Court for the District of Puerto Rico . It was the first U.S. postal office established in Puerto Rico.   \\n\nThe building was designed by the Office of the Supervising Architect under James A. Wetmore and was built in 1933.  In 2003 it was renamed the Luis A. Ferré United States Courthouse and Post Office Building by an Act of the U.S. Congress.  The building sits at the same location where the Ponce Trainway depot used to be.    The building is located on the southwest corner of Atocha and Guadalupe streets, facing Calle Atocha . The building suffered a major fire on 5 March 2018 which totally disabled and halted all postal activity processing activities at the facility.  \\n\nSee also\nReferences\nExternal links\n\\n\n18°00\\xe2\\x80\\xb256.41\\xe2\\x80\\xb3N 66°36\\xe2\\x80\\xb250.76\\xe2\\x80\\xb3W ﻿ / ﻿ 18.0156694°N 66.6141000°W ﻿ / 18.0156694; -66.6141000 \\n",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Luis_A._Ferr\\xc3\\xa9_United_States_Courthouse_and_Post_Office_Building&oldid=1138113584",
+        "https://en.wikipedia.org/wiki/luis_a._ferré_united_states_courthouse_and_post_office_building"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.0156694,
+            -66.6141
+        ],
+        "title": "Luis A. Ferré United States Courthouse And Post Office Building",
+        "type": "Point"
+    },
+    "categories": []
+}

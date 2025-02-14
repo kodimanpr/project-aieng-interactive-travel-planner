@@ -1,0 +1,18 @@
+{
+    "main_content": "Contents\nMario Morales Coliseum\nMario Morales Coliseum  is an indoor sporting arena that is located in Guaynabo , Puerto Rico . It used mainly for basketball ,  but it can also be used for table tennis  or volleyball . The coliseum\\'s seating capacity is 5,500 seats.  Apart from the Guaynabo Mets\\' home games, the coliseum is also used for boxing , roller derby and musical acts. It features a large painting of Mario Morales on the entrance.\\n\nThe coliseum opened in 1983, originally named Mets Pavilion ,   but is currently named after Puerto Rican basketball player Mario Morales . It is the home arena of the basketball team the Mets de Guaynabo . It also serves as the home court of the Mets de Guaynabo women\\'s volleyball team in the LVSF .\\n\nIn August 2020, it also became the venue where COVID-19 testing was done during the COVID-19 pandemic .  \\n\n18°21\\xe2\\x80\\xb236\\xe2\\x80\\xb3N 66°06\\xe2\\x80\\xb253\\xe2\\x80\\xb3W ﻿ / ﻿ 18.359871°N 66.114587°W ﻿ / 18.359871; -66.114587 \\n\nReferences\n\\n\nThis article about a sports venue in Puerto Rico is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Mario_Morales_Coliseum&action=edit",
+        "https://en.wikipedia.org/w/index.php?title=Mario_Morales_Coliseum&oldid=1146795330",
+        "https://www.discoverpuertorico.com/profile/coliseo-mario-quijote-morales/8474",
+        "https://en.wikipedia.org/wiki/mario_morales_coliseum"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.359871,
+            -66.114587
+        ],
+        "title": "Mario Morales Coliseum",
+        "type": "Point"
+    },
+    "categories": []
+}

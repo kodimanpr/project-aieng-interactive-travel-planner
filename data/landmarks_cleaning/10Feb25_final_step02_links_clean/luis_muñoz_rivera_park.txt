@@ -1,0 +1,21 @@
+{
+    "main_content": "Contents\nLuis Muñoz Rivera Park\nThe Luis Muñoz Rivera Park (or Parque Luis Muñoz Rivera in Spanish ) is a 27.2 acre (110,000 m 2 ) recreational public space located in Puerta de Tierra in San Juan , Puerto Rico . The park was named in honor of Puerto Rican statesman Luis Muñoz Rivera . It is the largest public square in the San Juan metropolitan area .  \\n\nHistory\nIn 1917 Law 43 was passed stating a park named Muñoz Rivera Park should be built in San Juan and land was set aside for its creation.  The land once formed part of the city\\'s \" Third line of defense \" built in the 18th century. The powder magazine built in 1769, \" El Polvorín de San Gerónimo \", designed by military engineer Thomas O\\'Daly, is still located on the grounds of the park.\\n\nThe east side of the park is bordered by the Puerto Rican Supreme Court building designed in 1952-56 by architects Toro Ferrer . To the north lies the public beach called El Escambrón Beach , the Parque del Tercer Milenio and the Estadio Sixto Escobar , former home of the San Juan Senators and Santurce Crabbers baseball clubs.\\n\nThe park was designed by Bennett, Parsons & Frost of Chicago in 1925. Its construction from 1926 to 1934 was directed by William Parsons and Francisco Valines Cofresí . The distinctive faux bois park elements and furniture were designed by sculptor Victor M. Cott in the 1930s. Subsequent major restorations have been directed by architects Orval Sifontes in the 1970s, Otto Reyes Casanova in 1990-93, and by Andres Mignucci , in 2000-04, who also wrote about the park\\'s history in his book [Con]textos: el Parque Muñoz Rivera y el Tribunal Supremo de Puerto Rico .  \\n\nIn 2015, then mayor of San Juan Carmen Yulín Cruz announced the park would be used for educational purposes. In late December 2018, the park was the venue for a large fashion show raising awareness for the HIV pandemic .  \\n\nGallery\nSee also\nReferences\nExternal links",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Luis_Mu\\xc3\\xb1oz_Rivera_Park&oldid=1239929666",
+        "https://en.wikipedia.org/wiki/luis_muñoz_rivera_park"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.46417,
+            -66.09056
+        ],
+        "title": "Luis Muñoz Rivera Park",
+        "type": "Point"
+    },
+    "categories": [
+        "Outdoor",
+        "Family-Friendly",
+        "Culture",
+        "Beach"
+    ]
+}

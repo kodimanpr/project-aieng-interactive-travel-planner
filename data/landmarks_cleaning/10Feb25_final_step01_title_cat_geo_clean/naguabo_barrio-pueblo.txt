@@ -1,0 +1,22 @@
+{
+    "main_content": "Contents\nNaguabo barrio-pueblo\nNaguabo barrio-pueblo is a barrio and the administrative center ( seat ) of Naguabo , a municipality of Puerto Rico. Its population in 2010 was 1,514.     \\n\nAs was customary in Spain, in Puerto Rico, the municipality has a barrio called pueblo which contains a central plaza, the municipal buildings (city hall), and a Catholic church. Fiestas patronales (patron saint festivals) are held in the central plaza every year.   \\n\nThe central plaza and its church\nThe central plaza, or square, is a place for official and unofficial recreational events and a place where people can gather and socialize from dusk to dawn. The Laws of the Indies , Spanish law, which regulated life in Puerto Rico in the early 19th century, stated the plaza\\'s purpose was for \"the parties\" (celebrations, festivities) , and that the square should be proportionally large enough for the number of neighbors . These Spanish regulations also stated that the streets nearby should be comfortable portals for passersby, protecting them from the elements: sun and rain.  \\n\nLocated across the central plaza in Naguabo barrio-pueblo is the Parroquia Nuestra Señora del Rosario , a Roman Catholic church.   \\n\nHistory\nNaguabo barrio-pueblo was in Spain\\'s gazetteers  until Puerto Rico was ceded by Spain in the aftermath of the Spanish\\xe2\\x80\\x93American War under the terms of the Treaty of Paris of 1898 and became an unincorporated territory of the United States . In 1899, the United States Department of War conducted a census of Puerto Rico finding that the population of Naguabo Pueblo was 1,812.  \\n\nIn July 2020, Federal Emergency Management Agency appropriated funds for repairs to Naguabo\\'s plaza.  \\n\nSectors\nBarrios (which are, in contemporary times, roughly comparable to minor civil divisions )  in turn are further subdivided into smaller local populated place areas/units called sectores ( sectors in English). The types of sectores may vary, from normally sector to urbanización to reparto to barriada to residencial , among others.    \\n\nThe following sectors are in Naguabo barrio-pueblo:  \\n\nBarriada Salsipuedes (Calle José de Diego),\\nCalle Armando González,\\nCalle Buenos Aires,\\nCalles del Casco del Pueblo,\\nCarretera Militar (from Caserío until Centro de Diagnóstico),\\nCentral El Triunfo,\\nEdificio Cabrera,\\nEdificio Inés María Mendoza,\\nResidencial Ignacio Morales Dávila,\\nResidencial Naguabo Valley,\\nSector Loma El Triunfo,\\nUrbanización Brisas de Naguabo,\\nUrbanización City Palace I,\\nUrbanización City Palace II,\\nUrbanización El Duque (Los Maestros),\\nUrbanización Jardines de la Vía , and Urbanización Riberas del Río .\\n\nSee also\nReferences",
+    "relevant_links": [
+        "https://nl.wikipedia.org/wiki/Nag%C3%BCabo_(plaats)",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://es.wikipedia.org/wiki/Naguabo_(Naguabo)",
+        "https://ceb.wikipedia.org/wiki/Naguabo_Barrio-Pueblo",
+        "https://en.wikipedia.org/w/index.php?title=Naguabo_barrio-pueblo&oldid=1192942831"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.211534,
+            -65.735076
+        ],
+        "title": "Naguabo Barrio-pueblo",
+        "type": "Point"
+    },
+    "categories": [
+        "Religion",
+        "Culture"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "main_content": "Contents\nAsilo De Pobres\nThe Asilo de Ancianos de Mayagüez , also known as Asilo De Pobres or Asilo Municipal , is the name of a historic Classical Revival style building located in downtown Mayagüez , originally as a shelter for the homeless, poor and disabled of the city. \\n\nHistory\nThe idea for the asylum for the poor began with a campaign to build it by Salvador Suau y Mulet when he was Mayor of Mayagüez .  This building is highly representative of the 19th century institutional architecture of Puerto Rico. The building was designed and built by commissioned state architects Manuel V. Domenech and Luis Perocier in 1895. The building as it stands today however was not fully completed until 1920 due to complications caused by the 1918 earthquake, after which it was restored and expanded. The institution was operated by the Sisters of Charity during its first years.  \\n\nFor some time, Salvador Agrón , the inspiration for the Broadway musical The Capeman , lived in the building with his mother. In 1962 it became asylum for the elderly. The number of elderly patients increased, and, in 1967, occupational therapy and arts programs were added by the Daughters of Charity of Saint Vincent de Paul , they also run the laundry, cafeteria, pharmacy and others.  \\n\nThe building lost some of its original elements after restorations carried between 1972 and 1979,  but it was listed on the National Register of Historic Places in 1985 and on the Puerto Rico Register of Historic Sites and Zones in 2003 for its architectural value.  \\n   In 2016 the elderly residents were relocated to a larger and newer facility located near the Eugenio María de Hostos Airport .  \\n\nReferences\nExternal links\n\\n\nThis article about a property in Puerto Rico on the National Register of Historic Places is a stub . You can help Wikipedia by expanding it .\nThis article about a Puerto Rican building or structure related topic is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Asilo_De_Pobres&action=edit",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://en.wikipedia.org/w/index.php?title=Asilo_De_Pobres&oldid=1240151892"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.196108,
+            -67.142469
+        ],
+        "title": "Asilo De Pobres",
+        "type": "Point"
+    },
+    "categories": [
+        "Culture"
+    ]
+}

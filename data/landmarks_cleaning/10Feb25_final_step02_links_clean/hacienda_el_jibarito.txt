@@ -1,0 +1,20 @@
+{
+    "main_content": "Contents\nHacienda El Jibarito\n\\n\nHacienda El Jibarito is a 19-room agro- hotel located in San Sebastián , Puerto Rico designed to attract people to appreciate the countryside and historic elements of Puerto Rico.    It is isolated within the mountainous central region of the island and offers its visitors the chance learn more about Puerto Rican culture through typical clothing, music, and cuisine.\\n\nAttractions\nA nearby waterfall in the hacienda grounds is another place of interest for visitors and tourists.\\n\nSee also\nReferences\nExternal links\n\\n\nThis article about a hotel or resort in North America is a stub . You can help Wikipedia by expanding it .\nThis article about a Puerto Rican building or structure related topic is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Hacienda_El_Jibarito&action=edit",
+        "https://en.wikipedia.org/w/index.php?title=Hacienda_El_Jibarito&oldid=1106135218",
+        "https://en.wikipedia.org/wiki/hacienda_el_jibarito"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.3772,
+            -67.0292
+        ],
+        "title": "Hacienda El Jibarito",
+        "type": "Point"
+    },
+    "categories": [
+        "Luxury & Resorts",
+        "Food"
+    ]
+}

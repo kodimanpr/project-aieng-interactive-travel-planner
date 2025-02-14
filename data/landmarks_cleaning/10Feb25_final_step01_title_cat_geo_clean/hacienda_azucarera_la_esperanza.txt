@@ -1,0 +1,18 @@
+{
+    "main_content": "Contents\nHacienda Azucarera la Esperanza\nHacienda Azucarera La Esperanza is a former 2265-acre sugarcane plantation located in the Manatí river valley in the municipality of Manatí, Puerto Rico which was founded in the 1830s and, by the 1860s, was one of the largest in the island. It remained operational from 1830 to 1880.  \\n\nHistory\nThe plantation depended on mechanized technology along with slaves which numbered 175 in 1873. The first mill on the plantation produced 100-150 tons of raw sugar every harvest. A second mill is estimated to have generated 200 tons while a third mill produced between 500-600 tons.  \\n\nTwo steam engines were purchased to mechanize sugar production at the hacienda: one in 1841 and another in 1861. The steam trapiche purchased in 1861 remains on the property making it the last known engine of its kind that remains preserved.   The Hacienda La Esperanza steam engine has been designated a National Historic Mechanical Engineering Landmark . Today the entire property is owned by the Puerto Rico Conservation Trust (FCPR, for the initials in Spanish) which preserves and protects it, the property includes some of the only coastal forest left in the region. The organization Para La Naturaleza manages visitation to the historic site in addition to educational and cultural activities and tours into the surrounding nature reserve.  \\n\nJosé Ramon Fernández (1808\\xe2\\x80\\x931883), an influential, conservative politician and businessman, owned Hacienda Azucarera la Esperanza. Ramon was named Marqués de la Esperanza by Spain during a tumultuous time in Puerto Rico. The crisis allowed Ramon to purchase more land and expand the Hacienda.  Ramon, the 1st Marquis of La Esperanza was the wealthiest sugar baron in Puerto Rico in the 19th century. He was also one of the most powerful men of the entire Spanish Caribbean . \nHacienda La Esperanza Nature Reserve\nHacienda La Esperanza Nature Reserve  is a nature reserve that preserves the grasslands and wetlands of the Manatí river delta in addition to coastal karst hills and cliffs, and numerous scenic beaches such as La Esperanza, Las Marias and Tombolo Beaches.  The 2,150-acre protected area surrounds the historic sugarcane plantation, while the historic manor house of Hacienda La Esperanza serves as the visitor center for the nature reserve.  The organization Para La Naturaleza , a nonprofit unit off the FCPR, manages and provides visitor services, volunteer activities and educational events in the nature reserve.   \\n\nThe nature reserve protects important ecosystems and several endangered and endemic species such as the Puerto Rican boa which can be found in the nearby mogotes.  Para La Naturaleza also promotes citizen science and organizes related activities such as bird counting.   \\n\nGallery\nSee also\nReferences\nExternal links\n\\n\nThis article about a property in Puerto Rico on the National Register of Historic Places is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Hacienda_Azucarera_la_Esperanza&action=edit",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://en.wikipedia.org/w/index.php?title=Hacienda_Azucarera_la_Esperanza&oldid=1243917975",
+        "https://www.discoverpuertorico.com/profile/playa-la-esperanza-manati/8949"
+    ],
+    "geo_metadata": {
+        "coordinates": "Not Found",
+        "title": "Hacienda Azucarera La Esperanza",
+        "type": "Point"
+    },
+    "categories": [
+        "Outdoor",
+        "Culture"
+    ]
+}

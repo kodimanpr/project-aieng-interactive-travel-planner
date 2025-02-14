@@ -1,0 +1,22 @@
+{
+    "main_content": "Contents\nLuis A. Ferré Performing Arts Center\nThe Luis A. Ferré Performing Arts Center ( Centro de Bellas Artes Luis A. Ferré in Spanish) is a multi-use performance centre located in the barrio of Santurce in San Juan , Puerto Rico . It features three main concert and theater halls for plays, ballet , operas and concerts. It was renamed in 1994 after the late Puerto Rican philanthropist, politician and Governor of Puerto Rico, Luis A. Ferré .\\n\nThe Center opened on April 9, 1981 under the administration of Governor Carlos Romero Barceló after ten years of planning, project financing, and construction. Since then, it has become the most important performing arts venue in the Puerto Rican capital, presenting the highest level of commercial theater in Puerto Rico along with ballets and operas, and also hosting artists such as Plácido Domingo and Menudo . The center is home to the Puerto Rico Symphony Orchestra and the annual Casals Festival .\\n\nIn January 2019, Lin-Manuel Miranda 's musical Hamilton began its third touring production at the venue, with Miranda reprising the title role of Founding Father and Secretary of Treasury , Alexander Hamilton , with higher praise than his original run on Broadway.  Miranda returned to the venue after nine years since he reprised the role of Usnavi exclusively in San Juan during the North American touring production of In the Heights , which he also wrote.\\n\nFacilities\nThe Center features four main concert and theater halls, two eateries and a central outdoor plaza, each with its own unique features:\\n\nSurrounding art\nThe center is surrounded by various art expositions, including murals, paintings, and sculptures. The two largest halls feature art expositions which distinguishes each one:\\n\nNear the entrance of the center, various expositions greet guests and visitors, including a 40-foot (12 m) aluminum sculpture by Luis Torruella titled Melodic Reflection . However, the main art theme of the center\\'s entrance are The Muses . These are two separate works of art, one being an assortment of 6-foot-tall (1.8 m) bronze female sculptures along the Juan Morel Campos Plaza,  by Annex Burgos; and the second being a large mural at the center\\'s fa\\xc3\\xa7ade (pictured above), made from a mixture concrete and crystal stones and designed by Augusto Marín . Each muse represents the different arts and cultures which the Center embraces, including local and classical music, theater, literature, dance, films, architecture, sculptures, and painting.\\n\nLocation\nLocated along the Ponce de Leon Avenue in the Santurce section of San Juan, the center is located near various retail shops and residential buildings, which produce a vibrant atmosphere around the center both day and night. It has an underground parking garage offering 483 spaces for guests, although adjacent office buildings provide additional spaces.\\n\nReferences\nExternal links",
+    "relevant_links": [
+        "https://ca.wikipedia.org/wiki/Centre_de_Belles_Arts_Luis_A._Ferr%C3%A9",
+        "https://en.wikipedia.org/w/index.php?title=Luis_A._Ferr\\xc3\\xa9_Performing_Arts_Center&oldid=1178844429",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://es.wikipedia.org/wiki/Centro_de_Bellas_Artes_Luis_A._Ferr%C3%A9"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.4475,
+            -66.06917
+        ],
+        "title": "Luis A. Ferr\\xc3\\xa9 Performing Arts Center",
+        "type": "Point"
+    },
+    "categories": [
+        "Outdoor",
+        "Festivals & Events",
+        "Culture"
+    ]
+}

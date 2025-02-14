@@ -1,0 +1,18 @@
+{
+    "main_content": "Contents\nMorovis National Cemetery\nMorovis National Cemetery is a United States National Cemetery located in the municipality of Morovis , in the Commonwealth of Puerto Rico . It encompasses 247.5 acres (100.2 ha) of land, and was dedicated in December 2020. This cemetery along with the Puerto Rico National Cemetery located in Bayamón , are the only United States National Cemeteries located inside Puerto Rico.  \\n\nThe Morovis National Cemetery was built to be operational before the cemetery in Bayamón reached full capacity.   \\n\nHistory\nThe Morovis National Cemetery was built in Morovis within a 247.5-acre parcel of land that can be accessed from Highway 137 at Km. 11.2. It was built to replace the existing Puerto Rico National Cemetery located in Bayamón, which would reach its capacity in 2022. It and the cemetery in Bayamón are the only two cemeteries in the United States National Cemetery System located outside the U.S.    \\n\nThe land for the cemetery was purchased by the United States Department of Veterans Affairs in 2013 for $7.6 million.  \\n\nConstruction was underway in 2019   with interments slated to begin in 2021. The U.S. Department of Veterans Affairs (VA) held a dedication ceremony for the cemetery on December 12, 2020.\\n\nNotable interments\nThe following list has the names of distinguished Puerto Ricans, and non-Puerto Rican veterans who have made Puerto Rico their home, who served in the US military and are interred there.\\n\nSee also\nReferences\nFurther reading\nExternal links",
+    "relevant_links": [
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://en.wikipedia.org/w/index.php?title=Morovis_National_Cemetery&oldid=1247096985"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.35256,
+            -66.42547
+        ],
+        "title": "Morovis National Cemetery",
+        "type": "Point"
+    },
+    "categories": [
+        "Culture"
+    ]
+}

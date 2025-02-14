@@ -1,0 +1,21 @@
+{
+    "main_content": "Contents\nPaseo Tablado La Guancha\n\\n\nPaseo Tablado La Guancha ( English : La Guancha Boardwalk ) is a boardwalk in the La Guancha sector of the Playa barrio in the city of Ponce, Puerto Rico , facing the Caribbean Sea . It was built under the mayoral administration of Rafael Cordero Santiago , Mayor of Ponce from 1989 to 2004, at a cost of 2.6 million dollars,  and inaugurated on 23 June 1998.  It receives over 750,000 visitors a year.  In September 2017 the boardwalk was damaged by Hurricane Maria and the area closest to the water was fenced off and off-limits to the public, but the rest of the facilities continued to operate uninterrupted. In January 2020, however, while still fenced off from the 2017 hurricane damage, the boardwalk\\xe2\\x80\\x94together with its adjoining recreational complex\\xe2\\x80\\x94closed when the area suffered severe damage from the 2020 Puerto Rico earthquakes and, as of 17 June 2020, it remained closed.  By late 2020 arrangements were made for the merchants that operated from waterfront kiosks to reopen their businesses out of provisional facilities at a temporary location away from the waterfront while reconstruction of the waterfront area takes place.\\n\nDescription and amenities\nThe Paseo Tablado La Guancha is located in Ponce\\'s sea shore. Built in the 1990s, the boardwalk overlooks the Club Náutico de Ponce and has many restaurants and bars. It also has kiosks which sell food and alcoholic beverages. \"It\\'s basically a boardwalk filled with many different local eateries. They mostly sell delicious \\'fritters\\', like what we call \\'bacalaitos\\', or fried cod fish [turnovers]. There are also \\'empanadillas\\', which are basically fried meat- or cheese-filled turnovers. Apart from the food, the boardwalk is a great place to relax and take a light stroll. At one end of the boardwalk there is a lookout tower, giving an elevated view of La Guancha. You can see many big tarpons . These are not the prettiest, and do something really weird with their mouths once in a while. Just outside the boardwalk there are fun playgrounds for kids and a cool arcade. Ponce\\'s beach is very near the boardwalk, you can even walk to it.\"  There is also a marina where visitors can rent pedal boats and kayaks to explore the bay, an open-space stage for social and other similar activities, and an observation tower from where the Cardona Island Lighthouse can be seen. A 45-minute boat ride is also available to Caja de Muertos , a small island that features the 1887 Caja de Muertos Lighthouse and several beaches .\\n\nAtmosphere\nThe Paseo Tablado La Guancha is a good place to mingle with local Ponceños . Some visitors simply contemplate the water and relax while catching a cool breeze. During weekends it becomes livelier, with much live salsa music and large crowds. Except for Mondays and Tuesdays, the boardwalk is usually quite a lively place and great for people-watching.  \\n\nRecent developments\nIn September 2017, the boardwalk was damaged by Hurricane Maria .  On 7 January 2020 La Guancha was damaged again and made inoperable by a 6.4 magnitude earthquake so that twenty-four establishments had to shut down their operations.   \\n\nSee also\nReferences\nFurther reading",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Paseo_Tablado_La_Guancha&oldid=1164243801",
+        "https://arz.wikipedia.org/wiki/%D9%BE%D8%A7%D8%B3%D9%8A%D9%88_%D8%AA%D8%A7%D8%A8%D9%84%D8%A7%D8%AF%D9%88_%D9%84%D8%A7_%D8%AC%D9%88%D8%A7%D9%86%D8%AA%D8%B4%D8%A7",
+        "https://stats.wikimedia.org/#/en.wikipedia.org"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            17.965379833,
+            -66.61448
+        ],
+        "title": "Paseo Tablado La Guancha",
+        "type": "Point"
+    },
+    "categories": [
+        "Food",
+        "Family-Friendly",
+        "Beach"
+    ]
+}

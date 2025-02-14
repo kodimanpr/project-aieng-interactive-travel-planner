@@ -1,0 +1,17 @@
+{
+    "main_content": "Contents\nHouse at 659 La Paz Street\n659 La Paz is a historic Mission Revival house designed by famed Puerto Rican architect Pedro Adolfo de Castro located in Miramar , a historic residential area of Santurce in the city of San Juan, Puerto Rico .  The house was built in 1928, and it was the first of various private residences in Miramar designed by Pedro Adolfo de Castro that, along with structures such as Castillo Serrallés , were instrumental in ushering the Mission Revival architectural style in Puerto Rico.  \\n\nSee also\nReferences\n\\n\nThis article about a property in Puerto Rico on the National Register of Historic Places is a stub . You can help Wikipedia by expanding it .\nThis article about a Puerto Rican building or structure related topic is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=House_at_659_La_Paz_Street&oldid=1240272994",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://en.wikipedia.org/w/index.php?title=House_at_659_La_Paz_Street&action=edit"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.4528592,
+            -66.0827824
+        ],
+        "title": "House At 659 La Paz Street",
+        "type": "Point"
+    },
+    "categories": []
+}

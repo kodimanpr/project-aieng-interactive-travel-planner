@@ -1,0 +1,17 @@
+{
+    "main_content": "Contents\nHouse at 659 Concordia Street\n659 Concordia is a historic Mission Revival house located in Miramar , a historic residential area of Santurce in the city of San Juan, Puerto Rico .  The house was built in 1935 from a design render by architect Joseph O\\'Kelly, a Columbia University -graduate who moved to Puerto Rico in 1922 and became involved in the construction of several notorious projects such as the Capitol of Puerto Rico and several structures in the University of Puerto Rico, Río Piedras campus . The residence, along with others in the area designed by Puerto Rican architect Pedro Adolfo de Castro , helped usher the Mission Revival style in the island.  \\n\nSee also\nReferences\n\\n\nThis article about a property in Puerto Rico on the National Register of Historic Places is a stub . You can help Wikipedia by expanding it .\nThis article about a Puerto Rican building or structure related topic is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=House_at_659_Concordia_Street&action=edit",
+        "https://en.wikipedia.org/w/index.php?title=House_at_659_Concordia_Street&oldid=1240272619",
+        "https://en.wikipedia.org/wiki/house_at_659_concordia_street"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.4525283,
+            -66.0822967
+        ],
+        "title": "House At 659 Concordia Street",
+        "type": "Point"
+    },
+    "categories": []
+}

@@ -1,0 +1,21 @@
+{
+    "main_content": "Contents\nVillalba barrio-pueblo\nVillalba barrio-pueblo is a barrio and the administrative center ( seat ) of Villalba , a municipality of Puerto Rico. Its population in 2010 was 729.     \\n\nAs was customary in Spain, in Puerto Rico, the municipality has a barrio called pueblo which contains a central plaza, the municipal buildings (city hall), and a Catholic church. Fiestas patronales (patron saint festivals) are held in the central plaza every year.   \\n\nThe central plaza and its church\nThe central plaza in Villalba barrio-pueblo is named Plaza de Recreo José Ramón Figueroa , after one of the town founders.  The central plaza, or square, is a place for official and unofficial recreational events and a place where people can gather and socialize from dusk to dawn. The Laws of the Indies , Spanish law, which regulated life in Puerto Rico in the early 19th century, stated the plaza\\'s purpose was for \"the parties\" (celebrations, festivities) , and that the square should be proportionally large enough for the number of neighbors . These Spanish regulations also stated that the streets nearby should be comfortable portals for passersby, protecting them from the elements: sun and rain.  \\n\nLocated across the central plaza in Villalba barrio-pueblo is the Parroquia Nuestra Señora del Carmen , a Roman Catholic church.  \\n\nSectors\nBarrios (which are, in contemporary times, roughly comparable to minor civil divisions )  in turn are further subdivided into smaller local populated place areas/units called sectores ( sectors in English). The types of sectores may vary, from normally sector to urbanización to reparto to barriada to residencial , among others.    \\n\nThe following sectors are in Villalba barrio-pueblo:  \\n\nBarriada Cooperativa, \\nBarriada Nueva, \\nCalle Barceló, \\nCalle Figueroa, \\nCalle Luchetti, \\nCalle Muñoz Rivera, \\nCalle Sharton, \\nCalle Vencebil, \\nCalle Walter Mck Jones, \\n Carretera 149 , \\nEl Coquí, \\nHogar San Cristobal, \\nSector Barrio Chino, \\nSector Palmarejo (El Matadero, El Puente, El Maguey) , and Urbanización Villa Alba .\\n\nSee also\nReferences",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Villalba_barrio-pueblo&oldid=1192953227",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://ceb.wikipedia.org/wiki/Villalba_Barrio-Pueblo",
+        "https://azb.wikipedia.org/wiki/%D9%88%DB%8C%D9%84%D8%A7%D9%84%D8%A8%D8%A7_%D8%A8%D8%A7%D8%B1%DB%8C%D9%88-%D9%BE%D9%88%D8%A8%D9%84%D9%88",
+        "https://es.wikipedia.org/wiki/Villalba_(Villalba)"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.128535,
+            -66.492402
+        ],
+        "title": "Villalba Barrio-pueblo",
+        "type": "Point"
+    },
+    "categories": [
+        "Religion"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "main_content": "Contents\nJobos Beach\nJobos Beach or Playa Jobos is a beach facing the Atlantic Ocean located on the PR-466 street of Isabela in the northwest of Puerto Rico .  While popular, the beach is dangerous and signs warning tourists of dangerous currents were installed in early 2021.  \\n\nJobos Beach is known as a world-class surf spot   and a good place to party .  In February 2013, the beach hosted the Rip Curl Pro , a world tour surfing competition.  Jobos is also a popular beach for windsurfing.  Nearby, also in Isabela, is Pozo de Jacinto , a pit cave steeped in folklore.  \\n\nThe area near Jobos Beach suffered heavy damage from Hurricane Maria on September 20, 2017.  The Tito Puente Amphitheatre reopened in mid-December 2017 with a concert by Circo, and other artists with Corona Fest x Nuestra Playas (Corona Fest for our Beaches) to raise funds for the clean-up at Jobos and other beaches in the area.  \\n\nJobos Beach in Isabela is considered a dangerous beach.  \\n\nGallery\nReferences\n18°30\\xe2\\x80\\xb251\\xe2\\x80\\xb3N 67°04\\xe2\\x80\\xb233\\xe2\\x80\\xb3W ﻿ / ﻿ 18.514215°N 67.075744°W ﻿ / 18.514215; -67.075744 \\n",
+    "relevant_links": [
+        "https://es.wikipedia.org/wiki/Playa_de_Jobos",
+        "https://en.wikipedia.org/w/index.php?title=Jobos_Beach&oldid=1183402424",
+        "https://en.wikipedia.org/wiki/jobos_beach"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.514215,
+            -67.075744
+        ],
+        "title": "Jobos Beach",
+        "type": "Point"
+    },
+    "categories": [
+        "Outdoor",
+        "Festivals & Events",
+        "Nightlife",
+        "Beach"
+    ]
+}

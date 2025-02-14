@@ -1,0 +1,17 @@
+{
+    "main_content": "Contents\nLa Liendre Bridge\nThe La Liendre Bridge , spanning Beatriz Creek, a tributary to the Río de la Plata , between Cayey, Puerto Rico and Cidra, Puerto Rico . It was built in 1877 and was listed on the National Register of Historic Places in 1995,  and on the Puerto Rico Register of Historic Sites and Zones in 2000.  \\n\nIt is a rare type of bridge in the U.S. or its territories, one of a handful of lattice girder bridges imported from France and Belgium to Puerto Rico between 1877 and 1892.  It has lattice girders with transverse joists.  It was on the Carretera Central highway of Puerto Rico, between Cayey and Caguas.  \\n\nIt is Bridge No. 467 mentioned in a review of historic bridges in Puerto Rico.  \\n\nIt is a single-span 17.9 metres (59 ft) long bridge.  \\n\nIn 1994 it was still in use on Puerto Rico Highway 735 , bringing it about fifty feet over the bed of\\nBeatriz Creek.  \\n\nReferences\n\\n\nThis article about a property in Puerto Rico on the National Register of Historic Places is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=La_Liendre_Bridge&action=edit",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://en.wikipedia.org/w/index.php?title=La_Liendre_Bridge&oldid=1246588587"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.13639,
+            -66.13111
+        ],
+        "title": "La Liendre Bridge",
+        "type": "Point"
+    },
+    "categories": []
+}

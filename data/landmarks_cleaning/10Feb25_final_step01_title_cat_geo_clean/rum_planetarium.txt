@@ -1,0 +1,16 @@
+{
+    "main_content": "Contents\nRUM Planetarium\nThe RUM Planetarium is the first planetarium in Puerto Rico .  It is located in the fourth floor of the Physics building of the University of Puerto Rico at Mayagüez in Mayagüez, Puerto Rico .  \\n\nPlanetarium and observatory\nThe Physics department of the UPRM College of Arts and Sciences currently run the Planetarium and its Astronomical Observatory.  Both were inaugurated in 1973 and have continued working and functioning uninterruptedly since.  \\n\nThe Planetarium is a projection room whose hemispherical screen simulates the Celestial sphere . In this screen one can observe close to 4,000 stars, simulating the sky as seen from anywhere in the world and at any time of year. The Planetarium has room for sixty-four people sitting in reclinable seats, allowing greater visibility into the dome.  The star projector is located in the center of the hall and is controlled from a computerized console.  Apart from its academic uses in the University of Puerto Rico , the Planetarium is used as a complement to the curriculum of public and private schools in Puerto Rico in the areas of physics, astronomy, Earth Sciences and space sciences.  \\n\nThe Observatory of the Physics Department also have a telescope with a 16-inch-diameter (410 mm) primary mirror. This telescope is controlled by computer and enables the video transmission of astronomical imagery obtained using a CCD camera.  \\n\nThey also provide services to the University community and the western area of Puerto Rico through open houses once or twice a month during the night.  During these activities, visits can be coordinated to visit the Planetarium and the Observatory.  \\n\nSee also\nReferences\n18\\xc2\\xb012\\xe2\\x80\\xb239.46\\xe2\\x80\\xb3N 67\\xc2\\xb008\\xe2\\x80\\xb219.62\\xe2\\x80\\xb3W ﻿ / ﻿ 18.2109611\\xc2\\xb0N 67.1387833\\xc2\\xb0W ﻿ / 18.2109611; -67.1387833 \\n",
+    "relevant_links": [
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://en.wikipedia.org/w/index.php?title=RUM_Planetarium&oldid=1146793747"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.2109611,
+            -67.1387833
+        ],
+        "title": "Rum Planetarium",
+        "type": "Point"
+    },
+    "categories": []
+}

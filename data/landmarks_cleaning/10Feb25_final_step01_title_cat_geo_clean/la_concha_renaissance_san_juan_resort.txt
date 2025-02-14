@@ -1,0 +1,24 @@
+{
+    "main_content": "Contents\nLa Concha Renaissance San Juan Resort\nLa Concha Renaissance San Juan Resort , also known as La Concha Resort ,  is a historic luxury resort located at the Condado oceanfront within the district of Santurce in San Juan, Puerto Rico .\\n\nHistory\nThe La Concha Hotel opened in December 1958  during the Tropical Modernism Movement . The hotel was publicly owned, by the government of Puerto Rico, and managed by the US-based Associated Federal Hotels chain.  The main hotel building was designed by architects Osvaldo Toro and Miguel Ferrer, of the firm Toro Ferrer . The two men had previously designed the first modern luxury resort in San Juan, the Caribe Hilton . Another part of the complex, the seashell -inspired building for the restaurant La Perla , was designed by architect Mario Salvadori .  The hotel\\'s design incorporated tropical climate features such as cross-ventilation, natural illumination, open lobbies and seamless transitions between inside and outside spaces, with details supposedly relevant to Island traditions: an interior patio, blinds, a mirador encompassing both the sea and the city and the use of water throughout as a leitmotif. The protective concrete element in the fa\\xc3\\xa7ade, called brise-soleil in French or \"quiebrasol\" in Spanish, is an architectural element used by famed architect Le Corbusier. The purpose of the \"quiebrasol\" is to filter the sun\\'s rays towards the interior corridors.\\n\nIn 1973, the La Concha Hotel was united with the adjacent Condado Beach Hotel into one hotel, known as the Hyatt Puerto Rico .  In 1976,  management of the complex was taken over by Hilton International  and the resort was renamed the Condado Beach La Concha Convention Center , with a huge convention wing built between the two existing hotel structures to physically connect them. The complex was later taken over by Carnival Cruise Line  and renamed The Condado Beach Trio , before the La Concha wing was closed in 1995, followed by the closure of the Condado Beach wing in 1997.  The government-owned properties sat vacant for years, and were finally severed in 2004. The convention center that joined them was demolished to build a public park.  \\n\nThe La Concha reopened in December 2007 after a $220 million renovation,  managed by Renaissance Hotels as La Concha Renaissance San Juan Resort .\\n\nIn the summer of 2010, the hotel opened a $100 million addition called The Suites Tower which features an atrium style building with one and two bedroom suites, kitchens, architectural lighting, and amenities. The hotel\\'s Casino del Mar is located on the street level of the new tower.\\n\nSee also\nReferences\nExternal links\n18\\xc2\\xb027\\xe2\\x80\\xb226\\xe2\\x80\\xb3N 66\\xc2\\xb004\\xe2\\x80\\xb226\\xe2\\x80\\xb3W ﻿ / ﻿ 18.45722\\xc2\\xb0N 66.07389\\xc2\\xb0W ﻿ / 18.45722; -66.07389 \\n",
+    "relevant_links": [
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://en.wikipedia.org/w/index.php?title=La_Concha_Renaissance_San_Juan_Resort&oldid=1246058480"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.45722,
+            -66.07389
+        ],
+        "title": "La Concha Renaissance San Juan Resort",
+        "type": "Point"
+    },
+    "categories": [
+        "Culture",
+        "Luxury & Resorts",
+        "Beach",
+        "Outdoor",
+        "Family-Friendly",
+        "Festivals & Events",
+        "Food"
+    ]
+}

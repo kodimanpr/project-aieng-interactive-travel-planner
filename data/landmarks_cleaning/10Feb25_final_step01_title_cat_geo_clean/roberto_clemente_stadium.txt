@@ -1,0 +1,22 @@
+{
+    "main_content": "Contents\nRoberto Clemente Stadium\nRoberto Clemente Stadium  is a multi-purpose stadium in Carolina , Puerto Rico .  It is currently used mostly for baseball games and is the home of Gigantes de Carolina .  The stadium holds 12,500 people and was built in 2000.  It is named after former Puerto Rican baseball great and native of Carolina, Roberto Clemente .\\n\nIt hosted the 2007 Caribbean Series . From 2008 it is the home of the Gigantes de Carolina (football club) who plays in the Puerto Rico Soccer League .\\n\nIt has been a venue for political campaign events,  and gift-giving holiday events.  \\n\nReferences\nExternal links\n\\n\nThis article about a sports venue in Puerto Rico is a stub . You can help Wikipedia by expanding it .\nThis article about a baseball venue in the United States is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://ko.wikipedia.org/wiki/%EB%A1%9C%EB%B2%A0%EB%A5%B4%ED%86%A0_%ED%81%B4%EB%A0%88%EB%A9%98%ED%85%8C_%EC%8A%A4%ED%83%80%EB%94%94%EC%9B%80",
+        "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%B9%E3%82%BF%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BB%E3%83%AD%E3%83%99%E3%83%AB%E3%83%88%E3%83%BB%E3%82%AF%E3%83%AC%E3%83%A1%E3%83%B3%E3%83%86%E3%83%BB%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%AB%E3%83%BC",
+        "https://es.wikipedia.org/wiki/Estadio_Roberto_Clemente_Walker",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://fr.wikipedia.org/wiki/Stade_Roberto-Clemente",
+        "https://en.wikipedia.org/w/index.php?title=Roberto_Clemente_Stadium&action=edit",
+        "https://pl.wikipedia.org/wiki/Roberto_Clemente_Stadium",
+        "https://en.wikipedia.org/w/index.php?title=Roberto_Clemente_Stadium&oldid=1193411937"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.37667,
+            -65.94917
+        ],
+        "title": "Roberto Clemente Stadium",
+        "type": "Point"
+    },
+    "categories": []
+}

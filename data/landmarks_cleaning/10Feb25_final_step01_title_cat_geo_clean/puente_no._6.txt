@@ -1,0 +1,19 @@
+{
+    "main_content": "Contents\nPuente No. 6\nPuente No. 6 , in Caguas , Puerto Rico is a historic bridge which was built in 1856.  It was listed on the National Register of Historic Places in 2009 and is located at Puerto Rico Highway 798 , Km. 1.0 in Río Cañas barrio.  \\n\nIt has also been known as Bridge #6, as Ponton La Concepcion, and as (La) Concepcion Bridge.   It spans the Cañas River .  It is a brick barrel vault bridge.  It was built as part of the Río Piedras-Caguas highway program.   \\n\nThe image at right is from Our Islands and their People by Jose de Olivares, published in 1899 after the Spanish-American War.\\n\nReferences\n\\n\nThis article about a property in Puerto Rico on the National Register of Historic Places is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Puente_No._6&action=edit",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://en.wikipedia.org/w/index.php?title=Puente_No._6&oldid=1141583294"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.28583,
+            -66.04306
+        ],
+        "title": "Puente No. 6",
+        "type": "Point"
+    },
+    "categories": [
+        "Outdoor"
+    ]
+}

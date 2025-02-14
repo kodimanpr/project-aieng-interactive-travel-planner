@@ -1,0 +1,20 @@
+{
+    "main_content": "Contents\nCasa Alonso\nCasa Alonso is a house museum and cultural center in Vega Baja Pueblo , the historic downtown of the municipality of Vega Baja, Puerto Rico .  It was listed on the National Register of Historic Places in 1996.  The house is also known as Museo de Arte, Historia y Cultura Casa Alonso , administered by the municipality of Vega Baja.  \\n\nIt is a two-story wood and masonry \"neoclassical vernacular style\" residence. It was lived in successively by Soliveras, Otero, and Alonso families, of sugar plantation wealth.  \\n\nGallery\nReferences\nExternal links\n\\n\nThis article about a property in Puerto Rico on the National Register of Historic Places is a stub . You can help Wikipedia by expanding it .\nThis article about a Puerto Rican building or structure related topic is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Casa_Alonso&oldid=1198815343",
+        "https://en.wikipedia.org/w/index.php?title=Casa_Alonso&action=edit",
+        "https://es.wikipedia.org/wiki/Casa_Alonso",
+        "https://en.wikipedia.org/wiki/casa_alonso"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.44611,
+            -66.38667
+        ],
+        "title": "Casa Alonso",
+        "type": "Point"
+    },
+    "categories": [
+        "Culture"
+    ]
+}

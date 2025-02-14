@@ -1,0 +1,21 @@
+{
+    "main_content": "Contents\nCrash Boat Beach\nCrash Boat Beach or Crashboat Beach ( Playa Crash Boat ) on the northwestern coast of Puerto Rico is situated in the municipality of Aguadilla . \\n\nDescription\nCrash Boat Beach is halfway between the former Ramey Air Force Base (today\\'s Aguadilla Airport) and Aguadilla and still retains some remains of its pier infrastructure from when it was used to support Ramey Air Force Base.  Now these piers remains are used as a fishing and recreation spot. \\n\nThe Crash Boat Beach piers / dock was originally built for use by the United States military rescue boats who raced out to sea to rescue downed airmen from Ramey Air Force Base, hence the name \" Crash boat \". As time passed, the local sea currents deposited tons of sand into the pier area forming into a beach, making it unusable to dock boats at the pier.  \\n\nCrash Boat Beach is now a tourism spot where vacationers participate in recreational activities, such as swimming, sun bathing, surfing, and snorkeling.\\n\nGallery\nSee also\nReferences\nExternal links",
+    "relevant_links": [
+        "https://es.wikipedia.org/wiki/Playa_Crash_Boat",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://arz.wikipedia.org/wiki/%D8%B4%D8%B7_%D9%83%D8%B1%D8%A7%D8%B4_%D8%A8%D9%88%D8%AA",
+        "https://en.wikipedia.org/w/index.php?title=Crash_Boat_Beach&oldid=1191944749"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.458392,
+            -67.164863
+        ],
+        "title": "Crash Boat Beach",
+        "type": "Point"
+    },
+    "categories": [
+        "Soft Adventure",
+        "Beach"
+    ]
+}

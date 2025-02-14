@@ -1,0 +1,19 @@
+{
+    "main_content": "Contents\nAibonito barrio-pueblo\nAibonito barrio-pueblo is a barrio and the administrative center ( seat ) of Aibonito , a municipality of Puerto Rico. Its population in 2010 was 3,539.    \\n\nAs was customary in Spain, in Puerto Rico, the municipality has a barrio called pueblo which contains a central plaza, the municipal buildings (city hall), and a Catholic church. Fiestas patronales (patron saint festivals) are held in the central plaza every year.   \\n\nThe central plaza and its church\nThe central plaza, or square, is a place for official and unofficial recreational events and a place where people can gather and socialize from dusk to dawn. The Laws of the Indies , Spanish law, which regulated life in Puerto Rico in the early 19th century, stated the plaza\\'s purpose was for \"the parties\" (celebrations, festivities) , and that the square should be proportionally large enough for the number of neighbors . These Spanish regulations also stated that the streets nearby should be comfortable portals for passersby, protecting them from the elements: sun and rain.  \\n \\n\nLocated across from the central plaza in Aibonito barrio-pueblo is the Parroquia San José .  The first church found at this place was made of wood and built between the years 1825 and 1831. Construction on the current church began in 1887 and was based on an architectural design by Pedro Cobreros. Work stopped in 1888 and resumed in 1893. The church was finally inaugurated in 1897 and renovations have been made over the years.  \\n\nSectors\nBarrios (which are, in contemporary times, roughly comparable to minor civil divisions )  in turn are further subdivided into smaller local populated place areas/units called sectores ( sectors in English). The types of sectores may vary, from normally sector to urbanización to reparto to barriada to residencial , among others.    \\n\nThe following sectors are in Aibonito barrio-pueblo:  \\n\nBarrio Pueblo Norte, Barrio Pueblo Sur , and Urbanización Buena Vista .\\n\nUrban development\nIn 2014, William Alicea Pérez , then mayor of Aibonito celebrated the improvements that had been made to Aibonito, specifically to its urban center. Several infrastructure projects were completed in 2014. An assisted living center was inaugurated, and a stadium. The mayor announced plans for a future gym, gave updates on progress of another stadium and other projects that were under way for the benefit of Aibonito. Pérez indicated that its urban center had been transformed and would continue to be improved upon. The construction of a gym for boxing and martial arts was underway with the help of Miguel Cotto , a Puerto Rican boxing champion.  \\n\nGallery\nPlaces in Aibonito barrio-pueblo:\\n\nSee also\nReferences\nExternal links",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Aibonito_barrio-pueblo&oldid=1193041822",
+        "https://es.wikipedia.org/wiki/Aibonito_(Aibonito)",
+        "https://en.wikipedia.org/wiki/aibonito_barrio-pueblo"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.136321,
+            -66.264175
+        ],
+        "title": "Aibonito Barrio-pueblo",
+        "type": "Point"
+    },
+    "categories": [
+        "Religion"
+    ]
+}

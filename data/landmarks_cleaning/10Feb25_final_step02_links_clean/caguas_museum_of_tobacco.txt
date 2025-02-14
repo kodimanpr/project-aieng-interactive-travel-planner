@@ -1,0 +1,21 @@
+{
+    "main_content": "Contents\nCaguas Museum of Tobacco\nThe Caguas Museum of Tobacco , officially the Herminio Torres Grillo Museum of Tobacco , is a museum dedicated to the history of the growth and industry of tobacco in Puerto Rico and the wider region of the Caribbean . This museum is located on an old colonial neoclassical building in Caguas Pueblo (downtown Caguas ) which used to be a blacksmith shop, and it is the only of its kind in Puerto Rico. Tobacco used to be one of the most important crops in Puerto Rico until the 1960s, and Caguas used to be one of the main growers of this crop in the island.   \\n\nThe museum contains relics from the former industry and replicas of a \"tobacco ranchón \", used to cure and dry tobacco leaves for the confection of cigars. The museum also hosts experienced cigarmaking artisans who sell their product on site.  \\n\nReferences\n18°14\\xe2\\x80\\xb204\\xe2\\x80\\xb3N 66°02\\xe2\\x80\\xb213\\xe2\\x80\\xb3W ﻿ / ﻿ 18.23437°N 66.03681°W ﻿ / 18.23437; -66.03681 \\n\n\\n\nThis article about a Puerto Rican building or structure related topic is a stub . You can help Wikipedia by expanding it .\nThis article related to a museum in the Caribbean is a stub . You can help Wikipedia by expanding it .\nThis article related to a museum in the United States is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Caguas_Museum_of_Tobacco&action=edit",
+        "https://en.wikipedia.org/w/index.php?title=Caguas_Museum_of_Tobacco&oldid=1146285699",
+        "https://www.discoverpuertorico.com/profile/museo-del-tabaco-herminio-torres-grillo/9307",
+        "https://en.wikipedia.org/wiki/caguas_museum_of_tobacco"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.23437,
+            -66.03681
+        ],
+        "title": "Caguas Museum Of Tobacco",
+        "type": "Point"
+    },
+    "categories": [
+        "Shopping",
+        "Culture"
+    ]
+}

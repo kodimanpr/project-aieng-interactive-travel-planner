@@ -1,0 +1,20 @@
+{
+    "main_content": "Contents\nTito Puente Amphitheatre\nThe Tito Puente Amphitheatre (or Anfiteatro Tito Puente in Spanish ) is a concert amphitheater in San Juan , Puerto Rico , named after late mambo musician and percussionist, Tito Puente . It was previously named the Luis Muñoz Marín Amphitheatre (or Anfiteatro Luis Muñoz Marín ).\\n\nWith a maximum capacity of just 3,000 people, the Tito Puente Amphitheatre is a frequent spot for smaller, more \"intimate\" concert events, and hosts  numerous artists performing many styles of music.  The venue is home of the Puerto Rico Heineken Jazz Festival each year, and is located adjacent to the Roberto Clemente Coliseum and Hiram Bithorn Stadium . Additionally, the venue is a popular location for graduations, weddings and other ceremonial events, as well as for photo shoots.\\n\nAfter a brief closure, due to damages caused by Hurricane Maria , the amphitheatre re-opened in mid December 2017 with a concert featuring Circo (and other artists) called Corona Fest x Nuestra Playas (\"Corona Fest for our Beaches\").  \\n\nIn December 2021, Latin jazz musician Eddie Palmieri performed at the amphitheatre,  and in June 2022, reggaetón star Bad Bunny and Buscabulla performed there.  On July 1, 2023, popular reggaetonera Young Miko headlined a concert at the venue.  \\n\nSee also\nReferences\n18\\xc2\\xb024\\xe2\\x80\\xb250\\xe2\\x80\\xb3N 66\\xc2\\xb004\\xe2\\x80\\xb229\\xe2\\x80\\xb3W ﻿ / ﻿ 18.413824\\xc2\\xb0N 66.074824\\xc2\\xb0W ﻿ / 18.413824; -66.074824 \\n\n\\n\nThis article about a Puerto Rican building or structure related topic is a stub . You can help Wikipedia by expanding it .\nThis article about a specific theatre building is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Tito_Puente_Amphitheatre&action=edit",
+        "https://en.wikipedia.org/w/index.php?title=Tito_Puente_Amphitheatre&oldid=1220998757",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://es.wikipedia.org/wiki/Anfiteatro_Tito_Puente"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.413824,
+            -66.074824
+        ],
+        "title": "Tito Puente Amphitheatre",
+        "type": "Point"
+    },
+    "categories": [
+        "Festivals & Events"
+    ]
+}

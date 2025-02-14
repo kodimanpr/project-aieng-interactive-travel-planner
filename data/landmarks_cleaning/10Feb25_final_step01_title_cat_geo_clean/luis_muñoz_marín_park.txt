@@ -1,0 +1,20 @@
+{
+    "main_content": "Contents\nLuis Muñoz Marín Park\nLuis Muñoz Marín Park  is an urban park located in the Gobernador Piñero district of San Juan , close to Hato Rey , Río Piedras and Plaza Las Américas . The park was opened by the Puerto Rico Company of National Parks (CPNPR) and is currently administered by the municipality of San Juan. The Piedras River ( el Río Piedras ) crosses the park from southeast to northwest, splitting it in two sections.  \\n\nThe park has gazebos that can be rented for events, green areas for strolls, biking and picnics, an artificial lake with paddleboats for rent ($6), and a number of playgrounds for children. The main attraction however is the cableway that crosses the park and offers scenic views of the city while providing transportation to the Roberto Clemente Coliseum and the Hiram Bithorn Stadium ; it costs $2 for adults and $1 for children. The park is open weekly from Wednesday to Sunday and on public holidays.  \\n\nHurricane Maria struck Puerto Rico in 2017, causing widespread damages to the park. It remained closed for years until February 2021 when it opened on limited capacity due to the COVID-19 pandemic .  \\n\nSee also\nReferences\n18\\xc2\\xb024\\xe2\\x80\\xb234\\xe2\\x80\\xb3N 66\\xc2\\xb004\\xe2\\x80\\xb223\\xe2\\x80\\xb3W ﻿ / ﻿ 18.40944\\xc2\\xb0N 66.07306\\xc2\\xb0W ﻿ / 18.40944; -66.07306 \\n",
+    "relevant_links": [
+        "https://www.zeepuertorico.com/lugar/parque-luis-mu%C3%B1oz-mar%C3%ADn",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://en.wikipedia.org/w/index.php?title=Luis_Mu\\xc3\\xb1oz_Mar\\xc3\\xadn_Park&oldid=1197107712"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.40944,
+            -66.07306
+        ],
+        "title": "Luis Muñoz Marín Park",
+        "type": "Point"
+    },
+    "categories": [
+        "Outdoor",
+        "Family-Friendly"
+    ]
+}

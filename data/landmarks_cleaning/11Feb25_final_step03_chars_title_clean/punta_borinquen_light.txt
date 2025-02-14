@@ -1,0 +1,20 @@
+{
+    "main_content": "Contents\nPunta Borinquen Light\nPunta Borinquen Light ( Faro de Punta Borinquen ) is a lighthouse located in the old Ramey Air Force Base in Aguadilla, Puerto Rico .  The station was established in 1889 by the Spanish government . With the opening of the Panama Canal in 1914, the lighthouse would become \"the most important aid to navigation on the route from Europe to Panama\".  In 1917, the U.S Congress provided funding for a new lighthouse in higher ground.\\n\nBut before construction began on the new structure, the original lighthouse was severely damaged by the 1918 earthquake that struck the west part of the island.   Construction on the new lighthouse was completed in 1922. The light is active aid to navigation and is a housing facility  for the United States Coast Guard .  \\n\nSee also\nReferences\nExternal links\n\\n\nThis article about a Puerto Rican building or structure related topic is a stub . You can help Wikipedia by expanding it .\nThis lighthouse -related article is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://es.wikipedia.org/wiki/Faro_de_Punta_Borinqu%C3%A9n",
+        "https://en.wikipedia.org/w/index.php?title=Punta_Borinquen_Light&oldid=1240122363",
+        "https://en.wikipedia.org/w/index.php?title=Punta_Borinquen_Light&action=edit",
+        "https://en.wikipedia.org/wiki/punta_borinquen_light"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.48869,
+            -67.16163
+        ],
+        "title": "Punta Borinquen Light",
+        "type": "Point"
+    },
+    "categories": [
+        "Beach"
+    ]
+}

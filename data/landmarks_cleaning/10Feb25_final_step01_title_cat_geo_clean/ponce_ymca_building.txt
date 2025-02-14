@@ -1,0 +1,18 @@
+{
+    "main_content": "Contents\nPonce YMCA Building\n\\n\nThe Ponce YMCA Building is a historic structure located in the municipality of Ponce, Puerto Rico .  It is located at 7843 Calle Nazaret, Urbanizacion Santa Maria .  The structure was listed in the National Register of Historic Places on 4 June 2012.  \\n\nHistory\nThe history of the Ponce YMCA dates back to 1917 when the YMCA was organized in San Juan. In 1919 efforts and surveys were made to start YMCA work in Ponce. In 1934, Manuel Bueno became General Secretary of the Puerto Rico YMCA, the first native Puerto Rican to hold the post. Hurricanes in September 1928  and again in 1931, prevented the Ponce work to move forward once more, as money that had been obtained for the International YMCA Committee had to be used by the San Juan YMCA to help towards repairs to the San Juan YMCA building after these storms. In 1934, however, the YMCA of Puerto Rico became self-supporting.  \\n\nThe Great Depression of the 1930s, however, made it very difficult once more to move forward with plans to build a YMCA building in Ponce. The General Secretary, for example, received no salary for six months. As a result of these difficulties, affiliation with various statewide YMCA organizations was sought in 1944, and again in 1947. The Ponce YMCA was founded in 1947, partly as a result of these affiliations.  Its architect was Pedro A. de Castro Gaya, the son of architect Pedro Adolfo de Castro .  On 10 September 1953 the new Ponce YMCA building broke ground. It was inaugurated on 22 February 1955.  \\n\nNational Register of Historic Places\nThe Ponce YMCA was listed in the National Register of Historic Places on 4 June 2012.  Its listing was made possible in part for its interior mural by Rafael Rios Rey titled \"El Hombre\" (English: Man).  \\n\nCurrent use\nThe building has been in continuous use since its inauguration, and sees heightened activity during the summer months with the addition of summer camp programs. During the year it caters to children and adolescents. Over 400 children use its programs.  It also holds regular summer camp programs.  The Ponce YMCA oftentimes works in conjunction with the Ponce Region Boy Scout movement in order to help the boys\\' programs with growth.  The building is heavily used for its sports facilities.  The Ponce YMCA executive director in 2019 was Maritza Correa.  \\n\nSee also\nReferences\nExternal links",
+    "relevant_links": [
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://en.wikipedia.org/w/index.php?title=Ponce_YMCA_Building&oldid=1209423343"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.005888,
+            -66.617149
+        ],
+        "title": "Ponce Ymca Building",
+        "type": "Point"
+    },
+    "categories": [
+        "Culture"
+    ]
+}

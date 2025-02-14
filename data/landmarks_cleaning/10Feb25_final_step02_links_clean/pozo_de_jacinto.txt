@@ -1,0 +1,20 @@
+{
+    "main_content": "Contents\nPozo de Jacinto\nPozo de Jacinto ( Jacinto\\'s Pit Cave ) is a blowhole located at Barrio Bajuras in the northwestern side Puerto Rican municipality of Isabela on Puerto Rico Highway 466 .\\n\nDescription\nPozo de Jacinto is at Barrio Bajura which is near Crash Boat Beach in Aguadilla , which borders Isabela. It\\'s a blowhole, or limestone rock with an orifice through which ocean waves shoot up.   \\n\nFolklore\nA jíbaro named Jacinto often went near the cave to eat his lunch, keeping the cow\\'s leash tied around his waist. One day, loud thunder scared the cow and he ran, fell down the pit pulling Jacinto with  him and both drowned. If Jacinto\\'s name is called and mention of the cow is made, the ocean becomes furious and churns wildly in response.    \\n\nSee also\nReferences\nExternal links\n18°30\\xe2\\x80\\xb254\\xe2\\x80\\xb3N 67°04\\xe2\\x80\\xb226\\xe2\\x80\\xb3W ﻿ / ﻿ 18.515000°N 67.073877°W ﻿ / 18.515000; -67.073877 \\n\n\\n\nThis Isabela, Puerto Rico location article is a stub . You can help Wikipedia by expanding it .\nThis folklore -related article is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Pozo_de_Jacinto&action=edit",
+        "https://en.wikipedia.org/w/index.php?title=Pozo_de_Jacinto&oldid=1183401527",
+        "https://en.wikipedia.org/wiki/pozo_de_jacinto"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.515,
+            -67.073877
+        ],
+        "title": "Pozo De Jacinto",
+        "type": "Point"
+    },
+    "categories": [
+        "Outdoor",
+        "Beach"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "main_content": "Contents\nVilla Pesquera\n\\n\nVilla Pesquera is a sea-front fishing village in barrio Playa , in the municipality of Ponce, Puerto Rico . The site is one of the tourist attractions in the municipality of Ponce.  \\n\nLocation\nFormerly an ad hoc group of fishermen, Villa Pesquera was re-organized and inaugurated in 1992 under the administration of Ponce Mayor Rafael Cordero Santiago .  The village is located on the southern Puerto Rico\\'s Caribbean Sea shores, on Avenida Padre Noel in barrio Playa in Ponce, Puerto Rico. The village includes a restaurant by the same name - Restaurante Villa Pesquera.  \\n\nManagement\nThe cooperative-style village is staffed by \"veteran fishermen \" and presided by Miguel Ortiz Maldonado. The village experiences double its activity during the weeks in February and March associated with the religious festivities of lent .  Their cooperative is named \"Asociación de Pescadores de la Playa de Ponce (APPP).\"  \\n\nActivity\nIn 2013, there were 54 active fishermen at the village.  The most sought after fish is the Sierra . The village is frequented by both private individuals as well as businesses seeking to fill their restaurant-related needs. Some fishermen will only fish Sierra due to its high demand. This is followed by chillo , carrucho , and lobster .  \\n\nToday\nThe Villa Pesquera facilities are owned by the Municipality of Ponce, but operated by the fishermen themselves. The 2013 speaker of the group is José Montero Rosado. In July 2013 it was made public that the Ponce Municipal Government was interested in passing control of the village to a private commercial operator.  \\n\nDredging and boardwalk\nThe Villa Pesquera waters have been a victim of problems associated with too much sediment . To control the problem a dredging project was started in 2013. The city spent some $185,000 in the project but, by mid-2013, still much more work was needed to complete the project.  The sediment problem has been acknowledged by the Villa Pesquera lieutenant in charge of the Maritime Unit of the village security force, José Santiago Santiago, who is also in charge of the tree vessels patrolling the area. The security force is unable to use the Villa Pesquera dock because of the sediment problem.  As a result, security vessels dock and undock in the Puerto Viejo sector of barrio Playa.  \\n\nThe village also has a boardwalk as part of its docking facilities.  The Villa Pesquera boardwalk was reconstructed in 2013 at a cost of over $60,000.  \\n\nControversy\nIn July 2013, the APPP accused the Ponce Municipal Government, headed by Mayor María Meléndez Altieri of the New Progressive Party of Puerto Rico , of attempting to negotiate a new operations contract with a different operator on political grounds. The APPP identified the principals of the proposed new operational cooperative as members of the same political New Progressive Party as the municipal government\\'s administration. Meanwhile, the municipal government did not provide an official reply to the fishermen\\'s demands for information.  \\n\nSee also\nReferences\nExternal links\n17°58\\xe2\\x80\\xb254.8394\\xe2\\x80\\xb3N 66°37\\xe2\\x80\\xb222.4034\\xe2\\x80\\xb3W ﻿ / ﻿ 17.981899833°N 66.622889833°W ﻿ / 17.981899833; -66.622889833 \\n",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Villa_Pesquera&oldid=1091798374",
+        "https://en.wikipedia.org/wiki/villa_pesquera"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            17.981899833,
+            -66.622889833
+        ],
+        "title": "Villa Pesquera",
+        "type": "Point"
+    },
+    "categories": [
+        "Nightlife",
+        "Food"
+    ]
+}

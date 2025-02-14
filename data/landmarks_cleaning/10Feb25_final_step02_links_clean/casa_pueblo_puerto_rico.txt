@@ -1,0 +1,20 @@
+{
+    "main_content": "Contents\nCasa Pueblo\n\\n\\n\nCasa Pueblo is an environmental community organization in Adjuntas, Puerto Rico , headed by Alexis Massol-González , a civil engineer and winner of the 2002 Goldman Environmental Prize .     His son, Arturo Massol Deyá, a professor of Microbiology and Ecology at the University of Puerto Rico at Mayagüez , is the assistant executive director of Casa Pueblo.   \\n\nThrough voluntary participation of individuals and groups,  its mission is to explore, enjoy, and protect the wild places in Puerto Rico; to practice and promote the responsible use of the land\\'s ecosystems and resources; to educate and enlist others to protect and restore the quality of the natural and human environment; and to use all lawful means to carry out these objectives, particularly in line with principles of radical democracy , community self-management , and anti-colonialism .     \\n\nHistory\nThe organization was established in 1980 as a cultural center named Taller de Arte y Cultura (Art and Culture Workshop). In 1985, the organization acquired a house that was converted into a headquarters for the group and as a non-governmental , independent, self-supporting, community cultural center.  The house was used as a cultural center, with a meeting and expositions hall, library, carts shop, butterfly garden and museum hall, running on solar energy. The cultural center was named Casa Pueblo, a name eventually adopted by the environmental organization itself.  [ third-party source needed ] The organization has a radio station, with environmental and cultural programming; it opened an environmental school in August 2013.  \\n\nIdeology\nCasa Pueblo has official policies on many conservation issues. They group these into 17 categories: agriculture, biotechnology, energy, environmental justice , forest and wilderness management, global issues, government and political issues, land management, military issues, nuclear issues, oceans, pollution and waste management, precautionary principle, transportation, urban and land use policies, water resources, and wildlife conservation.\\n\nCasa Pueblo advocates for public investment in wind, solar, and other renewable energy ; for the creation of green jobs and efficient energy use ; and against the development of new destructive mining projects.   \\n\nThey believe in principles of radical democracy ,   community self-management ,      and indigenous-centered anti-colonialism .      Some have compared the goals of Casa Pueblo to those of the neo-Zapatistas and the Rebel Zapatista Autonomous Municipalities .   \\n\nAchievements\nSome of the achievements of Casa Pueblo are:\\n\nCampaigns\nThe organization has been involved in the following campaigns:  \\n\nHonors\nSee also\nReferences\nExternal links",
+    "relevant_links": [
+        "https://claridadpuertorico.com/a-cinco-anos-de-maria-y-dias-de-fiona-crece-la-insurreccion-energetica-de-casa-pueblo/",
+        "https://en.wikipedia.org/w/index.php?title=Casa_Pueblo&oldid=1234590869",
+        "https://en.wikipedia.org/wiki/casa_pueblo_puerto_rico"
+    ],
+    "geo_metadata": {
+        "coordinates": "Not Found",
+        "title": "Casa Pueblo Puerto Rico",
+        "type": "Point"
+    },
+    "categories": [
+        "Culture",
+        "Wildlife",
+        "Outdoor",
+        "Shopping",
+        "Nightlife"
+    ]
+}

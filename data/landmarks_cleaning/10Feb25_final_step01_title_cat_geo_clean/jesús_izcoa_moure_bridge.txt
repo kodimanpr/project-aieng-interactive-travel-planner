@@ -1,0 +1,19 @@
+{
+    "main_content": "Contents\nJesús Izcoa Moure Bridge\nThe Jesús Izcoa Moure Bridge (Officially: Puente Atirantado de Naranjito, Jesús Izcoa Moure ) is a Cable-stayed bridge that connects the cities of Toa Alta and Naranjito , in Puerto Rico by the Puerto Rico Highway 5 .\\n\nIt was named after Jesus Izcoa Moure , as he was the first state legislator to be a native of Naranjito, and his signature is stamped on the Constitution of the Commonwealth of Puerto Rico .  \\n\nThe bridge crosses the Rio La Plata between the two municipalities. According to data collected, more than 80,000 residents of Puerto Rico use the bridge. It is the first Cable-stayed bridge in Puerto Rico and the Caribbean.   Puerto Rico is an area of moderate to high seismic activity. The bridge was designed using an AASHTO response spectrum (Soil Profile Type I and an Acceleration Coefficient of 0.20g). All major bridge members were required to remain elastic for the design level earthquake and ductile detailing in accordance with AASHTO Seismic Performance Category C was provided in all potential plastic hinge regions.\\n\nPPD Governor Anibal Acevedo Vila led the opening ceremony of the project on October 24, 2008.  The total cost of the project was $31 million which came from local and federal funds.  The bridge (including approach spans) is 703 meters long.  The cable stayed portion is supported by two hollow diamond-shaped towers and 96 stay.  The total cable stayed supported length is 315 meters with a main span over La Plata river of 157.5 meters.\\n\nThe bridge is now restricted to two lanes to minimize impact loads on the cable stayed system. These impact loads are generated when traveling trucks bounce on the bridge deck due to the bumpiness of the concrete surface. The bumpiness of the bridge deck was the result of poor judgement by consultants during the construction of the cast-in-place bridge deck. This structural condition is fixable.\\n\nThe design of the Jesús Izcoa Moure Bridge was carried out by a joint venture between CSA and HNTB . The inspection during construction was performed by a firm named Edwards and Kelcey managed at the time by Eng. Ralph Burrington.  The cable stayed system was provided by Dywidag Systems International.\\n\nThe Jesús Izcoa Moure Bridge served to educate young engineers and received multiple visits coordinated by the mayor of Naranjito at the time (Manolo Ortega), the Secretary of Transportation (Fernando Fagundo), the Director of Highway Authority (Tomas Montalvo) and local engineering universities. The bridge was built mainly by local workers. About 80% of the work force was from Naranjito , Barranquitas and Bayamón .\\n\nSee also\nReferences",
+    "relevant_links": [
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://es.wikipedia.org/wiki/Puente_Jes%C3%BAs_Izcoa_Moure",
+        "https://en.wikipedia.org/w/index.php?title=Jes\\xc3\\xbas_Izcoa_Moure_Bridge&oldid=1177814966"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.324315,
+            -66.208656
+        ],
+        "title": "Jes\\xc3\\xbas Izcoa Moure Bridge",
+        "type": "Point"
+    },
+    "categories": [
+        "Outdoor"
+    ]
+}

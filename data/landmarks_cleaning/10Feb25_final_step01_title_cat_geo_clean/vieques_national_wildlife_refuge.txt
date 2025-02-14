@@ -1,0 +1,21 @@
+{
+    "main_content": "Contents\nVieques National Wildlife Refuge\nThe Vieques National Wildlife Refuge  is a National Wildlife Refuge on the island of Vieques in the Puerto Rico archipelago.  It is part of the Caribbean Islands National Wildlife Refuge Complex .\\n\nThe refuge contains several ecologically distinct habitats including; beaches, coastal lagoons , mangrove wetlands , and upland forested areas. Some of the best examples of sub-tropical dry forest in the Caribbean can be found on refuge lands.\\n\nThe marine environment surrounding the refuge contains coral reefs and sea grass beds. The refuge and its surrounding waters are home to at least two plants and eight animals on the Federal endangered species list including; the Antillean manatee ( Trichechus manatus manatus ), the brown pelican ( Pelecanus occidentalis ), and four species of sea turtles .\\n\nIn addition to its ecological value, the refuge contains important resources of archeological and historic significance, a legacy of the Taíno culture and sugarcane era.\\n\nReferences\nThis article incorporates public domain material from websites or documents of the United States Fish and Wildlife Service .\\n\nExternal links",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Vieques_National_Wildlife_Refuge&oldid=1145567621",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://ceb.wikipedia.org/wiki/Vieques_National_Wildlife_Refuge",
+        "https://es.wikipedia.org/wiki/Refugio_nacional_de_vida_silvestre_de_Vieques"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.1167,
+            -65.4167
+        ],
+        "title": "Vieques National Wildlife Refuge",
+        "type": "Point"
+    },
+    "categories": [
+        "Outdoor",
+        "Wildlife"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "main_content": "Contents\nLa Mallorquina\nLa Mallorquina is a restaurant in Old San Juan , San Juan , Puerto Rico that specializes in the making of Puerto Rican and Spanish -particularly Palma de Mallorca - cuisine such as asopao , gazpacho , arroz con pollo , paella and flan .\\n\nIt opened in 1848 and has been run by the Rojos family since 1900  and Yvonne Ortiz claims that La Mallorquina is the first eating establishment in Puerto Rico.  \\nThe restaurant\\'s original owners, Antonio Vidal Llinás and others, came from Palma de Mallorca, Spain ; that\\'s why they named their restaurant La Mallorquina, which loosely translated into English means The Woman from Mallorca. \\n\nPuerto Rico\\'s first elected governor, Luis Muñoz Marín , was also one of the famous people to visit the restaurant.  \\n\nSee also\nReferences\nExternal links\n\\n\nThis US-based restaurant or restaurant chain article is a stub . You can help Wikipedia by expanding it .\nThis article about a Puerto Rican building or structure related topic is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=La_Mallorquina&oldid=1238782059",
+        "https://en.wikipedia.org/w/index.php?title=La_Mallorquina&action=edit",
+        "https://en.wikipedia.org/wiki/la_mallorquina"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            -66.1152647373431,
+            18.465309893544024
+        ],
+        "title": "La Mallorquina",
+        "type": "Point"
+    },
+    "categories": [
+        "Food",
+        "Family-Friendly"
+    ]
+}

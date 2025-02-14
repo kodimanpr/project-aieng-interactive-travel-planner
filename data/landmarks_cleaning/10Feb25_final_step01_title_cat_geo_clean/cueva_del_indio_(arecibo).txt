@@ -1,0 +1,19 @@
+{
+    "main_content": "Contents\nCueva del Indio (Arecibo)\nCueva del Indio ( Spanish for \"cave of the Indian\") is a seaside cave located along limestone cliffs in Islote , Arecibo along Puerto Rico \\'s Atlantic coast. The cave and its surroundings are protected by the Puerto Rico Department of Natural and Environmental Resources (DRNA) as the Cueva del Indio Nature Reserve .  The cave gets its name after the numerous petroglyphs created by the Taínos .  \\n\nEcology\nThe marine areas off Cueva del Indio are also protected as part of Cueva del Indio Nature Reserve, particularly the turtlegrass ( Thalassia testudinum ) meadows which is important for the West Indian manatee and numerous other animal species.  \\n\nReferences\n18\\xc2\\xb029\\xe2\\x80\\xb234\\xe2\\x80\\xb3N 66\\xc2\\xb038\\xe2\\x80\\xb230\\xe2\\x80\\xb3W ﻿ / ﻿ 18.49274\\xc2\\xb0N 66.64155\\xc2\\xb0W ﻿ / 18.49274; -66.64155 \\n",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Cueva_del_Indio_(Arecibo)&oldid=1247647888",
+        "https://stats.wikimedia.org/#/en.wikipedia.org"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.49274,
+            -66.64155
+        ],
+        "title": "Cueva Del Indio (arecibo)",
+        "type": "Point"
+    },
+    "categories": [
+        "Outdoor",
+        "Beach"
+    ]
+}

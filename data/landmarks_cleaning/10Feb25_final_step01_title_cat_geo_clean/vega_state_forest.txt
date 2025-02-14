@@ -1,0 +1,20 @@
+{
+    "main_content": "Contents\nVega State Forest\nVega State Forest  is a state forest of Puerto Rico located in the municipalities of Vega Alta and Vega Baja . The subtropical moist forest is located in the northern coast of Puerto Rico in the middle of the karst zone known as the Carso Norteño ( Northern karst ), and it contains features typical of such geography such as sinkholes , caves and mogotes . It was designated a nature reserve in 1952 and it is fully protected by the Puerto Rico Forest laws (Law No. 133) of 1975. The forest has a total area of 1,150 acres, divided into six forest units throughout the municipalities of Vega Alta and Vega Baja.  \\n\nEcology\nThe Vega Forest plays an important role in the protection of many underground water supplies as it contains sinkholes and areas of natural recharge for the northern aquifers of Puerto Rico. The limestone geology is important for numerous species of plants and animals.   \\n\nThe forest is home to at least 72 species of trees, with the best represented families being Leguminosae (8 species) and Myrtaceae (6 species). The Sierra palm ( Gaussia attenuata ), the cock\\'s-spur ( Erythtrina eggersii ) and palo de rosa ( Ottoschulzia rhodoxylon ) grow on limestone mogotes; the latter two are highly endangered due to habitat loss.   \\n\nThirty-seven species of birds have been documented in the forest area, three of which are endemic to Puerto Rico: the Puerto Rican lizard cuckoo ( Coccyzus vieilloti ), the Puerto Rican bullfinch ( Melopyrrha portoricensis ) and the Puerto Rican vireo ( Vireo latimeri ). The forest is also home to a number of endemic reptile and amphibian species.  \\n\nRecreation\nThe forest contains sections which are open to visitors, located in Vega Alta . Its administrative office also contains a plant nursery.   \\n\nSee also\nReferences",
+    "relevant_links": [
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://en.wikipedia.org/w/index.php?title=Vega_State_Forest&oldid=1248571192"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.417,
+            -66.35
+        ],
+        "title": "Vega State Forest",
+        "type": "Point"
+    },
+    "categories": [
+        "Outdoor",
+        "Wildlife",
+        "Beach"
+    ]
+}

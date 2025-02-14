@@ -1,0 +1,21 @@
+{
+    "main_content": "Contents\nLa Plata Lake\nLago La Plata is a lake located between the municipalities of Naranjito , Toa Alta , and Bayamón in Puerto Rico . The lake was created in 1973 and serves as a reservoir for potable water.  \\n\nThe lake receives flow from the La Plata River and can be used for fishing .\\n\nSee also\nReferences\nExternal links\n\\n\nThis Puerto Rican location article is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://es.wikipedia.org/wiki/Lago_La_Plata_(Puerto_Rico)",
+        "https://ceb.wikipedia.org/wiki/Lago_La_Plata_(tubiganan)",
+        "https://en.wikipedia.org/w/index.php?title=La_Plata_Lake&oldid=1219189817",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://en.wikipedia.org/w/index.php?title=La_Plata_Lake&action=edit"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.333,
+            -66.2367
+        ],
+        "title": "La Plata Lake",
+        "type": "Point"
+    },
+    "categories": [
+        "Outdoor"
+    ]
+}

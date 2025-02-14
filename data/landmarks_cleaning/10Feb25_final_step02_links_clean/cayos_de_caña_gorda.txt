@@ -1,0 +1,23 @@
+{
+    "main_content": "Contents\nCayos de Caña Gorda\nThe Cayos de Caña Gorda (English: Caña Gorda Keys or Cays ) is a group of three uninhabited, mangrove -covered keys , located at 17°56\\xe2\\x80\\xb232\\xe2\\x80\\xb3N 066°52\\xe2\\x80\\xb217\\xe2\\x80\\xb3W ﻿ / ﻿ 17.94222°N 66.87139°W ﻿ / 17.94222; -66.87139 off the southwestern coast of Puerto Rico . They belong to barrio Carenero of Guánica municipio . The eastern key, Isla Ballena is separated from the Puerto Rican mainland close to Punta Ballena only by a 66 foot (20 m) wide channel. The western key was given the name Gilligan\\'s Island (after the TV series ) in the 1970s by the Keegan/Barnett family, who had recently moved to Guanica from Philadelphia, Pennsylvania . Cayo Aurora is served by boat (1,969 ft (600 m) from the mainland at Punta Jacinto) and has public beaches. Between the two is Cayo Honda , the central key. The total land area is 0.069 sq mi (44 acres; 0.18 km 2 ) ( Block 1069, Block Group 1, Census tract 9611, Guánica Municipio, Puerto Rico).\\n\nThe area is good for snorkeling and can be reached by kayak.  \\n\nGallery\nReferences\n\\n\nThis Guánica, Puerto Rico location article is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://www.discoverpuertorico.com/profile/gilligans-island/8875",
+        "https://en.wikipedia.org/w/index.php?title=Cayos_de_Ca\\xc3\\xb1a_Gorda&oldid=1115093785",
+        "https://en.wikipedia.org/w/index.php?title=Cayos_de_Ca%C3%B1a_Gorda&action=edit",
+        "https://es.wikipedia.org/wiki/Cayos_de_Ca%C3%B1a_Gorda",
+        "https://en.wikipedia.org/wiki/cayos_de_caña_gorda"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            17.94222,
+            -66.87139
+        ],
+        "title": "Cayos De Caña Gorda",
+        "type": "Point"
+    },
+    "categories": [
+        "Soft Adventure",
+        "Family-Friendly",
+        "Beach"
+    ]
+}

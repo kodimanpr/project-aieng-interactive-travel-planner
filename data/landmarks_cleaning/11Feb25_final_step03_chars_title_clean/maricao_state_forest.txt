@@ -1,0 +1,29 @@
+{
+    "main_content": "Contents\nMaricao State Forest\nMaricao State Forest  is a state forest located in the eastern Cordillera Central mountains of Puerto Rico . It is commonly known as Monte del Estado due to the fact that it was one of the first forest reserves in Puerto Rico to be designated a state forest in its official name.  With an area of 10,803 acres (43.72 km 2 ), the Maricao State Forest is the largest of the 20 forestry units of the Puerto Rico state forest system .  \\n\nHistory\nThe Maricao State Forest was created after a proclamation on December 22, 1919, by then Governor of Puerto Rico Arthur Yager .  \\n\nGeography\nThe forest location makes its environment unique in Puerto Rico for its humid climate, its serpentinite soils and its high rate of animal and plant endemicity.  The forest is located on the western region of the Cordillera Central of Puerto Rico and encompasses 10,803 acres (43.72 km 2 ) of land in a high rainfall area through the municipalities of San Germán , Sabana Grande and Maricao . \\n\nIn summer the climate is warm and humid. Thunderstorms are common, along with temperature around 85 °F with heat index in the upper 90s during the daytime. In summer, nighttime is usually cool with low temperature in the mid- to lower 60s. In winter, it is very dry, the forest with mild temperature in daytime and cold in nighttime. Occasional days drop to 40 °F with mid-30s wind chill.\\n\nAlmost 100% of the soils of the Maricao forest are derivates of serpentinite, a metamorphic rock that produces red and argillaceous soil whenever it crumbles down. More than 80% of the forest ground is low in depth and close to the bedrock . These soils are acidic with high contents of iron and aluminum oxides .  \\n\nBiology and ecology\nThere are 1,164 species of plants in the forest. Of the 128 species of endemic plants of Puerto Rico , 23 are in the Maricao State Forest. There are plantations of mahogany , eucalyptus , Honduras pine , and others.  \\n\nThere are 136 species of birds recorded in the park, 23 of which are endemic . Some examples are the Puerto Rican sharp-shinned hawk ( Accipiter striatus venator ), which is an endangered subspecies, and the Puerto Rican emerald ( Chlorostilbon maugaeus ).  \\n\nRecreation\nDue to its location along the Luis Muñoz Marín Scenic Route (better known as the Ruta Panorámica ), the Maricao State Forest offers some iconic panoramic views of the Cordillera Central and the southwestern coast of Puerto Rico.  In clear days it is possible to observe the city of Mayagüez and even Mona Island from the Santa Ana Observation Tower (better known as Torre de Piedra ).  The forest has hiking trails and is featured in Caribbean guides  as an important destination for birdwatching .   Hiking trails are accessible from route PR-120, from the Monte del Estado Ecological Park ( Parque Ecológico Monte del Estado ) and the Monte del Estado Vacation Center ( Centro Vacacional Monte del Estado ),  both of which also provide limited camping and lodging to visitors.   \\n\nIn addition to the Torre de Piedra , other historic attractions within the state forest include the Stone House ( Casa de Piedra ), the ruins of a former architectural gem built during President Roosevelt\\'s Civilian Conservation Corps works during the 1930s,  and the Maricao Fish Hatchery , built in 1937 for research purposes  and now listed under the National Register of Historic Places as one of the New Deal Era Constructions in the Forest Reserves of Puerto Rico (1933-1942).  \\n\nCuret Falls ( Salto Curet ) is an impressive waterfall located along the Lajas River in the northeastern section of the forest reserve.  Other waterfalls found in the forest area include El Pilón and La Iglesia waterfalls.  \\n\nSee also\nReferences\nExternal links",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Maricao_State_Forest&oldid=1237188943",
+        "https://www.discoverpuertorico.com/profile/casa-de-piedra/8383",
+        "https://www.lonelyplanet.com/puerto-rico/maricao/attractions/salto-curet/a/poi-sig/1560062/358129",
+        "https://www.discoverpuertorico.com/profile/vivero-de-peces-de-maricao/7854",
+        "https://www.lonelyplanet.com/puerto-rico/maricao/attractions/bosque-estatal-de-maricao/a/poi-sig/1418540/358129",
+        "https://es.wikipedia.org/wiki/Bosque_estatal_de_Maricao",
+        "https://en.wikipedia.org/wiki/maricao_state_forest"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.1227371,
+            -66.9746221
+        ],
+        "title": "Maricao State Forest",
+        "type": "Point"
+    },
+    "categories": [
+        "Soft Adventure",
+        "Culture",
+        "Wildlife",
+        "Luxury & Resorts",
+        "Beach",
+        "Outdoor",
+        "Family-Friendly"
+    ]
+}

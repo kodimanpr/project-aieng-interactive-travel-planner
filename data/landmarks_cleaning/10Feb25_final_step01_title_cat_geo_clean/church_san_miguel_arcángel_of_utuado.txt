@@ -1,0 +1,20 @@
+{
+    "main_content": "Contents\nChurch San Miguel Arcángel of Utuado\nThe Church of Saint Michael the Archangel of Utuado  is a historic Roman Catholic parish church located in Utuado Pueblo , the administrative and historic center of the municipality of Utuado, Puerto Rico . The church is listed in the Inventory of the Historic Churches of Puerto Rico , the Puerto Rico Register of Historic Sites and Zones and the United States National Register of Historic Places due to its architectural and historical significance.    \\n\nThe church was designed in 1866 by Onofre Llorapart and built in stages between 1872 and 1878 in the main town square ( plaza pública ) of Utuado, on its east-facing block that it currently shares with the parish house ( casa parroquial ) and its adjacent Catholic school. This urban setting is highly traditional of the historic downtowns ( pueblos ) of Puerto Rico. The exterior and fa\\xc3\\xa7ade of the building showcase the traditional Spanish Colonial architecture of the 19th-century contemporary churches of Puerto Rico with elements inspired in Renaissance and Neoclassical architecture . With the exception of routine renovations and the removal of the Renaissance-style side pillars and arcades of the church in 1965, the building is well preserved and has never suffered from integrity-endangering modifications.  \\n\nGallery\nSee also\nReferences\n\\n\nThis article on a Catholic church building is a stub . You can help Wikipedia by expanding it .\nThis article about a property in Puerto Rico on the National Register of Historic Places is a stub . You can help Wikipedia by expanding it .\nThis article about a church building or other Christian place of worship in Puerto Rico is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Church_San_Miguel_Arc\\xc3\\xa1ngel_of_Utuado&oldid=1240275983",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://en.wikipedia.org/w/index.php?title=Church_San_Miguel_Arc%C3%A1ngel_of_Utuado&action=edit"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.2653105,
+            -66.6991435
+        ],
+        "title": "Church San Miguel Arcángel Of Utuado",
+        "type": "Point"
+    },
+    "categories": [
+        "Religion",
+        "Culture"
+    ]
+}

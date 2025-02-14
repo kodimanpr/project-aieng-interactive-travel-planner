@@ -1,0 +1,21 @@
+{
+    "main_content": "Contents\nComplejo Recreativo y Cultural La Guancha\n\\n\nThe Complejo Recreativo y Cultural La Guancha (English: La Guancha Recreational and Cultural Complex ) is a recreational complex in barrio Playa in Ponce, Puerto Rico , with family recreational and cultural facilities that opened on 23 June 1998.  The highlight of the complex is the Paseo Tablado La Guancha , which is flanked by a beach, an observation tower, an amphitheater, and 24 open-air kiosks.  It was developed during the administration of Mayor Rafael Cordero Santiago .  In October 2017, after Hurricane Maria , it closed to the public to undergo repairs but, as of January 2020, when the area suffered severe damage due to the 2020 Puerto Rico earthquakes , no repairs had been made and, as of 17 June 2020, it remained closed.  By late 2020 arrangements were made for the merchants that operated from waterfront kiosks to reopen their businesses out of provisional facilities at a temporary location away from the waterfront while reconstruction of the waterfront area takes place.\\n\nHistory\nOriginally La Guancha consisted of a road and sidewalk alongside a dike built close to the easternmost shore of barrio Playa across from Ponce Yacht Club .  The romantic area was frequented by families and sweethearts alike, especially on weekends, for relaxation and bonding .  During the administration of Mayor Cordero , however, a number of facilities were added to the La Guancha area at a cost of over $18 million, developing it into a new recreational complex.  The new facilities followed the design of engineer Axel Bonilla Cortes.  \\n\nFacilities\nSeven new facilities were added to the existing walkway area:  \\n\nThis project complemented the recently inaugurated tourist pier in the nearby Port of Ponce , and which saw an investment of $4 million.  \\n\nFunding\nThe Complex was developed by the Department of Community and Economic Development of the Autonomous Municipality of Ponce at a cost of $18.6 million.  The breakdown of the cost included $3.6 million in the acquisition of the Paseo Tablado La Guancha , 6.5 million in the purchase of over 27 acres (110,000 m 2 ) of land, $8.0 million in the construction of the project, $0.2 million for the bidding process, and $0.3 million for the upgrade of PR-12 (Avenida Santiago de los Caballeros) as infrastructure leading to the new complex.  \\n\nEffects of the 2020 Puerto Rico earthquake\nThe complex sustained damage due to the 2020 Puerto Rico earthquake .   \\n\nGallery\nSee also\nReferences\nFurther reading\nExternal links",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Complejo_Recreativo_y_Cultural_La_Guancha&oldid=1246268496",
+        "https://en.wikipedia.org/wiki/complejo_recreativo_y_cultural_la_guancha"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            17.965379833,
+            -66.61448
+        ],
+        "title": "Complejo Recreativo y Cultural La Guancha",
+        "type": "Point"
+    },
+    "categories": [
+        "Wellness & Relaxation",
+        "Family-Friendly",
+        "Culture",
+        "Beach"
+    ]
+}

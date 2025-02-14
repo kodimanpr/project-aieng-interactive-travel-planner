@@ -1,0 +1,18 @@
+{
+    "main_content": "Contents\nPunta Tuna Light\nPunta Tuna Light is a historic lighthouse located in the southeast of the town of Maunabo, Puerto Rico on a narrow promontory at the southeasternmost point of the island.\\n\nHistory\nIt was first lit in 1892 and automated in 1989. The light was a third-order lighthouse that served as the primary light connecting the island\\'s southern and eastern lights system. The design was drawn and laid out by Joaquin Gisbert in 1890. The lighthouse construction was initially overseen by Adrian Duffaut. It was built from March 13, 1891, to September 29, 1893. Final construction was taken over by the Spanish Body of Engineers according to annotations of the historian Carlos Moral. It was originally named Faro de Mala Pascua after the cape to the west. Later, it was moved and renamed after the Point of the construction site so the light could perform a double duty warning ships off the Sargent reef. On August 8, 1899, the lighthouse suffered damage from Hurricane San Ciriaco; the town suffered heavy damage. \\n\nOn April 12, 1900, an act of Congress (31 Stat. L., 77, 80) extended the jurisdiction of the Lighthouse Service to the noncontiguous territory of Puerto Rico and adjacent American waters. 1900 (1 May) The Lighthouse Board took charge of the Puerto Rico lighthouses. September 13, 1928, Devastating Hurricane San Felipe II strikes, again the lighthouse stands firm, but the town housing is nearly totally destroyed.  It was once again damaged by Hurricane Maria on Sept 20, 2017. The light\\'s housing, the external facade, and the surrounding vegetation were all damaged, with some trees completely downed. It was listed on the U.S. National Register of Historic Places in 1981,  and on the Puerto Rico Register of Historic Sites and Zones in 2001.  \\n\nIn 2007, the government of Puerto Rico bought an area near the lighthouse to create a conservation area.  The structure is being restored by the town of  Maunabo  and is open to the public. The light is not working, and the lens appears to be missing. The lighthouse in a state of disrepair and locked, but one may still view it from the surrounding property.  \\n\nIn June 2011, the General Services Administration made the Punta Tuna Light (along with 11 others) available at no cost to public organizations willing to preserve them.   \\n\nGallery\nSee also\nReferences\nExternal links",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Punta_Tuna_Light&oldid=1240150656",
+        "https://en.wikipedia.org/wiki/punta_tuna_light"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            17.988306,
+            -65.885417
+        ],
+        "title": "Punta Tuna Light",
+        "type": "Point"
+    },
+    "categories": [
+        "Culture"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "main_content": "Contents\nCaguana Ceremonial Ball Courts Site\nThe Caguana Ceremonial Ball Courts Site (often referred to as Caguana Site ) is an archaeological site located in Caguana, Utuado in Puerto Rico , considered to be one of the largest and most important Pre-Columbian sites in the West Indies .  The site is known for its well-preserved ceremonial ball courts and petroglyph -carved monoliths. Studies estimate the in-situ courts to be over 700 years old, built by the Taíno around 1270 AD.   \\n\nOverview\nApproximately 13 ball courts and plazas ( bateyes ) have been identified and many have been restored to their original state. Monoliths and petroglyphs carved by the Taínos can be seen among the rocks and stones, some weighing over a ton, that were most likely brought from the Tanama River located adjacent to the site.  \\n\nThe site also contains the largest concentration of petroglyphs in the Antilles,  most of which around found carved into the stone monoliths that form the bateyes or ball courts. Some of the most famous pictographs include a heron-like bird and atabeyra , also known as the \"Caguana woman\",  attributed to the fertility zemi or goddess Atabey .  \\n\nThe plan of the site and the positions of the ball courts indicate an alignment with specific astronomical events, and the site might have functioned as a place to observe and possibly predict astronomical events such as planetary and stellar transits, conjunctions and alignments. Numerous of the petroglyphs depict astronomical objects such as the moon, stars and planets. Although the site is not listed as a world heritage site , its archaeoastronomical features are well-documented and recognized by the UNESCO Astronomy and World Heritage Initiative.   \\n\nHistory\nThe site of the modern archaeological site was originally known as Corrales de los Indios (Spanish for \"Indian corrals\") by locals after the corral-like outlines of some of the ball courts. The first exploration and survey-works in the site were led by American anthropologist John Alden Mason in 1914. The site has been under continuous study since the 1930s, at first by archaeologists from Yale University such as Irvin Rouse , and later by the Institute of Puerto Rican Culture (ICP) and Dr. Ricardo Alegría . The ICP acquired the site in 1965 and invested in the restoration of its archaeological resources and on interpretative infrastructure for visitors.  The interpretative park and a small museum were first opened to visitors that same year.  \\n\nThe museum remained closed from 2020 until june of 2024 when it reopened with a more thorough collection of more than 200 archaeological pieces.   A digital version of the museum titled Museo Digital de Caguana was launched in 2024 by the Institute of Puerto Rican Culture.  \\n\nDesignations\nThe Institute of Puerto Rican Culture still manages the site as a park under the name Caguana Indigenous Ceremonial Center ( Parque Ceremonial Indígena de Caguana ). The National Park Service has placed it on the National Register of Historic Places , and designated it as a National Historic Landmark (under the name Caguana Site ). It was listed on the National Register in 1992 and designated a U.S. National Historic Landmark in 1993.    It was also listed on the Puerto Rico Register of Historic Sites and Zones in 2001.  \\n\nThe park also includes a small museum containing Taíno artifacts , archaeological exhibits and a small botanical garden featuring some of the plants the Taínos harvested for food such as sweet potatoes , cassava , corn , and yautía . Many of the trees used by the Taínos to construct their homes ( bohíos ), such as mahogany and ceiba can also be seen throughout the park.  \\n\nGallery\nScenes at Caguana Ceremonial Ball Courts Site:\\n\nSee also\nReferences\nExternal links",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Caguana_Ceremonial_Ball_Courts_Site&oldid=1240275802",
+        "https://es.wikipedia.org/wiki/Centro_ceremonial_ind%C3%ADgena_de_Caguana",
+        "https://en.wikipedia.org/wiki/caguana_ceremonial_ball_courts_site"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.29487,
+            -66.780974
+        ],
+        "title": "Caguana Ceremonial Ball Courts Site",
+        "type": "Point"
+    },
+    "categories": [
+        "Outdoor",
+        "Food",
+        "Family-Friendly",
+        "Culture"
+    ]
+}

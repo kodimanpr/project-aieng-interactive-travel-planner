@@ -1,0 +1,18 @@
+{
+    "main_content": "Contents\nTeatro Tapia\nTeatro Alejandro Tapia y Rivera (commonly referred as \"Teatro Tapia\"), is the oldest free-standing drama stage building located in San Juan, Puerto Rico . It is named after Alejandro Tapia y Rivera (1826-1882), a Puerto Rican poet and dramatist.\\n\nLocation\nThe theater faces east, across from Plaza de Colón, on Fortaleza Street, and was constructed in 1824. It was designed in the Italian style as a horseshoe shaped opera house with three tiers of boxes. A block south lies a brick-shaped former Casa de camineros , house of road-maintainers. To the north-east lies a string of cultural institutions: the restored Casino de Puerto Rico , the YMCA , the Carnegie library , the Ateneo Puertorriqueño , and Moorish-inspired Casa de España . In the northern seaward cliff sprawls the historic and labyrinthine fort of San Cristóbal . The original landward gate of old San Juan lays just east of this site on Calle Fortaleza.\\n\nSignificance\nFor over one hundred years since it was built it was the center of cultural life in the city. Famous soprano Adelina Patti sang there in one of her earlier tours of the Americas during the mid-nineteenth century. Other notable performers to have graced its stage include the Russian ballerina Anna Pavlova .\\n\nEmilio Pasarell and Antonia Saez have said that \"the most significant moments of Puerto Rico\\'s musical history are associated with...Teatro Tapia.\"  \\n\nHistory\nInitially named the San Juan Municipal Theater, it was renamed the Antonio Paoli Theater in 1935.  It was subsequently officially renamed the Teatro Alejandro Tapia y Rivera in 1937.  \\n\nAfter years of neglect during the 1940s, the theater was saved from demolition by the former long-time Mayor of San Juan Felisa Rincón de Gautier . It was restored in the late 1940s and has subsequently been used to provide a venue for musical theater , drama and other cultural events. With a maximum capacity of 647 people, this 19th-century theater serves as an arena for cultural events and enchanting ballet performances. The interior audience hall is remarkable for the period. Subsequent restorations (in 1976 and 1997) returned it to its old charm.\\n\nReferences\nExternal links\nMedia related to Teatro Tapia at Wikimedia Commons\\n",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Teatro_Tapia&oldid=1247095261",
+        "https://en.wikipedia.org/wiki/teatro_tapia"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.46556,
+            -66.11194
+        ],
+        "title": "Teatro Tapia",
+        "type": "Point"
+    },
+    "categories": [
+        "Culture"
+    ]
+}

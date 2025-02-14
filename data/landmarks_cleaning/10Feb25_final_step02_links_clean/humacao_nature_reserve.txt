@@ -1,0 +1,24 @@
+{
+    "main_content": "Contents\nHumacao Nature Reserve\nHumacao Nature Reserve , or the Punta Santiago Nature Reserve , is a nature reserve located in the southeastern coast of Puerto Rico , between the municipalities of Humacao ( Punta Santiago ) and Naguabo ( Río ). The 3,000-acre nature reserve was established in 1986 (under the name Humacao Wildlife Refuge ) to protect and preserve the remaining Pterocarpus forest ecosystem in the area, along with its surrounding wetlands and mangrove forests.  \\n\nHistory\nThe area of the forest reserve was historically linked to the sugarcane industry of the region, and an old pump and the remnants of its former infrastructure can still be observed within the reserve. The area also contains a number of remnants that showcase the military history of the region: a former US Army lookout post on top of El Morrillo , and a number of bunkers built during the Second World War .  The forests and wetlands were acquired by the Puerto Rico Department of Natural and Environmental Resources in 1984, and it was proclaimed the Humacao Wildlife Refuge in 1986. The reserve is important for the revitalization of local ecosystems that were threatened by the industrial development of the area during the 19th and 20th centuries such as mangroves, wetlands and its distinctive Pterocarpus forest.   \\n\nEcology\nThe nature reserve protects the following natural areas and ecosystems:   \\n\nRecreation\nAlthough the reserve is relatively large in area, only 6 acres out of more than 3,000 are reserved for recreation and public use.  In addition to hiking trails and picnic areas, there is kayaking and bike rentals on site. Fishing is allowed on designated areas.  One of the most popular hiking trails lead to a hill called El Morrillo , which offers views of the reserve, Punta Santiago Beach , El Yunque , Cayo Santiago (popularly known as \"Monkey Island\") and the island of Vieques .   \\n\nGallery\nSee also\nReferences",
+    "relevant_links": [
+        "https://www.discoverpuertorico.com/profile/punta-santiago-reserva-natural-de-humacao/7844",
+        "https://en.wikipedia.org/w/index.php?title=Humacao_Nature_Reserve&oldid=1184370292",
+        "https://en.wikipedia.org/wiki/humacao_nature_reserve"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.1675,
+            -65.765
+        ],
+        "title": "Humacao Nature Reserve",
+        "type": "Point"
+    },
+    "categories": [
+        "Soft Adventure",
+        "Culture",
+        "Wildlife",
+        "Beach",
+        "Outdoor",
+        "Family-Friendly"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "main_content": "Contents\nIsla Magueyes\nIsla Magueyes ( Isle of Maguey ) is a 7.2 hectares (0.028 sq mi; 0.072 km 2 ) island 50 metres (160 ft) from the southwest coast of the island of Puerto Rico .  It is encircled with mangrove and has an interior of dry scrub habitat, where it gets its name.  It is named for the presence of many century plants or maguey ( Agave americana ). The surrounding shelf of the island is mostly coral reef . There are buildings on the western end of the island associated with the Department of Marine Sciences, University of Puerto Rico at Mayagüez .  UPR- Mayagüez is an important center in the Atlantic region for the study of tropical marine science due to its location, facilities, and first-rate researchers.  The research facilities includes the Puerto Rico Water Resources and Environmental Research Institute, the Caribbean Coral Reef Institute (CCRI), the Research and Development Center, the Agricultural Research Station and the Caribbean Atmospheric Research Center (ATMOSCarib).   \\n\nFauna\nA free-ranging colony of feral Cuban iguanas , released from a zoo that was closed on the island in the 1950s inhabit all parts of the island.     While the iguanas are endangered in their native Cuba and are currently protected by the US Endangered Species Act , there has been talk of eliminating or reducing the population here as they are considered an invasive species . Currently dogs, cats, and most tourists are barred from the island to protect the iguanas.  This has turned the island into somewhat of an unofficial bird sanctuary and brown pelicans , cattle egrets , and herons are commonly observed here.  \\n\nThe iguana colony has been used as a research control group for various experiments concerning animal communication and evolution .  \\n\nReferences",
+    "relevant_links": [
+        "https://ceb.wikipedia.org/wiki/Isla_Magueyes",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://en.wikipedia.org/w/index.php?title=Isla_Magueyes&oldid=1043033572",
+        "https://zh.wikipedia.org/wiki/%E9%A6%AC%E6%A0%BC%E8%80%B6%E6%96%AF%E5%B3%B6",
+        "https://es.wikipedia.org/wiki/Isla_Mag%C3%BCeyes",
+        "https://nl.wikipedia.org/wiki/Isla_Mag%C3%BCeyes"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            17.96889,
+            -67.04417
+        ],
+        "title": "Isla Magueyes",
+        "type": "Point"
+    },
+    "categories": [
+        "Wildlife",
+        "Religion",
+        "Beach"
+    ]
+}

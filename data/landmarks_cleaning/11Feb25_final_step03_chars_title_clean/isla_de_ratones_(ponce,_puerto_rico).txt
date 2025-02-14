@@ -1,0 +1,21 @@
+{
+    "main_content": "Contents\nIsla de Ratones (Ponce, Puerto Rico)\n\\n\nIsla de Ratones ( Spanish for mice island ) is a small uninhabited island off the southern coast of Puerto Rico , off the coast of Ponce .  The island is part of barrio Canas in the municipality of Ponce.   The island gained attention in 2010 when the Puerto Rican Bird Society made it a target for the eradication of the black rat . While named as one single island, it is actually composed of two islands separated by a few feet of shallow water during high tide , which become a single island at low tide.\\n\nLocation\nThe island, sometimes erroneously considered a key (or cay ),  is located 0.62 mi (1.0 km) south of the mainland Puerto Rican shore across from Punta Cucharas in barrio Canas .   The island has an area of 6.94 cuerdas  (one cuerda equals 0.97 acres  ) It is located at latitude 17.95500° and longitude -66.68139°.  The short distance from the mainland shore makes Ratones a popular landing point for aquatic events such as kayaking .  Together with Caja de Muertos , Gatas , Morrillito , Cardona , Isla del Frio , and Isla de Jueyes , Ratones is one of seven islands in the municipality of Ponce .   \\n\nGeography and climate\nThe island is a small low island covered mostly by brushwood.  The climate is dry and the island supports dry forest . While named as one single island, it is actually composed of two islands separated by a few feet of shallow water during high tide, which become a single island at low time.   At low tide the size of the island increases from 6.94 cuerdas  (one cuerda equals 0.97 acres  ) to 12.35 acres .  This low-tide size makes Isla de Ratones about 50% larger than the more prominent Cardona which, at 8.71 acres (3.52 ha), is home to the Cardona Island Light and is located 2.96 miles (4.77 kilometers) to the east.  \\n\nOrigin of the name\nThe name Ratones , which translates into \"mice\", comes from the large number of rodents found in the island. In 2010, the Sociedad Ornitológica Puertorriqueña (Puerto Rican Bird Society) and the Ponce Yacht and Fishing Club launched a campaign to eradicate the black rat from the Island.  \\n\nNature reserve\nThough not officially a nature reserve, the island is administered by the Puerto Rico Department of Natural and Environmental Resources .\\n\nReferences",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Isla_de_Ratones_(Ponce,_Puerto_Rico)&oldid=1115199117",
+        "https://es.wikipedia.org/wiki/Isla_de_Ratones_(Ponce)",
+        "https://en.wikipedia.org/wiki/isla_de_ratones_(ponce,_puerto_rico)"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            17.955,
+            -66.68139
+        ],
+        "title": "Isla De Ratones (ponce, Puerto Rico)",
+        "type": "Point"
+    },
+    "categories": [
+        "Outdoor",
+        "Soft Adventure",
+        "Beach"
+    ]
+}

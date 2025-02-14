@@ -1,0 +1,20 @@
+{
+    "main_content": "Contents\nGeneral Norzagaray Bridge\n\\n\nThe General Norzagaray Bridge is a brick and masonry barrel vault bridge built in 1855 in San Juan, Puerto Rico .  Also known as Puente de los Frailes , it brings what is now Puerto Rico Highway 873 across Frailes Creek , a tributary to the Guaynabo River .  It has eight 9.8-metre (32 ft) barrel vault spans.  Its total length is 120.7 metres (396 ft) and its roadway width is 7.00 metres (22.97 ft).  It was listed on the National Register of Historic Places (NRHP) in 1995,  and on the Puerto Rico Register of Historic Sites and Zones in 2000.  \\n\nIn 1855, it was important for carrying the Carretara Central across Quebrada Frailes.  \\n\nIt is named for Fernándo de Norzagaray y Escudero , governor of Puerto Rico from 1852 to 1855.  \\n\nIt was designed by chief engineer Manuel Sanchez-Nunez y Layne and built by engineer Gustavo Steinacher (who also designed and built the first suspension bridge in the Caribbean, over the Cagüitas River just north of Caguas, Puerto Rico  ) and cost 45,346 pesos .  \\n\nAccording to its NRHP registration, it \"is one of the most impressive bridges from the Spanish Colonial period\", serving as a \"prime example of Spanish 19th century masonry arch technology\".  It is the only such example in the United States.  \\n\nThe superstructure of the bridge was modified in 1927 by removal of earth fill and addition of steel girders installed on the arch piers to support a concrete deck.  This does not interfere significantly with the historic integrity of the bridge.  \\n\nIt spans between what are now the barrios of Caimito and Tortugo in San Juan.\\n\nGallery\nSee also\nReferences\nExternal links\n\\n\nThis article about a property in Puerto Rico on the National Register of Historic Places is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=General_Norzagaray_Bridge&action=edit",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://en.wikipedia.org/w/index.php?title=General_Norzagaray_Bridge&oldid=1240269981"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.35186,
+            -66.09143
+        ],
+        "title": "General Norzagaray Bridge",
+        "type": "Point"
+    },
+    "categories": [
+        "Outdoor",
+        "Culture"
+    ]
+}

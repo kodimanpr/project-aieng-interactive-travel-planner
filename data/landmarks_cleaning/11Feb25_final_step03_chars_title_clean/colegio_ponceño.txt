@@ -1,0 +1,18 @@
+{
+    "main_content": "Contents\nColegio Ponceño\n\\n\nColegio Ponceño is a Roman Catholic, Piarist , pre K-12 preparatory school located in Ponce , Puerto Rico . The institution \"has been recognized by the College Board as the best among public and private schools in Puerto Rico during the last 14 years.\"   It has been regarded as one of the \"most prestigious private schools in the city [of Ponce].\"  \\n\nHistory\nThe school was founded in 1926 as Colegio Ponceño de Varones , by Miss Maria Serra Gelabert, a Catholic laywoman and catechist , as a boys-only Catholic school sponsored by the Bishop of Ponce, Msgr. Edwin Vincent Byrne .  It was located on a rented house on Calle Comercio . It later moved to its own facility on Calle Aurora, and in 1974 it moved to its current facility on PR-14 .  \\n\nFrom 1930 to 1968 the school was directed by the Marianist Brothers . In 1968, the Piarist Fathers ( Padres Escolapios ) took over its administration, called by Msgr. Juan Fremiot Torres Oliver , Bishop of Ponce.  \\n\nUnder the Piarist administration the school\\'s name was changed to \"Colegio Ponceño\" upon becoming a coed school in 1973. As a Piarist school, Colegio Ponceño follows the Catholic educational philosophy of Saint Joseph Calasanz and is administered by the Piarist Fathers Province of the United States and Puerto Rico. The school is owned by a Parent\\'s Board of Trustees founded by the Bishop of Ponce.\\n\nLocation\nThe school was originally located on Luna Street in downtown Ponce.  In 1973, it moved to its new facilities on PR-14 . It is now located in Barrio Coto Laurel in Ponce, where it boasts one of the largest campuses and most modern school facilities in the Island.\\n\nAccreditation\nColegio Ponceño is accredited by the Puerto Rico Department of Education and by the Middle States Association of Colleges and Schools . It is a permanent member of the College Board, serving as test center for the ATP of the College Board. It was recognized in 1991 and 1992 as a U.S. Department of Education Blue Ribbon School. [ citation needed ] \\n\nMission\nSince its establishment, the school has upheld high Catholic pedagogical standards and excelled in preparing students for higher education, both in Puerto Rico and the United States mainland. In every graduating senior class, Colegio Ponceño has consistently produced students who have gone on to become successful professionals in the fields of medicine, law, engineering, and business, among others. Among its alumni are many outstanding civic, political, sports, and religious leaders in Puerto Rican society.\\n\nDirectors\nTrivia\nThe school mascot is a Crusader (\"El Cruzado\") and the school main holidays are the feasts of Our Lady of the Pillar and of Saint Joseph Calasanz. The school colors are purple and gold (\"Púrpura y Oro\").\\n\nNotable alumni\nReferences\nExternal links\n18°02\\xe2\\x80\\xb236.25\\xe2\\x80\\xb3N 66°34\\xe2\\x80\\xb230.70\\xe2\\x80\\xb3W ﻿ / ﻿ 18.0434028°N 66.5751944°W ﻿ / 18.0434028; -66.5751944 \\n",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Colegio_Ponce\\xc3\\xb1o&oldid=1247257050",
+        "https://en.wikipedia.org/wiki/colegio_ponceño"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.0434028,
+            -66.5751944
+        ],
+        "title": "Colegio Ponceño",
+        "type": "Point"
+    },
+    "categories": [
+        "Culture"
+    ]
+}

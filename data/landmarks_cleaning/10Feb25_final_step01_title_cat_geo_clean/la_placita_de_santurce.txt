@@ -1,0 +1,23 @@
+{
+    "main_content": "Contents\nLa Placita de Santurce\nLa Placita is a historic district and neighborhood of Santurce, San Juan, Puerto Rico , located in the former area of Santurce\\'s old market square  in Campo Alegre . La Placita today is a popular dining and nightlife destination in San Juan , while still functioning as a produce and food market during the day.  \\n\nHistory\nThe market square was established in 1910 when the area was selected by Puerto Rico\\'s government to build a marketplace. The marketplace building had two levels, the first one for kiosks, food and produce stalls and other service businesses, while the second level had the butcher and the meat market. The building originally also had business spaces, including medical offices. The market square building has been renovated and modified on numerous occasions throughout the 20th century, and at some point the second level was demolished to increase the area of the main marketplace.  The marketplace lost its importance in the later second half of the 20th century which left the area in various stages of disrepair. The building and the neighborhood were revitalized in the 1990s and 2000s when numerous restaurant and entertainment businesses opened. The area is now one of the liveliest social districts in San Juan and it is famous for its nightlife and gastronomy with its numerous restaurants, cafés, bars and dance clubs.    \\n\nDuring the day La Placita de Santurce is a farmer\\'s market.  It is located about ten minutes walking distance from the Puerto Rico Museum of Contemporary Art .  \\n\nGallery\nSee also\nReferences\n18\\xc2\\xb027\\xe2\\x80\\xb202\\xe2\\x80\\xb3N 66\\xc2\\xb004\\xe2\\x80\\xb214\\xe2\\x80\\xb3W ﻿ / ﻿ 18.45058\\xc2\\xb0N 66.07062\\xc2\\xb0W ﻿ / 18.45058; -66.07062 \\n",
+    "relevant_links": [
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://en.wikipedia.org/w/index.php?title=La_Placita_de_Santurce&oldid=1219337359",
+        "https://www.lonelyplanet.com/articles/best-places-to-see-art-in-san-juan",
+        "https://www.discoverpuertorico.com/profile/la-placita-de-santurce/8742"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.45058,
+            -66.07062
+        ],
+        "title": "La Placita De Santurce",
+        "type": "Point"
+    },
+    "categories": [
+        "Nightlife",
+        "Shopping",
+        "Food",
+        "Culture"
+    ]
+}

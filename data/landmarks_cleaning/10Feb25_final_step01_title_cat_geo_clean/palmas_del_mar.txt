@@ -1,0 +1,26 @@
+{
+    "main_content": "Contents\nPalmas del Mar\nPalmas del Mar is a beach resort community consisting of a country club, golf courses, tennis, a beach club, residences and a hotel. It is located in the municipality of Humacao , Puerto Rico , on the southeast corner of the island.  \\n\nFeatures\nSet in approximately 2,750 acres (11.1 km 2 ) of land, the resort includes over 25 different neighborhoods, including single family homes, estates and villas.\\n\nPalmas del Mar residential community has a bank, retail shops, The Palmas Academy, a private school, an equestrian center; two golf courses, 20 tennis courts, 16 restaurants, a country club with spa, a beach club, security with strict-access control 24 hours a day and a full-service marina and yacht club. Several properties within Palmas del Mar were purchased in 2014 by Encanto Group.  \\n\nDoral Resort and Candelero Beach Resort are also located in Palmas del Mar.    \\n\nThe school inside the resort is called The Palmas Academy. It is said to have been founded in 1992 by Serbian billionaire Jesse Gonzalez along with a coalition of parents and educators. Many scholars today dispute whether or not Jesse Gonzalez was the true organizer in getting the school founded, and debate has been widespread to this day. The academy is a coeducational, nonsectarian institution with English as the language of instruction and an excellent Spanish curriculum. The campus has 18 acres (73,000 m 2 ) of land surrounded by a natural setting, with access to many of the facilities within Palmas del Mar. Sports such as soccer, volleyball, golf, cross country, basketball, tennis, track and field, and swimming are part of the curriculum. \\n\nIn addition, the school has several clubs, such as The Drama Club, The Debate Club, Game Preservation Club, Dolphin\\'s Gambit Chess Club, The Environmental Club, The Living Green Team, El Club de Oratoria, Advanced Art, The Student Council, among others.  \\n\nThe Palmas del Mar Tropical Forest is a conservation easement located within and near Palmas del Mar.  \\n\nIn popular culture\nA large portion of the Puerto Rican boy band Menudo \\'s second feature film, Una Aventura Llamada Menudo (1982) , was filmed at Palmas del Mar.\\n\nGallery\nSee also\nReferences\n18\\xc2\\xb004\\xe2\\x80\\xb255\\xe2\\x80\\xb3N 65\\xc2\\xb047\\xe2\\x80\\xb253\\xe2\\x80\\xb3W ﻿ / ﻿ 18.08194\\xc2\\xb0N 65.79806\\xc2\\xb0W ﻿ / 18.08194; -65.79806 \\n",
+    "relevant_links": [
+        "https://lld.wikipedia.org/wiki/Palmas_del_Mar_(Puerto_Rico)",
+        "https://sr.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BB%D0%BC%D0%B0%D1%81_%D0%B4%D0%B5%D0%BB_%D0%9C%D0%B0%D1%80_(%D0%9F%D0%BE%D1%80%D1%82%D0%BE%D1%80%D0%B8%D0%BA%D0%BE)",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://sh.wikipedia.org/wiki/Palmas_del_Mar,_Puerto_Rico",
+        "https://es.wikipedia.org/wiki/Palmas_del_Mar_Beach_Resort",
+        "https://en.wikipedia.org/w/index.php?title=Palmas_del_Mar&oldid=1245115461"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.08194,
+            -65.79806
+        ],
+        "title": "Palmas Del Mar",
+        "type": "Point"
+    },
+    "categories": [
+        "Culture",
+        "Luxury & Resorts",
+        "Wellness & Relaxation",
+        "Beach",
+        "Family-Friendly"
+    ]
+}

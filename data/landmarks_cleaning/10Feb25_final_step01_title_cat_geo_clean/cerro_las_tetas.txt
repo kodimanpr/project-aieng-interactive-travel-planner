@@ -1,0 +1,26 @@
+{
+    "main_content": "Contents\nCerro Las Tetas\n\\n\nCerro Las Tetas , nicknamed Las Tetas de Cayey but officially Las Piedras del Collado ,   are two mountain peaks located in the municipality of Salinas, Puerto Rico ,  north of the city of Salinas proper. Since September 1, 2000, the peaks have become part of the Las Piedras del Collado Nature Reserve and are protected by law.  Their height is 2,762 feet (842 m) above sea level.  \\n\nEtymology\nThe Cerro Las Tetas are so-named for their resemblance to a female's breasts ; tetas is colloquial for \"breasts\" in Spanish, much like the English slang \"tits\".  \\n\nLocation\nA common misconception is that Las Tetas are located in the municipality of Cayey. Las Tetas are actually located the municipality of Salinas , in Barrio Palmas, a barrio on the northwestern part of the municipality of Salinas.  They are located close to\\xe2\\x80\\x94but not in\\xe2\\x80\\x94the municipality of Cayey , thus the \"de Cayey\" (English \"of Cayey\") in its name. They are located about 500 metres (1,600 ft) southwest of the intersection of PR-1 and PR-162 . Topological maps readily show this.    \\n\nThe Las Tetas peaks are part of the Sierra de Cayey (or Cayey Range).  The Sierra de Cayey , like the Cordillera Central and Sierra de Luquillo ranges, extends over several municipalities beyond Cayey.  The name of the mountain range where Las Tetas is located (Sierra de Cayey ) may be a possible source of confusion regarding the location of the peaks themselves:  a little-known fact is that the town of Cayey derives its name from Sierra de Cayey, and not the other-way-around.  \\n\nAnother possible source of confusion may lie in the fact that the road to reach the peaks begins from within the Municipality of Cayey\\xe2\\x80\\x94albeit just meters from its border with the Municipality of Salinas.  A third possible source of confusion, about the municipality where the mountains are located, may be the fact that the peaks are located closer to downtown Cayey than to downtown Salinas.  Cayey is also a land-locked , mostly mountainous municipality; Salinas, by comparison and as a municipality on the southern coastal plain, consists mostly of flatlands. This may be a fourth reason yet why many people believe Las Tetas mountain peaks are located in Cayey, and not in Salinas. Yet another possible reason for the confusion may be that, in order to locate Las Tetas on the official USGS map, the map for the Cayey Quadrangle is used.  \\n\nIn the mid-2000s, the town of Salinas took the town of Cayey to court over the location of \"Las Tetas\" and won the case. The matter involved land development and the Puerto Rico Planning Board. The result was a vindication of the claim that the \"Las Tetas\" location as being in the municipality of Cayey was incorrect. Las Tetas, the Court agreed, are actually \"Las Tetas de Salinas\" for they are actually located within the municipality of Salinas, not in Cayey.  They have also been called Las Tetas de Salinas.  Even so, the name of the mountains are so embedded in Puerto Rican tradition that they continue to be called \"Las Tetas de Cayey\".\\n\nThe Las Tetas peaks can be easily viewed from the rest area on Puerto Rico Highway 52 , located at kilometer post 49.0 of that highway. The rest area is colocated with the Monumento al Jíbaro Puertorriqueño statue and monument, in the municipality of Salinas.  The two peaks can be seen in the northwestern horizon when viewing from the rest area.  \\n\nHiking, mountain climbing, and camping at Cerro Las Tetas can be arranged by local tour companies.  \\n\nHeight\nThe peaks are contoured at 841 metres (2,759 ft) high. However, the western Teta is actually 20 meters higher than its eastern twin.  \\n\nViews\nSee also\nReferences\nExternal links",
+    "relevant_links": [
+        "https://ceb.wikipedia.org/wiki/Las_Tetas_(bukid_sa_Purtoriko)",
+        "https://lld.wikipedia.org/wiki/Cerro_Las_Tetas",
+        "https://ru.wikipedia.org/wiki/%D0%9B%D0%B0%D1%81-%D0%A2%D0%B5%D1%82%D0%B0%D1%81",
+        "https://en.wikipedia.org/w/index.php?title=Cerro_Las_Tetas&oldid=1223428347",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://es.wikipedia.org/wiki/Cerro_Las_Tetas",
+        "https://arz.wikipedia.org/wiki/%D8%AC%D8%A8%D9%84_%D8%B3%D9%8A%D8%B1%D9%88_%D9%84%D8%A7%D8%B3_%D8%AA%D9%8A%D8%AA%D8%A7%D8%B3",
+        "https://www.discoverpuertorico.com/profile/las-piedras-del-collado-cerro-las-tetas/9162"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.09333,
+            -66.23139
+        ],
+        "title": "Cerro Las Tetas",
+        "type": "Point"
+    },
+    "categories": [
+        "Outdoor",
+        "Soft Adventure",
+        "Family-Friendly"
+    ]
+}

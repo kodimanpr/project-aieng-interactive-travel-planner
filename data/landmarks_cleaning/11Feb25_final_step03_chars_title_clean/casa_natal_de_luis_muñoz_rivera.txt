@@ -1,0 +1,19 @@
+{
+    "main_content": "Contents\nCasa Natal de Luis Muñoz Rivera\nCasa Natal de Luis Muñoz Rivera located in Barranquitas, Puerto Rico, is a structure of great political and cultural significance. Built in 1850, it is the place where Luis Muñoz Rivera was born in 1859.\\n\nThe residence is representative of how middle-class Puerto Ricans lived at the end of the 19th century and beginning of the 20th century.\\n\nIn addition to its political and historical value, the structure is a good example of the Creole residential architecture of the interior of the island of Puerto Rico at that time. The house is characterized by the simplicity of its architectural components and by the use of wood, both in the structure as in the details. Its plant is rectangular in shape and has a pitched roof. The main facade stands on a podium, and consists of a balcony adorned by a continuous balustrade and four columns that support the roof of the balcony. In 1959, it was restored and transformed into a library-museum by the Institute of Puerto Rican Culture .\\n\nLuis Muñoz Rivera\nA Puerto Rican poet, journalist and politician as well as a major figure in Puerto Rico\\'s struggle for political autonomy , Muñoz Rivera founded the important newspaper La Democracia and collaborated on El Pueblo, El Clamor del País and El Buscapié, among others. As a politician, he served his country as Secretary of State during the autonomic period between 1897 and 1898.\\n\nAfter the United States took control of Puerto Rico from Spain in the aftermath of the Spanish-American War under the terms of the Treaty of Paris of 1898 , Muñoz Rivera founded the Liberal Party and the Union Party of Puerto Rico and from 1911 to 1916 he was appointed Resident Commissioner in Washington, D.C.   \\n\nReferences",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Casa_Natal_de_Luis_Mu\\xc3\\xb1oz_Rivera&oldid=1240126143",
+        "https://en.wikipedia.org/wiki/casa_natal_de_luis_muñoz_rivera"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.18917,
+            -66.30806
+        ],
+        "title": "Casa Natal De Luis Muñoz Rivera",
+        "type": "Point"
+    },
+    "categories": [
+        "Nightlife",
+        "Culture"
+    ]
+}

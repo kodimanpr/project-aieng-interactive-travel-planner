@@ -1,0 +1,20 @@
+{
+    "main_content": "Contents\nBuyé Beach\nBuyé Beach  is a Caribbean beach that is located in Cabo Rojo , on the south-western coast of Puerto Rico . \\n\nGallery\nSee also\nReferences\n18\\xc2\\xb02\\xe2\\x80\\xb255\\xe2\\x80\\xb3N 67\\xc2\\xb011\\xe2\\x80\\xb255\\xe2\\x80\\xb3W ﻿ / ﻿ 18.04861\\xc2\\xb0N 67.19861\\xc2\\xb0W ﻿ / 18.04861; -67.19861 \\n",
+    "relevant_links": [
+        "https://es.wikipedia.org/wiki/Playa_Buy%C3%A9",
+        "https://ceb.wikipedia.org/wiki/Playa_Buye",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://en.wikipedia.org/w/index.php?title=Buy\\xc3\\xa9_Beach&oldid=1239903217"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.04861,
+            -67.19861
+        ],
+        "title": "Buyé Beach",
+        "type": "Point"
+    },
+    "categories": [
+        "Beach"
+    ]
+}

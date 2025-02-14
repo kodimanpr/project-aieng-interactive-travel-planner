@@ -1,0 +1,20 @@
+{
+    "main_content": "Contents\nUtuado barrio-pueblo\nUtuado barrio-pueblo is a barrio and the administrative center ( seat ) of Utuado , a municipality of Puerto Rico. Its population in 2010 was 5,856.     \\n\nThe central plaza and its church\nAs was customary in Spain, in Puerto Rico, the municipality has a barrio called pueblo which contains a central plaza , the municipal buildings (city hall), and a Catholic church. Fiestas patronales (patron saint festivals) are held in the central plaza every year.   \\n\nThe central plaza, or square, is a place for official and unofficial recreational events and a place where people can gather and socialize from dusk to dawn. The Laws of the Indies , Spanish law, which regulated life in Puerto Rico in the early 19th century, stated the plaza\\'s purpose was for \"the parties\" (celebrations, festivities) , and that the square should be proportionally large enough for the number of neighbors . These Spanish regulations also stated that the streets nearby should be comfortable portals for passersby, protecting them from the elements: sun and rain.  \\n\nLocated across from the central plaza is the Parroquia San Miguel ( Church San Miguel Arcángel of Utuado ), the Roman Catholic parish church.  The first church to be built was made of wood and inaugurated in 1743. The current church was built from 1875 to 1896.  The church today is listed on the National Register of Historic Places .  \\n\nHistory\nUtuado barrio-pueblo was in Spain\\'s gazetteers  until Puerto Rico was ceded by Spain in the aftermath of the Spanish-American War under the terms of the Treaty of Paris of 1898 and became an unincorporated territory of the United States . In 1899, the United States Department of War conducted a census of Puerto Rico finding that the population of Utuado barrio-pueblo was 3,619.  \\n \\n\nGallery\nSee also\nReferences",
+    "relevant_links": [
+        "https://es.wikipedia.org/wiki/Utuado_(Utuado)",
+        "https://en.wikipedia.org/w/index.php?title=Utuado_barrio-pueblo&oldid=1192952924",
+        "https://en.wikipedia.org/wiki/utuado_barrio-pueblo"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.265954,
+            -66.706242
+        ],
+        "title": "Utuado Barrio-pueblo",
+        "type": "Point"
+    },
+    "categories": [
+        "Religion",
+        "Culture"
+    ]
+}

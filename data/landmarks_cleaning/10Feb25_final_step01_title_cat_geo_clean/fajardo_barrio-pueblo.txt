@@ -1,0 +1,22 @@
+{
+    "main_content": "Contents\nFajardo barrio-pueblo\nFajardo barrio-pueblo is a barrio and the administrative center ( seat ) of Fajardo , a municipality of Puerto Rico. Its population in 2010 was 13,709.     \\n\nAs was customary in Spain, in Puerto Rico, the municipality has a barrio called pueblo which contains a central plaza, the municipal buildings (city hall), and a Catholic church. Fiestas patronales (patron saint festivals) are held in the central plaza every year.   \\n\nHistory\nFajardo barrio-pueblo was in Spain\\'s gazetteers  until Puerto Rico was ceded by Spain in the aftermath of the Spanish\\xe2\\x80\\x93American War under the terms of the Treaty of Paris of 1898 and became an unincorporated territory of the United States . In 1899, the United States Department of War conducted a census of Puerto Rico finding that the population of Fajardo Pueblo was 3,414.  \\n \\n\nThe central plaza and its church\nThe central plaza, or square, is a place for official and unofficial recreational events and a place where people can gather and socialize from dusk to dawn. The Laws of the Indies , Spanish law, which regulated life in Puerto Rico in the early 19th century, stated the plaza\\'s purpose was for \"the parties\" (celebrations, festivities) , and that the square should be proportionally large enough for the number of neighbors . These Spanish regulations also stated that the streets nearby should be comfortable portals for passersby, protecting them from the elements: sun and rain.  \\n\nThe Catedral Santiago Apóstol is located in Fajardo barrio-pueblo.  The parish was established in 1766  and the first church building was completed in 1776.  It was destroyed by an earthquake in 1867 .  Construction of the present church began two years later utilizing the side walls and floor tiles of the previous church.  It became a cathedral church when Pope Benedict XVI established the Diocese of Fajardo-Humacao on March 11, 2008.  It is list on the U.S. National Register of Historic Places.\\n\nGallery\nSee also\nReferences\n\\n\nThis Fajardo, Puerto Rico location article is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://es.wikipedia.org/wiki/Fajardo_(Fajardo)",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://en.wikipedia.org/w/index.php?title=Fajardo_barrio-pueblo&oldid=1192201831",
+        "https://en.wikipedia.org/w/index.php?title=Fajardo_barrio-pueblo&action=edit",
+        "https://ceb.wikipedia.org/wiki/Fajardo_Barrio-Pueblo"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.329232,
+            -65.649222
+        ],
+        "title": "Fajardo Barrio-pueblo",
+        "type": "Point"
+    },
+    "categories": [
+        "Religion",
+        "Culture"
+    ]
+}

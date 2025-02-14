@@ -1,0 +1,21 @@
+{
+    "main_content": "Contents\nMar Bella Beach\nMar Bella Beach , colloquially known as Puerto Nuevo Beach , is a beach in the municipality of Vega Baja in the north coast of Puerto Rico . The beach is often referred to as Puerto Nuevo Beach because it is located in the Puerto Nuevo barrio of Vega Baja; it is also referred to as the Balneario de Vega Baja or Balneario de Puerto Nuevo .  The beach is located approximately 45 minutes west of San Juan , making it popular with both locals and visitors.  \\n\nThe beach is surrounded by natural limestone seawalls that protect it from the often violent swells of the Atlantic Ocean . These rocks form a natural shallow pool with calm waters that is perfect for families and children. Larger waves do occasionally reach this shallow pool during stormy weather leaving tide pools behind. The western side of the beach is located away from the limestone rocks and while considered more dangerous it can be ideal for surfing .  \\n\nThe beach has recreational facilities such as picnic tables, bathrooms, showers, playgrounds and food kiosks. There are active guards on duty during daylight hours. The balneario and the water quality on the beach are also monitored by the Board of Environmental Quality  and since 2018 it has been designated as a Blue Flag beach .  \\n\nGallery\nReferences\n18°29\\xe2\\x80\\xb233\\xe2\\x80\\xb3N 66°23\\xe2\\x80\\xb250\\xe2\\x80\\xb3W ﻿ / ﻿ 18.49250°N 66.39722°W ﻿ / 18.49250; -66.39722 \\n",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Mar_Bella_Beach&oldid=1127465764",
+        "https://en.wikipedia.org/wiki/mar_bella_beach"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.4925,
+            -66.39722
+        ],
+        "title": "Mar Bella Beach",
+        "type": "Point"
+    },
+    "categories": [
+        "Outdoor",
+        "Food",
+        "Family-Friendly",
+        "Beach"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "main_content": "Contents\nCarite Lake\nLago Carite is a lake located in the municipality of Guayama on the island of Puerto Rico . The lake was created in 1913  and serves as a reservoir for irrigation and potable water.\\n\nThe lake receives flow from the La Plata River and can be used for fishing and recreation.\\n\nThe name of the lake comes from the area where it is located.\\n\nSee also\nReferences\nExternal links\n\\n\nThis Guayama, Puerto Rico location article is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Carite_Lake&action=edit",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://en.wikipedia.org/w/index.php?title=Carite_Lake&oldid=1216308847",
+        "https://es.wikipedia.org/wiki/Lago_Carite"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.076629,
+            -66.1057212
+        ],
+        "title": "Carite Lake",
+        "type": "Point"
+    },
+    "categories": [
+        "Outdoor"
+    ]
+}

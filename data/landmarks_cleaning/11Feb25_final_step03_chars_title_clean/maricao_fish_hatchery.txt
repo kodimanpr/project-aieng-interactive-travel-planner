@@ -1,0 +1,19 @@
+{
+    "main_content": "Contents\nMaricao Fish Hatchery\nThe Maricao Fish Hatchery , also known as the Insular Fish Hatchery ( Criadero Insular de Peces ), is a historic 3.32 acre fish hatchery located along the Río Rosario in the Maricao Afuera district ( barrio ) of the Puerto Rican municipality of Maricao , within the Maricao State Forest jurisdiction.  The hatchery is located at approximately 1,500 feet (460 meters) above sea level, 1.2 kilometers from downtown Maricao .  \\n\nHistory\nThe Maricao Fish Hatchery was established in 1937 on three segments of land originally measuring approximately 4 acres along the Maricao River on the northern edge of the Maricao State Forest Reserve by the Civilian Conservation Corps (CCC) for the Insular Forest Service, and under the direction of Dr. Samuel F. Hildebrand of the Departments of Agriculture and Commerce .  The original district consisted of six buildings and additional infrastructure built using stone and concrete as construction materials. The hatchery facilities officially opened in January 1938, and it represents the introduction of recreation fishing or sport fishing in Puerto Rico.  \\n\nThe Government of Puerto Rico added an additional 2.75 acres for the hatchery in 1940, and by 1942, the expanded fish hatchery facilities included large grow-out ponds for breeding fish (particularly brown and rainbow trout ) and sixteen smaller ponds for breeding of crustaceans . At a later date, another grow-out pond was added in the northern segment, west of the original ponds. Reconstruction of these facilities were undertaken between the years 1998 and 2000 after considerable damages caused by Hurricane Georges , which devastated the island in September 1998.  At a later date, a visitor parking was built on a lot across the Maricao River. This visitors parking is not included within the district\\'s boundaries.   \\n\nToday the property is administered by the Puerto Rico Department of Natural and Environmental Resources . Although the fish hatchery is no longer operational, this district retains integrity of location, setting, workmanship, materials, feeling and association. For this reason, it was added to the United States National Register of Historic Places in 2017.  \\n\nBuildings and structures\nThe Maricao Fish Hatchery historic district has been included in the National Register of Historic Places since February 21, 2017, as it is a prime example of the New Deal Era Constructions in the Forest Reserves of Puerto Rico , a collection of historic sites built by the Civilian Conservation Corps on multiple protected natural areas of Puerto Rico between 1933 and 1942. The fish hatchery historic district includes 28 buildings, structures and resources, out of which 18 are inscribed as contributing properties . In addition to the hatchery ponds, tanks and water channels, the Vivero de Peces historic district consists of an entrance bridge built by the CCC in 1938, a historic entrance stone marker, a series of gazebos and the main administration office buildings. The buildings and structures built after the year 1966 are not included in the historic district designation.  \\n\nSee also\nReferences",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Maricao_Fish_Hatchery&oldid=1141760670",
+        "https://en.wikipedia.org/wiki/maricao_fish_hatchery"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.17056,
+            -66.98722
+        ],
+        "title": "Maricao Fish Hatchery",
+        "type": "Point"
+    },
+    "categories": [
+        "Outdoor",
+        "Culture"
+    ]
+}

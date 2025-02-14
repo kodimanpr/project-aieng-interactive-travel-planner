@@ -1,0 +1,21 @@
+{
+    "main_content": "Contents\nLa Bombonera (San Juan)\nLa Bombonera is a restaurant founded in 1902 in San Juan , Puerto Rico , located on 259 San Francisco street of Old San Juan in Puerta de Tierra . It is the third oldest restaurant in Puerto Rico after La Mallorquina founded in 1848 and \"Caf\\xc3\\xa8 Turull\" founded in 1816. Some of its products are Mallorcas , creole version of Majorcan ensa\\xc3\\xafmades . The current building dates from 1925 and occupies two adjacent buildings on San Francisco Street, numbers 259 and 261. At 259 there is the living room and at 261, on the first floor, you can find the kitchen and the bathrooms in the restaurant.     \\n\nHistory\nIt was founded by the Mallorcan of Felanitx Antoni Rigo Sagrera, with the name of \"La Panaderia Mallorquina\". In 1910, Antoni Rigo partnered with his cousin Gabriel Abraham Sagrera, and created the \\xc2\\xabPanaderia y Gran Confiteria. Rigo y Abraham\\xc2\\xbb (Bakery and Great Confectionery. Rigo and Abraham).  The bakery was expanding its offer, adding the sale of confectionery, European chocolates and soft drinks. The tigernut and coffee were introduced and in 1918 the \"Bombonera\" was born, incorporating a stained-glass window to the fa\\xc3\\xa7ade. His specialties were the Mallorcas (formerly Pan de Mallorca ), Galletas Nena and Coca de Sardinas .\\n\nIn 1920, Rigo returned to Spain and sold his participation to Majorcan Cristobal Puig, becoming \"Puig and Abraham\". In 1963, kitchens were built in the adjacent building number 261 and became a restaurant. After 110 years of operation, in April 2012, it was announced its closure. In 2016 the restaurant reactivated the activity led by the founder\\'s granddaughter Isabel Obrador Rigo.  \\n\nReferences\nExternal links",
+    "relevant_links": [
+        "https://ca.wikipedia.org/wiki/La_Bombonera_(San_Juan)",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://en.wikipedia.org/w/index.php?title=La_Bombonera_(San_Juan)&oldid=1238786051",
+        "https://es.wikipedia.org/wiki/La_Bombonera_(San_Juan)"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.46595,
+            -66.11478611
+        ],
+        "title": "La Bombonera (San Juan)",
+        "type": "Point"
+    },
+    "categories": [
+        "Food",
+        "Culture"
+    ]
+}

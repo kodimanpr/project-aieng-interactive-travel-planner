@@ -1,0 +1,20 @@
+{
+    "main_content": "Contents\nIglesia de San Antonio de Padua\nThe Iglesia Parroquial de San Antonio de Padua (English: Parish Church of Saint Anthony of Padua ) is a historic, Roman Catholic parish church in Guayama , Puerto Rico . The parish was erected in 1736 and the first church building completed no later than 1775. The original appearance of the building is unknown, but some of the eighteenth century walls may survive in the present structure. The building was rebuilt twice in the nineteenth century and the present appearance dates from 1874. It takes an overall Romanesque form, while the details exhibit the eclecticism that characterized much Puerto Rican architecture in the later 1800s.  \\n\nThe church was inscribed on the National Register of Historic Places in 1976.  \\n\nGallery\nSee also\nReferences\nExternal links\n\\n\nThis article about a property in Puerto Rico on the National Register of Historic Places is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Iglesia_de_San_Antonio_de_Padua&action=edit",
+        "https://en.wikipedia.org/w/index.php?title=Iglesia_de_San_Antonio_de_Padua&oldid=1166655471",
+        "https://stats.wikimedia.org/#/en.wikipedia.org"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            17.985175,
+            -66.112884
+        ],
+        "title": "Iglesia De San Antonio De Padua",
+        "type": "Point"
+    },
+    "categories": [
+        "Religion",
+        "Culture"
+    ]
+}

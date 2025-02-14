@@ -1,0 +1,18 @@
+{
+    "main_content": "Contents\nHacienda Juanita\nHacienda Juanita (built 1833-34) is a coffee plantation hacienda in the town of Maricao, Puerto Rico . The  design is based on typical Puerto Rican culture , and was commissioned by the wife of a Spanish official.  Coffee production at the hacienda declined from the 1960s.  \\n\nHotel\nFrom 1976 it was converted, with government assistance,  into one of Puerto Rico\\'s earliest paradores , and ran, administered by the Puerto Rico Tourism Company , as a 21-room agro- hotel . At 1,600 ft (490 m) above sea level, visitors could enjoy the view and the peacefulness of the Puerto Rican mountains.  The parador passed to new private owners in 2005 but closed in 2011.  The hotel had hosted a Sala del Parador , a permanent exhibit of antique artifacts related to Puerto Rican coffee production.\\n\nFlora and fauna\nThe 24 acres (97,000 m 2 ) of lands are home to a number of floral and animal species including:  \\n\nNearby attractions\nSee also\nReferences\n18\\xc2\\xb010\\xe2\\x80\\xb244\\xe2\\x80\\xb3N 66\\xc2\\xb059\\xe2\\x80\\xb236\\xe2\\x80\\xb3W ﻿ / ﻿ 18.17889\\xc2\\xb0N 66.99333\\xc2\\xb0W ﻿ / 18.17889; -66.99333 \\n",
+    "relevant_links": [
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://en.wikipedia.org/w/index.php?title=Hacienda_Juanita&oldid=1139410520"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.17889,
+            -66.99333
+        ],
+        "title": "Hacienda Juanita",
+        "type": "Point"
+    },
+    "categories": [
+        "Luxury & Resorts"
+    ]
+}

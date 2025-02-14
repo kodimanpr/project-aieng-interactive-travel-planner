@@ -1,0 +1,22 @@
+{
+    "main_content": "Contents\nHúcares\nHúcares is a barrio in the municipality of Naguabo, Puerto Rico . Its population in 2010 was 2,918.    \\n\nHistory\nHúcares was in Spain\\'s gazetteers  until Puerto Rico was ceded by Spain in the aftermath of the Spanish\\xe2\\x80\\x93American War under the terms of the Treaty of Paris of 1898 and became an unincorporated territory of the United States . In 1899, the United States Department of War conducted a census of Puerto Rico finding that the population of Húcares barrio was 826.  \\n \\n\nFeatures\nPlaya Húcares in Húcares is not a beach per se but is a tourist attraction because of its boardwalk, fishing activities and seafood restaurants.  \\n\nSectors\nBarrios (which are, in contemporary times, roughly comparable to minor civil divisions )  in turn are further subdivided into smaller local populated place areas/units called sectores ( sectors in English). The types of sectores may vary, from normally sector to urbanización to reparto to barriada to residencial , among others.    \\n\nThe following sectors are in Húcares barrio:  \\n\nCalle Punta Lima,\\nEstancias de Húcares,\\nHacienda El Triunfo,\\nLas Mercedes (Calle de la Playa),\\nMansiones de Playa Húcares,\\nParcelas Invasión,\\nParcelas Nuevas,\\nParcelas Playa,\\nResidencial Húcares I y II,\\nSector Calle del Pueblo,\\nSector Cambímbora,\\nSector El Faro,\\nSector Fanduca,\\nSector La Changa,\\nSector La Ola,\\nUrbanización Cala de Húcares,\\nUrbanización Jardín del Este,\\nUrbanización Lomas de Santo Tomás,\\nUrbanización Los Valles,\\nUrbanización Mar Caribe , and Urbanización Santo Tomás .\\n\nSee also\nReferences\n\\n\nThis Naguabo, Puerto Rico location article is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://es.wikipedia.org/wiki/H%C3%BAcares",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://en.wikipedia.org/w/index.php?title=H\\xc3\\xbacares&oldid=1192733664",
+        "https://en.wikipedia.org/w/index.php?title=H%C3%BAcares&action=edit",
+        "https://ceb.wikipedia.org/wiki/H%C3%BAcares_Barrio"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.197052,
+            -65.718543
+        ],
+        "title": "Húcares",
+        "type": "Point"
+    },
+    "categories": [
+        "Culture",
+        "Beach"
+    ]
+}

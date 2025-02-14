@@ -1,0 +1,22 @@
+{
+    "main_content": "Contents\nSan Juan Puerto Rico Temple\nThe San Juan Puerto Rico Temple is the 176th operating temple of the Church of Jesus Christ of Latter-day Saints (LDS Church) in San Juan , Puerto Rico . It is the church\\'s third temple in the Caribbean and the only one in Puerto Rico, serving the 23,000 members who live there.\\n\nHistory\nThe intent to construct the temple was announced by church president Russell M. Nelson on October 7, 2018, during the church\\'s general conference .  Nelson announced 11 other temples at the same time, bringing the total number of temples operating, under construction, and announced at that time to 201.\\n\nFollowing release of an artist\\'s rendering of the temple a few days earlier,  on January 17, 2019, the church announced that a groundbreaking to signify the beginning of construction would be held on May 4, 2019, with Walter F. González, the president of the church\\'s Caribbean Area , presiding.  At the groundbreaking, church leaders noted that construction of the temple was anticipated to take about two years.  \\n\nThe temple was originally planned to be completed in 2021,  but construction was delayed due to the COVID-19 pandemic .  A public open house was held from December 1-17, 2022.  The temple was dedicated by D. Todd Christofferson on January 15, 2023,  where over 2,100 church members watched remotely during the three sessions held.  \\n\nArchitecture\nThe San Juan Puerto Rico Temple has a single story and one spire. It is 6,988 square feet and 74 feet tall with the spire (24 feet without), which was inspired by the towers on San Juan City Hall .  The exterior of the temple is concrete and inspired by local Spanish colonial architecture .  The interior glasswork was inspired by quatrefoil motifs on local buildings.  The walkways around the temple were made by locally-fabricated concrete  The crema vosscione tile was quarried in Mexico and the accent cement tiles were manufactured in Vietnam , while the carpet patterns Spanish Colonial styles and hosts colors evocative of Puerto Rico.  \\n\nSee also\nTemples in the Caribbean ( edit ) \\n = Operating \\n = Under construction \\n = Announced \\n = Temporarily Closed\\n\nReferences\nExternal links",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=San_Juan_Puerto_Rico_Temple&oldid=1220481942",
+        "https://en.wikipedia.org/w/index.php?title=Template:LDS_Temple_Map_Caribbean&action=edit",
+        "https://en.wikipedia.org/w/index.php?title=Template:LDS_Temple/San_Juan_Puerto_Rico_Temple&action=edit",
+        "https://es.wikipedia.org/wiki/Templo_de_San_Juan_(Puerto_Rico)",
+        "https://en.wikipedia.org/wiki/san_juan_puerto_rico_temple"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.3855,
+            -66.0296
+        ],
+        "title": "San Juan Puerto Rico Temple",
+        "type": "Point"
+    },
+    "categories": [
+        "Religion",
+        "Culture"
+    ]
+}

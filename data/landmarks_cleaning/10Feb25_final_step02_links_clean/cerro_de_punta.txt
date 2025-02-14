@@ -1,0 +1,23 @@
+{
+    "main_content": "Contents\nCerro de Punta\n\\n\nCerro de Punta or Cerro Punta is the highest peak in Puerto Rico , rising to 1,338 meters (4,390 ft) above sea level. [ note 1 ] The mountain is part of the Cordillera Central and is located on the town boundary between the municipalities of Ponce and Jayuya in the central region of the main island of Puerto Rico.      \\n\nLocation\nThe mountain is part of the Cordillera Central and is located on the municipality of Jayuya, Puerto Rico.     The access road to the point closest to the highest elevation is from the municipality of Jayuya.  It is part of the Toro Negro Forest Reserve , and it has been described as \"an alpine runt.\"  It is located on the western end of the Toro Negro State Park. The mountain is just north of east-to-westbound Route 143 . It is located at coordinates 18.172458 and -66.591839W. The nearest populated place to Cerro de Punta is Urbanización Vega Linda , located 3.3 miles (5.3 km) away.\\n\nGeology\nUnlike many Caribbean mountains, Cerro de Punta is not a volcano but simply the highest point in the Cordillera Central . Cordillera Central is the central mountain range that divides the island by running in an east-west fashion.  \\n\nBest view\nThe view from atop Cerro de Punta is said to be \"the best view in all of Puerto Rico\". On a clear day, it is possible to see virtually the entire island, including as far as San Juan , which is over 75 miles (120 km) away.  There are a number of radio and television transmission and re-transmission towers just off the top of the mountain.  There is an observation platform at the top of the mountain.  \\n\nWildlife and flora\nThe mountain is home to an abundant amount of wildlife, lush vegetation, flowering shrubs and trees, and numerous waterfalls .  The mountain is covered by Sierra palm trees.  Various plants, including some endangered species are found here,  such as the endangered fern Elaphoglossum serpens which is found only on this mountain and nowhere else in the world,  and Cook\\'s holly ( Ilex cookii ) or planta de te , which is only found here and in neighboring Mount Jayuya .  \\n\nNearby roads\nThe area consists of many steep mountains. The nearest road is PR-143 , which is a winding two-lane mountain road that must be travelled very slowly as it is not possible to see traffic coming from the opposite direction for any significant length. Off Route 143 is the road that actually leads to the mountain\\'s top. Route 143 can be accessed via the better-traveled Route 10 .  Route 143 is part of the Ruta Panorámica .  \\n\nHiking and access trail\nA nearby inn called Hacienda Gripiñas , has a trail that leads to the top of the mountain. Hacienda Gripiñas was a coffee plantation, but has been turned into a country inn. In 2010 it still grew some coffee.  The inn operates under a contract with the Government of Puerto Rico.  The trails, however, are not well marked and often suffer damage from storms.  While people can hike their way to the top of the mountain, there is a paved road that leads to the very summit.  The Toro Negro State Forest has 12 miles (19 km) of hiking trails some of which lead to the top of Cerro de Punta.  \\n\nGallery\nSee also\nNotes\nReferences\nExternal links",
+    "relevant_links": [
+        "https://es.wikipedia.org/wiki/Cerro_de_Punta",
+        "https://en.wikipedia.org/w/index.php?title=Cerro_de_Punta&oldid=1245245469",
+        "https://en.wikipedia.org/wiki/cerro_de_punta"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.1725,
+            -66.59194
+        ],
+        "title": "Cerro De Punta",
+        "type": "Point"
+    },
+    "categories": [
+        "Soft Adventure",
+        "Wildlife",
+        "Luxury & Resorts",
+        "Outdoor",
+        "Family-Friendly"
+    ]
+}

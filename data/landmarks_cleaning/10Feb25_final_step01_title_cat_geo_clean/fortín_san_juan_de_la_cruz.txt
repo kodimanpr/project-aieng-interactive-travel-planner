@@ -1,0 +1,23 @@
+{
+    "main_content": "Contents\nFortín San Juan de la Cruz\nFortín San Juan de la Cruz ( Fort Saint John of the Cross ), most commonly known as El Cañuelo , was built on Isla de Cabras in the Palo Seco barrio of the municipality of Toa Baja , at the western end of the entrance to San Juan Bay , in Puerto Rico . The square coastal fort has massive sandstone walls that date back to the 1630s. Although the U.S. Navy bombarded the fort in 1898, the fort survived. Today the fort is part of the San Juan National Historic Site , which is listed as a UNESCO World Heritage Site and on both the National Register of Historic Places and the Puerto Rico Register of Historic Sites and Zones .  The fort is not open to visitors, but it can be viewed from its exterior.\\n\nHistory\nThe original fort built on this site in the late 1500s was made of wood; it burned to the ground in 1625 during a Dutch attack . However, the Spaniards replaced it with a stone fort between 1630 and 1660.\\n\nEl Cañuelo was the smallest fort in the harbor defense system. Cannon fire from the fort and from Castillo San Felipe del Morro created a crossfire to protect the entrance to San Juan bay. The fort also guarded the mouth of the Bayamón River on the other side. reportedly, at one time, there was a huge chain crossing from El Morro to El Cañuelo that was extended during attacks to provide a physical barricade across the bay entrance.  \\n\nOn 12 May 1898, during the Spanish\\xe2\\x80\\x93American War , the United States Navy bombarded El Cañuelo as part of its bombardment of San Juan . Spanish records do not list any guns or troops at El Cañuelo at the time. [ citation needed ] \\n\nOther information\nThe square fort is about 80 feet (24 m) per side, with one guerite ( garita in Spanish). It covers an estimated  3.4-acre (14,000 m 2 ) area. El Cañuelo Island was originally a rocky islet completely surrounded by water and accessible only by boat. A some point after 1986 nearby Isla de Cabras was artificially expanded to incorporate it.\\n\nA causeway connects Isla de Cabras to the main island;  the road is Puerto Rico Highway 870, and it passes by the fort as it reaches the island. The site features fabulous views of Boca Vieja Cove to the west and San Juan Bay to the east. The fort itself is closed to the public, but one can walk around its walls. There is a small recreation area with picnic tables at the site of the fort.\\n\nSee also\nCitations\nReferences\nExternal links",
+    "relevant_links": [
+        "https://fr.wikipedia.org/wiki/Fortin_San_Juan_de_la_Cruz",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://nl.wikipedia.org/wiki/Fort%C3%ADn_San_Juan_de_la_Cruz",
+        "https://en.wikipedia.org/w/index.php?title=Fort\\xc3\\xadn_San_Juan_de_la_Cruz&oldid=1240275054",
+        "https://es.wikipedia.org/wiki/Fort%C3%ADn_San_Juan_de_la_Cruz"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.466389,
+            -66.136389
+        ],
+        "title": "Fortín San Juan De La Cruz",
+        "type": "Point"
+    },
+    "categories": [
+        "Outdoor",
+        "Family-Friendly",
+        "Culture"
+    ]
+}

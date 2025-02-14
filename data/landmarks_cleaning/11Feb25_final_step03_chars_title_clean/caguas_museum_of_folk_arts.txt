@@ -1,0 +1,19 @@
+{
+    "main_content": "Contents\nCaguas Museum of Folk Arts\nThe Caguas Museum of Folk Arts  is an art museum located in Caguas Pueblo , the downtown and administrative area of the municipality of Caguas, Puerto Rico . \\n\nThe museum is dedicated to Puerto Rican and Criollo artists , traditional handmade products, and local arts and crafts. The museum is divided into two areas: the first area is a permanent exhibition that showcases Puerto Rican master craftsmen and artists such as Zoilo Cajigas, Celestino Avilés, and Domingo Orta. The second area has a selective sample of eight miniature pieces by Caguas master artisan, Edwin Báez, as well as quarterly temporary exhibitions.  \\n\nSee also\nReferences\nExternal links\n18°14\\xe2\\x80\\xb204\\xe2\\x80\\xb3N 66°02\\xe2\\x80\\xb212\\xe2\\x80\\xb3W ﻿ / ﻿ 18.23436°N 66.03658°W ﻿ / 18.23436; -66.03658 \\n",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Caguas_Museum_of_Folk_Arts&oldid=1146286294",
+        "https://www.discoverpuertorico.com/profile/museo-de-artes-populares-de-caguas/7778",
+        "https://en.wikipedia.org/wiki/caguas_museum_of_folk_arts"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.23436,
+            -66.03658
+        ],
+        "title": "Caguas Museum Of Folk Arts",
+        "type": "Point"
+    },
+    "categories": [
+        "Culture"
+    ]
+}

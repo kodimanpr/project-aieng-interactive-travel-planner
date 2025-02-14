@@ -1,0 +1,18 @@
+{
+    "main_content": "Contents\nFuerte de la Concepción\nThe Fuerte de la Concepción (English: Fort of the Conception ) was a Spanish military fortress guarding the port and town of Aguadilla , Puerto Rico , in the 18th and 19th centuries.  In 1986, the fort\\'s single surviving building was listed on the U.S. National Register of Historic Places ,  and later on the Puerto Rico Register of Historic Sites and Zones in 2000.  \\n\nSee also\nNotes\nReferences\nExternal links\n\\n\nThis article about a property in Puerto Rico on the National Register of Historic Places is a stub . You can help Wikipedia by expanding it .\nThis article about a Puerto Rican building or structure related topic is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Fuerte_de_la_Concepci%C3%B3n&action=edit",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://es.wikipedia.org/wiki/Fuerte_de_la_Concepci%C3%B3n",
+        "https://en.wikipedia.org/w/index.php?title=Fuerte_de_la_Concepci\\xc3\\xb3n&oldid=1240117697"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.435956,
+            -67.155882
+        ],
+        "title": "Fuerte De La Concepción",
+        "type": "Point"
+    },
+    "categories": []
+}

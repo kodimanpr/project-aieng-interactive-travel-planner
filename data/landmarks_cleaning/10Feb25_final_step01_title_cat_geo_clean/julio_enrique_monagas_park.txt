@@ -1,0 +1,19 @@
+{
+    "main_content": "Contents\nJulio Enrique Monagas Park\nJulio Enrique Monagas Park  is an urban state park and recreational area located in Bayamón, Puerto Rico .  The park is named after Julio Enrique Monagas , the first director of Puerto Rico\\'s Public Recreation and Parks Commission and also considered the father of the Olympic movement in Puerto Rico. Before its establishment in 1993, the area was a military installation during the Second World War , and many of the bunkers and ammunition warehouses are still preserved within the area. The park today contains several hiking trails, paths for mountain biking , playgrounds for children, gazebos for picnics, and areas for horse-riding. Climbing is also allowed in some of the limestone cliffs, locally known as mogotes .  \\n\nThe park is managed by the Compañía de Parques Nacionales de Puerto Rico , which serves as the department of parks and recreation of the territory, although everyday management is done by the Centro Ambiental Santa Ana , established by Frank H. Wadsworth in 2006.   \\n\nReferences\n\\n\nThis Bayamón, Puerto Rico location article is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Julio_Enrique_Monagas_Park&action=edit",
+        "https://en.wikipedia.org/w/index.php?title=Julio_Enrique_Monagas_Park&oldid=1247639103",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://www.discoverpuertorico.com/profile/julio-enrique-monagas-national-park/9253"
+    ],
+    "geo_metadata": {
+        "coordinates": "Not Found",
+        "title": "Julio Enrique Monagas Park",
+        "type": "Point"
+    },
+    "categories": [
+        "Outdoor",
+        "Soft Adventure",
+        "Family-Friendly"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "main_content": "Contents\nMcCabe Memorial Church\n\\n\nMcCabe Memorial Church , also known as Iglesia Metodista Unida de la Playa de Ponce , is a historic church building in Barrio Playa in Ponce, Puerto Rico . It dates from 1908, and was designed by Antonin Nechodoma .  It was listed on the U.S. National Register of Historic Places in 2008.  It is one of four places such listed in Barrio Playa, the others being the U.S. Customs House , the Caja de Muertos Light , and the Cardona Island Light .\\n\nConstruction\nThe church is built in the Neo Gothic heritage. It has a concrete foundation and walls, and a wood and corrugated metal roof.  Built in 1908, the church was built as a house of worship for the Methodist congregation in Playa de Ponce.  The roof was originally built of wood shingles.  The church was named in memory of well-beloved Methodist Bishop Charles Cardwell McCabe , who died shortly before its construction (at a time, also, when the Methodist Church in Puerto Rico was a missional outreach of the Methodist Church in U.S.A.).\\n\nHistory\nThe church was built at this location because of the prominent commercial role that the Playa barrio played in the early nineteenth century. For this reason the La Playa barrio also had fisheries, schools, hospitals, a cemetery, and a population of 5,169 distributed through a residential area dominated by wooden houses. There was also a Catholic church, the Virgen del Carmen Catholic Church, built there in 1882. \"The vital importance of the Port of Ponce explains why it was targeted as an early site for the missionary work of the new Protestant churches that came to Puerto Rico, immediately after the Spanish\\xe2\\x80\\x93American War of 1898.\"  \\n\nThe church lot was acquired on March 31, 1906, after a donation of $400 by Bishop Charles McCabe  Church construction began in 1907, and finished in 1908, at a final cost of $4,500. The locals christened the new church as La Iglesia Metodista de la Playa de Ponce (The Ponce Playa Methodist Church).  \\n\nThrough the years\nIn 1928 the San Felipe hurricane partly destroyed the church.  It was quickly rebuilt by the locals, with the guidance of Catholic parish priest Gonzalo Noel.  Through the years, the locals, regardless of religious affiliation \"have embraced the McCabe Methodist church as one of their icons\".  In 1946, the church inaugurated the McCabe Memorial School, and locals sent their children there regardless of religious orientation. The original facility was known as the Robinson Methodist School, but was later changed to Rev. Julia Torres School, in honor of a local teacher and religious leader.  In 1960, Reverend Julia Torres, born in La Playa, became the first woman in Puerto Rico to be ordained as a Methodist minister. She directed both the church and the school for almost 12 years.  \\n\nSignificance\nThe McCabe Memorial Church embodies the wide historic process of the establishment of the Protestant factions in Puerto Rico.  In this respect, it defied the monopolistic control of the Catholic Church that had prevailed during the Spanish sovereignty over the Island. The church broke previous barriers as to the ideological separation of Church and State, when the opposite was the normal daily experience in Puerto Rican life. The church is also associated with an important icon of twentieth-century Puerto Rican architecture of the time, Antonin Nechodoma.  \\n\nSee also\nReferences",
+    "relevant_links": [
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://en.wikipedia.org/w/index.php?title=McCabe_Memorial_Church&oldid=1148048859"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            17.982187,
+            -66.62044
+        ],
+        "title": "Mccabe Memorial Church",
+        "type": "Point"
+    },
+    "categories": [
+        "Religion",
+        "Culture"
+    ]
+}

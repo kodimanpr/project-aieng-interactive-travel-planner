@@ -1,0 +1,20 @@
+{
+    "main_content": "Contents\nGuayanilla barrio-pueblo\nGuayanilla barrio-pueblo is an urban barrio and the administrative center ( seat ) of Guayanilla , a municipality of Puerto Rico. Its population in 2010 was 3,757.     \\n\nAs was customary in Spain, in Puerto Rico, the municipality has a barrio called pueblo which contains a central plaza, the municipal buildings (city hall), and a Catholic church. Fiestas patronales (patron saint festivals) are held in the central plaza every year.   \\n\nFeatures and demographics\nGuayanilla barrio-pueblo has .54 square miles (1.4 km 2 ) of land area and no water area. In 2010, its population was 3,757 with a population density of 6,957.4 inhabitants per square mile (2,686.3/km 2 ).\\n\nThe central plaza and its church\nThe central plaza, or square, is a place for official and unofficial recreational events and a place where people can gather and socialize from dusk to dawn. The Laws of the Indies , Spanish law, which regulated life in Puerto Rico in the early 19th century, stated the plaza\\'s purpose was for \"the parties\" (celebrations, festivities) , and that the square should be proportionally large enough for the number of neighbors . These Spanish regulations also stated that the streets nearby should be comfortable portals for passersby, protecting them from the elements: sun and rain.  \\n\nLocated across the central plaza in Guayanilla barrio-pueblo was the Parroquia Inmaculada Concepción (English: Church Inmaculada Concepción of Guayanilla ),  a Roman Catholic church.  The church was destroyed during the 2019-20 Puerto Rico earthquakes .\\n\nHistory\nGuayanilla barrio-pueblo was in Spain\\'s gazetteers  until Puerto Rico was ceded by Spain in the aftermath of the Spanish-American War under the terms of the Treaty of Paris of 1898 and became an unincorporated territory of the United States . In 1899, the United States Department of War conducted a census of Puerto Rico finding that the population of Pueblo barrio was 973.  \\n\nOn January 7, 2020, a 6.4 magnitude earthquake destroyed the parish church and other structures in Guayanilla Pueblo. A day before, a 5.7 magnitude earthquake had destroyed various structures and cars.   \\n\nGallery\nSee also\nReferences\nExternal links",
+    "relevant_links": [
+        "https://es.wikipedia.org/wiki/Guayanilla_(Guayanilla)",
+        "https://en.wikipedia.org/w/index.php?title=Guayanilla_barrio-pueblo&oldid=1192677744",
+        "https://en.wikipedia.org/wiki/guayanilla_barrio-pueblo"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.022843,
+            -66.791156
+        ],
+        "title": "Guayanilla Barrio-pueblo",
+        "type": "Point"
+    },
+    "categories": [
+        "Religion",
+        "Culture"
+    ]
+}

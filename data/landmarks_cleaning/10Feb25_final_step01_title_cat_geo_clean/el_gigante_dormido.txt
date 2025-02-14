@@ -1,0 +1,17 @@
+{
+    "main_content": "Contents\nEl Gigante Dormido\nEl Gigante Dormido ( Spanish for the sleeping giant ) is a mountain located in the municipality of Adjuntas, Puerto Rico . Its highest peak, Cerro El Gigante , rises to 3,175 feet (968 m) in elevation above sea level.  \\n\nThe mountain is famous for its distinctive shape that resembles the silhouette of a reclining man\\'s head. This shape gives the mountain and its summit their names which mean \\' the sleeping giant \\' and \\' hill of the giant \\' respectively in Spanish. Due to its location south of the downtown district of Adjuntas Pueblo , the mountain can easily be seen from many parts of town. Many local folk tales are associated with the mountain and the origin of its peculiar shape.  \\n\nGallery\nReferences\n18\\xc2\\xb008\\xe2\\x80\\xb228\\xe2\\x80\\xb3N 66\\xc2\\xb043\\xe2\\x80\\xb245\\xe2\\x80\\xb3W ﻿ / ﻿ 18.1410\\xc2\\xb0N 66.7291\\xc2\\xb0W ﻿ / 18.1410; -66.7291 \\n",
+    "relevant_links": [
+        "https://ceb.wikipedia.org/wiki/Cerro_El_Gigante_(bukid_sa_Purtoriko)",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://en.wikipedia.org/w/index.php?title=El_Gigante_Dormido&oldid=1150720668"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.141,
+            -66.7291
+        ],
+        "title": "El Gigante Dormido",
+        "type": "Point"
+    },
+    "categories": []
+}

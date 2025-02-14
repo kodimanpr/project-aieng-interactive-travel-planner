@@ -1,0 +1,19 @@
+{
+    "main_content": "Contents\nChalet Amill\nThe Chalet Amill in Yauco, Puerto Rico is a Beaux Arts style house that was built in 1914.  It was listed on the National Register of Historic Places in 1985,  and on the Puerto Rico Register of Historic Sites and Zones in 2001.  \\n\nIt was built for Corsican immigrant Angel Antongiorgi Paoli, was given to his daughter and new husband in 1918, and was later converted to a hotel.  \\n\nSee also\nReferences\n\\n\nThis article about a property in Puerto Rico on the National Register of Historic Places is a stub . You can help Wikipedia by expanding it .\nThis article about a Puerto Rican building or structure related topic is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Chalet_Amill&action=edit",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://en.wikipedia.org/w/index.php?title=Chalet_Amill&oldid=1240280551"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.03562,
+            -66.850109
+        ],
+        "title": "Chalet Amill",
+        "type": "Point"
+    },
+    "categories": [
+        "Luxury & Resorts"
+    ]
+}

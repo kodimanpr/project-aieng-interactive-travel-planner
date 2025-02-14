@@ -1,0 +1,27 @@
+{
+    "main_content": "Contents\nIsla Cardona\n\\n\\n\nIsla Cardona , also known as Sor Isolina Ferré Island ,  is a small, uninhabited island located 1.30 nautical miles south of the mainland Puerto Rican shore across from Barrio Playa ,  on the west side of the entrance to the harbor of Ponce, Puerto Rico . The small island is considered part of barrio Playa.  It is home to the 1889 Cardona Island Light , which is listed in the U.S. National Register of Historic Places . Together with Caja de Muertos , Gatas , Morrillito , Ratones , Isla del Frio , and Isla de Jueyes , Cardona is one of seven islands ascribed to the municipality of Ponce .   The island gained notoriety in 2010 when the Puerto Rican Bird Society made it a target for the eradication of the black rat .\\n\nLocation\nLocated on the Bahía de Ponce , the island has an area of 8.71 acres (3.52 ha).  The island, sometimes erroneously called a key (or cay ), is located at latitude 17\\xc2\\xb057\"24.3\\' and longitude -66\\xc2\\xb038\\'5.9\\' (latitude 17.95672N, longitude: -66.634982W  ). The short distance from the mainland shore makes Cardona a popular landing point for aquatic events such as kayaking and summing, and every year the island is visited by dozens of swimmers in the annual Cruce a Nado , an international swimming competition sponsored by the Ponce Municipal Government.    \\n\nName\nThe name \"Cardona\" is believed to come from the last name of a family of lighthouse keepers stationed at the island for many decades. Whatever its origin, the island is now also called \" Sor Isolina Ferré \" in appreciation and to the memory of the religious woman that dedicated her life to the betterment of the residents of Barrio Playa , of which Cardona Island is a part.  \\n\nTourism\nThe island can be seen from the observation tower on the La Guancha boardwalk and is accessible by private boat. Starting in the summer of 2018, tourists can also board a ferry for a trip to the island.  The island offers \"a beautiful, nice snorkeling, some trails to explore, and a lighthouse.\"  The ferry trips ceased in January 2020 after a major earthquake struck the area, but restarted six months later.  The island is administered by the Puerto Rico Department of Natural and Environmental Resources .  \\n\nGeography and climate\nThe island is mostly a low island covered by brushwood.  The climate is dry and the island supports dry forest .\\n\nBlack rat\nIn 2010, the Sociedad Ornitológica Puertorriqueña (Puerto Rican Bird Society) and the Ponce Yacht and Fishing Club launched a campaign to eradicate the black rat from the island.  \\n\nReferences\nExternal links",
+    "relevant_links": [
+        "https://ur.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B1%D8%AF%D9%88%D9%86%D8%A7_(%D9%BE%D9%88%D9%86%D8%B3%D8%A7%D8%A6%DB%8C)",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://es.wikipedia.org/wiki/Isla_Cardona",
+        "https://fr.wikipedia.org/wiki/Isla_Cardona",
+        "https://en.wikipedia.org/w/index.php?title=Isla_Cardona&oldid=1246246581",
+        "https://uk.wikipedia.org/wiki/%D0%86%D1%81%D0%BB%D0%B0-%D0%9A%D0%B0%D1%80%D0%B4%D0%BE%D0%BD%D0%B0",
+        "https://ca.wikipedia.org/wiki/Illa_de_Cardona",
+        "https://ceb.wikipedia.org/wiki/Isla_de_Cardona"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            17.95667,
+            -66.635
+        ],
+        "title": "Cardona (ponce)",
+        "type": "Point"
+    },
+    "categories": [
+        "Outdoor",
+        "Soft Adventure",
+        "Family-Friendly",
+        "Beach"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "main_content": "Contents\nCambalache Forest Reserve\nCambalache State Forest and Reserve   is a nature reserve and one of the 20 state forests in the territory of Puerto Rico .   The Cambalache State Forest is located in the municipalities of Arecibo and Barceloneta in northern Puerto Rico.  \\n\nHistory\nThe Cambalache State Forest was proclaimed in 1943 through a deal between the United States Forest Service and the Land Authority of Puerto Rico ( Autoridad de Tierras ) as part of a research program dedicated to the ecological and geological study of the island\\'s Northern karst . The forest was first known as the Cambalache Experimental Forest. It was proclaimed a state forest in 1973.  \\n\nDescription\nThe forest reserve protects steep limestone hills known as mogotes , which are covered in patches of moist forests . The elevation ranges from 5 to 50 m (16 to 164 ft) above mean sea level. Average rainfall is 1,479.8 mm (58.26 in) per year, with the temperature varying from 23.3 to 27 \\xc2\\xb0C (73.9 to 80.6 \\xc2\\xb0F). Mogotes oriented northeast to southeast have humid northern and southwestern slopes but xeric tops.  It has an area of 1,050 cuerdas (about 1,019 acres).  \\n\nThe forest is divided into various forest units located throughout the municipalities of Arecibo ( Factor , Garrochales , Miraflores , Sabana Hoyos and La Mano Farm) and Barceloneta (Benero and Palenque Farms).  \\n\nEcology and conservation\nMore than 150 trees and large shrubs have been identified in the forest. Common trees include Cecropia , Schefflera , and Tabebuia heterophylla . The endemic Puerto Rican royal palm ( Roystonea borinquena ) and Palma de Sierra ( Gaussia attenuata ) are also found in the forest. Zanthoxylum martinicense inhabits xeric areas.  Eugenia biflora and Eugenia ligustrina are found in the forest.  The hillsides and valleys are home to distinct vegetation zones. The valleys have lost most of their original vegetation and instead feature scrubby secondary forests and planted teak groves.  \\n\nThe forest is home to at least two endangered species: the Puerto Rican boa ( Epicrates inornatus ) and the red fruit bat ( Stenoderma rufum ). Some other animals found in the forest are the Puerto Rican lizard cuckoo ( Coccyzus vieilloti ), the Puerto Rican tody ( Todus mexicanus ), the green mango ( Anthracothorax viridis ), the Puerto Rican bullfinch ( Melopyrrha portoricensis ), the Puerto Rican oriole ( Icterus portoricensis ), and Adelaide\\'s warbler ( Setophaga adelaidae ). There is also a large variety of butterfly species some of which are rare.  \\n\nRecreation\nParts of the forest are open to visitors with opportunities for hiking, camping and biking. The visitors\\' area is located by highway PR-22 .  \\n\nSee also\nReferences\nFurther reading",
+    "relevant_links": [
+        "https://fa.wikipedia.org/wiki/%D8%AC%D9%86%DA%AF%D9%84_%DA%A9%D8%A7%D9%85%D8%A8%D8%A7%D9%84%D8%A7%D8%B4",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://es.wikipedia.org/wiki/Bosque_estatal_de_Cambalache",
+        "https://www.discoverpuertorico.com/profile/bosque-estatal-de-cambalache/9458",
+        "https://ca.wikipedia.org/wiki/Bosc_Cambalache",
+        "https://en.wikipedia.org/w/index.php?title=Cambalache_Forest_Reserve&oldid=1145590755",
+        "https://ceb.wikipedia.org/wiki/Cambalache_State_Forest"
+    ],
+    "geo_metadata": {
+        "coordinates": "Not Found",
+        "title": "Cambalache Forest Reserve",
+        "type": "Point"
+    },
+    "categories": [
+        "Soft Adventure",
+        "Culture",
+        "Wildlife",
+        "Outdoor",
+        "Family-Friendly"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "main_content": "Contents\nCeiba barrio-pueblo\nCeiba barrio-pueblo is a barrio and the administrative center ( seat ) of Ceiba , a municipality of Puerto Rico. Its population in 2010 was 3,677.    As was customary in Spain, in Puerto Rico, the municipality has a barrio called pueblo which contains a central plaza, the municipal buildings (city hall), and a Catholic church. Fiestas patronales (patron saint festivals) are held in the central plaza every year.   \\n\nThe central plaza and its church\nThe central plaza, or square, is a place for official and unofficial recreational events and a place where people can gather and socialize from dusk to dawn. The Laws of the Indies , Spanish law, which regulated life in Puerto Rico in the early 19th century, stated the plaza\\'s purpose was for \"the parties\" (celebrations, festivities) , and that the square should be proportionally large enough for the number of neighbors . These Spanish regulations also stated that the streets nearby should be comfortable portals for passersby, protecting them from the elements: sun and rain.  \\n\nLocated across from the central plaza in Ceiba barrio-pueblo is the Parroquia San Antonio de Padua , a Roman Catholic church which was inaugurated in 1840.  \\n\nHistory\nCeiba barrio-pueblo was in Spain\\'s gazetteers  until Puerto Rico was ceded by Spain in the aftermath of the Spanish-American War under the terms of the Treaty of Paris of 1898 and became an unincorporated territory of the United States . In 1899, the United States Department of War conducted a census of Puerto Rico finding that the population of Ceiba barrio-pueblo (called Zona Urbana or Urban Zone) was 753.   \\n \\n\nSectors\nBarrios (which are, in contemporary times, roughly comparable to minor civil divisions )  in turn are further subdivided into smaller local populated place areas/units called sectores ( sectors in English). The types of sectores may vary, from normally sector to urbanización to reparto to barriada to residencial , among others.    \\n\nThe following sectors are in Ceiba barrio-pueblo:  \\n\nApartamentos Portal de Ceiba,\\nCondominio Costa Esmeralda,\\nCondominio Paseo Esmeralda,\\n\\xc3\\x89gida Francisco Colón Gordiani,\\nResidencia Solares \\xc3\\x81vila,\\nResidencial Jardines de Ceiba,\\nSector Colonia Santa María,\\nUrbanización Celina,\\nUrbanización Costa Brava,\\nUrbanización Jardines \\xc3\\x81vila,\\nUrbanización Jardines de Ceiba I y II,\\nUrbanización Paseo de la Costa,\\nUrbanización Puerta del Sol,\\nUrbanización Ramos Antonini,\\nUrbanización Rossy Valley,\\nUrbanización Santa María , and Urbanización Villa Flores .\\n\nGallery\nPlaces in Ceiba barrio-pueblo:\\n\nSee also\nReferences",
+    "relevant_links": [
+        "https://es.wikipedia.org/wiki/Ceiba_(Ceiba)",
+        "https://en.wikipedia.org/w/index.php?title=Ceiba_barrio-pueblo&oldid=1192185365",
+        "https://en.wikipedia.org/wiki/ceiba_barrio-pueblo"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.263641,
+            -65.648122
+        ],
+        "title": "Ceiba Barrio-pueblo",
+        "type": "Point"
+    },
+    "categories": [
+        "Religion",
+        "Culture"
+    ]
+}

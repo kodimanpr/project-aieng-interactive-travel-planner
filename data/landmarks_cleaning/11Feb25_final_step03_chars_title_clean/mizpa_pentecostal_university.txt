@@ -1,0 +1,20 @@
+{
+    "main_content": "Contents\nMizpa Pentecostal University\nMizpa Pentecostal University ( Universidad Pentecostal Mizpa ) is a theological university  located in San Juan, Puerto Rico , led and administrated by the Pentecostal Church of God , International Movement of Puerto Rico Region.\\n\nFounded in 1937 (87 years ago) ( 1937 ) ,  Mizpa is the oldest Pentecostal theological school in Puerto Rico.\\n\nHistory\nIn 1937, the Juan L. Lugo founded the Mizpa Bible Institute. The first Pentecostal missionary, Longo established the institute in barrio Santurce in the facilities of the Pentecostal Church of God, International Movement. On January 9, 1939, the first 12 students graduated.  The Institute later moved to barrio Pajaros in Bayamon .\\n\nIn 1956, Lugo move the institute to the barrio Caimito in Rio Piedras , its current location. . Currently the college community is represented by more than 13 denominations sisters.\\n\nIn 1985, the Pentecostal Seminary of Puerto Rico (SEPRI) and Mizpa Bible Institute merged under the name of Mizpa Pentecostal College. The new college offered university-level education with associates and bachelor\\'s degrees.\\n\nIn February 2001, received the status \"Initial Accreditation\" from the Association for Biblical Higher Education (ABHE).  In February 2006, the ABHE reaffirmed the accreditation of the College for the next ten years.\\n\nPrograms\nMizpa offers certificate programs in 20 centers across the island\\n\nMizpa offer courses in professional improvement to all pastors who are promoted by the Church of God Pentecostal, M. I. in Puerto Rico. \\n\nAt the San Juan campus, students have the opportunity to receive Pell Grants and federal aid via Title IV program.\\n\nDirectors\nPresidents\nSee also\nReferences\nFurther reading\n18°21\\xe2\\x80\\xb229\\xe2\\x80\\xb3N 66°05\\xe2\\x80\\xb206\\xe2\\x80\\xb3W ﻿ / ﻿ 18.35804°N 66.08493°W ﻿ / 18.35804; -66.08493 \\n",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Mizpa_Pentecostal_University&action=edit",
+        "https://en.wikipedia.org/w/index.php?title=Mizpa_Pentecostal_University&oldid=1243033365",
+        "https://en.wikipedia.org/wiki/mizpa_pentecostal_university"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.35804,
+            -66.08493
+        ],
+        "title": "Mizpa Pentecostal University",
+        "type": "Point"
+    },
+    "categories": [
+        "Religion",
+        "Culture"
+    ]
+}

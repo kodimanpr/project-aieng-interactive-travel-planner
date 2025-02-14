@@ -1,0 +1,19 @@
+{
+    "main_content": "Contents\nCentral Cortada\nCentral Cortada , also known as the Cortada Sugarcane Refinery , was a sugarcane plantation and refinery located in Descalabrado , Santa Isabel , Puerto Rico . The area where the refinery is located has been used for the growth and processing of sugarcane since the 18th century.  \\n\nHistory\nThe area where Central Cortada is located was originally called Estancia Descalabrado , owned by Catalan settlers named Juan de Quintana (from 1737 to 1789) and later Juan Cortada Manzo (from 1800 to 1865), who build the trapiche . The Cortada family kept operating the farm as part of their crop financing business, the Ponce -based Cortada & Cia . This company kept growing and acquiring new haciendas in the area, such as Hacienda Palmarito in 1868. The cholera epidemic of 1855-1856, which killed many estancia slaves, and the abolition of slavery in 1873 drastically transformed Puerto Rico\\'s economy and impacted the sugarcane industry at the time. This period lasted through the Spanish-American War until the First World War .  \\n\nThe Santa Isabel Sugar Company was founded in 1918 to build the infrastructure necessary to modernize and develop the sugarcane industry in the former estancia . This company was founded in 1918 and was owned by the Cortada family and shareholders J. C. Mc Cormick Hartman, Hugh Guillén, Isidro Abarca, Antonio \\xc3\\x81lvarez, Francisco Verges, George T. Parker, Leopoldo Cabassa, Antonio Alcaide, and Rafael Fabián. The director was Juan Cortada Tirado. Most of the sugarcane workers at this time were poor peasants who would come from the mountainous areas in search of work and alternative employment. These workers would often be called colonos ( Spanish for \"colonists\") as the former slave-operated estancias and the communities that grew around them were now referred to as colonias or \"colonies\".\\n\nIn the 1930s, the refinery was sold to the Central Aguirre Sugar Company , which operated the Central Aguirre refinery in Guayama . The refinery ceased operations in 1940 and due to grinding restrictions it remained closed throughout the Second World War . It opened again in 1944, and continued to operate until the 1970s. In 1970 it produced 16,968 tons of sugar, and it remained operational until 1974.  \\n\nGallery\nSee also\nReferences",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Central_Cortada&oldid=1142985398",
+        "https://en.wikipedia.org/wiki/central_cortada"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            17.9960252,
+            -66.4320599
+        ],
+        "title": "Central Cortada",
+        "type": "Point"
+    },
+    "categories": [
+        "Family-Friendly",
+        "Culture"
+    ]
+}

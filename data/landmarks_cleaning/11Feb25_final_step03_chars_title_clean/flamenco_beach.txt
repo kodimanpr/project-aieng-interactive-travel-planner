@@ -1,0 +1,24 @@
+{
+    "main_content": "Contents\nFlamenco Beach\nFlamenco Beach is a public beach on the Caribbean island of Culebra . It is known for its shallow turquoise waters, white sand, swimming areas, and diving sites. It stretches for a mile around a sheltered, horseshoe-shaped bay. Playa Flamenco is a popular beach destination for both Culebra and Puerto Rico. In March 2014, Flamenco Beach was ranked 3rd best beach in the world with a TripAdvisor Travelers\\' Choice Award .   In August 2016, it was announced that Flamenco Beach had regained its Blue Flag Beach international distinction.  \\n\nGeography\nFlamenco is located on the northern shore of Culebra. Its name in Spanish ( flamingo beach ) comes from the numerous Caribbean flamingos ( Phoenicopterus ruber ) that were once common in Flamenco Lagoon .  The beach lies on a half-mile-wide, horseshoe strip of coast. The beach is bordered by the Culebra National Wildlife Refuge , which is of itself one of the oldest wildlife preserves in the United States. Off the coast of Flamenco, approximately a quarter mile, is a reef where the surf breaks. Characteristic of Flamenco is the beach\\'s white sand and shallow clear waters.   \\n\nThe waters off Flamenco beach are home to species of parrot fish , blue tang , multiple species of wrasse , and other Caribbean Sea fish species. Crustacean species such as Ghost Crab are also observed. Some 50,000 seabirds visit Culebra\\'s Flamenco Peninsula each summer to nest\\xe2\\x80\\x94mostly sooty terns and other migratory species. Summer visitors to Flamenco Beach are familiar with them as they often feed in the area in large numbers. By September, the birds have gathered up their broods and flown out to sea only to return home the following summer. Occasionally, leatherback and hawksbill sea turtles may be seen as the beaches of the Culebra archipelago are also a major breeding ground for them and the adjacent sea grass beds provide shelter and food for green sea turtles.  \\n\nOne of the most distinctive views of the beach include two rusting carcasses of old M4 Sherman tanks that were left behind   by the United States Navy after their departure from Flamenco Beach in 1975, which was used as a weapons-testing ground by them for more than 30 years. While the salty winds from the sea worked on the metal, causing it to rapidly rust and crumble apart, the locals and visitors often decorate them, covering the badly corroded hulks in layers of colorful graffiti. Today, the tanks still remain and have become a unique feature of the otherwise pristine and beautiful beach.   \\n\nGallery\nTourism\nFlamenco Beach is the top ranked beach in Puerto Rico and one of the top beaches in the world. The beach has available lifeguard towers, kiosks selling food, beach accessories, and easy access from the town of Dewey (where the ferry boat arrives).   \\n\nThe beach has bathroom facilities and showers. There are about a half-dozen kiosks selling local food. This include piña colada , mango smoothies, rice-and-beans burritos and all manner of seafood, from conch salad to fish skewers.  Flamenco Beach has a designated camping area for a fee which provides potable water, bathrooms and shower facilities.\\n\nRecreation\nSee also\nReferences\nExternal links",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Flamenco_Beach&oldid=1247883724",
+        "https://es.wikipedia.org/wiki/Playa_Flamenco",
+        "https://www.discoverpuertorico.com/regions/culebra-vieques/culebra#!grid~~~random~1",
+        "https://en.wikipedia.org/wiki/flamenco_beach"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.331667,
+            -65.318056
+        ],
+        "title": "Flamenco Beach",
+        "type": "Point"
+    },
+    "categories": [
+        "Wildlife",
+        "Beach",
+        "Outdoor",
+        "Family-Friendly",
+        "Food"
+    ]
+}

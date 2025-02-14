@@ -1,0 +1,18 @@
+{
+    "main_content": "Contents\nAcademia del Perpetuo Socorro\nMrs. Jeannette Sánchez (1-6)\\n\nAcademia del Perpetuo Socorro (English: \"Academy of Our Lady of Perpetual Help\") was founded in 1921 as a Catholic parochial school of the Perpetuo Socorro Parish at the Archdiocese of San Juan, Puerto Rico . The school is located in Miramar in Puerto Rico \\'s capital city of San Juan . Students, teachers and alumni commonly refer to their school as Perpetuo.  \\n\nMission\nThe goal of the  Academia del Perpetuo Socorro is the complete development of the student - spiritually, mentally, morally, socially, culturally, and physically in order to live a full life and to prepare for his/her final goal - union with God. To this end, the school works to create a Catholic academic community in which faith, knowledge, and recreation are shared in a spirit of freedom, love, and creativity. The school, however, does not emphasize religion over other subjects, accepts students of all faiths and does not impose religious requirements such as baptism, confirmation or church attendance as a condition for continued attendance.\\n\nMotto\n\"Esto Perpetua\" translated as \"This Endures\" stressing how the Catholic values and formal academic education learned at this school, symbolized in the school seal by the oil lamp over the open book, (as in burning the midnight oil) are to permeate individuals and society forever.\\n\nClubs\nSports teams\nAcademia del Perpetuo Socorro has the largest gymnasium in the Caribbean. This gymnasium has three wooden volleyball courts that can also be transformed into two basketball courts. The gymnasium also has a small gym where athletes, faculty members, and students can go to do exercise.\\n\nPerpetuo has a varsity program in ten sports:\\n\nIn popular media\nThe school is featured prominently in Magali García Ramis \\'s novel Felices Días, Tío Sergio . The school was the main film location for the movie Casi casi (2006) and forms the basis for the fictional school featured in the film.\\n\nNotable alumni\nReferences",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Academia_del_Perpetuo_Socorro&oldid=1225685073",
+        "https://en.wikipedia.org/wiki/academia_del_perpetuo_socorro"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.45444,
+            -66.08472
+        ],
+        "title": "Academia del Perpetuo Socorro",
+        "type": "Point"
+    },
+    "categories": [
+        "Religion"
+    ]
+}

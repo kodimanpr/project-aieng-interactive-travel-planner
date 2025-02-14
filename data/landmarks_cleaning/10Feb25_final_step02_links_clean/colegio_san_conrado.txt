@@ -1,0 +1,19 @@
+{
+    "main_content": "Contents\nColegio San Conrado\n\\n\nColegio San Conrado is a private Catholic school in Ponce, Puerto Rico .  It was founded in 1948  by the Capuchin Friars , under the direction of the Sisters of St. Joseph of Brentwood, New York. Currently the School is owned by the Diocese of Ponce and administered by the Sisters of Saint Joseph .\\n\nHistory\nThe Colegio San Conrado, founded in 1948 by the Capuchin Franciscans and Sisters of St. Joseph from Brentwood, New York , is operated by the Catholic Church of the Diocese of Ponce . Currently, it is led by the Diocesan priests, the Sisters of St. Joseph of Brentwood with the cooperation and dedication of lay teachers. The Pontifical Catholic University of Puerto Rico , founded in 1948, held its first classes on the second floor of the Colegio San Conrado, during its early years, while its current facilities were completed.\\n\nAcademics\nIts enrollment consists of students of both sexes from Pre Kinder through twelve grade. It is composed by two major divisions: one serving students from Pre K through 8 (elementary school) levels, and the other serving students from grades 9 through 12 (high school).  Its purpose is the development of students making them Christians aware, members of a community based on the Gospel spirit of freedom and charity, and to ensure a better world.  \\n\nExtracurricular activities\nThe schools participates in the \"Liga de Escuelas Católicas\" (League of Catholic Schools) in the following sports: Volleyball, Basketball, and Softball. It has different extra-curricular programs, such as Science Club, National Junior Honor Society , National Honor Society, Students Council, Yearbook, English Club, History Club, Math Club, Music Club and Altar Servers Group. The school has also been known for its campaign to help children with cancer.  \\n\nMiscellaneous information\nThe school\\'s patron saint is Conrad of Parzham and their mascot is the Tiger .\\n\nNotable alumni\nReferences\nExternal links",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Colegio_San_Conrado&oldid=1117834055",
+        "https://en.wikipedia.org/wiki/colegio_san_conrado"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.0085306,
+            -66.6245611
+        ],
+        "title": "Colegio San Conrado",
+        "type": "Point"
+    },
+    "categories": [
+        "Religion",
+        "Culture"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "main_content": "Contents\nDos Bocas Lake\nDos Bocas Lake is a lake located in the municipalities of Arecibo and Utuado on the island of Puerto Rico . The lake was created from 1937 until it was completed in 1942 with the construction of the Dos Bocas Dam, by the Puerto Rico Electric Power Authority for a hydroelectric power plant. The building of the dam was a New Deal project.  It also serves as one of the island\\'s potable water reservoirs. In recent years, silt has accumulated in the lake causing capacity to shrink. Silt has also made some portions of the land inaccessible by boat.\\n\nFerries operated by the Department of Transportation of Puerto Rico provide transportation for residents on Lago Dos Bocas as well as for tourists. Several restaurants are located on the shore of the lake. Other nearby attractions include the Río Abajo State Forest .\\n\nGallery\nSee also\nReferences\nExternal links\n\\n\nThis Arecibo, Puerto Rico location article is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://es.wikipedia.org/wiki/Lago_Dos_Bocas",
+        "https://en.wikipedia.org/w/index.php?title=Dos_Bocas_Lake&oldid=1212418295",
+        "https://ceb.wikipedia.org/wiki/Lago_Dos_Bocas",
+        "https://en.wikipedia.org/w/index.php?title=Dos_Bocas_Lake&action=edit",
+        "https://stats.wikimedia.org/#/en.wikipedia.org"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.33556,
+            -66.6675
+        ],
+        "title": "Lago Dos Bocas",
+        "type": "Point"
+    },
+    "categories": []
+}

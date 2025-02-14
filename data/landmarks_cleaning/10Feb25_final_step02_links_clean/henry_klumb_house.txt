@@ -1,0 +1,18 @@
+{
+    "main_content": "Contents\nHenry Klumb House\nThe Henry Klumb House , also known as Cody Ranch , was a 1949 house in San Juan, Puerto Rico designed by German-born architect Henry Klumb in Modern Movement architecture . The  Klumb House was listed on the U.S. National Register of Historic Places in 1997.   \\n\nHistory\nThe property where Casa Klumb originally belonged to José Ramón Latimer and his wife Esther C. Cody, who lived there at the end of the 19th century. Eventually, Cody inherited the property and the house became known as the Cody Ranch.\\n\nIn 1943, architect Henry Klumb , an apprentice of Frank Lloyd Wright , was invited by then- Governor of Puerto Rico Rexford Tugwell to serve as Director of the Design Committee of Public Works. As a result, Klumb moved to the island in 1944 with his wife, Else, and their two children, Peter and Richard. Klumb bought the Cody Ranch in 1947, and the remodeling began in 1949. Klumb and his wife lived in the house until their death in November 1984 as a result of a car accident .\\n\nAfter Klumb\\'s death, the University of Puerto Rico acquired the house in 1986. In 1997, it was included in the National Register of Historic Places as a Regional Monument for its architectural relevance. However, with time, the house has been abandoned and is currently inaccessible and deteriorated. Several organizations have made efforts to restore it, and in 2014, the Comité Casa Klumb was founded.  The World Monuments Fund added the house to its 2014 World Monuments Watch list, which helps in the process of gathering funds to restore monuments.  According to Dr. Enrique Vivoni Farange, director of the Architectural and Construction Archives of the University of Puerto Rico, the costs of restoring the house ascend to $1.9 million.   \\n\nThe residence was destroyed in a fire that started at around 11:15PM (AST), on the night of November 10, 2020.  \\n\nSee also\nReferences",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Henry_Klumb_House&oldid=1236440739",
+        "https://en.wikipedia.org/wiki/henry_klumb_house"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.399506,
+            -66.034995
+        ],
+        "title": "Henry Klumb House",
+        "type": "Point"
+    },
+    "categories": [
+        "Culture"
+    ]
+}

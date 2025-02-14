@@ -1,0 +1,22 @@
+{
+    "main_content": "Contents\nToa Alta barrio-pueblo\nToa Alta barrio-pueblo is a barrio and the administrative center ( seat ) of Toa Alta , a municipality of Puerto Rico. Its population in 2010 was 397.     \\n\nAs was customary in Spain, in Puerto Rico, the municipality has a barrio called pueblo which contains a central plaza, the municipal buildings (city hall), and a Catholic church. Fiestas patronales (patron saint festivals) are held in the central plaza every year.   \\n\nThe central plaza and its church\nThe central plaza, or square, is a place for official and unofficial recreational events and a place where people can gather and socialize from dusk to dawn. The Laws of the Indies , Spanish law, which regulated life in Puerto Rico in the early 19th century, stated the plaza\\'s purpose was for \"the parties\" (celebrations, festivities) , and that the square should be proportionally large enough for the number of neighbors . These Spanish regulations also stated that the streets nearby should be comfortable portals for passersby, protecting them from the elements: sun and rain.  \\n\nLocated across the central plaza in Toa Alta barrio-pueblo is the Parroquia San Fernando Rey , a Roman Catholic church,  which was built between 1752 and 1826.  \\n\nHistory\nToa Alta barrio-pueblo was in Spain\\'s gazetteers  until Puerto Rico was ceded by Spain in the aftermath of the Spanish\\xe2\\x80\\x93American War under the terms of the Treaty of Paris of 1898 and became an unincorporated territory of the United States . In 1899, the United States Department of War conducted a census of Puerto Rico finding that the population of Pueblo barrio was 991.  \\n\nSectors\nBarrios (which are, in contemporary times, roughly comparable to minor civil divisions )  in turn are further subdivided into smaller local populated place areas/units called sectores ( sectors in English). The types of sectores may vary, from normally sector to urbanización to reparto to barriada to residencial , among others.    \\n\nThe following sectors are in Toa Alta barrio-pueblo:  \\n\nCalle Alfonso XIII, \\nCalle Antonio López, \\nCalle Barceló, \\nCalle Cuba Libre, \\nCalle José de Diego, \\nCalle Marina, \\nCalle Muñoz Rivera, \\nCalle Palmer, \\nCalle Ponce de León, \\nResidencial Piñas, \\nResidencial Ramón Pérez, \\nSector San José (El Manantial), \\nUrbanización Alturas del Toa, \\nUrbanización Gran Vista, \\nUrbanización Jardines de Toa Alta, \\nUrbanización Jardines del Toa, \\nUrbanización San José, \\nUrbanización Villa Amparo, \\nUrbanización Villa María , and Urbanización Villa Matilde .\\n\nSee also\nReferences",
+    "relevant_links": [
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://es.wikipedia.org/wiki/Toa_Alta_(Toa_Alta)",
+        "https://ceb.wikipedia.org/wiki/Toa_Alta_Barrio-Pueblo",
+        "https://azb.wikipedia.org/wiki/%D8%AA%D9%88%D8%A7_%D8%A2%D9%84%D8%AA%D8%A7_%D8%A8%D8%A7%D8%B1%DB%8C%D9%88-%D9%BE%D9%88%D8%A8%D9%84%D9%88",
+        "https://en.wikipedia.org/w/index.php?title=Toa_Alta_barrio-pueblo&oldid=1192952533"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.387881,
+            -66.247655
+        ],
+        "title": "Toa Alta Barrio-pueblo",
+        "type": "Point"
+    },
+    "categories": [
+        "Religion",
+        "Culture"
+    ]
+}

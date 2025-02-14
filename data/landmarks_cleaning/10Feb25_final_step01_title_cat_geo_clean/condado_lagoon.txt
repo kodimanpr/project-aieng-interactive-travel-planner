@@ -1,0 +1,20 @@
+{
+    "main_content": "Contents\nCondado Lagoon\nCondado Lagoon  is located in San Juan, Puerto Rico . It is an effluent body of water that flows freely between the Condado and Miramar neighborhoods of Santurce , a barrio of San Juan.\\n\nBackground\nIts tributary stream of water forms part of the San Juan Bay Estuary.  An estuary is a coastal area where fresh water from rivers and other inland water sources mixes with salt water from the ocean. The Metropolitan Area of Puerto Rico is intersected by estuarine bodies of water, such as Condado Lagoon, Martín Peña Channel , San José Lagoon and Piñones Lagoon , among others. The Cucharillas Marsh is another part of this urban ecosystem . Condado Lagoon empties into the Atlantic Ocean through El Boquerón , an inlet spanned by the Dos Hermanos Bridge through the San Antonio Creek . [ citation needed ] It is one of two natural lagoons in San Juan, Puerto Rico . [ citation needed ] \\n\nIn late 2020, the Condado Ocean Club Hotel, overlooking the Condado Lagoon and the Atlantic Ocean, opened its doors.  \\n\nGeography\nEndangered species\nNearest beach\nReferences\nExternal links",
+    "relevant_links": [
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://en.wikipedia.org/w/index.php?title=Condado_Lagoon&oldid=1240640807",
+        "https://es.wikipedia.org/wiki/Laguna_del_Condado"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.45833,
+            -66.08
+        ],
+        "title": "Condado Lagoon",
+        "type": "Point"
+    },
+    "categories": [
+        "Luxury & Resorts",
+        "Beach"
+    ]
+}

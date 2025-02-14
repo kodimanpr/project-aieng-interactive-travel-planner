@@ -1,0 +1,16 @@
+{
+    "main_content": "Contents\nUniversity of Puerto Rico at Cayey\nThe University of Puerto Rico in Cayey ( UPR-Cayey ) is a public university in Cayey, Puerto Rico . It is part of the University of Puerto Rico System. It was initially founded as a regional school in 1967 and became a college in 1969. It was awarded autonomy in April 1982.\\n\nAcademics\nUPR Cayey awards bachelor\\'s degrees .  It serves as a starting point for students interested in applying to programs in the Medical Sciences Campus or at Mayagüez Campus .\\n\nResearch\nUPR-Cayey has undergraduate research programs such as Howard Hughes Project, the NIH MBRS-RISE program  and the PR-AMP program. These programs provide research experience for students of the Natural Sciences, promoting student participation in scientific research.  These programs provide funding and facilitate the experiences of science undergraduate students to do research either locally, at other campuses of Puerto Rico, or in Universities in the U.S.  \\n\nThe University houses the Environmental Education Center. The Institute for Interdisciplinary Research, supports students and teachers in colleges of neighboring municipalities in research projects. The Project for the Study of Women seeks to advance women\\'s rights through education, research and community service. These programs are offered to students such as those taking college courses before completing their secondary education or professionals who wish to take continuing education courses.\\n\nAcademic departments\nSee also\nReferences\nExternal links",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=University_of_Puerto_Rico_at_Cayey&oldid=1243033956",
+        "https://stats.wikimedia.org/#/en.wikipedia.org"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.117995782965178,
+            -66.16185051976525
+        ],
+        "title": "University Of Puerto Rico At Cayey",
+        "type": "Point"
+    },
+    "categories": []
+}

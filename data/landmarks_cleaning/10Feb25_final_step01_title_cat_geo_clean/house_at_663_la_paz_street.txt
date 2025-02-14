@@ -1,0 +1,17 @@
+{
+    "main_content": "Contents\nHouse at 663 La Paz Street\n663 La Paz is a historic Mission Revival house designed by famed Puerto Rican architect Pedro Adolfo de Castro located in Miramar , a historic residential area of Santurce in the city of San Juan, Puerto Rico .  The house is one of various private residences in Miramar designed by Pedro Adolfo de Castro that, along with structures such as Castillo Serrallés , were instrumental in ushering the Mission Revival architectural style in Puerto Rico. It was built in 1935, a year before the death of de Castro.  \\n\nSee also\nReferences\n\\n\nThis article about a property in Puerto Rico on the National Register of Historic Places is a stub . You can help Wikipedia by expanding it .\nThis article about a Puerto Rican building or structure related topic is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=House_at_663_La_Paz_Street&oldid=1240272728",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://en.wikipedia.org/w/index.php?title=House_at_663_La_Paz_Street&action=edit"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.4526422,
+            -66.0829046
+        ],
+        "title": "House At 663 La Paz Street",
+        "type": "Point"
+    },
+    "categories": []
+}

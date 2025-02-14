@@ -1,0 +1,17 @@
+{
+    "main_content": "Contents\nMonumento al Jíbaro Puertorriqueño\nThe Monumento al Jíbaro Puertorriqueño (Monument to the Puerto Rican Countryman) is a monument built by the Government of Puerto Rico to honor the Puerto Rican Jíbaro , located on Puerto Rico Highway 52 , km 49.0, Barrio Lapa , Salinas , Puerto Rico .    It was sculpted by Tomás Batista .  \\n\nLocation\nContrary to popular belief,  the monument is located in Barrio Lapa , in the municipality of Salinas, Puerto Rico .  It is located about 300 feet from Salinas\\' barrio Las Palmas.\\n\nThe monument is located on Puerto Rico Highway 52 (unsigned Interstate PR1) at kilometer post number \"49.0\". Colocated with the monument is the northbound PR-52 rest area , the only roadway rest area in Puerto Rico. Its location is between PR-52 exit 39 ( PR-1 / PR-15 - Cayey , Aibonito , Cidra , Jajome) and exit 58 ( Albergue Olimpico ).  The monument is accessible via the southbound lanes of PR-52 only; there is no access from the northbound lanes or the northbound PR-52 rest area. Its location is geographically part of a transition zone between the central mountainous and humid interior zone and the southern dry zone.  It is located at coordinates: Coordinates: 18.07165 x -66.217246.  \\n\nGallery\nReferences\nFurther reading",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Monumento_al_J\\xc3\\xadbaro_Puertorrique\\xc3\\xb1o&oldid=1206263149",
+        "https://es.wikipedia.org/wiki/Monumento_al_J%C3%ADbaro_Puertorrique%C3%B1o",
+        "https://en.wikipedia.org/wiki/monumento_al_jíbaro_puertorriqueño"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.0716139,
+            -66.2172167
+        ],
+        "title": "Monumento al Jíbaro Puertorriqueño",
+        "type": "Point"
+    },
+    "categories": []
+}

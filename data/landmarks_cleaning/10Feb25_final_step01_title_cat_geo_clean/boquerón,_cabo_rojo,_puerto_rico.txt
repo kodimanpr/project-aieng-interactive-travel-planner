@@ -1,0 +1,30 @@
+{
+    "main_content": "Contents\nBoquerón, Cabo Rojo, Puerto Rico\nBoquerón is a barrio in the municipality of Cabo Rojo, Puerto Rico . Its population in 2010 was 5,373.     The village of Boquerón , located on the Boquerón Bay is one of the main tourist attractions in the southwestern part of the island.  In 2000, its population was 4,963.  \\n\nHistory\nBoquerón was in Spain\\'s gazetteers  until Puerto Rico was ceded by Spain in the aftermath of the Spanish\\xe2\\x80\\x93American War under the terms of the Treaty of Paris of 1898 and became an unincorporated territory of the United States . In 1899, the United States Department of War conducted a census of Puerto Rico finding that the population of Boquerón was 1,185.  \\n\nPeople from the El Combate community in barrio Boquerón are known as mata con hacha (\"those who kill with axes\") based on an old folk tale about a fight over the salinas , where those from Cabo Rojo fought with axes against people from the adjacent town of Lajas . The latter apparently fought back by throwing stones and are thus known as tira piedras (\"those who throw stones\").  \\n \\n\nFeatures\nThe barrio is home to a village ( El Poblado de Boquerón ) and two national wildlife refuges . The Cabo Rojo National Wildlife Refuge is a habitat for a number of native bird species, including the endangered yellow-shouldered blackbird , also known as mariquita de Puerto Rico or capitán . The Boqueron State Forest is one of seven state forests managed by the Puerto Rico Department of Natural and Environmental Resources .  \\n\nAccording to local folklore, after the Puerto Rican pirate Roberto Cofresí shared some of his treasure with his family and friends, he would hide what was left over in a cave located in \"Barrio Pedernales\" which is just north of Boquerón Bay. Throughout the years no one has found any treasure in the cave.  \\n\nThe downtown of Boquerón known as El Poblado is known for its gastronomy and its nightlife. It is home to many restaurants offering local, international, and fusion cuisine which feature the excellent seafood that Cabo Rojo is renowned for.  El Poblado is also populated by bars for every preference, from pool halls to holes-in-the-wall, many providing a variety of flavored mojitos and other mixed drinks. Outdoor karaoke is also a feature of Boquerón nightlife as cars are not permitted in the center of El Poblado during the weekends, so karaoke spills out into the streets. There is a parador , a type of countryside inn, by the same name in Poblado.   El Poblado is also known for being LGBT friendly and hosts a growing Pride Parade each year in June.  \\n\nBoquerón beach Balneario de Boquerón is a public beach and resort managed by the Puerto Rican government. It is rated as one of the best beaches in Puerto Rico along with Luquillo Beach .  The beach was awarded Blue Flag Beach status by the Foundation for Environmental Education.  \\n\nLanguna Rincón is located in Boquerón.  \\n\nGallery\nSee also\nReferences\nExternal links\nU.S. Geological Survey Geographic Names Information System: Boquerón barrio \\n",
+    "relevant_links": [
+        "http://www.gotopuertorico.com/vacations-in-porta-del-sol.php",
+        "https://lld.wikipedia.org/wiki/Boquer%C3%B3n_(Cabo_Rojo,_Puerto_Rico)",
+        "https://ceb.wikipedia.org/wiki/Boquer%C3%B3n_Barrio_(baranggay_sa_Cabo_Rojo_Municipio)",
+        "https://en.wikipedia.org/w/index.php?title=Boquer\\xc3\\xb3n,_Cabo_Rojo,_Puerto_Rico&oldid=1236145293",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://es.wikipedia.org/wiki/Boquer%C3%B3n_(Cabo_Rojo)"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            17.997138,
+            -67.180862
+        ],
+        "title": "Boquerón, Cabo Rojo, Puerto Rico",
+        "type": "Point"
+    },
+    "categories": [
+        "Culture",
+        "Wildlife",
+        "Luxury & Resorts",
+        "Beach",
+        "Outdoor",
+        "Family-Friendly",
+        "Festivals & Events",
+        "Nightlife",
+        "Food"
+    ]
+}

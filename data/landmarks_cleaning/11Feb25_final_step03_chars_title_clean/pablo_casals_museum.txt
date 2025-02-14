@@ -1,0 +1,20 @@
+{
+    "main_content": "Contents\nPablo Casals Museum\nThe Pablo Casals Museum , located on San José Square in Old San Juan , San Juan, Puerto Rico , is a museum dedicated to the Catalan Puerto Rican cellist, composer and conductor Pablo Casals , who lived the last 17 years of his life in San Juan where he composed his masterpiece El Pessebre .  In addition to his piano, his cello, historical photographs, some of his musical instruments and personal belongings, the museum also has a media and music library which visitors can browse.  \\n\nSee also\nReferences\n18°27\\xe2\\x80\\xb257\\xe2\\x80\\xb3N 66°07\\xe2\\x80\\xb210\\xe2\\x80\\xb3W ﻿ / ﻿ 18.46583°N 66.11944°W ﻿ / 18.46583; -66.11944 \\n",
+    "relevant_links": [
+        "https://www.discoverpuertorico.com/profile/pablo-casals-museum/9314",
+        "https://es.wikipedia.org/wiki/Museo_Pablo_Casals",
+        "https://en.wikipedia.org/w/index.php?title=Pablo_Casals_Museum&oldid=1242686013",
+        "https://en.wikipedia.org/wiki/pablo_casals_museum"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.46583,
+            -66.11944
+        ],
+        "title": "Pablo Casals Museum",
+        "type": "Point"
+    },
+    "categories": [
+        "Culture"
+    ]
+}

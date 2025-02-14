@@ -1,0 +1,20 @@
+{
+    "main_content": "Contents\nCuevas Las Cabachuelas\n\\n\nCuevas Las Cabachuelas (Cabachuelas Caves) is a large cave system in Puerto Rico, located between the municipalities of Morovis and Ciales  in the Cabachuelas Natural Reserve, which was established in 2012.  It is of natural, cultural, archaeological, hydrological and geomorphological importance to Puerto Rico.  Guided tours are offered by the Diógenes Colón Gómez Cultural Center in Morovis.  \\n\nHistory\nThe caves are located in Barahona barrio in Morovis and have been studied in depth by Roberto Martínez and Ovidio Dávila.  Martínez pushed for designating the cave system as a national park system.  \\nThere are 60 caves in the Cabachuelas zone which was declared a natural reserve on February 29, 2012, with the signing of law 129 by then governor, Luis Fortuño .  Since then a process of identifying the land around the cave system-what needed to be purchased from private owners began, and it was decided that there were 16 privately owned properties which should become part of the reserve.  In February 2019 the park opened to the public. Guided tours for groups of up to 15 people are coordinated by CABACOOP, Proyecto Cabachuelas.\\n\nFuture plans\nTourism managed by Discover Puerto Rico encouraged the marketing of the caves in Morovis.  \\nOnce the final 75 acres, which need to be purchased, are purchased by the Puerto Rico Department of Natural and Environmental Resources (DRNA), then the park will be properly established as Parque Nacional Las Cabachuelas .   \\n\nSee also\nReferences\nExternal links\n18°20\\xe2\\x80\\xb256\\xe2\\x80\\xb3N 66°27\\xe2\\x80\\xb200\\xe2\\x80\\xb3W ﻿ / ﻿ 18.34889°N 66.45000°W ﻿ / 18.34889; -66.45000 \\n",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Cuevas_Las_Cabachuelas&oldid=1247732264",
+        "https://en.wikipedia.org/wiki/cuevas_las_cabachuelas"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.34889,
+            -66.45
+        ],
+        "title": "Cuevas Las Cabachuelas",
+        "type": "Point"
+    },
+    "categories": [
+        "Outdoor",
+        "Family-Friendly",
+        "Culture"
+    ]
+}

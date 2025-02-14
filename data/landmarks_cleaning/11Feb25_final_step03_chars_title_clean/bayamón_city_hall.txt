@@ -1,0 +1,21 @@
+{
+    "main_content": "Contents\nBayamón City Hall\nBayamón City Hall is a building in Bayamón, Puerto Rico . As the name suggests, it serves as city hall to that city. It is named after Don \\xc3\\x81ngel Rivera Rodríguez, who was mayor of Bayamón from 1934 to 1944.  \\n\nBayamón City Hall was inaugurated in 1980 by Mayor Ramón Luis Rivera at the cost of $7.2 million. Rivera stepped down as mayor in 2000, giving way for his son Ramón Luis Rivera, Jr. , to become mayor. Since its inauguration, it\\'s been occupied by mayors representing the Partido Nuevo Progresista (PNP), a political party that advocates statehood for Puerto Rico.\\n\nLocated next to El Parque del tren , the city hall is considered a tourist attraction, as it was built over an existing avenue to use its air rights. Visitors park next to the building, walk to the avenue, and board an elevator to reach the offices.\\n\nAccording to the building\\'s architects, the reason for building it over the highway is because the city of Bayamón did not own property large enough within the city for a city hall building.  \\n\nThe second floor has a glass-window bridge, from where the visitors can cross from one side to the other, while looking at cars pass by. The upper levels are all for office activities, including citizen complaints, city planning, etc.\\n\nThe building includes a theatre presenting live drama. This enables the building to be used and attract people in the evenings as well as during the day.\\n\nThe Bayamón City Hall is painted gray. For a long time, it was the only building in Latin America that was built over an avenue.\\n\nIn 2022, FEMA allocated close to $5 million for work on Bayamón City Hall.  \\n\nSee also\nReferences\nExternal links\n18°23\\xe2\\x80\\xb247\\xe2\\x80\\xb3N 66°09\\xe2\\x80\\xb220\\xe2\\x80\\xb3W ﻿ / ﻿ 18.396297°N 66.155647°W ﻿ / 18.396297; -66.155647 \\n\n\\n\nThis article about a Puerto Rican building or structure related topic is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Bayam\\xc3\\xb3n_City_Hall&oldid=1228364720",
+        "https://en.wikipedia.org/w/index.php?title=Bayam%C3%B3n_City_Hall&action=edit",
+        "https://en.wikipedia.org/wiki/bayamón_city_hall"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.396297,
+            -66.155647
+        ],
+        "title": "Bayamón City Hall",
+        "type": "Point"
+    },
+    "categories": [
+        "Outdoor",
+        "Nightlife",
+        "Family-Friendly"
+    ]
+}

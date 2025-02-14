@@ -1,0 +1,17 @@
+{
+    "main_content": "Contents\nHacienda San Francisco\nHacienda San Francisco , also known as Hacienda Quilichini , is a sugar mill complex with hacienda house that was listed on the U.S. National Register of Historic Places in 1995 and on the Puerto Rico Register of Historic Sites and Zones in 2000.    The sugar mill was built in 1871. The hacienda house and a mill are regarded as contributing buildings ; there are also a kitchen, a shed, a water tower, and some other buildings.  \\n\nReferences\n\\n\nThis article about a property in Puerto Rico on the National Register of Historic Places is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://en.wikipedia.org/w/index.php?title=Hacienda_San_Francisco&oldid=1240265385",
+        "https://en.wikipedia.org/w/index.php?title=Hacienda_San_Francisco&action=edit"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.07778,
+            -66.96278
+        ],
+        "title": "Hacienda San Francisco",
+        "type": "Point"
+    },
+    "categories": []
+}

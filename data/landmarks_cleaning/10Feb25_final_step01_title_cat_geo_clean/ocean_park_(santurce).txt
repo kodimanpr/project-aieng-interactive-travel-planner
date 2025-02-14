@@ -1,0 +1,24 @@
+{
+    "main_content": "Contents\nOcean Park (Santurce)\nOcean Park is an upscale beachfront community within the barrio of Santurce , in the municipality of San Juan , Puerto Rico . It is one of the forty subbarrios of Santurce.\\n\nDemographics\nIn 2000 , Ocean Park had a population of 1,976 and a land area of 0.52 square kilometres (0.20 sq mi).  \\n\nIn 2010, Ocean Park had a population of 1,667 and a population density of 8,335 persons per square mile.  \\n\nDescription\nAbout one kilometer off the beach is the small rocky Island Stone which is also part of the area, measuring about 100 by 50 meters.\\n\nOcean Park is bound on the east by Calle Guerrero Noble and its straight extension to the beach, a short piece of Calle Cacique running east to connect to Calle Teniente Rivera, and the connecting piece of Calle Soldado Cruz to Calle Loíza. The southern border runs to Calle Loíza, but excluding same. In the west, it is Calle María Mozco (northern part) and Calle Santa Ana. The north is bordered by the beach and the Atlantic Ocean. Through the center runs Avenida McLeary where cafes, pubs and some services line the street.\\n\nCalle Loíza is a \"trendy spot\" with new businesses, bars, restaurants and boutiques.   \\n\nOcean Park is located between Condado and Isla Verde beaches making it an essential tranquil, tree-lined street residential neighborhood, with numerous examples of single-family homes from the decades between 1930 and 1950. Small bed-and-breakfast inns, which blend in with the residential community, dot the area. Its wide oceanfront and offshore reefs prevent large waves from reaching the beach, which is popular with trendy beachgoers. Strong seasonal onshore trade winds make the area popular for kitesurfing and windsurfing .\\n\nAt the right of the barrio is the Parque Barbosa and the residential area of Santa Teresita, forming the eastern part of the barrio. Parque Barbosa, also known as Ultimo Trolley (Last Tram) is the home of the Ocean Park Marlins Futbol Club, a football team with categories from 5-year-old kids to \"Superior\" (semi-professional) both for female and male footballers. \\xc3\\x9altimo Trolley got its name because it was the last electric streetcar that crossed the streets of San Juan from 1901 to 1946 and was placed in the park and operated as a restaurant. [ citation needed ] \\n\nGallery\nSee also\nReferences\nExternal links\n18\\xc2\\xb027\\xe2\\x80\\xb209\\xe2\\x80\\xb3N 66\\xc2\\xb002\\xe2\\x80\\xb259\\xe2\\x80\\xb3W ﻿ / ﻿ 18.45250\\xc2\\xb0N 66.04972\\xc2\\xb0W ﻿ / 18.45250; -66.04972 \\n",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Ocean_Park_(Santurce)&oldid=1177671845",
+        "https://ceb.wikipedia.org/wiki/Ocean_Park_Subbarrio",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://es.wikipedia.org/wiki/Ocean_Park_(Santurce)",
+        "https://www.discoverpuertorico.com/profile/calle-loiza/8741"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.4525,
+            -66.04972
+        ],
+        "title": "Ocean Park (santurce)",
+        "type": "Point"
+    },
+    "categories": [
+        "Outdoor",
+        "Food",
+        "Family-Friendly",
+        "Beach"
+    ]
+}

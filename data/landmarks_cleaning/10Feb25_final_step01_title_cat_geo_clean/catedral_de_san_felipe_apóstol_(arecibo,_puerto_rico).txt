@@ -1,0 +1,23 @@
+{
+    "main_content": "Contents\nCatedral de San Felipe Apóstol (Arecibo, Puerto Rico)\nThe Catedral de San Felipe Apóstol , or in English, Cathedral of St. Philip the Apostle , is a Catholic cathedral located in Arecibo, Puerto Rico .  It is the seat of the Diocese of Arecibo .  \\n\nHistory\nThe Cathedral of Saint Philip the Apostle was built beginning in the late 18th century. The first church, built in the middle of the 17th century, was destroyed by an earthquake in 1787. Construction of its replacement began soon after, although it was not completed until 1846. Four days after its dedication, an earthquake seriously damaged it. Repairs were not completed until 1882. The 1918 earthquake damaged the vault so badly that it was replaced by a flat concrete roof; a vaulted ceiling of composition board was placed inside.  \\n\nThe cathedral of Arecibo is Puerto Rico\\'s second-largest church after the Catedral Metropolitana Basílica de San Juan Bautista . The plan is rectangular with three naves; the side naves are cut short to allow large flanking chapels, which occupy almost half the length of the church. The apse is semicircular, and has an unusual half-dome covering it. The facade is a triangular composition of three stages. The top stage, a short central tower, is a later addition, according to local architects and historians. Neoclassic ornamentation is used in an academic fashion on the lowest stage, but the other two show a less traditional use of bands and pilasters. The Renaissance-style windows are uncommon in Puerto Rican churches, but the central tower over the entrance is a common motif used throughout the island.\\n\nThe church became a cathedral when the Diocese of Arecibo was established in 1960.\\n\nSee also\nReferences\nExternal links",
+    "relevant_links": [
+        "https://ca.wikipedia.org/wiki/Catedral_de_Sant_Felip_Ap%C3%B2stol",
+        "https://en.wikipedia.org/w/index.php?title=Catedral_de_San_Felipe_Ap\\xc3\\xb3stol_(Arecibo,_Puerto_Rico)&oldid=1135706291",
+        "https://arz.wikipedia.org/wiki/%D9%83%D8%A7%D8%AA%D8%AF%D8%B1%D8%A7%D8%A6%D9%8A%D9%87_%D8%B3%D8%A7%D9%86_%D9%81%D9%8A%D9%84%D9%8A%D8%A8%D9%89_%D8%A7%D8%A8%D9%88%D8%B3%D8%AA%D9%88%D9%84",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://es.wikipedia.org/wiki/Catedral_de_San_Felipe_Ap%C3%B3stol_(Arecibo)",
+        "https://id.wikipedia.org/wiki/Katedral_Arecibo"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.4722,
+            -66.7151
+        ],
+        "title": "Catedral De San Felipe Apóstol (arecibo, Puerto Rico)",
+        "type": "Point"
+    },
+    "categories": [
+        "Religion",
+        "Culture"
+    ]
+}

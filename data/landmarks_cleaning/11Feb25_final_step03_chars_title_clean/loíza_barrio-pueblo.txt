@@ -1,0 +1,20 @@
+{
+    "main_content": "Contents\nLoíza barrio-pueblo\nLoíza barrio-pueblo is a barrio and the administrative center ( seat ) of Loíza , a municipality of Puerto Rico . Its population in 2010 was 3,875.     \\n\nThe central plaza and its church\nAs was customary in Spain, in Puerto Rico, the municipality has a barrio called pueblo which contains a central plaza, the municipal buildings (city hall), and a Catholic church. Fiestas patronales (patron saint festivals) are held in the central plaza every year.   \\n\nThe central plaza, or square, is a place for official and unofficial recreational events and a place where people can gather and socialize from dusk to dawn. The Laws of the Indies , Spanish law, which regulated life in Puerto Rico in the early 19th century, stated the plaza\\'s purpose was for \"the parties\" (celebrations, festivities) , and that the square should be proportionally large enough for the number of neighbors . These Spanish regulations also stated that the streets nearby should be comfortable portals for passersby, protecting them from the elements: sun and rain.  \\n\nLocated across the central plaza in Loíza barrio-pueblo is the Parroquia Espíritu Santo y San Patricio , a Roman Catholic church.  \\n\nHistory\nLoíza barrio-pueblo was in Spain\\'s gazetteers  until Puerto Rico was ceded by Spain in the aftermath of the Spanish-American War under the terms of the Treaty of Paris of 1898 and became an unincorporated territory of the United States . In 1899, the United States Department of War conducted a census of Puerto Rico finding that the population of Pueblo was 833.  \\n \\n\nSectors\nBarrios (which are, in contemporary times, roughly comparable to minor civil divisions )  in turn are further subdivided into smaller local populated place areas/units called sectores ( sectors in English). The types of sectores may vary, from normally sector to urbanización to reparto to barriada to residencial , among others.    \\n\nThe following sectors are in Loíza barrio-pueblo:  \\n\nLas Cuevas (Carreteras 187 , 951, 957),\\nLoíza Home For The Elder,\\nResidencial Brisas de Loíza,\\nResidencial Jardines de Loíza,\\nResidencial San Patricio,\\nResidencial Yuquiyú,\\nSector Hacienda Grande (Villa \\xc3\\x81lvarez, Villa Vaca),\\nSector La Planta,\\nSector Los Plaza,\\nSector Los Salgado,\\nSector Villa Cañona,\\nSector Villa Cañona II,\\nUrbanización Jardines de Loíza , and Urbanización Santiago (Villa Repollo) .\\n\nSee also\nReferences\nExternal links",
+    "relevant_links": [
+        "https://es.wikipedia.org/wiki/Lo%C3%ADza_(Lo%C3%ADza)",
+        "https://en.wikipedia.org/w/index.php?title=Lo\\xc3\\xadza_barrio-pueblo&oldid=1192846706",
+        "https://en.wikipedia.org/wiki/loíza_barrio-pueblo"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.433056,
+            -65.878011
+        ],
+        "title": "Loíza Barrio-pueblo",
+        "type": "Point"
+    },
+    "categories": [
+        "Religion",
+        "Culture"
+    ]
+}

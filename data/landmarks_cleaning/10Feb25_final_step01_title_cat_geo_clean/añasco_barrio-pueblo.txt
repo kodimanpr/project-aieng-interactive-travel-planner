@@ -1,0 +1,21 @@
+{
+    "main_content": "Contents\nAñasco barrio-pueblo\nAñasco barrio-pueblo is a barrio-pueblo and the administrative center ( seat ) of Añasco , a municipality of Puerto Rico. Its population in 2010 was 912.    \\n\nAs was customary in Spain, in Puerto Rico, the municipality has a barrio called pueblo which contains a central plaza, the municipal buildings (city hall), and a Catholic church. Fiestas patronales (patron saint festivals) are held in the central plaza every year.   \\n\nThe central plaza and its church\nThe central plaza, or square, is a place for official and unofficial recreational events and a place where people can gather and socialize from dusk to dawn. The Laws of the Indies , Spanish law, which regulated life in Puerto Rico in the early 19th century, stated the plaza\\'s purpose was for \"the parties\" (celebrations, festivities) , and that the square should be proportionally large enough for the number of neighbors . These Spanish regulations also stated that the streets nearby should be comfortable portals for passersby, protecting them from the elements: sun and rain.  \\n \\n\nLocated across from the central plaza in Añasco barrio-pueblo is the Parroquia Nuestra San Antonio Abad , a Roman Catholic church which was inaugurated in 1919. The first church at the site was built in the early 1700s.  \\n\nSectors\nBarrios (which are like minor civil divisions )  in turn are further subdivided into smaller local populated place areas/units called sectores ( sectors in English). The types of sectores may vary, from normally sector to urbanización to reparto to barriada to residencial , among others.    \\n\nThe following sectors are in Añasco barrio-pueblo:  \\n\nCasco del Pueblo,\\nEdificio Diego Salcedo,\\nEdificio Francis Villages Elderly,\\nEdificio Victoria,\\nUrbanización Carlos Feria,\\nUrbanización Los Maestros , and Urbanización Villas de Añasco .\\n\nGallery\nPlaces in Añasco barrio-pueblo:\\n\nSee also\nReferences\nExternal links",
+    "relevant_links": [
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://ceb.wikipedia.org/wiki/A%C3%B1asco_Barrio-Pueblo",
+        "https://es.wikipedia.org/wiki/A%C3%B1asco_(A%C3%B1asco)",
+        "https://nl.wikipedia.org/wiki/A%C3%B1asco_(plaats)",
+        "https://en.wikipedia.org/w/index.php?title=A\\xc3\\xb1asco_barrio-pueblo&oldid=1193042050"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.282906,
+            -67.141371
+        ],
+        "title": "Añasco Barrio-pueblo",
+        "type": "Point"
+    },
+    "categories": [
+        "Religion"
+    ]
+}

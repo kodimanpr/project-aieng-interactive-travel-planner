@@ -1,0 +1,17 @@
+{
+    "main_content": "Contents\nLoíza Lake\nLoíza Lake , or Lago Loíza , is a reservoir located in the municipality of Trujillo Alto , Puerto Rico . It was formed by construction of the Carraízo Dam on the Río Grande de Loíza . It serves as the main water supply source of the San Juan metropolitan area .    \\n\nGallery\nReferences",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Lo\\xc3\\xadza_Lake&oldid=1176692006",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://es.wikipedia.org/wiki/Lago_Lo%C3%ADza"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.32806,
+            -66.01611
+        ],
+        "title": "Loíza Lake",
+        "type": "Point"
+    },
+    "categories": []
+}

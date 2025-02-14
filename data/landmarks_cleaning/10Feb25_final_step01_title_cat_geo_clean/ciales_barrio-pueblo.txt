@@ -1,0 +1,25 @@
+{
+    "main_content": "Contents\nCiales barrio-pueblo\nCiales barrio-pueblo is a barrio and the administrative center ( seat ) of Ciales , a municipality of Puerto Rico. Its population in 2010 was 1,009.    \\n\nAs was customary in Spain, in Puerto Rico, the municipality has a barrio called pueblo which contains a central plaza, the municipal buildings (city hall), and a Catholic church. Fiestas patronales (patron saint festivals) are held in the central plaza every year.   \\n\nThe central plaza and its church\nThe central plaza, or square, is a place for official and unofficial recreational events and a place where people can gather and socialize from dusk to dawn. The Laws of the Indies , Spanish law, which regulated life in Puerto Rico in the early 19th century, stated the plaza\\'s purpose was for \"the parties\" (celebrations, festivities) , and that the square should be proportionally large enough for the number of neighbors . These Spanish regulations also stated that the streets nearby should be comfortable portals for passersby, protecting them from the elements: sun and rain.  \\n\nLocated across the central plaza on Calle Betances in Camuy barrio-pueblo is the Parroquia Nuestra Señora del Rosario , a Roman Catholic church. By 1820 there was a wooden church at the site. A church made of masonry walls was built in 1895 and demolished in 1959. The current church was inaugurated in 1963.  \\n\nSan Juan Nepomuceno is the patron saint of Ciales. Ciales celebrates its patron saint festival in October. The Fiestas Patronales de Nuestra Señora del Rosario y San Jose is a religious and cultural celebration that generally features parades, games, artisans, amusement rides, regional food, and live entertainment.  \\n\nHistory\nCiales barrio-pueblo was in Spain\\'s gazetteers  until Puerto Rico was ceded by Spain in the aftermath of the Spanish\\xe2\\x80\\x93American War under the terms of the Treaty of Paris of 1898 and became an unincorporated territory of the United States . In 1899, the United States Department of War conducted a census of Puerto Rico finding that the population of Ciales barrio-pueblo was 1,356.  \\n \\n\nSectors\nBarrios (which are, in contemporary times, roughly comparable to minor civil divisions )  in turn are further subdivided into smaller local populated place areas/units called sectores ( sectors in English). The types of sectores may vary, from normally sector to urbanización to reparto to barriada to residencial , among others.    \\n\nThe following sectors are in Ciales barrio-pueblo:  \\n\nBarriada La Aldea,\\nBarriada La Cuerda,\\nBarriada Otero,\\nBarriada Santo Domingo,\\nBarriada Verdum,\\nCalle Morovis,\\nCalle Nueva,\\nComunidad Cuba,\\nComunidad Los Milagros,\\nResidencial Colinas de Jaguas , and Sector Las Guabas .\\n\nGallery\nPlaces and views of Ciales barrio-pueblo:\\n\nSee also\nReferences",
+    "relevant_links": [
+        "https://nl.wikipedia.org/wiki/Ciales_(plaats)",
+        "https://en.wikipedia.org/w/index.php?title=Ciales_barrio-pueblo&oldid=1192188234",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://ceb.wikipedia.org/wiki/Ciales_Barrio-Pueblo",
+        "https://es.wikipedia.org/wiki/Ciales_(Ciales)"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.336173,
+            -66.468875
+        ],
+        "title": "Ciales Barrio-pueblo",
+        "type": "Point"
+    },
+    "categories": [
+        "Culture",
+        "Family-Friendly",
+        "Festivals & Events",
+        "Religion",
+        "Food"
+    ]
+}

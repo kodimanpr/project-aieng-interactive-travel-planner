@@ -1,0 +1,18 @@
+{
+    "main_content": "Las Cabañas Bridge\nThe Las Cabañas Bridge  is a historic highway bridge in Adjuntas municipality, Puerto Rico . Built in 1919 to provide access to a key coffee -producing region, it was financed by nearby plantations through public subscription . Designer Rafael Nones and builder Félix Benítez Rexach , two of the most prominent figures in Puerto Rican bridge construction in the early 20th century, used a unique combination of steel and concrete technologies to produce a girder design unlike any other on the island and possibly beyond.  \\n\nThe bridge was added to the U.S. National Register of Historic Places in 1995,  and to the Puerto Rico Register of Historic Sites and Zones in 2001.  \\n\nSee also\nNotes\nReferences\nExternal links\n\\n\nThis article about a property in Puerto Rico on the National Register of Historic Places is a stub . You can help Wikipedia by expanding it .\nThis article about a Puerto Rican building or structure related topic is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://es.wikipedia.org/wiki/Puente_de_las_Caba%C3%B1as",
+        "https://en.wikipedia.org/w/index.php?title=Las_Caba%C3%B1as_Bridge&action=edit",
+        "https://en.wikipedia.org/w/index.php?title=Las_Caba\\xc3\\xb1as_Bridge&oldid=1240114230",
+        "https://en.wikipedia.org/wiki/las_cabañas_bridge"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.179664,
+            -66.736422
+        ],
+        "title": "Las Cabañas Bridge",
+        "type": "Point"
+    },
+    "categories": []
+}

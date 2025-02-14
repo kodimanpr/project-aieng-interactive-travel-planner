@@ -1,0 +1,21 @@
+{
+    "main_content": "Contents\nArecibo barrio-pueblo\nArecibo barrio-pueblo is a barrio and downtown area that serves as the administrative center ( seat ) of Arecibo , a municipality of Puerto Rico. Its population in 2010 was 8,488.     \\n\nAs was customary in Spain, in Puerto Rico, the municipality has a barrio called pueblo which contains a central plaza, the municipal buildings (city hall), and a Catholic church. Fiestas patronales (patron saint festivals) are held in the central plaza every year.   \\n\nThe central plaza and its church\nThe central plaza, or square, is a place for official and unofficial recreational events and a place where people can gather and socialize from dusk to dawn. The Laws of the Indies , Spanish law, which regulated life in Puerto Rico in the early 19th century, stated the plaza\\'s purpose was for \"the parties\" (celebrations, festivities) , and that the square should be proportionally large enough for the number of neighbors . These Spanish regulations also stated that the streets nearby should be comfortable portals for passersby, protecting them from the elements: sun and rain.  \\n\nLocated across from the central plaza in Arecibo barrio-pueblo is the Catedral San Felipe Apostól ,  the second-largest Roman Catholic church in Puerto Rico. It was built in 1616, then reconstructed in 1793. After the ceiling of the central nave was damaged by the 1918 San Fermín earthquake it was reconstructed in concrete.  \\n\nThe central plaza features an obelisk which sometimes has been decorated as a Christmas tree during the holiday.  \\n\nHistory\nArecibo barrio-pueblo was in Spain\\'s gazetteers  until Puerto Rico was ceded by Spain in the aftermath of the Spanish\\xe2\\x80\\x93American War under the terms of the Treaty of Paris of 1898 and became an unincorporated territory of the United States . In 1899, the United States Department of War conducted a census of Puerto Rico finding that the population of Arecibo Pueblo was 8,008.  \\n \\n\nCasa de la Diosa Mita (The House of Goddess Mita), a house listed on the National Register of Historic Places, is located in Arecibo barrio-pueblo. It was the home where Juanita \"Mita\" García Peraza started the Mita Congregation .\\n\nSectors\nBarrios (which are, in contemporary times, roughly comparable to minor civil divisions )  in turn are further subdivided into smaller local populated place areas/units called sectores ( sectors in English). The types of sectores may vary, from normally sector to urbanización to reparto to barriada to residencial , among others.    \\n\nThe following sectors are in Arecibo barrio-pueblo:   \\n\nAvenida 65 de Infantería,\\nAvenida Constitución,\\nAvenida Cotto,\\nAvenida San Luis,\\nCalle Los Héroes,\\nCalles: Ledesma, Cruz Roja, Caribe, Avenida Miramar,\\nComunidad Barrio Obrero,\\nComunidad La Múcura,\\nCondominios del Atlántico,\\nReparto Cotto Viejo,\\nReparto San Juan,\\nResidencial Bella Vista,\\nResidencial Extensión Zeno Gandía,\\nResidencial Ramón Marín,\\nResidencial Trina Padilla,\\nUrbanización Centro Urbano,\\nUrbanización Radioville , and \\n Urbanización Zeno Gandía .\\n\nGallery\nPlaces in Arecibo barrio-pueblo:\\n\nSee also\nReferences\nExternal links",
+    "relevant_links": [
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://es.wikipedia.org/wiki/Arecibo_(Arecibo)",
+        "https://en.wikipedia.org/w/index.php?title=Arecibo_barrio-pueblo&oldid=1193042198",
+        "https://ceb.wikipedia.org/wiki/Arecibo_Barrio-Pueblo"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.473129,
+            -66.72022
+        ],
+        "title": "Arecibo Barrio-pueblo",
+        "type": "Point"
+    },
+    "categories": [
+        "Religion",
+        "Culture"
+    ]
+}

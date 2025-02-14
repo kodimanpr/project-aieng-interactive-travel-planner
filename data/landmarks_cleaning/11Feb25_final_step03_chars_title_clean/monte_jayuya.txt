@@ -1,0 +1,18 @@
+{
+    "main_content": "Contents\nMonte Jayuya\n\\n\nMonte Jayuya is the second  highest peak of Puerto Rico measuring 1,296 meters (4,252 ft) above sea level.  The mountain is located in the Cordillera Central , on the border between the municipalities of Jayuya ( Barrio Saliente )  and Ponce (Barrio Anón ).   The peak is located in the municipality of Ponce  and it is within the Toro Negro State Forest .\\n\nReferences\n\\n\nThis Jayuya, Puerto Rico location article is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Monte_Jayuya&oldid=1150720866",
+        "https://en.wikipedia.org/w/index.php?title=Monte_Jayuya&action=edit",
+        "https://es.wikipedia.org/wiki/Monte_Jayuya",
+        "https://en.wikipedia.org/wiki/monte_jayuya"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.16778,
+            -66.57472
+        ],
+        "title": "Monte Jayuya",
+        "type": "Point"
+    },
+    "categories": []
+}

@@ -1,0 +1,21 @@
+{
+    "main_content": "Contents\nPico Rodadero\nPico Rodadero , is a mountain of the Cordillera Central in the municipality of Yauco, Puerto Rico . At 2,864 feet (873 m) above sea level, the mountain is the second highest point in Yauco after Mount Membrillo .  It is located in a tri-point boundary between the barrios Aguas Blancas , Duey and Sierra Alta , close to Lake Luchetti and Guilarte State Forest .\\n\nRecreation\nThe mountain is popular for hiking due to its well-maintained trail and its steep yet accessible grassy summit which offers beautiful views of the surrounding mountains, the southern valleys such as the Lajas Valley , and the Caribbean coast.   The mountain is also famous for its cliffs and peculiar rock formations.   \\n\nCharco Piazza is a natural pool created by waterfalls along the Duey River in barrio Duey. This pool is great for swimming and it is often visited when hiking Pico Rodadero due to its proximity and location along PR-372 and PR-375 roads.  \\n\nSee also\nReferences\n\\n\nThis Puerto Rican location article is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Pico_Rodadero&action=edit",
+        "https://en.wikipedia.org/w/index.php?title=Pico_Rodadero&oldid=1177324877",
+        "https://en.wikipedia.org/wiki/pico_rodadero"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.10389,
+            -66.81861
+        ],
+        "title": "Pico Rodadero",
+        "type": "Point"
+    },
+    "categories": [
+        "Outdoor",
+        "Soft Adventure",
+        "Beach"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "main_content": "Contents\nBlue Beach (Vieques)\nBlue Beach , better known as La Chiva Beach , is a popular beach on the southern coast of Vieques in barrio Puerto Ferro . The beach is considered one of the best in both Vieques and Puerto Rico for its breathtaking scenery, its soft sand and crystal clear water, ideal for swimming and snorkeling.    The beach is known as La Chiva Beach by locals, and its English name originated as a nickname that was given to it by members of the US Navy .  The area was formerly used by the Navy but it has been declared safe for visitors; however, beachgoers are prohibited from entering La Chiva Key due to the risk of unexploded ordnance .  The beach was closed for a time after the destruction caused by Hurricane Irma in 2017 but it reopened the next year.  \\n\nThe beach is part of the Vieques National Wildlife Refuge and it offers gazebos for picnics, restrooms and trash bins. It is located approximately 20 minutes by car from the Vieques Ferry Terminal and 25 minutes by car from the Antonio Rivera Rodríguez Airport .  \\n\nReferences\n18\\xc2\\xb06\\xe2\\x80\\xb247\\xe2\\x80\\xb3N 65\\xc2\\xb023\\xe2\\x80\\xb215\\xe2\\x80\\xb3W ﻿ / ﻿ 18.11306\\xc2\\xb0N 65.38750\\xc2\\xb0W ﻿ / 18.11306; -65.38750 \\n",
+    "relevant_links": [
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://www.lonelyplanet.com/puerto-rico/eastern-puerto-rico/vieques/attractions/playa-la-chiva/a/poi-sig/1487298/358125",
+        "https://en.wikipedia.org/w/index.php?title=Blue_Beach_(Vieques)&oldid=1133032962"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.11306,
+            -65.3875
+        ],
+        "title": "Blue Beach (vieques)",
+        "type": "Point"
+    },
+    "categories": [
+        "Outdoor",
+        "Wildlife",
+        "Soft Adventure",
+        "Beach"
+    ]
+}

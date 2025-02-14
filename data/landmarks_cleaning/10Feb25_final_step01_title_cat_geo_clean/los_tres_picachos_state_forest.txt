@@ -1,0 +1,23 @@
+{
+    "main_content": "Contents\nLos Tres Picachos State Forest\nLos Tres Picachos State Forest  is one of the 20 forests that make up the public forest system of Puerto Rico . The forest is located in the Central Mountain Range or Cordillera Central , along the Los Tres Picachos mountain ridge, one of the island\\'s highest mountains, named after the distinctive three peaks of the highest mountain in the forest. The state forest is located in the municipalities of Jayuya and Ciales .  \\n\nHistory\nLos Tres Picachos State Forest was proclaimed and designated in February 16, 1999 through executive order OE-199-10. This proclamation was made thanks to effort and interest from local residents, the municipal administrations of Ciales and Jayuya, and the Guardianes de la Montaña ecological group. Its purpose is to preserve the ecological integrity of the forest terrains from urban development.  \\n\nGeography\nThe forest is found along two river basins: the Arecibo and Manatí Rivers , both flowing northward into the Atlantic Ocean . Other rivers found within the forest boundaries are the Cialitos , Saliente and Toro Negro rivers. The forest is particularly vital for the hydrological preservation of the Toro Negro River. The most notable geographical feature of the forest reserve is the Tres Picachos mountain which rises to an elevation of 3,176 feet (968 m) above sea level. Tres Picachos literally translates to three little peaks , and it is named as such after the three distinctive peaks found in the summit of the mountain.\\n\nThe state forest is found in a transition zone between a karstic area and another of volcanic origin.  \\n\nEcology\nThe forest is divided into three forest zones: the subtropical broadleaf forest , the montane or cloud forest and the tropical humid or rain forest . The ecological biomes found in the forest are the dwarf forest (above 1,090 meters over sea level), the Sierra palm tree forest (between 850 and 1,090 meters above sea level), the tabonuco tree forest (between 700 and 850 meters), and the secondary forest found in former coffee plantation areas which have now been reclaimed by nature.  \\n\nSome of the plant species found in the forest are the western cherry laurel or almendron ( Prunus occidentalis ), the tabloncillo tree ( Sideroxylon portoricense ), the moca tree ( Andira inermis ), the granadillo tree ( Buchenavia capitata ), the Puerto Rican magnolia ( Magnolia portoricensis ), the nutget or nemoca tree ( Ocotea moschata ), the candlewood or tabonuco tree ( Dacryodes excelsa ), the Sierra palm tree ( Prestoea montana ), and the invasive African tulip tree ( Spathodea campanulata ) which is found mostly in the secondary or second-growth forest area. The forest is also home to epiphytic plants such as bromeliads and orchids .  \\n\nThe forest is rich in animal species and it is home to a large number of endemic species. The following are some of the species found in the forest and its rivers.  \\n\nRecreation\nThe forest currently does not have infrastructure for the purpose of recreation and there is no parking or sanitary services either. There is however a single trail that leads to two of the three peaks of Los Tres Picachos mountain summit.    Coabey in Jayuya is the closest town to the forest and it can be accessed by PR-10 and PR-123 roads from Ponce .  \\n\nA famous sight within the forest is the Las Delicias Falls ( Cascada Las Delicias ),  a series of waterfalls found along the Cialitos River . The main waterfall can be accessed through PR-149 by a short scramble through rocks, however parking in the area is highly limited with there being only four spots to park.  \\n\nSee also\nReferences\n18\\xc2\\xb012\\xe2\\x80\\xb254\\xe2\\x80\\xb3N 66\\xc2\\xb032\\xe2\\x80\\xb210\\xe2\\x80\\xb3W ﻿ / ﻿ 18.215\\xc2\\xb0N 66.536\\xc2\\xb0W ﻿ / 18.215; -66.536 \\n",
+    "relevant_links": [
+        "https://www.descubrapuertorico.com/turismo/bosque-estatal-de-tres-picachos-jayuya-puerto-rico/",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://www.discoverpuertorico.com/profile/cascada-las-delicias/9215",
+        "https://en.wikipedia.org/w/index.php?title=Los_Tres_Picachos_State_Forest&oldid=1209957496"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.215,
+            -66.536
+        ],
+        "title": "Los Tres Picachos State Forest",
+        "type": "Point"
+    },
+    "categories": [
+        "Outdoor",
+        "Family-Friendly",
+        "Culture",
+        "Beach"
+    ]
+}

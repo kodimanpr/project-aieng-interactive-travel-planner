@@ -1,0 +1,22 @@
+{
+    "main_content": "Contents\nLas Piedras barrio-pueblo\nLas Piedras barrio-pueblo is a barrio and the administrative center ( seat ) of Las Piedras , a municipality of Puerto Rico. Its population in 2010 was 1,500.     \\n\nAs was customary in Spain, in Puerto Rico, the municipality has a barrio called pueblo which contains a central plaza, the municipal buildings (city hall), and a Catholic church. Fiestas patronales (patron saint festivals) are held in the central plaza every year.   \\n\nThe central plaza and its church\nThe central plaza, or square, is a place for official and unofficial recreational events and a place where people can gather and socialize from dusk to dawn. The Laws of the Indies , Spanish law, which regulated life in Puerto Rico in the early 19th century, stated the plaza\\'s purpose was for \"the parties\" (celebrations, festivities) , and that the square should be proportionally large enough for the number of neighbors . These Spanish regulations also stated that the streets nearby should be comfortable portals for passersby, protecting them from the elements: sun and rain.  \\n\nLocated across the central plaza in Las Piedras barrio-pueblo is the Parroquia Inmaculada Concepción , a Roman Catholic church.  \\n\nHistory\nLas Piedras barrio-pueblo was in Spain\\'s gazetteers  until Puerto Rico was ceded by Spain in the aftermath of the Spanish\\xe2\\x80\\x93American War under the terms of the Treaty of Paris of 1898 and became an unincorporated territory of the United States . In 1899, the United States Department of War conducted a census of Puerto Rico finding that the population of Pueblo, and Quebrada Arenas , a neighboring barrio, was 1,449.  \\n \\n\nSee also\nReferences\nExternal links\n\\n\nThis Las Piedras, Puerto Rico location article is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://ceb.wikipedia.org/wiki/Las_Piedras_Barrio-Pueblo",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://en.wikipedia.org/w/index.php?title=Las_Piedras_barrio-pueblo&action=edit",
+        "https://es.wikipedia.org/wiki/Las_Piedras_(Las_Piedras)",
+        "https://en.wikipedia.org/w/index.php?title=Las_Piedras_barrio-pueblo&oldid=1192736031"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.182712,
+            -65.866034
+        ],
+        "title": "Las Piedras Barrio-pueblo",
+        "type": "Point"
+    },
+    "categories": [
+        "Religion",
+        "Culture"
+    ]
+}

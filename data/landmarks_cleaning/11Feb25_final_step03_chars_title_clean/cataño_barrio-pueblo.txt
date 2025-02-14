@@ -1,0 +1,20 @@
+{
+    "main_content": "Contents\nCataño barrio-pueblo\nCataño barrio-pueblo is an urban barrio and the administrative center ( seat ) of Cataño , a municipality of Puerto Rico. Its population in 2010 was 4,283. It is an urban barrio located in the northeastern section of the municipality.     \\n\nAs was customary in Spain, in Puerto Rico, the municipality has a barrio called pueblo which contains a central plaza, the municipal buildings (city hall), and a Catholic church. Fiestas patronales (patron saint festivals) are held in the central plaza every year.   \\n\nThe central plaza and its church\nThe central plaza, or square, located in Cataño barrio-pueblo, is a place for official and unofficial recreational events and a place where people can gather and socialize from dusk to dawn. The Laws of the Indies , Spanish law, which regulated life in Puerto Rico in the early 19th century, stated the plaza\\'s purpose was for \"the parties\" (celebrations, festivities) , and that the square should be proportionally large enough for the number of neighbors . These Spanish regulations also stated that the streets nearby should be comfortable portals for passersby, protecting them from the elements: sun and rain.  \\n\nLocated across the central plaza in Cataño barrio-pueblo is the Parroquia Nuestra Señora del Carmen , a Roman Catholic church.  \\n\nHistory\nIn July 2020, Federal Emergency Management Agency appropriated funds for repairs to Cataño\\'s plaza.  \\n\nFeatures and demographics\nCataño barrio-pueblo has .29 square miles (0.75 km 2 ) of land area and .76 square miles (2.0 km 2 ) of water area.  In 2010, its population was 4,283 with a population density of 15,863 inhabitants per square mile (6,125/km 2 ).\\n\nSectors\nBarrios (which are, in contemporary times, roughly comparable to minor civil divisions )  in turn are further subdivided into smaller local populated place areas/units called sectores ( sectors in English). The types of sectores may vary, from normally sector to urbanización to reparto to barriada to residencial , among others.    \\n\nThe following sectors are in Cataño barrio-pueblo:  \\n\nAvenida Barbosa,\\nAvenida Las Nereidas,\\nBarriada Vietnam,\\nCalles: Canals, Charca, Pasaje Puntillas, Prolongación Calle Tren, Recreo, San Antonio, San Fernando, Santa Rosa (from Avenida Las Nereidas to Prolongación Tren),\\nComunidad Amelia,\\nCondominio Ciudad Feliz,\\nPuerto Bello Apartments 105,\\nResidencial Mantienzo Cintrón , and Sector Puntilla .\\n\nGallery\nPlaces in Cataño barrio-pueblo:\\n\nSee also\nReferences\nExternal links",
+    "relevant_links": [
+        "https://es.wikipedia.org/wiki/Cata%C3%B1o_(Cata%C3%B1o)",
+        "https://en.wikipedia.org/w/index.php?title=Cata\\xc3\\xb1o_barrio-pueblo&oldid=1192181708",
+        "https://en.wikipedia.org/wiki/cataño_barrio-pueblo"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.443357,
+            -66.11637
+        ],
+        "title": "Cataño Barrio-pueblo",
+        "type": "Point"
+    },
+    "categories": [
+        "Religion",
+        "Culture"
+    ]
+}

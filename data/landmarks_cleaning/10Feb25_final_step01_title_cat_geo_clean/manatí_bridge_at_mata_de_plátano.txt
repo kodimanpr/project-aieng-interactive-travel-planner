@@ -1,0 +1,18 @@
+{
+    "main_content": "Contents\nManatí Bridge at Mata de Plátano\nManatí Bridge at Mata de Plátano , also known as Puente Juan José Jiménez and listed as Bridge #321 in Puerto Rico \\'s bridge inventory, was built in 1905 in Hato Viejo, Ciales, Puerto Rico . It was listed on the National Register of Historic Places in 1995 and on the Puerto Rico Register of Historic Sites and Zones in 2001.    \\n\nIt was the first truss bridge built in Puerto Rico under the administration of the United States (1898\\xe2\\x80\\x931900) after the Spanish\\xe2\\x80\\x93American War .\\n\nThe bridge spans 80 metres (260 ft) above the Río Grande de Manatí .  For Puerto Rico, the span is high, 44 feet (13 m) above the river, \"above a spectacular curving canyon of vertical walls traversed by the Manati River\". It is a rare type of bridge: a steel double intersection Pratt truss , above a concrete substructure, and is the only such highway bridge in Puerto Rico. Its a 3.8 metres (12 ft) wide, one-lane road.  The bridge is visited by tourists.  \\n\nAt least 10 railway bridges used the double intersection Pratt truss design, in the French-owned railway that was built during 1890-93 between San Juan and Ponce . Only Cambalache Bridge , across the Arecibo River , survived, as of 1994. The rest were dismantled and sold to cover a bankruptcy by the railroad company that owned them.  : 16 \\n\nIt was remodeled in 2010.  \\n\nResidents complain when the bridge is closed because it is the only direct access from Manatí to Ciales when the bridge from Morovis to Ciales is inaccessible.   \\n\nIn 2018, $6.8 million dollars were earmarked by the US Federal Highway Administration for repairs to the bridge.  \\n\nGallery\nViews of the canyon and Río Grande de Manatí from Manatí Bridge at Mata de Plátano:\\n\nReferences\nExternal links",
+    "relevant_links": [
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://en.wikipedia.org/w/index.php?title=Manat\\xc3\\xad_Bridge_at_Mata_de_Pl\\xc3\\xa1tano&oldid=1246577274"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.359008,
+            -66.479162
+        ],
+        "title": "Manatí Bridge At Mata De Plátano",
+        "type": "Point"
+    },
+    "categories": [
+        "Outdoor"
+    ]
+}

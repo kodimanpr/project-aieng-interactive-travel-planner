@@ -1,0 +1,21 @@
+{
+    "main_content": "Contents\nTortuguero Lagoon\nLaguna Tortuguero Natural Reserve is a natural reservoir located between the municipalities of Vega Baja and Manatí in Puerto Rico .\\n\nThe lagoon is one of only two natural reservoirs in the island of Puerto Rico (the other being Joyuda Lagoon ), and is home to an ample variety of species.\\n\nGeneral information\nTortuguero Lagoon Nature Reserve is the only freshwater lagoon in Puerto Rico . It contains about 708 million gallons of water. The reserve was designated in 1979 through a program of Coastal Zone Management PR. It is located between the municipalities of Vega Baja and Manatí . It covers approximately 2.43 km 2 (0.94 sq mi).  \\n\nIt is divided into two main parts: in the east and northeast, the Laguna Grande (\"Big Lagoon\" in English), and in the south, the Laguna Rica. A swamp located northeast of the pond, El Cabo Caribe (\"Cape Caribbean\" in English), includes one of the most important areas of the reserve as a source of nesting and feeding waterflow ecosystem.\\n\nGenerally, Tortuguero is made up of swamps, marshes, soils of silica sand and hills. Although not a forest, its variety of rare endemic plants and flowers has earned it a place amongst the most important reserves in Puerto Rico, just after El Yunque , Toro Negro State Forest and the Forest of Maricao .\\n\nNative, exotic and endemic species in the reserve\nNative species:\\n\nEndemic species:\\n\nExotic species:\\n\nFlora\nThe flora of this reserve is the fourth most important in Puerto Rico. There are 717 species of plants.\\n- 144 are rare and endangered\\n- 56 live in fine white sands around the lagoon\\n- 110 live in organic soils of swamps\\n- 37 species are native to America\\n\nAll of the above are found exclusively on the Tortuguero Lagoon. There are seven species of insectivorous plants in the area of the lagoon. Two of these are in danger of extinction, which are Drosera capillaris and Utricularia subulata clesitogama . The rest is divided into:\\n- 265 are indicators of wetlands\\n- 132 tree species\\n- 79 species of sedges\\n- 78 herbs\\n- 38 species of ferns\\n\nThe extremely rare tree Schoepfia arenaria was found to grow in the reserve in 1990. Less than 200 of these Puerto Rican endemic trees are known to exist.  \\n\nFauna\nThe reserve provides an environment conducive to bird diversity. There have been 83 species of birds identified across the reserve. Of these, 30 are migratory and the rest are resident in Puerto Rico. Among the residents are the Puerto Rican spindalis , Puerto Rican oriole and Adelaide\\'s warbler . In aquatic ecosystems, birds such as ruddy duck and Caribbean coot and are generally abundant. As for fish, they are generally abundant but small. The lagoon is a shelter and breeding ground for females fish. There are 23 species of fish in the lagoon, among the native are eels , tarpon , snook and mackerel bigeye. Among those introduced are the black seabream, bass and tilapia. It also emphasizes the presence of oviparous fish such as the \"guppy\" of the genus Poecilia .\\n\nReferences\nExternal links",
+    "relevant_links": [
+        "https://es.wikipedia.org/wiki/Laguna_Tortuguero",
+        "https://en.wikipedia.org/w/index.php?title=Tortuguero_Lagoon&oldid=1247114044",
+        "https://en.wikipedia.org/wiki/tortuguero_lagoon"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.46333,
+            -66.44139
+        ],
+        "title": "Tortuguero Lagoon",
+        "type": "Point"
+    },
+    "categories": [
+        "Outdoor",
+        "Wildlife",
+        "Beach"
+    ]
+}

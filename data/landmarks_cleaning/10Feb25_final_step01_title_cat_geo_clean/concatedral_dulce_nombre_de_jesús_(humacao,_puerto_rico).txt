@@ -1,0 +1,21 @@
+{
+    "main_content": "Contents\nConcatedral Dulce Nombre de Jesús (Humacao, Puerto Rico)\nThe Concatedral Dulce Nombre de Jesús or in English, Co-Cathedral of the Sweet Name of Jesus , is a Catholic cathedral located on the town plaza in Humacao, Puerto Rico . Along with the Catedral Santiago Apóstol in Fajardo it is the seat of the Diocese of Fajardo-Humacao .  \\n\nHistory\nThe first church for the parish of Dulce Nombre de Jesús was a simple structure built in 1769.  A second church was built from 1825 to 1826.  It was in a ruinous state by 1860 and the present church was built between 1868 and 1877.  It was designed by Don Evaristo de Churruca in the Gothic Revival style.  The bell tower collapsed as the result of an earthquake in 1918 .  The church was repaired in 1928 and another renovation took place in the 1980s. Dulce Nombre de Jes\\xcf\\x8ds became a cathedral church when Pope Benedict XVI established the Diocese of Fajardo-Humacao on March 11, 2008.  The church was listed on the U.S. National Register of Historic Places in 1984, using the name style Church Dulce Nombre de Jesús of Humacao .  It was later listed on the Puerto Rico Register of Historic Sites and Zones on May 16, 2001.  \\n\nArchitecture\nThe cathedral is on the east side of the town plaza.  A low concrete wall with metal grillwork surrounds the church building.  The wall is modulated by pillars that hold cast iron lamps.  The building is cruciform in shape with a nave , transept and two side aisles.  It is one of the few churches in Puerto Rico with a transept.  The main fa\\xc3\\xa7ade is dominated by a four-level square bell tower topped with a spire .  It is flanked by two smaller round towers that house a spiral staircase and the weights for the clock. All the windows and doorways are framed with moldings.  Small buttresses flank pointed arch windows on the sides of the building.  The two-level transept is crowned with a gabled roof.  Each side has two pointed-arch windows on the first level and round window in the second.\\n\nOn the interior horizontal moldings have been eliminated to give the illusion of a taller structure.  Pillars separate the nave from the side aisles, and they are assembled into five bays on each side.  The main nave is covered by a pointed vault and the side naves are covered by groin vaults .  Four pairs of small pointed arch windows are above the side aisles.  There is a dome over the crossing, but it is covered by acoustic tiles and cannot be seen.  The apse is covered by a groined half-dome and contains stained glass windows .  The floor is covered with colored native cement tiles and a new choir loft is in the rear of the church.\\n\nGallery\nSee also\nReferences\nExternal links",
+    "relevant_links": [
+        "https://es.wikipedia.org/wiki/Concatedral_del_Dulce_Nombre_de_Jes%C3%BAs_(Humacao)",
+        "https://en.wikipedia.org/w/index.php?title=Concatedral_Dulce_Nombre_de_Jes\\xc3\\xbas_(Humacao,_Puerto_Rico)&oldid=1240147760",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://id.wikipedia.org/wiki/Konkatedral_Humacao"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.150157,
+            -65.826199
+        ],
+        "title": "Concatedral Dulce Nombre De Jesús (humacao, Puerto Rico)",
+        "type": "Point"
+    },
+    "categories": [
+        "Religion",
+        "Culture"
+    ]
+}

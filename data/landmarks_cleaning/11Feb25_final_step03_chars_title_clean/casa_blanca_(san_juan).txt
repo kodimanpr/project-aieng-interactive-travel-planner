@@ -1,0 +1,20 @@
+{
+    "main_content": "Contents\nCasa Blanca (San Juan)\nCasa Blanca is a historic house museum situated in Old San Juan , the historic colonial district of San Juan, Puerto Rico .\\n\nHistory\nConstructed in 1521, Casa Blanca served as the initial fortification for the San Juan islet and was intended to be the residence of Juan Ponce de León and his family. However, de León passed away during an expedition to Florida without ever residing in the house. Subsequently, it sheltered his descendants until the mid-18th century.\\n\nOriginally constructed of wood, Casa Blanca was rebuilt in stone and masonry after a fire. During conflicts with the Taíno , it provided refuge, and was the venue for negotiations between the conquistadores and a commission of caciques (chieftains) facilitated a resolution to a brief uprising  [ citation needed ] . \\n\nWhen the capital transitioned to the San Juan Islet in 1521, Casa Blanca became the first governor\\'s residence in Puerto Rico. Despite undergoing numerous refurbishments over five centuries, it remained the governors\\' residence until the mid-1700s when Castle-Fortress of St. Catherine was modernized and reborn as the Royal Site of the Palace of St. Catherine of Siena . Subsequently, Casa Blanca housed various military and chivalry organizations before gradually falling into disuse post-World War II. It was rejuvenated by the Puerto Rican Institute of Culture, and its gardens, planted by General Brooks (the first American Military governor of the island in the 20th century), were preserved.  \\n\nIn 1967, Casa Blanca was transferred to the Puerto Rican government and designated a historical monument. It was documented in the Historic American Buildings Survey in 1981 and currently operates as a museum showcasing 16th and 17th-century artifacts, administered by the Institute of Puerto Rican Culture .  \\n\nSee also\nReferences\nThis article incorporates public domain material from Historic American Buildings Survey . National Park Service . \\n\nExternal links\n18°27\\xe2\\x80\\xb259\\xe2\\x80\\xb3N 66°07\\xe2\\x80\\xb212\\xe2\\x80\\xb3W ﻿ / ﻿ 18.46639°N 66.12000°W ﻿ / 18.46639; -66.12000 \\n",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Casa_Blanca_(San_Juan)&oldid=1215736263",
+        "https://en.wikipedia.org/wiki/casa_blanca_(San_juan)"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.46639,
+            -66.12
+        ],
+        "title": "Casa Blanca (San Juan)",
+        "type": "Point"
+    },
+    "categories": [
+        "Outdoor",
+        "Family-Friendly",
+        "Culture"
+    ]
+}

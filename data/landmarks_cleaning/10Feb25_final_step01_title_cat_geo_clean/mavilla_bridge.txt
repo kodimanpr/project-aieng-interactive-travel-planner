@@ -1,0 +1,18 @@
+{
+    "main_content": "Contents\nMavilla Bridge\nThe Mavilla Bridge , or Bridge 354 , is located at kilometer 17.7 on Puerto Rico Highway 159 between Corozal and Bayamón , Puerto Rico .  The bridge has maintained most of its original design and structure over the years. It was constructed in 1903 replacing a wooden bridge that had been at the location since 1853, and served as a road between Toa Alta and Bayamón municipalities, in the 19th century.  \\n\nDescription\nBuilt in 1903, the bridge has not been altered much since its beginnings. Its construction cost $3,000 and 80 men worked on its construction under the direction of Roque Paniagua. In 1909, the contractor José García González added a concrete balustrade at a cost of $644. Its construction in 1903 eased transportation between Corozal and nearby towns of Toa Alta, Orocovis , Vega Alta and Naranjito . This is the oldest, concrete-lowered, arch bridge and one of the most attractive. The bridge span is 25.5 meters (84 ft) long and 4.6 meters (15 ft) wide.  Its arch is 50 feet above the Mavilla River . Mavilla Bridge was added to the U.S. National Register of Historic Places list on July 19, 1995.  \\n\nFolklore\nThere is a legend of a woman who lives around the Mavilla Bridge.  In Diez de mis cuentos ( Ten of My Stories ), author Sixto Febus writes that one night, while returning from work, he picked up a woman from the side of the road who was standing near the Mavilla Bridge. He did not get a good look at her as she got into the back seat of his car. He tried making small talk with the woman but she did not talk until when she finally spoke, it was to ask she be dropped off at the cemetery.  It was when she exited the car that he looked at her as she was walking away and noticed she was headless.  \\n\nSee also\nReferences\nExternal links",
+    "relevant_links": [
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://en.wikipedia.org/w/index.php?title=Mavilla_Bridge&oldid=1246585727"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.35194,
+            -66.29722
+        ],
+        "title": "Mavilla Bridge",
+        "type": "Point"
+    },
+    "categories": [
+        "Outdoor"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "main_content": "Contents\nAguadilla barrio-pueblo\nAguadilla barrio-pueblo is an urban barrio and the administrative center ( seat ) of Aguadilla , a municipality of Puerto Rico. Its population in 2010 was 3,627.     \\n\nAs was customary in Spain, in Puerto Rico, the municipality has a barrio called pueblo which contains a central plaza, the municipal buildings (city hall), and a Catholic church. Fiestas patronales (patron saint festivals) are held in the central plaza every year.   \\n\nThe central plaza and its church\nThe central plaza, or square, is a place for official and unofficial recreational events and a place where people can gather and socialize from dusk to dawn. The Laws of the Indies , Spanish law, which regulated life in Puerto Rico in the early 19th century, stated the plaza\\'s purpose was for \"the parties\" (celebrations, festivities) , and that the square should be proportionally large enough for the number of neighbors . These Spanish regulations also stated that the streets nearby should be comfortable portals for passersby, protecting them from the elements: sun and rain.  \\n\nLocated across the central plaza in Aguadilla barrio-pueblo is the Parroquia San Carlos Borromeo, a Roman Catholic church. Its construction began in 1776 and was completed in 1783. It was remodeled in 1855. One of its towers collapsed during the 1918 San Fermín earthquake and the facade was changed when reconstructed. Its last remodeling was in 1971. It was listed in the National Register of Historic Places (NRHP) in 1984.   \\n\nLandmarks and places of interest\nSectors\nBarrios (which are, in contemporary times, roughly comparable to minor civil divisions )  in turn are further subdivided into smaller local populated place areas/units called sectores ( sectors in English). The types of sectores may vary, from normally sector to urbanización to reparto to barriada to residencial , among others.     \\n\nThe following sectors are in Barrio Pueblo (Norte):  \\n\nAvenida Los Robles, \\nCalle Barbosa, \\nCalle Ceiba, \\nCalle Duda, \\nCalle Fuerte, \\nCalle Reguero, \\nCalle Stahl, \\nCallejón del Fuerte, \\nCerro Juan Vega, \\nCondominio Cuesta Vieja, \\nEl Chapey, \\nEl Perú, \\nJoya Las Marinas, \\nResidencial Cuesta Vieja, \\nResidencial Puesta del Sol, \\nSector Cerro Los Condenados (Cuesta Vieja), \\nSector Cerro Reguero, \\nSector Cuesta Nueva, \\nSector Cuesta Vieja, \\nSector La Vía (Norte), \\nSector Llanos Jiménez, \\nSector Luquillo , and Sector Tamarindo .\\n\nThe following sectors are in Barrio Pueblo (Sur y Centro):  \\n\nAvenida San Carlos, \\nBarriada Visbal, \\nBarrio Higuey, \\nBarrio Iglesias, \\nCalle Mercado, \\nCalle Mercedes Moreno, \\nCalle Progreso, \\nCerro Cabrera, \\nCerro Calero, \\nCerro Echevarría, \\nCerro Gonzalo, \\nCondominio Torres del Sol, \\nCondominio Villa Mar, \\nResidencial Villamar, \\nSalsipuedes, \\nSanta Bárbara, \\nSector Campo Alegre, \\nSector Cerro Las \\xc3\\x81nimas, \\nSector Gregorio Vélez Vaz, \\nSector Joyas San Carlos , and Sector La Vía (Sur) .\\n\nGallery\nThe following places are in Aguadilla barrio-pueblo:\\n\nSee also\nReferences\nExternal links",
+    "relevant_links": [
+        "https://ceb.wikipedia.org/wiki/Aguadilla_Barrio-Pueblo",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://es.wikipedia.org/wiki/Aguadilla_(Aguadilla)",
+        "https://en.wikipedia.org/w/index.php?title=Aguadilla_barrio-pueblo&oldid=1193004184",
+        "https://nl.wikipedia.org/wiki/Aguadilla_(plaats)"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.429734,
+            -67.155693
+        ],
+        "title": "Aguadilla Barrio-pueblo",
+        "type": "Point"
+    },
+    "categories": [
+        "Religion"
+    ]
+}

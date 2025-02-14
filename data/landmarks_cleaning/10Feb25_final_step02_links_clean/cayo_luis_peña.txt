@@ -1,0 +1,23 @@
+{
+    "main_content": "Contents\nCayo Luis Peña\nCayo Luis Peña , formerly South West Key ,  is a small uninhabited island off the west coast of Culebra , an island municipality of Puerto Rico . The island is a nature reserve which forms part of the Culebra National Wildlife Refuge . Visitors are allowed on the island for nature walks, snorkeling , and swimming ; however, visitors are not allowed to stay on the island overnight. The island is only accessible via private water taxis .  This limited access results in relatively few visitors and the island and surrounding reefs are able to stay more pristine as a result.  The small number of visitors also makes the island more private for those willing to make the journey.  Luis Peña Beach is located on the north side of the island. The island is named after its second owner.\\n\nReferences\n\\n\n\\n\nThis Culebra, Puerto Rico location article is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://es.wikipedia.org/wiki/Cayo_Luis_Pe%C3%B1a",
+        "https://en.wikipedia.org/w/index.php?title=Cayo_Luis_Pe%C3%B1a&action=edit",
+        "https://en.wikipedia.org/w/index.php?title=Cayo_Luis_Pe\\xc3\\xb1a&oldid=1193593780",
+        "https://en.wikipedia.org/wiki/cayo_luis_peña"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.3058028,
+            -65.3326028
+        ],
+        "title": "Cayo Luis Peña",
+        "type": "Point"
+    },
+    "categories": [
+        "Outdoor",
+        "Wildlife",
+        "Soft Adventure",
+        "Beach"
+    ]
+}

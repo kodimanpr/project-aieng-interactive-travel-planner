@@ -1,0 +1,21 @@
+{
+    "main_content": "Contents\nMuseo de Vida Silvestre\nThe Museo de Vida Silvestre (in English, the Wildlife Museum ) is located in San Juan , Puerto Rico .  It was inaugurated on November 1, 2010, and houses more than 200 specimens in their respective habitats. The museum has garnered popularity in the island, receiving more than 100,000 visitors shortly after its first year.  \\n\nBuilding\nThe Museo de Vida Silvestre is located in the John F. Kennedy Avenue in San Juan, inside a 55,000 square feet , 2-story building. The building features several environmentally friendly elements within its structure, like the installation of ivy around it, and the use of photovoltaic cells to provide partial energy to the facilities.\\n\nSee also\nReferences\nExternal links\n\\n\nThis article about a Puerto Rican building or structure related topic is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Museo_de_Vida_Silvestre&action=edit",
+        "https://en.wikipedia.org/w/index.php?title=Museo_de_Vida_Silvestre&oldid=1141570967",
+        "https://en.wikipedia.org/wiki/museo_de_vida_silvestre"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.26,
+            -66.511
+        ],
+        "title": "Museo De Vida Silvestre",
+        "type": "Point"
+    },
+    "categories": [
+        "Outdoor",
+        "Wildlife",
+        "Culture"
+    ]
+}

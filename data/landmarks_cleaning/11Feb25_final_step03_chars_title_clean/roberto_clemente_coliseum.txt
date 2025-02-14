@@ -1,0 +1,19 @@
+{
+    "main_content": "Contents\nRoberto Clemente Coliseum\nRoberto Clemente Coliseum  is a sports and concert arena located in San Juan, Puerto Rico . It was, for many years, Puerto Rico\\'s largest indoor event facility, and remains one of the largest.\\n\nGeneral information\nThe Coliseum is named after baseball hall of famer Roberto Clemente , who died in a plane crash off Isla Verde International Airport in Carolina in 1972, while flying with relief articles to be given to victims of the Nicaragua earthquake . Construction of the facility began in the early 1970s, it was finished in January 1973, and inaugurated in February of that year by the Fania All-Stars .\\n\nThe coliseum has been host to a variety of events, including world championship boxing and basketball , business expos, circus, concerts and other things.\\n\nMany Puerto Rican and international performers have been at the arena, among others.\\n\nConcerts that have been held there include:\\n\nVan Halen were scheduled to perform during their III Tour on September 20 and December 11, 1998, but the shows were cancelled.\\n\nIt has been the home of three different BSN professional basketball teams and the BSN has also used it as a neutral site for their most important games, including game 7 of the championship finals, several times.\\n\nThe Coliseum has also been used by religious leaders for conferences and religious services.\\n\nMost of the world championship boxing bouts fought in Puerto Rico during the late 1970s and early 1980s were fought at the Roberto Clemente coliseum, including Roberto Durán \\'s world title defense versus Mexican Leoncio Ortiz , Wilfredo Gómez \\'s knockout win against Carlos Zarate , many of Samuel Serrano \\'s title defenses, and the fight where Muhammad Ali defended his title against Jean Pierre Coopman , the only time a world Heavyweight championship fight has been held in Puerto Rico. George Foreman had his last fight (and experienced the vision that led him to become a born-again Christian in one of its dressing  rooms) before announcing his first retirement there, and Julio César Chávez had one of his first important fights there, on the undercard of Edwin Rosario \\'s world Lightweight championship win against José Luis Ramírez . Because of all the boxing action going on during that era, many observers call the period from the middle 1970s to the middle 1980s as the golden age of boxing in Puerto Rico .\\n\nThe arena also hosted the final phase of the 1974 World Basketball championship .  \\n\nThe Coliseum has also been the place of large political rallies, and Puerto Rico\\'s electoral commission uses its facilities to count votes after each election, and also hosted Miss Universe 2002 , won by Oxana Fedorova of Russia . The Van Halen concert was cancelled due to a hurricane. Some days later the band sent a cargo plane with care packages.\\n\nEvents\nSee also\nReferences\nExternal links",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Roberto_Clemente_Coliseum&oldid=1244791990",
+        "https://es.wikipedia.org/wiki/Coliseo_Roberto_Clemente",
+        "https://en.wikipedia.org/wiki/roberto_clemente_coliseum"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.4159,
+            -66.0754
+        ],
+        "title": "Roberto Clemente Coliseum",
+        "type": "Point"
+    },
+    "categories": [
+        "Festivals & Events"
+    ]
+}

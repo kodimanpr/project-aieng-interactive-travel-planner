@@ -1,0 +1,23 @@
+{
+    "main_content": "Contents\nCamuy barrio-pueblo\nCamuy barrio-pueblo is a barrio and the administrative center ( seat ) of Camuy , a municipality of Puerto Rico. Its population in 2010 was 3,354.    \\n\nAs was customary in Spain, in Puerto Rico, the municipality has a barrio called pueblo which contains a central plaza, the municipal buildings (city hall), and a Catholic church. Fiestas patronales (patron saint festivals) are held in the central plaza every year.   \\n\nThe central plaza and its church\nThe central plaza, or square, is a place for official and unofficial recreational events and a place where people can gather and socialize from dusk to dawn. The Laws of the Indies , Spanish law, which regulated life in Puerto Rico in the early 19th century, stated the plaza\\'s purpose was for \"the parties\" (celebrations, festivities) , and that the square should be proportionally large enough for the number of neighbors . These Spanish regulations also stated that the streets nearby should be comfortable portals for passersby, protecting them from the elements: sun and rain.  Camuy\\'s central plaza is named the Plaza de Recreo Luis Muñoz Marín .\\n\nLocated across the central plaza in Camuy barrio-pueblo is the Parroquia San José , a Roman Catholic church. By 1807 there was a wooden church at the site and it was destroyed in a fire. Not until 1823 was a second church inaugurated. In 1841, construction of a cement church began. Completed in 1854, the church was damaged in 1928 by the San Felipe Segundo hurricane . In 1972, the church was demolished and a new one was built in 1974.  \\n\nCamuy\\'s patron saint festival, in honor of Saint Joseph, is held at the Plaza de Recreo Luis Muñoz Marín in Camuy barrio-pueblo, every May.  \\n\nHistory\nCamuy barrio-pueblo was in Spain\\'s gazetteers  until Puerto Rico was ceded by Spain in the aftermath of the Spanish\\xe2\\x80\\x93American War under the terms of the Treaty of Paris of 1898 and became an unincorporated territory of the United States . In 1899, the United States Department of War conducted a census of Puerto Rico finding that the population of Camuy barrio-pueblo was 989.  \\n \\n\nGallery\nPlaces in Camuy barrio-pueblo:\\n\nSee also\nReferences\nExternal links",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Camuy_barrio-pueblo&oldid=1192177399",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://es.wikipedia.org/wiki/Camuy_(Camuy)",
+        "https://nl.wikipedia.org/wiki/Camuy_(plaats)",
+        "https://ceb.wikipedia.org/wiki/Camuy_Barrio-Pueblo"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.484597,
+            -66.846632
+        ],
+        "title": "Camuy Barrio-pueblo",
+        "type": "Point"
+    },
+    "categories": [
+        "Festivals & Events",
+        "Religion",
+        "Culture"
+    ]
+}

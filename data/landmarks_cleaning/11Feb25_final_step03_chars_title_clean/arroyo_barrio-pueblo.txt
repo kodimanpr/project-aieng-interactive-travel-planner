@@ -1,0 +1,20 @@
+{
+    "main_content": "Contents\nArroyo barrio-pueblo\nArroyo barrio-pueblo is a barrio and the administrative center ( seat ) of Arroyo , a municipality of Puerto Rico. Its population in 2010 was 1,206.    \\n\nAs was customary in Spain, in Puerto Rico, the municipality has a barrio called pueblo which contains a central plaza, the municipal buildings (city hall), and a Catholic church. Fiestas patronales (patron saint festivals) are held in the central plaza every year.   The downtown area ( pueblo ) of Arroyo was added to the Puerto Rico Register of Historic Sites and Zones in 1997.  \\n\nThe central plaza and its church\nThe central plaza, or square, is a place for official and unofficial recreational events and a place where people can gather and socialize from dusk to dawn. The Laws of the Indies , Spanish law, which regulated life in Puerto Rico in the early 19th century, stated the plaza\\'s purpose was for \"the parties\" (celebrations, festivities) , and that the square should be proportionally large enough for the number of neighbors . These Spanish regulations also stated that the streets nearby should be comfortable portals for passersby, protecting them from the elements: sun and rain.  \\n\nLocated across the central plaza in Arroyo barrio-pueblo is the Parroquia Nuestra Señora del Carmen (Our Lady of Mount Carmel Parish). Construction of the church started in 1855 and its tower, designed by Juan Francisco Bertoli, was added in 1888. This church shares a resemblance to the parish churches in Guayama barrio-pueblo and Humacao barrio-pueblo . The church has been renovated and enlarged since its inauguration.  \\n\nHistory\nArroyo barrio-pueblo was in Spain\\'s gazetteers  until Puerto Rico was ceded by Spain in the aftermath of the Spanish-American War under the terms of the Treaty of Paris of 1898 and became an unincorporated territory of the United States . In 1899, the United States Department of War conducted a census of Puerto Rico finding that the population of Arroyo Pueblo was 2,137.  \\n \\n\nIn July 2020, Federal Emergency Management Agency appropriated funds for repairs to Arroyo\\'s plaza.  \\n\nGallery\nPlaces in Arroyo barrio-pueblo:\\n\nSee also\nReferences\nExternal links",
+    "relevant_links": [
+        "https://es.wikipedia.org/wiki/Arroyo_(Arroyo)",
+        "https://en.wikipedia.org/w/index.php?title=Arroyo_barrio-pueblo&oldid=1240125308",
+        "https://en.wikipedia.org/wiki/arroyo_barrio-pueblo"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            17.962984,
+            -66.062727
+        ],
+        "title": "Arroyo Barrio-pueblo",
+        "type": "Point"
+    },
+    "categories": [
+        "Religion",
+        "Culture"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "main_content": "Contents\nUnited States Custom House (San Juan, Puerto Rico)\nThe United States Custom House , also known as the San Juan Custom House ( Edificio de la Aduana de San Juan ), is a historic custom house located at the marina of Old San Juan in the city of San Juan, Puerto Rico .  The custom house is located at the site of the former main port of the city of San Juan, north of the former Spanish Arsenal of San Juan , and next to the Las Dársenas and Immigrants\\' Square ( Plaza del Inmigrante ) and the Jose V. Toledo Federal Building and United States Courthouse . The large two-storey custom house is considered by the NRHP to be a superb example of Spanish Colonial Revival architecture in Puerto Rico and the Caribbean. It is most notable for its size, its elaborate terracotta-ornamented central tower and its pink-colored exterior.  \\n\nHistory\nThe custom house was designed by architect and Office of the Supervising Architect of the Treasury inspector Albert B. Nichols , who also designed the custom houses of Fajardo and Ponce . It was built between 1924 and 1931 at the site of a smaller 18th-century custom house, at a critical location that used to function as the central business district of San Juan during the late 18th and early 19th centuries, and the site of the main port of Puerto Rico (today the main cruise ship port section of Old San Juan) before the construction of the new port ( Puerto Nuevo ) located along the southern edge of the Bay of San Juan .  The Colonial Revival design was chosen to preserve the Spanish Colonial character of the area, as it incorporates architectural elements of the former Spanish custom house but also many of the Renaissance and Neo-Gothic elements popular in Spanish architecture of the time.  The former Spanish custom house, which also housed a smaller warehouse and post office, was demolished at an unknown date during the first decade of the 20th century. This was done as a territory-wide project to enlarge and upgrade the governmental properties in Puerto Rico during the early 20th century. Construction was made by the Philadelphia -based Richmond and Kemp Ornamental Iron and Bronze and by the North American Wood Products Company of New York City . It was primarily used as a custom and additionally as a warehouse by the American Customs Service in Puerto Rico until the end of World War I . Additional modifications were made in 1957 and 1959 by the U.S. Army Corps of Engineers while air conditioning was installed by 1960.  The building is still owned and managed by the U.S. Customs Service.  \\n\nGallery\nSee also\nReferences\nExternal links",
+    "relevant_links": [
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://en.wikipedia.org/w/index.php?title=United_States_Custom_House_(San_Juan,_Puerto_Rico)&oldid=1243555840"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.4627285,
+            -66.1151721
+        ],
+        "title": "U.s. Custom House (san Juan, Puerto Rico)",
+        "type": "Point"
+    },
+    "categories": [
+        "Culture"
+    ]
+}

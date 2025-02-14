@@ -1,0 +1,23 @@
+{
+    "main_content": "Contents\nCaracas Beach (Vieques)\nCaracas Beach , also known as Red Beach in English , is a beach on the southern coast of Vieques in the barrio of Puerto Ferro . The beach is famous for its white sand, its clear blue waters, tidal pools and shallow cove perfect for snorkeling. It used to be considered remote but it is now easily reachable through a paved road. The beach has also been developed for visitors with picnic areas, bathrooms and a large parking area. It is located in and managed by the Vieques National Wildlife Refuge and there is also a trail that leads to a nearby hill that offers beautiful views of the beach and cove.    \\n\nReferences\n18°6\\xe2\\x80\\xb231\\xe2\\x80\\xb3N 65°24\\xe2\\x80\\xb247\\xe2\\x80\\xb3W ﻿ / ﻿ 18.10861°N 65.41306°W ﻿ / 18.10861; -65.41306 \\n\n\\n\nThis Puerto Rican location article is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Caracas_Beach_(Vieques)&oldid=1197126591",
+        "https://en.wikipedia.org/w/index.php?title=Caracas_Beach_(Vieques)&action=edit",
+        "https://en.wikipedia.org/wiki/caracas_beach_(vieques)"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.10861,
+            -65.41306
+        ],
+        "title": "Caracas Beach (vieques)",
+        "type": "Point"
+    },
+    "categories": [
+        "Soft Adventure",
+        "Wildlife",
+        "Beach",
+        "Outdoor",
+        "Family-Friendly"
+    ]
+}

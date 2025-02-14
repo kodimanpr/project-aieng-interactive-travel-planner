@@ -1,0 +1,21 @@
+{
+    "main_content": "Contents\nCanóvanas barrio-pueblo\nCanóvanas barrio-pueblo is a barrio and the administrative center ( seat ) of Canóvanas , a municipality of Puerto Rico. Its population in 2010 was 4,060.     \\n\nAs was customary in Spain, in Puerto Rico, the municipality has a barrio called pueblo which contains a central plaza, the municipal buildings (city hall), and a Catholic church. Fiestas patronales (patron saint festivals) are held in the central plaza every year.   \\n\nThe central plaza and its church\nThe central plaza, or square, is a place for official and unofficial recreational events and a place where people can gather and socialize from dusk to dawn. The Laws of the Indies , Spanish law, which regulated life in Puerto Rico in the early 19th century, stated the plaza\\'s purpose was for \"the parties\" (celebrations, festivities) , and that the square should be proportionally large enough for the number of neighbors . These Spanish regulations also stated that the streets nearby should be comfortable portals for passersby, protecting them from the elements: sun and rain.  \\n\nLocated across the central plaza in Canóvanas barrio-pueblo is the Parroquia Nuestra Señora del Pilar , a Roman Catholic church.  \\n\nSectors\nBarrios (which are, in contemporary times, roughly comparable to minor civil divisions )  in turn are further subdivided into smaller local populated place areas/units called sectores ( sectors in English). The types of sectores may vary, from normally sector to urbanización to reparto to barriada to residencial , among others.    \\n\nThe following sectors are in Canóvanas barrio-pueblo:   \\n\nApartamentos del Valle, Apartamentos Portal Campestre, Condominios Plaza del Este, Residencial Jesús T. Piñero, Sector Hipódromo el Comandante, Urbanización Ciudad Jardín, Urbanización Country View, Urbanización del Pilar, Urbanización Jardines de Canóvanas, Urbanización Las Vegas, Urbanización Quintas de Canóvanas , and Urbanización Villa Dorada .\\n\nSee also\nReferences\nExternal links",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Can\\xc3\\xb3vanas_barrio-pueblo&oldid=1192178522",
+        "https://ceb.wikipedia.org/wiki/Can%C3%B3vanas_Barrio-Pueblo",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://es.wikipedia.org/wiki/Can%C3%B3vanas_Barrio",
+        "https://nl.wikipedia.org/wiki/Can%C3%B3vanas_(plaats)"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.379243,
+            -65.90223
+        ],
+        "title": "Canóvanas Barrio-pueblo",
+        "type": "Point"
+    },
+    "categories": [
+        "Religion"
+    ]
+}

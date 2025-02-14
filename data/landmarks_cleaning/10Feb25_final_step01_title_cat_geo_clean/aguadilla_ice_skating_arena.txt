@@ -1,0 +1,22 @@
+{
+    "main_content": "Contents\nAguadilla Ice Skating Arena\nAguadilla Ice Skating Arena , A.I.S.A. , is a multi-use facility in Aguadilla, Puerto Rico . The arena was the only ice skating facility in the Caribbean region. The facility is owned and administered by the city. The Ice Skating rink has been closed since it was heavily damaged during Hurricane Maria .\\n\nBrief history\nA.I.S.A. opened its doors in 2005 as the only facility of its kind in the Caribbean. Although Puerto Rico hosts several ice skating events during the Christmas season, the AISA was the only ice skating facility open year-round.\\nThe arena was designed & fabricated by Ice Rink Supply.com , using their internationally patented technology, for the Authority of Municipal Enterprises of the city. Aguadilla City Enterprises also administers Las Cascadas Water Park & Aguadilla Bowling Alley.\\n\nFeatures\nThe AISA also hosts numerous stores and establishments:\\n\nExternal links\n\\n\nThis article about a sports venue in Puerto Rico is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Aguadilla_Ice_Skating_Arena&oldid=1190670031",
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://en.wikipedia.org/w/index.php?title=Aguadilla_Ice_Skating_Arena&action=edit"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.41833,
+            -67.15639
+        ],
+        "title": "Aguadilla Ice Skating Arena",
+        "type": "Point"
+    },
+    "categories": [
+        "Outdoor",
+        "Family-Friendly",
+        "Extreme Adventure",
+        "Culture"
+    ]
+}

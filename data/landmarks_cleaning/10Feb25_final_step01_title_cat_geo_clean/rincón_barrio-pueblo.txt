@@ -1,0 +1,22 @@
+{
+    "main_content": "Contents\nRincón barrio-pueblo\nRincón barrio-pueblo is a barrio-pueblo , the administrative center ( seat ) of Rincón , a municipality of Puerto Rico. Its population in 2010 was 933.     \\n\nAs was customary in Spain, in Puerto Rico, the municipality has a barrio called pueblo which contains a central plaza, the municipal buildings (city hall), and a Catholic church. Fiestas patronales (patron saint festivals) are held in the central plaza every year.   \\n\nThe central plaza and its church\nThe central plaza, or square, is a place for official and unofficial recreational events and a place where people can gather and socialize from dusk to dawn. The Laws of the Indies , Spanish law, which regulated life in Puerto Rico in the early 19th century, stated the plaza\\'s purpose was for \"the parties\" (celebrations, festivities) , and that the square should be proportionally large enough for the number of neighbors . These Spanish regulations also stated that the streets nearby should be comfortable portals for passersby, protecting them from the elements: sun and rain.  \\n\nLocated across the central plaza in Rincón barrio-pueblo is the Parroquia Santa Rosa de Lima , a Roman Catholic church.  \\n \\n\nHistory\nIn July 2020, Federal Emergency Management Agency appropriated funds for repairs to Rincón\\'s plaza.  \\n\nSectors\nBarrios (which are, in contemporary times, roughly comparable to minor civil divisions )  in turn are further subdivided into smaller local populated place areas/units called sectores ( sectors in English). The types of sectores may vary, from normally sector to urbanización to reparto to barriada to residencial , among others.      \\n\nThe following sectors are in Rincón barrio-pueblo:  \\n\nCalle Benjamín Gómez, \\nCalle Comercio, \\nCalle del Parque, \\nCalle Muñoz Rivera, \\nCalle Nueva, \\nCalle Progreso, \\nCalle Unión, \\nCerro Los Pobres, \\nCerro Miramar, \\nCondominio Santa Rosa Elderly, \\nResidencial Santa Rosa , and Sector Sol .\\n\nGallery\nPlaces in Rincón barrio-pueblo:\\n\nSee also\nReferences\n\\n\nThis Rincón, Puerto Rico location article is a stub . You can help Wikipedia by expanding it .",
+    "relevant_links": [
+        "https://stats.wikimedia.org/#/en.wikipedia.org",
+        "https://es.wikipedia.org/wiki/Rinc%C3%B3n_(Rinc%C3%B3n)",
+        "https://en.wikipedia.org/w/index.php?title=Rinc%C3%B3n_barrio-pueblo&action=edit",
+        "https://en.wikipedia.org/w/index.php?title=Rinc\\xc3\\xb3n_barrio-pueblo&oldid=1192949298",
+        "https://ceb.wikipedia.org/wiki/Rinc%C3%B3n_Barrio-Pueblo"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.33898,
+            -67.250771
+        ],
+        "title": "Rincón Barrio-pueblo",
+        "type": "Point"
+    },
+    "categories": [
+        "Religion",
+        "Culture"
+    ]
+}

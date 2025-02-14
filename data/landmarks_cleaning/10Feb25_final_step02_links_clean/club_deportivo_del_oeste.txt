@@ -1,0 +1,22 @@
+{
+    "main_content": "Contents\nClub Deportivo del Oeste\nClub Deportivo del Oeste is a private club in Cabo Rojo, Puerto Rico which has the largest marina and one of only two golf courses in the Porta del Sol region of Puerto Rico .\\n\nHistory\nThe Club Deportivo del Oeste was founded in 1965 by prominent professionals from Mayagüez , Cabo Rojo and other Municipalities from western Puerto Rico in Joyuda Barrio of Cabo Rojo.  \\n\nAmong its facilities are an eighteen hole golf course in approximately 120 acres (0.49 km 2 ) of land, its first hole is considered the hardest in all of Puerto Rico   The course was designed by Jack Bender in 1965.  The golf course is one of two in the Porta del Sol region the other being in Aguadilla.\\n  \\n\nIt also has a marina, four tennis courts, a club house for meetings and parties, a members only restaurant, pool, gym and a recreational park for children.\\n\nIt annually holds the \"Torneo Internacional de Aguja Azul en Línea Liviana\" or \"International Atlantic blue marlin Light Line Fishing tournament \" which is the biggest of its kind in Puerto Rico and in 2010 celebrates its twenty second edition.  Two fishing records of released fish have been established at the tournament; in 2003 a (178 blue marlins released) and in 2005 a total of 205 blue marlins released at the tournament.\\n  \\n\nThe club annually serves non for profit organizations such as the Boy Scouts , the \"Hogar para niños con Cáncer\" and \"Centro Espibi\".  The club also holds navigational courses offered by the United States Coast Guard and free golf clinics for children of low income families.  \\n\nThe \"Deportivo\" also offers scholarships for summer camps to students, it serves as a dock for the Puerto Rico Department of Natural and Environmental Resources and it allows the Navy to use its vicinity to place an antenna used to measure the tide.  Furthermore the club will serve for the installation of a Tsunami Ready alarm for Cabo Rojo.  \\n\nPresidents\nSee also\nReferences",
+    "relevant_links": [
+        "https://en.wikipedia.org/w/index.php?title=Club_Deportivo_del_Oeste&oldid=1147346233",
+        "https://en.wikipedia.org/wiki/club_deportivo_del_oeste"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.0999972,
+            -67.1889333
+        ],
+        "title": "Club Deportivo Del Oeste",
+        "type": "Point"
+    },
+    "categories": [
+        "Culture",
+        "Beach",
+        "Outdoor",
+        "Family-Friendly",
+        "Food"
+    ]
+}

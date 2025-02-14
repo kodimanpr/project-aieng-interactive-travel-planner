@@ -1,0 +1,23 @@
+{
+    "main_content": "Contents\nPiñones State Forest\nPiñones State Forest , (in Spanish : Bosque Estatal de Piñones ), and named after the Casuarina , locally called Piñones (after an invasive species of salt-tolerant tree from Australia used for lumber ), is a timberland forest near one of the longest beaches in Puerto Rico . It is located in Torrecilla Baja barrio in the municipality of Loíza . It is a tourist attraction and is managed by the Puerto Rico Department of Natural and Environmental Resources.   \\n\nGeographical location\nHome of a mangrove forest , Piñones is a natural reserve located east of Isla Verde north of Luis Muñoz Marín International Airport . It is operated by the Puerto Rico Department of Natural and Environmental Resources and located in Loiza .    \\n\nFlora and fauna\nThe extremely rare tree Schoepfia arenaria grows here at a place called Punta Maldonado. Less than 200 of these Puerto Rican endemic trees are known to exist.  \\n\nThe Piñones Trail\nThere is a boardwalk and trail used for biking and walking through parts of the forest. Several agencies carefully manage the Piñones Trail (in Spanish : Paseo Piñones ), so as to avoid disturbing sensitive ecological and archeological points, while still encouraging \"family-type\" visits. In 2001, the trail received an award from the Federal Highway Administration for excellence in non-motorized transportation.   \\n\nActivities nearby\nNear the forest is a beach called Playa Aviones and kiosks including, Kiosko El Boricua on PR-187 mentioned by the Puerto Rico Tourism Company .  \\n\nGallery\nSee also\nReferences",
+    "relevant_links": [
+        "https://es.wikipedia.org/wiki/Bosque_estatal_de_Pi%C3%B1ones",
+        "https://www.discoverpuertorico.com/profile/playa-aviones/9047",
+        "https://www.discoverpuertorico.com/profile/bosque-estatal-de-pinones/8739",
+        "https://en.wikipedia.org/w/index.php?title=Pi\\xc3\\xb1ones_State_Forest&oldid=1076609021",
+        "https://en.wikipedia.org/wiki/piñones_state_forest"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.4438346,
+            -65.9662765
+        ],
+        "title": "Piñones State Forest",
+        "type": "Point"
+    },
+    "categories": [
+        "Outdoor",
+        "Family-Friendly",
+        "Beach"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "main_content": "Contents\nCerro Maravilla\n\\n\nCerro Maravilla is Puerto Rico \\'s fourth highest peak  at 1,205 meters (3,953 ft). It is located on the northern edge Barrio Anón in Ponce ,   close to the border with the municipality Jayuya ,  and is part of the Cordillera Central (Central Mountain Range). It is known as El Cerro de los Mártires (\"Mountain of the Martyrs\") and characterized as the most infamous peak in Puerto Rico, due to the 1978 Cerro Maravilla murders which took place here.  \\n\nLocation and access\nThe peak is located at the end of the 0.5 km-long Puerto Rico Highway 577 , which is accessible via Puerto Rico Highway 143 , traveling either westbound or eastbound. PR-143 is a secondary two-way, two-lane mountainous road that is relatively well traveled. The peak\\'s coordinates are: 18°09\\xe2\\x80\\xb211\\xe2\\x80\\xb3N 66°33\\xe2\\x80\\xb215\\xe2\\x80\\xb3W ﻿ / ﻿ 18.15306°N 66.55417°W ﻿ / 18.15306; -66.55417 .\\n\nThe height of the mountain makes for some interesting sights. For example, on clear days both the northern and southern coasts of the island can be appreciated simultaneously. In the winter season, the air is crisp and the temperature at night will usually fluctuate between the 40s and 60s degrees Fahrenheit. The chirping of the familiar \" coquis \" is prominent after nightfall.\\n\nCerro Maravilla incident\nThe peak might be best known for being the place where two Puerto Rico independence activists were slain on 25 July 1978 in a police ambush (see Cerro Maravilla murders .) This controversy has since turned the mountain into a meeting point for supporters of the independence of the Puerto Rican Commonwealth to gather annually to remember the murdered activists and condemn the current colonial status.\\n\nClimate\nCerro Maravilla has a subtropical highland climate (Cfb) under the K\\xc3\\xb6ppen climate classification. The surrounding area over 1,000 meters (3,300 feet) is one of the few places in the island to have a true temperate climate. [ citation needed ] Although the temperature remains mild year round, night temperatures in winter may reach the mid 40s at times. [ citation needed ] \\n\nSee also\nReferences",
+    "relevant_links": [
+        "https://es.wikipedia.org/wiki/Cerro_Maravilla",
+        "https://en.wikipedia.org/w/index.php?title=Cerro_Maravilla&oldid=1246267475",
+        "https://en.wikipedia.org/wiki/cerro_maravilla"
+    ],
+    "geo_metadata": {
+        "coordinates": [
+            18.15306,
+            -66.55417
+        ],
+        "title": "Cerro Maravilla",
+        "type": "Point"
+    },
+    "categories": [
+        "Culture"
+    ]
+}
